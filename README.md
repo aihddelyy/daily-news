@@ -16,7 +16,7 @@
 
 - **Backend**: Node.js
 - **Search**: [Tavily API](https://tavily.com/)
-- **LLM**: [MiniMax API](https://platform.minimax.chat/) (abab6.5-chat / MiniMax-M2.5)
+- **LLM**: [MiniMax API](https://platform.minimax.chat/) (MiniMax-M2.5-highspeed)
 - **Frontend**: Vanilla HTML/CSS/JS (Glassmorphism design)
 - **CI/CD**: GitHub Actions
 

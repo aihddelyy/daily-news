@@ -21,7 +21,7 @@ async function minimax_translate(text, targetLang = '中文') {
   if (!text || text.trim() === '') return text;
 
   const requestBody = {
-    model: 'MiniMax-M2.5', // 使用最新的 MiniMax 2.5 模型
+    model: 'MiniMax-M2.5-highspeed', // 使用 MiniMax 2.5 高速版模型
     messages: [
       {
         role: 'system',

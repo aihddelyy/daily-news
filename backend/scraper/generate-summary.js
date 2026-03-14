@@ -63,7 +63,7 @@ async function generateSummary(newsData) {
   console.log('🤖 正在调用 MiniMax API 生成汇总...');
   
   const requestBody = {
-    model: 'MiniMax-M2.5',
+    model: 'MiniMax-M2.5-highspeed',
     messages: [
       {
         role: 'system',
