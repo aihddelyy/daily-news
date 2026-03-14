@@ -15,6 +15,7 @@ async function tavilySearch(query, count = 10) {
   
   return new Promise((resolve, reject) => {
     const postData = JSON.stringify({
+      api_key: apiKey,  // 修复：必须在 Body 中传递 API Key
       query,
       max_results: count,
       include_answer: true,
@@ -37,9 +38,14 @@ async function tavilySearch(query, count = 10) {
       res.on('data', (chunk) => { data += chunk; });
       res.on('end', () => {
         try {
-          resolve(JSON.parse(data));
+          const parsed = JSON.parse(data);
+          if (res.statusCode !== 200) {
+            reject(new Error(`Tavily API 报错 (${res.statusCode}): ${parsed.detail || data}`));
+            return;
+          }
+          resolve(parsed);
         } catch (e) {
-          reject(new Error('解析响应失败'));
+          reject(new Error(`解析 Tavily 响应失败: ${data}`));
         }
       });
     });
