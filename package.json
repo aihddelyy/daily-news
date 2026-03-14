@@ -1,0 +1,22 @@
+{
+  "name": "daily-news-system",
+  "version": "1.0.0",
+  "description": "智能日报系统 - 12个主题每日资讯聚合",
+  "main": "backend/scraper/generate.js",
+  "scripts": {
+    "generate": "node backend/scraper/generate.js",
+    "generate:archive": "node backend/scraper/generate.js --archive",
+    "send": "node backend/scraper/send_email.js"
+  },
+  "keywords": [
+    "daily news",
+    "news aggregator",
+    "tavily",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
