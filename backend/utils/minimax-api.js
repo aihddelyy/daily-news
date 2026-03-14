@@ -6,7 +6,7 @@ const https = require('https');
 
 const MINIMAX_API_KEY = process.env.MINIMAX_API_KEY || '';
 const MINIMAX_GROUP_ID = process.env.MINIMAX_GROUP_ID || '';
-const MINIMAX_API_URL = 'api.minimax.chat';
+const MINIMAX_API_URL = 'api.minimaxi.com';
 
 /**
  * 使用 MiniMax 翻译文本
@@ -21,7 +21,7 @@ async function minimax_translate(text, targetLang = '中文') {
   if (!text || text.trim() === '') return text;
 
   const requestBody = {
-    model: 'abab6.5-chat', // 使用 MiniMax 的高性能模型
+    model: 'MiniMax-M2.5', // 使用最新的 MiniMax 2.5 模型
     messages: [
       {
         role: 'system',

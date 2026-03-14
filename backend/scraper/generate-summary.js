@@ -6,7 +6,7 @@ const fs = require('fs').promises;
 const path = require('path');
 const https = require('https');
 
-const MINIMAX_API_URL = 'api.minimax.chat';
+const MINIMAX_API_URL = 'api.minimaxi.com';
 const MINIMAX_GROUP_ID = process.env.MINIMAX_GROUP_ID || '';
 
 /**
@@ -63,7 +63,7 @@ async function generateSummary(newsData) {
   console.log('🤖 正在调用 MiniMax API 生成汇总...');
   
   const requestBody = {
-    model: 'abab6.5-chat',
+    model: 'MiniMax-M2.5',
     messages: [
       {
         role: 'system',
