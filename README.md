@@ -1,5 +1,7 @@
 # AI Daily News (AI 行业 Daily News)
 
+> 🌐 **实时预览**: [https://aihddelyy.github.io/daily-news/](https://aihddelyy.github.io/daily-news/)
+
 🚀 一个基于 Node.js 的自动化 AI 行业及科技动态日报生成系统。利用 Tavily 搜索最新资讯，并通过 MiniMax 模型进行智能汇总与翻译。
 
 ## ✨ 功能特性
