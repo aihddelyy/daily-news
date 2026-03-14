@@ -163,7 +163,7 @@ function generateNewsContent(data) {
 }
 
 function generateHTML(data, isArchive = false) {
-  const base = isArchive ? '../' : '';
+  const base = isArchive ? '../' : './';
   const totalNews = data.categories.reduce((sum, cat) => sum + cat.items.length, 0);
   const categoryCount = data.categories.filter(cat => cat.items.length > 0).length;
 
