@@ -293,7 +293,7 @@ async function main() {
   const html = generateHTML(newsByTopic, dateStr);
   
   // 保存文件
-  const outputDir = path.join(__dirname, 'output');
+  const outputDir = path.join(__dirname, '../../docs');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }

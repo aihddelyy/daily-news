@@ -7,11 +7,13 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout code
@@ -24,21 +26,20 @@ jobs:
           cache: 'npm'
       
       - name: Install dependencies
-        run: |
-          cd daily-news-system
-          npm install
+        run: npm install
       
       - name: Generate daily news
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-        run: |
-          cd daily-news-system
-          node backend/scraper/generate.js
+        run: node backend/scraper/generate.js
+      
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./daily-news-system/output
+          publish_dir: ./docs
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
