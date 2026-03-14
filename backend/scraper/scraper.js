@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { tavilySearchBatch } = require('../utils/tavily-api');
 
 // ============================================
 // 六大分类配置（英文搜索 + 中文显示）
@@ -129,72 +130,7 @@ const SOURCES = {
   }
 };
 
-// ============================================
-// Tavily Search API
-// ============================================
-
-async function tavilySearch(query, count = 10) {
-  const apiKey = process.env.TAVILY_API_KEY;
-  if (!apiKey) {
-    throw new Error('TAVILY_API_KEY 未设置');
-  }
-  
-  return new Promise((resolve, reject) => {
-    const postData = JSON.stringify({
-      query,
-      max_results: count,
-      include_answer: true,
-      include_raw_content: false,
-      search_depth: 'basic'
-    });
-    
-    const options = {
-      hostname: 'api.tavily.com',
-      path: '/search',
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(postData)
-      }
-    };
-    
-    const req = https.request(options, (res) => {
-      let data = '';
-      res.on('data', (chunk) => { data += chunk; });
-      res.on('end', () => {
-        try {
-          resolve(JSON.parse(data));
-        } catch (e) {
-          reject(new Error('解析响应失败'));
-        }
-      });
-    });
-    req.on('error', reject);
-    req.write(postData);
-    req.end();
-  });
-}
-
-async function tavilySearchBatch(queries, countPerQuery = 3) {
-  const results = [];
-  for (const query of queries) {
-    try {
-      const result = await tavilySearch(query, countPerQuery);
-      if (result.results && result.results.length > 0) {
-        results.push(...result.results);
-      }
-    } catch (error) {
-      console.warn(`搜索失败: ${error.message}`);
-    }
-    await new Promise(resolve => setTimeout(resolve, 500));
-  }
-  const seen = new Set();
-  return results.filter(item => {
-    if (seen.has(item.url)) return false;
-    seen.add(item.url);
-    return true;
-  });
-}
+// 移除本地定义的 Tavily 搜索函数，现由 ../utils/tavily-api 模块提供
 
 function formatSearchResults(results, category) {
   const config = SOURCES[category];
