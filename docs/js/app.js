@@ -128,6 +128,12 @@ function showDailySummary() {
     document.body.style.overflow = '';
   };
 
+  content.appendChild(closeBtn);
+
+  // 滚动体部分
+  const modalBody = document.createElement('div');
+  modalBody.className = 'modal-body';
+
   const title = document.createElement('h2');
   title.className = 'modal-title';
   title.innerHTML = `✨ AI 智能汇总 (${summaryData.date})`;
@@ -148,12 +154,12 @@ function showDailySummary() {
     </div>
   `).join('');
 
-  content.appendChild(closeBtn);
-  content.appendChild(title);
-  content.appendChild(overall);
-  content.insertAdjacentHTML('beforeend', categoriesHTML);
+  modalBody.appendChild(title);
+  modalBody.appendChild(overall);
+  modalBody.insertAdjacentHTML('beforeend', categoriesHTML);
+  content.appendChild(modalBody);
 
-  // 操作区域
+  // 常驻操作区域
   const actionsDiv = document.createElement('div');
   actionsDiv.className = 'modal-actions';
 
