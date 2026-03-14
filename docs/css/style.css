@@ -6,18 +6,14 @@
   --bg-primary: #0f172a;--bg-secondary: #1e293b;--bg-card: #1e293b;--bg-card-hover: #252f47;--bg-footer: #0b1120;
   --text-primary: #f8fafc;--text-secondary: #94a3b8;--text-muted: #64748b;
   --accent-purple: #8b5cf6;--accent-blue: #3b82f6;--accent-cyan: #06b6d4;--accent-pink: #ec4899;
-  --tag-tech_frontier: #8b5cf6;
+  --tag-ai_industry: #a855f7;
   --tag-business_finance: #3b82f6;
-  --tag-international_affairs: #ef4444;
   --tag-auto_ev: #10b981;
   --tag-semiconductor: #6366f1;
   --tag-biopharma: #ec4899;
-  --tag-consumer_retail: #f59e0b;
+  --tag-smartphone: #f43f5e;
   --tag-entertainment: #84cc16;
   --tag-clean_energy: #06b6d4;
-  --tag-smartphone: #f43f5e;
-  --tag-ai_industry: #a855f7;
-  --tag-iot_smart_home: #14b8a6;
   --space-xs: 0.5rem;--space-sm: 0.75rem;--space-md: 1rem;--space-lg: 1.5rem;--space-xl: 2rem;--space-2xl: 3rem;--space-3xl: 4rem;
   --radius-sm: 8px;--radius-md: 12px;--radius-lg: 16px;--radius-xl: 24px;
   --shadow-sm: 0 2px 8px rgba(0,0,0,0.2);--shadow-md: 0 4px 16px rgba(0,0,0,0.3);--shadow-lg: 0 8px 32px rgba(0,0,0,0.4);
@@ -68,18 +64,14 @@ body{font-family:'Plus Jakarta Sans','Noto Sans SC',-apple-system,BlinkMacSystem
 .news-card:hover .news-image img{transform:scale(1.05)}
 .news-image::before{content:'';position:absolute;inset:0;background:linear-gradient(to bottom,transparent 60%,rgba(15,23,42,0.8) 100%);z-index:1;pointer-events:none}
 .news-category-tag{position:absolute;top:var(--space-md);left:var(--space-md);background:var(--accent-purple);color:#fff;padding:0.35rem 0.75rem;border-radius:100px;font-size:0.75rem;font-weight:600;text-transform:uppercase;letter-spacing:0.02em}
-.news-category-tag.tech_frontier{background:var(--tag-tech_frontier)}
+.news-category-tag.ai_industry{background:var(--tag-ai_industry)}
 .news-category-tag.business_finance{background:var(--tag-business_finance)}
-.news-category-tag.international_affairs{background:var(--tag-international_affairs)}
 .news-category-tag.auto_ev{background:var(--tag-auto_ev)}
 .news-category-tag.semiconductor{background:var(--tag-semiconductor)}
 .news-category-tag.biopharma{background:var(--tag-biopharma)}
-.news-category-tag.consumer_retail{background:var(--tag-consumer_retail)}
+.news-category-tag.smartphone{background:var(--tag-smartphone)}
 .news-category-tag.entertainment{background:var(--tag-entertainment)}
 .news-category-tag.clean_energy{background:var(--tag-clean_energy)}
-.news-category-tag.smartphone{background:var(--tag-smartphone)}
-.news-category-tag.ai_industry{background:var(--tag-ai_industry)}
-.news-category-tag.iot_smart_home{background:var(--tag-iot_smart_home)}
 .news-content{padding:var(--space-lg);flex:1;display:flex;flex-direction:column}
 .news-title{font-size:1.1rem;font-weight:700;line-height:1.4;margin-bottom:var(--space-sm);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .news-title a{color:var(--text-primary);text-decoration:none;transition:var(--transition-fast)}
