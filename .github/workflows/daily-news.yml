@@ -1,0 +1,44 @@
+name: Daily News Auto-Deploy
+
+on:
+  schedule:
+    # 每天早上 7:00 UTC (北京时间 15:00)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Generate daily news (with real data)
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        run: node backend/scraper/generate.js --real
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: master
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
