@@ -1,182 +1,309 @@
 {
-  "date": "2026年3月14日",
-  "overallSummary": "AI领域谷歌收购Wiz强化安全布局，跨境电商亚马逊推出Haul应战Temu与Shein，生物科技CRISPR实现无切割基因激活突破，新能源电动车价格战加剧。",
+  "date": "2026-03-14",
+  "overallSummary": "科技领域聚焦AI与量子计算突破，汽车电动化与自动驾驶持续推进，生物医药GLP-1减肥药市场高速增长，全球可再生能源项目加速落地。",
   "categories": [
     {
-      "name": "AI 人工智能",
-      "categorySummary": "AI应用深化，安全与治理成焦点，模型竞争持续",
+      "name": "科技前沿",
+      "categorySummary": "AI向自主智能体与专用模型演进，量子计算实现光子高维态突破",
       "keyPoints": [
-        "谷歌收购Wiz强化AI网络安全布局",
-        "联邦快递部署AI代理员工团队",
-        "ChatGPT与Claude模型竞争白热化"
+        "自主AI智能体与DSLMs成2026年核心技术方向",
+        "MIT评选15项突破性新技术聚焦AI",
+        "量子计算实现光子高维态，每光子可携带更多信息"
       ],
       "news": [
         {
-          "title": "谷歌收购AI网络安全领导者Wiz",
-          "summary": "谷歌本周宣布收购AI网络安全领导者Wiz，强化企业AI安全布局",
+          "title": "2026年值得关注的尖端技术趋势",
+          "summary": "自主AI智能体���领域特定语言模型、小语言模型、快速学习机器人、量子与光子计算",
           "keyInsights": [
-            "AI安全成为巨头战略重点"
+            "AI从通用向垂直领域专用模型演进"
           ]
         },
         {
-          "title": "联邦快递计划部署AI代理员工团队",
-          "summary": "联邦快递宣布将部署AI代理员工团队，推进运营自动化",
+          "title": "量子计算机新闻",
+          "summary": "研究人员发现塑造量子光新方法，创造了高维态",
           "keyInsights": [
-            "传统企业加速AI应用落地"
-          ]
-        },
-        {
-          "title": "印度举办AI治理全球峰会",
-          "summary": "印度在新德里举办AI治理高级别全球峰会，汇聚各国领导人及科技企业高管",
-          "keyInsights": [
-            "AI治理成全球议题"
+            "量子信息密度取得实质性突破"
           ]
         }
       ],
-      "id": "ai",
-      "icon": "🤖"
+      "id": "tech_frontier",
+      "icon": "🚀"
     },
     {
-      "name": "跨境电商",
-      "categorySummary": "价格战升温，亚马逊反击低价平台",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD v14成最先进L2级系统，美国二手电动车市场因降价和可靠性提升而增长",
       "keyPoints": [
-        "亚马逊推出Haul折扣市场对抗Temu/Shein",
-        "亚洲跨境电商领跑增长",
-        "低价电商格局重塑"
+        "特斯拉FSD v14.2.1发布，监督版为目前最先进L2系统",
+        "价格下跌使美国买家转向二手电动汽车",
+        "比亚迪将在欧洲推出高端快充新车"
       ],
       "news": [
         {
-          "title": "亚马逊推出Haul与Temu、Shein竞争",
-          "summary": "亚马逊推出新折扣市场Haul，推广低价策略正面应对Temu和Shein挑战",
+          "title": "特斯拉更新了AI自动驾驶",
+          "summary": "FSD v14.2.1版本发布，Model 3 Performance体验新功能",
           "keyInsights": [
-            "亚马逊正式进入价格战"
+            "特斯拉FSD在各类道路实现自动驾驶功能"
           ]
         },
         {
-          "title": "跨境电商蓬勃发展：亚洲引领增长",
-          "summary": "亚洲领跑跨境电商增长，美���占据最高价值市场份额",
+          "title": "价格下跌促使美国买家转向二手电动汽车",
+          "summary": "大幅贬值和可靠性提升吸引美国人购买二手电动车",
           "keyInsights": [
-            "亚洲成跨境电商核心驱动力"
+            "二手电动车性价比优势显现"
           ]
         }
       ],
-      "id": "ecommerce",
-      "icon": "🌍"
+      "id": "auto_ev",
+      "icon": "🚗"
     },
     {
-      "name": "产品创业",
-      "categorySummary": "网络安全与AI SaaS融资活跃",
+      "name": "半导体芯片",
+      "categorySummary": "英伟达Blackwell GPU周期加速至年更，中国芯片出口因AI需求激增",
       "keyPoints": [
-        "VeryAI融资1000万美元开发掌纹验证技术",
-        "Onyx Security获4000万美元融资",
-        "AI原生SaaS成2026年创业趋势"
+        "英伟达Blackwell GPU周期从两年缩短至一年",
+        "中国芯片出口因AI需求增长73%",
+        "英特尔CEO面临稳定财务新挑战"
       ],
       "news": [
         {
-          "title": "VeryAI融资1000万美元",
-          "summary": "VeryAI利用智能手机掌纹扫描技术阻止深度伪造和AI欺诈",
+          "title": "英伟达发布Blackwell继任者",
+          "summary": "GPU发布周期从每两年提前到每年，网络产品发布计划也加快",
           "keyInsights": [
-            "生物识别防欺诈成新热点"
+            "AI芯片竞争加剧，迭代速度成关键"
           ]
         },
         {
-          "title": "Onyx Security成立获4000万美元融资",
-          "summary": "Onyx Security成立并获得Conviction和Cyberstarts合计4000万美元融资",
+          "title": "中国芯片出口激增73%",
+          "summary": "AI需求推动半导体增长，中国芯片出口大幅增加",
           "keyInsights": [
-            "网络安全赛道持续受资本青睐"
+            "AI算力需求驱动全球芯片市场"
           ]
         }
       ],
-      "id": "startup",
-      "icon": "💡"
+      "id": "semiconductor",
+      "icon": "💻"
     },
     {
-      "name": "区块链 Web3",
-      "categorySummary": "加密货币蓄势突破，机构布局持续",
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场高速增长，FDA批准新药适应症",
       "keyPoints": [
-        "比特币价格蓄势突破",
-        "以太坊国库持仓超比特币",
-        "主流币种无视地缘紧张上涨"
+        "GLP-1减肥药市场2026年预计大幅增长",
+        "FDA批准Palynziq新适应症用于12岁以上苯丙酮尿症患者",
+        "默克公司因疫苗压力在北卡罗来纳州裁员"
       ],
       "news": [
         {
-          "title": "以太坊国库超过比特币",
-          "summary": "以太坊国库控制3.5%供应量，超越比特币国库的3.4%",
+          "title": "GLP-1受体激动剂减肥药物市场规模报告",
+          "summary": "2024年市场规模138.4亿美元，2030年预计达488.4亿美元",
           "keyInsights": [
-            "机构资产配置趋势变化"
+            "减肥药市场CAGR保持高速增长"
           ]
         },
         {
-          "title": "比特币突破蓄势待发",
-          "summary": "比特币价格蓄势突破关键技术水平",
+          "title": "2025年GLP-1市场趋势与全球预测",
+          "summary": "2026年预计622亿美元增至2035年1575亿美元，复合年增长率9.7%",
           "keyInsights": [
-            "技术面显示上行潜力"
+            "价格下降和老年人用药推动市场扩张"
           ]
         }
       ],
-      "id": "web3",
-      "icon": "⛓️"
-    },
-    {
-      "name": "生物科技",
-      "categorySummary": "CRISPR技术突破，癌症治疗进展",
-      "keyPoints": [
-        "CRISPR实现无切割DNA基因激活",
-        "癌细胞可\"呕吐\"蛋白质到表面",
-        "Grail CEO因临床试验挫折辞职"
-      ],
-      "news": [
-        {
-          "title": "CRISPR突破：无切割DNA即可激活基因",
-          "summary": "新CRISPR方法无需切割DNA即可控制基因，为遗传病治疗开辟更安全道路",
-          "keyInsights": [
-            "基因编辑安全性大幅提升"
-          ]
-        },
-        {
-          "title": "癌细胞\"呕吐\"蛋白质新发现",
-          "summary": "研究发现癌细胞可将蛋白质\"呕吐\"到细胞表面",
-          "keyInsights": [
-            "癌症机制研究取得新进展"
-          ]
-        }
-      ],
-      "id": "biotech",
+      "id": "biopharma",
       "icon": "🧬"
     },
     {
-      "name": "新能源",
-      "categorySummary": "电动车价格战加剧��传统车企承压",
+      "name": "消费零售",
+      "categorySummary": "AI驱动个性化服务重塑零售业，全球奢侈品市场保持韧性",
       "keyPoints": [
-        "加拿大新补贴使Model Y降至4.5万加元以下",
-        "Lucid推出平价电动车型",
-        "本田放弃未来电动车计划面临157亿美元亏损"
+        "AI驱动个性化服务和全渠道履约成2026年零售趋势",
+        "全球奢侈品收入2025年预计1.44万亿欧元",
+        "个人奢侈品销售下降2%，海湾危机致6%收入风险"
       ],
       "news": [
         {
-          "title": "加拿大新电动车补贴政策",
-          "summary": "加拿大新补贴政策使特斯拉Model Y价格降至4.5万加元以下",
+          "title": "2026年重塑消费者与零售业的趋势",
+          "summary": "AI驱动个性化服务、全渠道履约及更严格合规要求",
           "keyInsights": [
-            "政府补贴加剧价格竞争"
+            "零售业数字化转型深化"
           ]
         },
         {
-          "title": "Lucid推出平价电动汽车",
-          "summary": "Lucid Motors推出Cosmos和Earth新车型，进军平价电动汽车市场",
+          "title": "贝恩公司：全球奢侈品销售下降2%",
+          "summary": "涨价和经济不确定性致客户群萎缩",
           "keyInsights": [
-            "高端车企下沉市场"
-          ]
-        },
-        {
-          "title": "本田放弃电动车计划",
-          "summary": "本田放弃未来电动汽车计划，面临157亿美元亏损",
-          "keyInsights": [
-            "传统车企电动化转型遇阻"
+            "奢侈品行业面临需求收缩压力"
           ]
         }
       ],
-      "id": "newenergy",
-      "icon": "⚡"
+      "id": "consumer_retail",
+      "icon": "🛍️"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "独立游戏和AAA工作室格局生变，三上真司新工作室成立",
+      "keyPoints": [
+        "三上真司创立Unbound工作室打造AAA级游戏",
+        "2025年独立游戏超越3A大作，受低成本和行业整合推动",
+        "Xbox更新安全游戏承诺，强化家长控制和在线安全"
+      ],
+      "news": [
+        {
+          "title": "三上真司创立AAA工作室Unbound",
+          "summary": "完全独立公司致力于AAA级游戏和原创IP",
+          "keyInsights": [
+            "知名制作人回归独立游戏开发"
+          ]
+        },
+        {
+          "title": "Xbox更新安全游戏承诺",
+          "summary": "强化家长控制、在线安全保护、隐私保护和年龄分级系统",
+          "keyInsights": [
+            "三大游戏平台共同推进玩家安全"
+          ]
+        }
+      ],
+      "id": "entertainment",
+      "icon": "🎮"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "可再生能源卫星数据显示太阳能风能激增，德国研发新型储能与氢能技术",
+      "keyPoints": [
+        "卫星数据显示近年来太阳能和风能蓬勃发展",
+        "德国研发共聚物基太阳能电池可将能量���存数天",
+        "海上风电项目开始向新英格兰电网输电"
+      ],
+      "news": [
+        {
+          "title": "可再生能源激增：太阳能与风能重大环保成果",
+          "summary": "可再生能源影响、环保效益及环境权衡分析",
+          "keyInsights": [
+            "可再生能源发展进入新阶段"
+          ]
+        },
+        {
+          "title": "新型太阳能电池以绿色氢气形式储存能量",
+          "summary": "德国研究人员开发创新共聚物基太阳能电池",
+          "keyInsights": [
+            "解决可再生能源存储难题"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
+    },
+    {
+      "name": "AI行业动态",
+      "categorySummary": "约88%组织已使用AI，微软多元化布局减少对OpenAI依赖",
+      "keyPoints": [
+        "约88%组织至少在一个业务职能中使用AI",
+        "微软与Anthropic合作，减少对OpenAI依赖",
+        "OpenAI、谷歌、微软、Anthropic合作确保AI安全"
+      ],
+      "news": [
+        {
+          "title": "微软转向Anthropic，减少对OpenAI的依赖",
+          "summary": "微软在生成式AI领域多元化，Anthropic合作加深",
+          "keyInsights": [
+            "AI供应商多元化成趋势"
+          ]
+        },
+        {
+          "title": "人工智能如何改变商业",
+          "summary": "约88%组织至少在一个业务职能中使用AI",
+          "keyInsights": [
+            "AI已深度嵌入企业运营"
+          ]
+        }
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro设计泄露，或沿用iPhone 17 Pro打孔摄像头设计",
+      "keyPoints": [
+        "iPhone 18 Pro或沿用iPhone 17 Pro设计",
+        "iPhone 18 Pro非官方渲染图显示打孔摄像头",
+        "iPhone 17 Pro带来设计革新和摄像头升级"
+      ],
+      "news": [
+        {
+          "title": "苹果可能将iPhone 17 Pro的设计沿用至iPhone 18 Pro",
+          "summary": "iPhone 18 Pro非官方渲染图显示打孔摄像头设计",
+          "keyInsights": [
+            "苹果设计语言趋于稳定"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "物联网智能硬件",
+      "categorySummary": "Kwikset发布新Z-Wave智能锁，Matter标准推动智能家居统一",
+      "keyPoints": [
+        "Kwikset推出HomeConnect 918等两款新Z-Wave锁具",
+        "Matter标准基于IP统一智能家居设备",
+        "IKEA推出运动控制智能灯"
+      ],
+      "news": [
+        {
+          "title": "智能家居新闻",
+          "summary": "Kwikset宣布推出两款新Z-Wave锁具HomeConnect 918",
+          "keyInsights": [
+            "智能门锁市场持续创新"
+          ]
+        },
+        {
+          "title": "什么是Matter智能家居标准",
+          "summary": "Matter是开放基于IP标准，跨平台统一智能家居设备",
+          "keyInsights": [
+            "Matter标准解决互联互通问题"
+          ]
+        }
+      ],
+      "id": "iot_smart_home",
+      "icon": "🏠"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "全球金融市场资讯持续更新，关注股票市场动态",
+      "keyPoints": [
+        "Reuters提供全球股票市场突发新闻",
+        "CNBC覆盖美国市场及能源市场动态",
+        "华尔街日报提供科技媒体财报分析"
+      ],
+      "news": [
+        {
+          "title": "全球市场要闻",
+          "summary": "Reuters提供全球每个角落的最新股票市场新闻",
+          "keyInsights": [
+            "全球市场资讯获取渠道多元"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "国际局势",
+      "categorySummary": "联合国面临80年历史上最动荡时刻，世界领导人齐聚峰会",
+      "keyPoints": [
+        "联合国80年历史上最动荡时刻之一",
+        "卡内基国际和平基金会分析地缘政治",
+        "联合国经社理事会提供多专题简报"
+      ],
+      "news": [
+        {
+          "title": "世界领导人面临联合国峰会���峻挑战",
+          "summary": "周一齐聚，面临历史上最严峻挑战之一",
+          "keyInsights": [
+            "全球治理面临重大考验"
+          ]
+        }
+      ],
+      "id": "international_affairs",
+      "icon": "🌐"
     }
   ]
 }
