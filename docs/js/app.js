@@ -11,27 +11,30 @@ function initApp() {
 }
 
 function initCategoryFilter() {
-  const filterBtns = document.querySelectorAll('.filter-btn');
+  const navLinks = document.querySelectorAll('.nav-link[data-category]');
   const categorySections = document.querySelectorAll('.category-section');
 
-  filterBtns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      const category = btn.dataset.category;
-      filterBtns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+  navLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      const category = link.dataset.category;
+      if (!category) return; // 存档链接等没有 data-category
+
+      e.preventDefault();
+      
+      // 更新导航状态
+      navLinks.forEach(l => l.classList.remove('active'));
+      link.classList.add('active');
+
+      // 执行过滤
       categorySections.forEach(section => {
         section.style.display = (category === 'all' || section.dataset.category === category) ? 'block' : 'none';
       });
-      updateNavActiveState(category);
-    });
-  });
-}
 
-function updateNavActiveState(category) {
-  document.querySelectorAll('.nav-link').forEach(link => {
-    link.classList.remove('active');
-    if (category === 'all' && link.getAttribute('href') === '#') link.classList.add('active');
-    else if (link.getAttribute('href') === '#' + category) link.classList.add('active');
+      // 如果是特定分类，滚动到顶部
+      if (category !== 'all') {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    });
   });
 }
 

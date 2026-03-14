@@ -31,8 +31,9 @@ const TEMPLATE = `<!DOCTYPE html>
         <span class="logo-text">AI 日报</span>
       </a>
       <nav class="nav-links">
-        <a href="#" class="nav-link active">今日日报</a>
-        <a href="archive/" class="nav-link">历史存档</a>
+        <a href="#" class="nav-link active" data-category="all">首页</a>
+        {{navCategories}}
+        <a href="archive/" class="nav-link">存档</a>
       </nav>
       <div class="nav-actions">
         <div class="search-box">
@@ -66,43 +67,31 @@ const TEMPLATE = `<!DOCTYPE html>
     </div>
   </section>
 
-  <div class="main">
-    <div class="stats-bar">
-      <div class="stat-item">
-        <div class="stat-value">{{totalNews}}</div>
-        <div class="stat-label">今日资讯</div>
+    <div class="main">
+      <div class="stats-bar">
+        <div class="stat-item">
+          <div class="stat-value">{{totalNews}}</div>
+          <div class="stat-label">今日资讯</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">{{categoryCount}}</div>
+          <div class="stat-label">分类板块</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">24h</div>
+          <div class="stat-label">实时更新</div>
+        </div>
       </div>
-      <div class="stat-item">
-        <div class="stat-value">{{categoryCount}}</div>
-        <div class="stat-label">分类板块</div>
+  
+      <!-- AI 汇总按钮 -->
+      <div style="display: flex; justify-content: center; margin-bottom: 2.5rem;">
+        <button class="summary-btn" onclick="window.AIDailyNews.showDailySummary()">
+          <span>✨</span> AI 智能汇总
+        </button>
       </div>
-      <div class="stat-item">
-        <div class="stat-value">24h</div>
-        <div class="stat-label">实时更新</div>
-      </div>
+  
+      {{content}}
     </div>
-
-    <!-- AI 汇总按钮 -->
-    <div style="display: flex; justify-content: center; margin-bottom: 2rem;">
-      <button class="summary-btn" onclick="window.AIDailyNews.showDailySummary()">
-        <span>✨</span> AI 智能汇总
-      </button>
-    </div>
-
-    <div class="category-filter">
-      <button class="filter-btn active" data-category="all">
-        <span>📰</span> 全部
-      </button>
-      <button class="filter-btn" data-category="ai"><span>🤖</span> AI前沿</button>
-      <button class="filter-btn" data-category="ecommerce"><span>🌍</span> 跨境电商</button>
-      <button class="filter-btn" data-category="startup"><span>💡</span> 产品创业</button>
-      <button class="filter-btn" data-category="web3"><span>⛓️</span> Web3</button>
-      <button class="filter-btn" data-category="biotech"><span>🧬</span> 生物科技</button>
-      <button class="filter-btn" data-category="newenergy"><span>⚡</span> 新能源</button>
-    </div>
-
-    {{content}}
-  </div>
 
   <footer class="footer">
     <div class="footer-container">
@@ -171,11 +160,16 @@ function generateHTML(data) {
   const totalNews = data.categories.reduce((sum, cat) => sum + cat.items.length, 0);
   const categoryCount = data.categories.filter(cat => cat.items.length > 0).length;
 
+  const navCategories = data.categories.map(cat => 
+    `<a href="#${cat.id}" class="nav-link" data-category="${cat.id}">${cat.name}</a>`
+  ).join('');
+
   return TEMPLATE
     .replace('{{title}}', `AI 日报 - ${data.date.date}`)
     .replace('{{dateDisplay}}', data.date.display)
     .replace(/{{totalNews}}/g, totalNews)
     .replace(/{{categoryCount}}/g, categoryCount)
+    .replace('{{navCategories}}', navCategories)
     .replace('{{content}}', generateNewsContent(data))
     .replace('{{updateTime}}', new Date(data.generatedAt).toLocaleString('zh-CN'));
 }

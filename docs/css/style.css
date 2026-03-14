@@ -20,11 +20,12 @@ body{font-family:'Plus Jakarta Sans','Noto Sans SC',-apple-system,BlinkMacSystem
 .logo{display:flex;align-items:center;gap:0.75rem;text-decoration:none;color:var(--text-primary)}
 .logo-icon{width:40px;height:40px;background:linear-gradient(135deg,var(--accent-purple),var(--accent-blue));border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;font-size:1.25rem}
 .logo-text{font-size:1.5rem;font-weight:800;letter-spacing:-0.02em}
-.nav-links{display:flex;align-items:center;gap:2rem}
-.nav-link{color:var(--text-secondary);text-decoration:none;font-weight:500;font-size:0.95rem;transition:var(--transition-fast);position:relative}
+.nav-links{display:flex;align-items:center;gap:1.25rem;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;padding:0.25rem 0}
+.nav-links::-webkit-scrollbar{display:none}
+.nav-link{color:var(--text-secondary);text-decoration:none;font-weight:500;font-size:0.9rem;transition:var(--transition-fast);position:relative;white-space:nowrap;padding:0.25rem 0}
 .nav-link:hover{color:var(--text-primary)}
 .nav-link.active{color:var(--accent-purple)}
-.nav-link.active::after{content:'';position:absolute;bottom:-4px;left:0;right:0;height:2px;background:var(--accent-purple);border-radius:2px}
+.nav-link.active::after{content:'';position:absolute;bottom:0;left:0;right:0;height:2px;background:var(--accent-purple);border-radius:2px}
 .nav-actions{display:flex;align-items:center;gap:1rem}
 .search-box{position:relative}
 .search-input{background:var(--bg-secondary);border:1px solid rgba(255,255,255,0.1);border-radius:100px;padding:0.6rem 1rem 0.6rem 2.5rem;color:var(--text-primary);font-size:0.9rem;width:200px;transition:var(--transition-fast)}
@@ -46,10 +47,7 @@ body{font-family:'Plus Jakarta Sans','Noto Sans SC',-apple-system,BlinkMacSystem
 .stat-item{text-align:center}
 .stat-value{font-size:2.5rem;font-weight:800;background:linear-gradient(135deg,var(--accent-purple),var(--accent-blue));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;line-height:1}
 .stat-label{color:var(--text-secondary);font-size:0.9rem;margin-top:0.5rem}
-.category-filter{display:flex;gap:var(--space-sm);margin-bottom:var(--space-xl);flex-wrap:wrap;justify-content:center;width:1088px}
-.filter-btn{background:var(--bg-secondary);border:1px solid rgba(255,255,255,0.1);color:var(--text-secondary);padding:0.6rem 1.25rem;border-radius:100px;font-size:0.9rem;font-weight:500;cursor:pointer;transition:var(--transition-fast);display:flex;align-items:center;gap:0.5rem}
-.filter-btn:hover{background:var(--bg-card-hover);color:var(--text-primary)}
-.filter-btn.active{background:var(--accent-purple);border-color:var(--accent-purple);color:#fff}
+/* Category Filter Removed - Moved to Header */
 .news-grid{display:flex;flex-wrap:wrap;justify-content:flex-start;gap:var(--space-xl);max-width:1088px;width:100%;margin:0 auto}
 .news-card-link{display:block;text-decoration:none;color:inherit;width:340px;flex-shrink:0}
 .news-card{background:var(--bg-card);border-radius:var(--radius-lg);overflow:hidden;transition:var(--transition-normal);border:1px solid rgba(255,255,255,0.05);height:100%;display:flex;flex-direction:column}
@@ -102,6 +100,6 @@ body{font-family:'Plus Jakarta Sans','Noto Sans SC',-apple-system,BlinkMacSystem
 ::selection{background:var(--accent-purple);color:#fff}
 .summary-btn{display:flex;align-items:center;gap:var(--space-xs);background:linear-gradient(135deg,var(--accent-purple),var(--accent-blue));color:#fff;border:none;border-radius:var(--radius-md);padding:12px 20px;font-size:0.9rem;font-weight:600;cursor:pointer;box-shadow:0 4px 15px rgba(139,92,246,0.3);transition:all 0.3s ease;white-space:nowrap;text-decoration:none}
 .summary-btn:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(139,92,246,0.4)}
-@media(max-width:1024px){.news-grid{max-width:720px;gap:var(--space-lg)}.news-card-link{width:340px}.category-section,.category-filter,.main{max-width:720px;width:100%}.hero-title{font-size:2rem}}
-@media(max-width:768px){.news-grid{width:100%;justify-content:center;gap:var(--space-md)}.news-card-link{width:100%;max-width:380px}.category-section,.category-filter{width:100%;max-width:100%;padding:0 1rem;box-sizing:border-box;margin:0 auto var(--space-2xl) auto}.main{padding:0 1rem var(--space-xl)}.hero{padding:var(--space-xl) 1rem}.hero-card{min-height:300px}.hero-content{padding:var(--space-lg)}.hero-title{font-size:1.5rem}.hero-meta{flex-wrap:wrap;gap:var(--space-sm)}.nav-container{padding:0.75rem 1rem;flex-wrap:wrap;gap:var(--space-sm)}.nav-links{order:3;width:100%;justify-content:center;gap:0.5rem;padding-top:0.5rem;border-top:1px solid rgba(255,255,255,0.05)}.nav-link{font-size:0.8rem;padding:0.35rem 0.6rem}.search-box{display:none}.category-filter{gap:var(--space-xs)}.filter-btn{padding:0.5rem 0.875rem;font-size:0.8rem}.category-title{font-size:1.25rem}.stats-bar{gap:var(--space-xl)}.stat-value{font-size:1.75rem}.footer-grid{grid-template-columns:1fr;gap:var(--space-xl)}.footer-bottom{flex-direction:column;gap:var(--space-md);text-align:center}}
+@media(max-width:1024px){.news-grid{max-width:720px;gap:var(--space-lg)}.news-card-link{width:340px}.category-section,.main{max-width:720px;width:100%}.hero-title{font-size:2rem}}
+@media(max-width:768px){.news-grid{width:100%;justify-content:center;gap:var(--space-md)}.news-card-link{width:100%;max-width:380px}.category-section{width:100%;max-width:100%;padding:0 1rem;box-sizing:border-box;margin:0 auto var(--space-2xl) auto}.main{padding:0 1rem var(--space-xl)}.hero{padding:var(--space-xl) 1rem}.hero-card{min-height:300px}.hero-content{padding:var(--space-lg)}.hero-title{font-size:1.5rem}.hero-meta{flex-wrap:wrap;gap:var(--space-sm)}.nav-container{padding:0.75rem 1rem;flex-direction:column;align-items:stretch;gap:var(--space-md)}.nav-links{width:100%;justify-content:flex-start;order:2;padding-bottom:0.5rem}.search-box{display:none}.category-title{font-size:1.25rem}.stats-bar{gap:var(--space-xl)}.stat-value{font-size:1.75rem}.footer-grid{grid-template-columns:1fr;gap:var(--space-xl)}.footer-bottom{flex-direction:column;gap:var(--space-md);text-align:center}}
 @media(max-width:480px){.hero-title{font-size:1.25rem}.category-header{flex-wrap:wrap;gap:var(--space-sm)}.category-count{margin-left:0}.news-content{padding:var(--space-md)}.news-title{font-size:1rem}}
