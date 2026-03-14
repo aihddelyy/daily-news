@@ -88,7 +88,7 @@ async function initSummaryModal() {
 
 function showDailySummary() {
   if (!summaryData) {
-    alert('暂无 AI 汇总数据。请确保配置了 KIMI_API_KEY 并使用 --real 参数运行生成器。');
+    alert('暂无 AI 汇总数据。请确保配置了 MINIMAX_API_KEY 且生成任务成功运行（且使用了 --real 参数）。');
     return;
   }
 
