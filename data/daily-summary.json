@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-14",
-  "overallSummary": "科技领域聚焦AI与量子计算突破，汽车电动化与自动驾驶持续推进，生物医药GLP-1减肥药市场高速增长，全球可再生能源项目加速落地。",
+  "date": "2026年3月14日",
+  "overallSummary": "科技领域全面爆发：AI与量子计算加速融合，半导体巨头英伟达发布新一代Blackwell Ultra芯片；联合国召开第79届大会聚焦全球危机；可再生能源首次成为全球最大电力来源。",
   "categories": [
     {
       "name": "科技前沿",
-      "categorySummary": "AI向自主智能体与专用模型演进，量子计算实现光子高维态突破",
+      "categorySummary": "AI与量子计算成为核心技术驱动力，前沿技术向实用化演进",
       "keyPoints": [
-        "自主AI智能体与DSLMs成2026年核心技术方向",
-        "MIT评选15项突破性新技术聚焦AI",
-        "量子计算实现光子高维态，每光子可携带更多信息"
+        "自主AI智能体与领域专用语言模型成2026年焦点",
+        "量子计算突破：高维量子态实现光子多信息携带",
+        "5G网络与区块链深化应用落地"
       ],
       "news": [
         {
-          "title": "2026年值得关注的尖端技术趋势",
-          "summary": "自主AI智能体���领域特定语言模型、小语言模型、快速学习机器人、量子与光子计算",
+          "title": "2026年值得关注的尖端技术趋���",
+          "summary": "自主AI智能体、领域专用语言模型、小语言模型、快速学习机器人、量子与光子计算成重点",
           "keyInsights": [
-            "AI从通用向垂直领域专用模型演进"
+            "技术趋势正从通用向垂直领域深化"
           ]
         },
         {
-          "title": "量子计算机新闻",
-          "summary": "研究人员发现塑造量子光新方法，创造了高维态",
+          "title": "量子计算机研究新突破",
+          "summary": "研究人员创造高维量子态，每个光子可携带更多信息",
           "keyInsights": [
-            "量子信息密度取得实质性突破"
+            "量子信息处理能力显著提升"
           ]
         }
       ],
@@ -30,53 +30,26 @@
       "icon": "🚀"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD v14成最先进L2级系统，美国二手电动车市场因降价和可靠性提升而增长",
-      "keyPoints": [
-        "特斯拉FSD v14.2.1发布，监督版为目前最先进L2系统",
-        "价格下跌使美国买家转向二手电动汽车",
-        "比亚迪将在欧洲推出高端快充新车"
-      ],
-      "news": [
-        {
-          "title": "特斯拉更新了AI自动驾驶",
-          "summary": "FSD v14.2.1版本发布，Model 3 Performance体验新功能",
-          "keyInsights": [
-            "特斯拉FSD在各类道路实现自动驾驶功能"
-          ]
-        },
-        {
-          "title": "价格下跌促使美国买家转向二手电动汽车",
-          "summary": "大幅贬值和可靠性提升吸引美国人购买二手电动车",
-          "keyInsights": [
-            "二手电动车性价比优势显现"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "英伟达Blackwell GPU周期加速至年更，中国芯片出口因AI需求激增",
+      "categorySummary": "英伟达加速GPU迭代周期，AI芯片市场竞争白热化",
       "keyPoints": [
-        "英伟达Blackwell GPU周期从两年缩短至一年",
-        "中国芯片出口因AI需求增长73%",
-        "英特尔CEO面临稳定财务新挑战"
+        "英伟达发布Blackwell Ultra和Vera Rubin芯片",
+        "GPU发布周期从两年缩短至一年",
+        "数据中心AI芯片将贡献2026年约50%行业收入"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell继任者",
-          "summary": "GPU发布周期从每两年提前到每年，网络产品发布计划也加快",
+          "title": "英伟达发布Blackwell Ultra和Rubin AI芯片",
+          "summary": "Blackwell Ultra将于下半年发货，Vera Rubin接棒发布",
           "keyInsights": [
-            "AI芯片竞争加剧，迭代速度成关键"
+            "芯片巨头加速产品迭代频率"
           ]
         },
         {
-          "title": "中国芯片出口激增73%",
-          "summary": "AI需求推动半导体增长，中国芯片出口大幅增加",
+          "title": "2026年全球半导体行业展望",
+          "summary": "AI数据中心芯片预计贡献约半数行业收入",
           "keyInsights": [
-            "AI算力需求驱动全球芯片市场"
+            "AI芯片成半导体行业核心驱动���"
           ]
         }
       ],
@@ -84,26 +57,120 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，FDA批准新药适应症",
+      "name": "AI行业动态",
+      "categorySummary": "AI应用深度渗透商业，巨头结盟推动行业标准化",
       "keyPoints": [
-        "GLP-1减肥药市场2026年预计大幅增长",
-        "FDA批准Palynziq新适应症用于12岁以上苯丙酮尿症患者",
-        "默克公司因疫苗压力在北卡罗来纳州裁员"
+        "微软、谷歌、OpenAI、Anthropic联手成立AI联盟",
+        "约88%组织在至少一业务职能中使用AI",
+        "微软Azure OpenAI与Epic EHR平台整合"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药物市场规模报告",
-          "summary": "2024年市场规模138.4亿美元，2030年预计达488.4亿美元",
+          "title": "巨头联手成立Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI和Anthropic组建AI联盟",
           "keyInsights": [
-            "减肥药市场CAGR保持高速增长"
+            "行业头部企业推动标准化合作"
           ]
         },
         {
-          "title": "2025年GLP-1市场趋势与全球预测",
-          "summary": "2026年预计622亿美元增至2035年1575亿美元，复合年增长率9.7%",
+          "title": "AI如何改变商业",
+          "summary": "麦肯锡：约88%组织已在业务中使用AI",
           "keyInsights": [
-            "价格下降和老年人用药推动市场扩张"
+            "AI商业化应用已相当普及"
+          ]
+        }
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
+    },
+    {
+      "name": "国际局势",
+      "categorySummary": "联合国召开第79届大会，地缘政治紧张与多边合作挑战并存",
+      "keyPoints": [
+        "联合国警告世界处于危险十字路口",
+        "美中俄在多边主义问题上分歧明显",
+        "发展中国家呼吁发达国家增加支持"
+      ],
+      "news": [
+        {
+          "title": "世界领导人在联合国峰会面临严峻挑战",
+          "summary": "联合国成立80周年前夕，领导人聚焦乌克兰战争、加沙冲突、气候危机等全球议题",
+          "keyInsights": [
+            "多边主义面临重大考验"
+          ]
+        }
+      ],
+      "id": "international_affairs",
+      "icon": "🌐"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "可再生能源历史性突破，首次成为全球最大电力来源",
+      "keyPoints": [
+        "太阳能与风力发电首次超越电力需求增长",
+        "绿氢成为长期储能关键解决方案",
+        "全球清洁能源格局正在重塑"
+      ],
+      "news": [
+        {
+          "title": "可再生能源首次成为全球最大电力来源",
+          "summary": "全球太阳能和风力发电蓬勃发展，首次超过电力需求增长",
+          "keyInsights": [
+            "能源转型里程碑时刻"
+          ]
+        },
+        {
+          "title": "Green hydrogen是长期能源储存的关键",
+          "summary": "电池主导短期储能，绿氢成为长期储能前景方案",
+          "keyInsights": [
+            "氢能技术互补电池储能短板"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "电动汽车技术升级，特斯拉FSD v14实现L2级自动驾驶新突破",
+      "keyPoints": [
+        "比亚迪将在欧洲推出高端快充电动汽车",
+        "特斯拉FSD v14为目前最先进L2级系统",
+        "充电技术持续突破"
+      ],
+      "news": [
+        {
+          "title": "特斯拉FSD v14测试体验",
+          "summary": "FSD v14是特斯拉高级驾驶辅助系统的渐进式改进，目前仅美加可用",
+          "keyInsights": [
+            "L2级自动驾驶持续精进"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场高速增长，AI加速药物研发",
+      "keyPoints": [
+        "GLP-1市场2035年预计达1575亿美元",
+        "诺和诺德和礼来将推出新注射剂和口服制剂",
+        "AI辅助抗体设计获2900万美元B轮融资"
+      ],
+      "news": [
+        {
+          "title": "GLP-1受体激动剂与肥胖市场",
+          "summary": "诺和诺德和礼来即将推出新注射剂和口服制剂，市场显著增长",
+          "keyInsights": [
+            "减肥药市场进入高速扩张期"
+          ]
+        },
+        {
+          "title": "AI与抗体设计相遇",
+          "summary": "Galux获2900万美元B轮融资用于AI药物研发",
+          "keyInsights": [
+            "AI制药获资本持续看好"
           ]
         }
       ],
@@ -112,25 +179,18 @@
     },
     {
       "name": "消费零售",
-      "categorySummary": "AI驱动个性化服务重塑零售业，全球奢侈品市场保持韧性",
+      "categorySummary": "奢侈品市场承压，高端消费出现��滑趋势",
       "keyPoints": [
-        "AI驱动个性化服务和全渠道履约成2026年零售趋势",
-        "全球奢侈品收入2025年预计1.44万亿欧元",
-        "个人奢侈品销售下降2%，海湾危机致6%收入风险"
+        "全球奢侈品市场收入下降2%至3580亿欧元",
+        "定价策略导致7000万消费者流失",
+        "情感营销成为零售核心策略"
       ],
       "news": [
         {
-          "title": "2026年重塑消费者与零售业的趋势",
-          "summary": "AI驱动个性化服务、全渠道履约及更严格合规要求",
+          "title": "全球奢侈品市场销售额下降",
+          "summary": "高端服装、鞋类和手提包销售额从3640亿欧元下降至3580亿欧元",
           "keyInsights": [
-            "零售业数字化转型深化"
-          ]
-        },
-        {
-          "title": "贝恩公司：全球奢侈品销售下降2%",
-          "summary": "涨价和经济不确定性致客户群萎缩",
-          "keyInsights": [
-            "奢侈品行业面临需求收缩压力"
+            "奢侈品行业面临消费信心挑战"
           ]
         }
       ],
@@ -139,25 +199,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "独立游戏和AAA工作室格局生变，三上真司新工作室成立",
+      "categorySummary": "AAA大作缩减，独立游戏与小型工作室崛起",
       "keyPoints": [
-        "三上真司创立Unbound工作室打造AAA级游戏",
-        "2025年独立游戏超越3A大作，受低成本和行业整合推动",
-        "Xbox更新安全游戏承诺，强化家长控制和在线安全"
+        "2025年独立游戏表现优于AAA工作室",
+        "大型发行商面临裁员与项目缩减",
+        "游戏行业转向创作空间更大的发展模式"
       ],
       "news": [
         {
-          "title": "三上真司创立AAA工作室Unbound",
-          "summary": "完全独立公司致力于AAA级游戏和原创IP",
+          "title": "为什么独立游戏在2025年超越AAA级游戏",
+          "summary": "独立游戏凭借更低成本和社交趋势表现优于AAA工作室",
           "keyInsights": [
-            "知名制作人回归独立游戏开发"
-          ]
-        },
-        {
-          "title": "Xbox更新安全游戏承诺",
-          "summary": "强化家长控制、在线安全保护、隐私保护和年龄分级系统",
-          "keyInsights": [
-            "三大游戏平台共同推进玩家安全"
+            "游戏行业进入多元化发展新阶段"
           ]
         }
       ],
@@ -165,73 +218,19 @@
       "icon": "🎮"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "可再生能源卫星数据显示太阳能风能激增，德国研发新型储能与氢能技术",
-      "keyPoints": [
-        "卫星数据显示近年来太阳能和风能蓬勃发展",
-        "德国研发共聚物基太阳能电池可将能量���存数天",
-        "海上风电项目开始向新英格兰电网输电"
-      ],
-      "news": [
-        {
-          "title": "可再生能源激增：太阳能与风能重大环保成果",
-          "summary": "可再生能源影响、环保效益及环境权衡分析",
-          "keyInsights": [
-            "可再生能源发展进入新阶段"
-          ]
-        },
-        {
-          "title": "新型太阳能电池以绿色氢气形式储存能量",
-          "summary": "德国研究人员开发创新共聚物基太阳能电池",
-          "keyInsights": [
-            "解决可再生能源存储难题"
-          ]
-        }
-      ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
-      "name": "AI行业动态",
-      "categorySummary": "约88%组织已使用AI，微软多元化布局减少对OpenAI依赖",
-      "keyPoints": [
-        "约88%组织至少在一个业务职能中使用AI",
-        "微软与Anthropic合作，减少对OpenAI依赖",
-        "OpenAI、谷歌、微软、Anthropic合作确保AI安全"
-      ],
-      "news": [
-        {
-          "title": "微软转向Anthropic，减少对OpenAI的依赖",
-          "summary": "微软在生成式AI领域多元化，Anthropic合作加深",
-          "keyInsights": [
-            "AI供应商多元化成趋势"
-          ]
-        },
-        {
-          "title": "人工智能如何改变商业",
-          "summary": "约88%组织至少在一个业务职能中使用AI",
-          "keyInsights": [
-            "AI已深度嵌入企业运营"
-          ]
-        }
-      ],
-      "id": "ai_industry",
-      "icon": "🧠"
-    },
-    {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro设计泄露，或沿用iPhone 17 Pro打孔摄像头设计",
+      "categorySummary": "iPhone 18系列传言涌现，折叠屏手机价格接近两倍",
       "keyPoints": [
         "iPhone 18 Pro或沿用iPhone 17 Pro设计",
-        "iPhone 18 Pro非官方渲染图显示打孔摄像头",
-        "iPhone 17 Pro带来设计革新和摄像头升级"
+        "折叠版iPhone价格预计接近Pro Max两倍",
+        "打孔相机设计成主流趋势"
       ],
       "news": [
         {
-          "title": "苹果可能将iPhone 17 Pro的设计沿用至iPhone 18 Pro",
-          "summary": "iPhone 18 Pro非官方渲染图显示打孔摄像头设计",
+          "title": "iPhone 18 Pro渲染图曝光",
+          "summary": "iPhone 18 Pro非官方渲染图显示打孔相机设计",
           "keyInsights": [
-            "苹果设计语言趋于稳定"
+            "苹果延续性设计策略"
           ]
         }
       ],
@@ -240,70 +239,23 @@
     },
     {
       "name": "物联网智能硬件",
-      "categorySummary": "Kwikset发布新Z-Wave智能锁，Matter标准推动智能家居统一",
+      "categorySummary": "Matter标准推进智能家居统一，IKEA发布创新产品",
       "keyPoints": [
-        "Kwikset推出HomeConnect 918等两款新Z-Wave锁具",
-        "Matter标准基于IP统一智能家居设备",
-        "IKEA推出运动控制智能灯"
+        "Matter标准促进跨平台设备兼容性",
+        "IKEA发布可安装任何地方的运动感应智能灯",
+        "Z-Wave智能门锁新品推出"
       ],
       "news": [
         {
-          "title": "智能家居新闻",
-          "summary": "Kwikset宣布推出两款新Z-Wave锁具HomeConnect 918",
+          "title": "Matter智能家居标准普及",
+          "summary": "Matter作为开放IP标准，统一智能家居设备跨平台兼容",
           "keyInsights": [
-            "智能门锁市场持续创新"
-          ]
-        },
-        {
-          "title": "什么是Matter智能家居标准",
-          "summary": "Matter是开放基于IP标准，跨平台统一智能家居设备",
-          "keyInsights": [
-            "Matter标准解决互联互通问题"
+            "智能家居标准碎片化问题有望解决"
           ]
         }
       ],
       "id": "iot_smart_home",
       "icon": "🏠"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "全球金融市场资讯持续更新，关注股票市场动态",
-      "keyPoints": [
-        "Reuters提供全球股票市场突发新闻",
-        "CNBC覆盖美国市场及能源市场动态",
-        "华尔街日报提供科技媒体财报分析"
-      ],
-      "news": [
-        {
-          "title": "全球市场要闻",
-          "summary": "Reuters提供全球每个角落的最新股票市场新闻",
-          "keyInsights": [
-            "全球市场资讯获取渠道多元"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "国际局势",
-      "categorySummary": "联合国面临80年历史上最动荡时刻，世界领导人齐聚峰会",
-      "keyPoints": [
-        "联合国80年历史上最动荡时刻之一",
-        "卡内基国际和平基金会分析地缘政治",
-        "联合国经社理事会提供多专题简报"
-      ],
-      "news": [
-        {
-          "title": "世界领导人面临联合国峰会���峻挑战",
-          "summary": "周一齐聚，面临历史上最严峻挑战之一",
-          "keyInsights": [
-            "全球治理面临重大考验"
-          ]
-        }
-      ],
-      "id": "international_affairs",
-      "icon": "🌐"
     }
   ]
 }
