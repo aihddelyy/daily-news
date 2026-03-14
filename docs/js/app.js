@@ -143,6 +143,51 @@ function showDailySummary() {
   content.appendChild(title);
   content.appendChild(overall);
   content.innerHTML += categoriesHTML;
+
+  // Actions Area (NEW)
+  const actionsDiv = document.createElement('div');
+  actionsDiv.style.cssText = `
+    margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.05);
+    display: flex; gap: 1rem; justify-content: center;
+  `;
+
+  const copyBtn = document.createElement('button');
+  copyBtn.innerHTML = '📋 复制全文';
+  copyBtn.style.cssText = `
+    background: linear-gradient(135deg, #8b5cf6, #7c3aed); color: white; border: none;
+    padding: 0.75rem 1.5rem; border-radius: 12px; font-weight: 600; cursor: pointer;
+    transition: all 0.2s; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
+  `;
+  copyBtn.onclick = () => {
+    let text = `✨ ${summaryData.date} AI 日报智能汇总\n\n`;
+    text += `【今日摘要】\n${summaryData.overallSummary}\n\n`;
+    summaryData.categories.forEach(cat => {
+      text += `--- ${cat.icon} ${cat.name} ---\n`;
+      text += `摘要：${cat.categorySummary}\n`;
+      text += `关键点：${cat.keyPoints.join('、')}\n\n`;
+    });
+    navigator.clipboard.writeText(text).then(() => {
+      copyBtn.innerHTML = '✅ 已复制';
+      setTimeout(() => { copyBtn.innerHTML = '📋 复制全文'; }, 2000);
+      window.AIDailyNews.showToast('已复制到剪贴板');
+    });
+  };
+
+  const footerCloseBtn = document.createElement('button');
+  footerCloseBtn.innerHTML = '关闭窗口';
+  footerCloseBtn.style.cssText = `
+    background: rgba(255,255,255,0.05); color: #94a3b8; border: 1px solid rgba(255,255,255,0.1);
+    padding: 0.75rem 1.5rem; border-radius: 12px; font-weight: 600; cursor: pointer;
+    transition: all 0.2s;
+  `;
+  footerCloseBtn.onclick = () => modal.remove();
+  footerCloseBtn.onmouseover = () => { footerCloseBtn.style.background = 'rgba(255,255,255,0.1)'; footerCloseBtn.style.color = '#fff'; };
+  footerCloseBtn.onmouseout = () => { footerCloseBtn.style.background = 'rgba(255,255,255,0.05)'; footerCloseBtn.style.color = '#94a3b8'; };
+
+  actionsDiv.appendChild(copyBtn);
+  actionsDiv.appendChild(footerCloseBtn);
+  content.appendChild(actionsDiv);
+
   modal.appendChild(content);
 
   modal.onclick = (e) => { if (e.target === modal) modal.remove(); };
