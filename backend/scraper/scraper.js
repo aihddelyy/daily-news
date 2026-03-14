@@ -263,7 +263,14 @@ async function fetchNews(category, limit = 6) {
       console.log('  ⚠️ 无结果，使用模拟数据');
       return getMockNews(category).slice(0, limit);
     }
-    const formatted = formatSearchResults(results.slice(0, limit), category);
+    let formatted = formatSearchResults(results.slice(0, limit), category);
+    
+    // 集成 MiniMax 翻译
+    if (process.env.MINIMAX_API_KEY) {
+      const { minimax_translate_batch } = require('../utils/minimax-api');
+      formatted = await minimax_translate_batch(formatted);
+    }
+
     console.log(`  ✅ ${config.name}: ${formatted.length} 条`);
     return formatted;
   } catch (error) {

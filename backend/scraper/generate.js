@@ -222,9 +222,9 @@ async function main() {
     if (!fs.existsSync(PATHS.output)) fs.mkdirSync(PATHS.output, { recursive: true });
     fs.writeFileSync(path.join(PATHS.output, 'index.html'), generateHTML(data), 'utf-8');
 
-    // Generate Summary using Kimi API
-    if (useReal && process.env.KIMI_API_KEY) {
-      console.log('\n📋 正在生成智能日报汇总...');
+    // Generate Summary using MiniMax API
+    if (useReal && process.env.MINIMAX_API_KEY) {
+      console.log('\n📋 正在生成智能日报汇总 (MiniMax)...');
       const { generateSummary } = require('./generate-summary');
       const summaryData = await generateSummary(data);
       if (summaryData) {

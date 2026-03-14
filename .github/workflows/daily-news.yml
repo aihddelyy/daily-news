@@ -36,7 +36,8 @@ jobs:
       - name: Generate daily news (with real data and archive)
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_GROUP_ID: ${{ secrets.MINIMAX_GROUP_ID }}
         run: node backend/scraper/generate.js --real --archive
       
       - name: Commit and push changes

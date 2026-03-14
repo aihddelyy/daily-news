@@ -1,24 +1,27 @@
 /**
- * Kimi API 工具
- * 封装 Kimi 翻译调用
+ * MiniMax API 工具
+ * 封装 MiniMax 翻译调用
  */
 const https = require('https');
-const KIMI_API_KEY = process.env.KIMI_API_KEY || '';
-const KIMI_API_HOST = 'api.moonshot.cn';
+
+const MINIMAX_API_KEY = process.env.MINIMAX_API_KEY || '';
+const MINIMAX_GROUP_ID = process.env.MINIMAX_GROUP_ID || '';
+const MINIMAX_API_URL = 'api.minimax.chat';
 
 /**
- * 使用 Kimi 翻译文本
+ * 使用 MiniMax 翻译文本
+ * 采用 OpenAI 兼容接口格式
  */
-async function kimi_translate(text, targetLang = '中文') {
-  const apiKey = process.env.KIMI_API_KEY || KIMI_API_KEY;
+async function minimax_translate(text, targetLang = '中文') {
+  const apiKey = process.env.MINIMAX_API_KEY || MINIMAX_API_KEY;
   if (!apiKey) {
-    console.warn('⚠️ KIMI_API_KEY 未配置，返回原文');
+    console.warn('⚠️ MINIMAX_API_KEY 未配置，返回原文');
     return text;
   }
   if (!text || text.trim() === '') return text;
 
   const requestBody = {
-    model: 'moonshot-v1-8k',
+    model: 'abab6.5-chat', // 使用 MiniMax 的高性能模型
     messages: [
       {
         role: 'system',
@@ -29,14 +32,14 @@ async function kimi_translate(text, targetLang = '中文') {
         content: text
       }
     ],
-    temperature: 0.3
+    temperature: 0.1
   };
 
   const data = JSON.stringify(requestBody);
   const options = {
-    hostname: KIMI_API_HOST,
+    hostname: MINIMAX_API_URL,
     port: 443,
-    path: '/v1/chat/completions',
+    path: `/v1/text/chatcompletion_v2?GroupId=${MINIMAX_GROUP_ID}`,
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -51,18 +54,23 @@ async function kimi_translate(text, targetLang = '中文') {
       res.on('end', () => {
         try {
           const parsedData = JSON.parse(responseData);
-          if (parsedData.error) {
+          if (parsedData.base_resp && parsedData.base_resp.status_code !== 0) {
+            console.error(`[MiniMax] 错误: ${parsedData.base_resp.status_msg}`);
             resolve(text);
             return;
           }
           const translated = parsedData.choices?.[0]?.message?.content?.trim() || text;
           resolve(translated);
         } catch (error) {
+          console.error(`[MiniMax] 解析失败: ${error.message}`);
           resolve(text);
         }
       });
     });
-    req.on('error', () => resolve(text));
+    req.on('error', (e) => {
+      console.error(`[MiniMax] 请求失败: ${e.message}`);
+      resolve(text);
+    });
     req.write(data);
     req.end();
   });
@@ -71,23 +79,25 @@ async function kimi_translate(text, targetLang = '中文') {
 /**
  * 批量翻译新闻条目
  */
-async function kimi_translate_batch(items) {
-  const apiKey = process.env.KIMI_API_KEY || KIMI_API_KEY;
+async function minimax_translate_batch(items) {
+  const apiKey = process.env.MINIMAX_API_KEY || MINIMAX_API_KEY;
   if (!apiKey || !items || items.length === 0) return items;
 
+  console.log(`🤖 正在使用 MiniMax 翻译 ${items.length} 条新闻...`);
   const translatedItems = [];
   for (const item of items) {
     try {
-      const translatedTitle = await kimi_translate(item.title);
+      const translatedTitle = await minimax_translate(item.title);
       const summaryToTranslate = item.summary?.substring(0, 500) || '';
-      const translatedSummary = await kimi_translate(summaryToTranslate);
+      const translatedSummary = await minimax_translate(summaryToTranslate);
       
       translatedItems.push({
         ...item,
         title: translatedTitle || item.title,
         summary: translatedSummary?.substring(0, 200) || item.summary?.substring(0, 200) || ''
       });
-      await new Promise(r => setTimeout(r, 300));
+      // 适度延迟，避免频率限制
+      await new Promise(r => setTimeout(r, 200));
     } catch (error) {
       translatedItems.push(item);
     }
@@ -96,6 +106,6 @@ async function kimi_translate_batch(items) {
 }
 
 module.exports = {
-  kimi_translate,
-  kimi_translate_batch
+  minimax_translate,
+  minimax_translate_batch
 };

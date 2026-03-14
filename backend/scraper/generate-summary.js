@@ -1,12 +1,13 @@
 /**
- * 日报汇总生成器
- * 使用 Kimi API 生成结构化的日报汇总
+ * 日报汇总生成器 - MiniMax 版本
+ * 使用 MiniMax API 生成结构化的日报汇总
  */
 const fs = require('fs').promises;
 const path = require('path');
 const https = require('https');
 
-const KIMI_API_HOST = 'api.moonshot.cn';
+const MINIMAX_API_URL = 'api.minimax.chat';
+const MINIMAX_GROUP_ID = process.env.MINIMAX_GROUP_ID || '';
 
 /**
  * 构建提示词
@@ -49,20 +50,20 @@ function fixSummaryIds(summary, newsData) {
 }
 
 /**
- * 调用 Kimi API 生成汇总
+ * 调用 MiniMax API 生成汇总
  */
 async function generateSummary(newsData) {
-  const apiKey = process.env.KIMI_API_KEY;
+  const apiKey = process.env.MINIMAX_API_KEY;
   if (!apiKey) {
-    console.warn('⚠️ KIMI_API_KEY 未配置，跳过生成智能汇总');
+    console.warn('⚠️ MINIMAX_API_KEY 未配置，跳过生成智能汇总');
     return null;
   }
   
   const prompt = buildPrompt(newsData);
-  console.log('🤖 正在调用 Kimi API 生成汇总...');
+  console.log('🤖 正在调用 MiniMax API 生成汇总...');
   
   const requestBody = {
-    model: 'moonshot-v1-32k',
+    model: 'abab6.5-chat',
     messages: [
       {
         role: 'system',
@@ -103,14 +104,14 @@ async function generateSummary(newsData) {
         content: prompt
       }
     ],
-    temperature: 0.3
+    temperature: 0.1
   };
 
   const data = JSON.stringify(requestBody);
   const options = {
-    hostname: KIMI_API_HOST,
+    hostname: MINIMAX_API_URL,
     port: 443,
-    path: '/v1/chat/completions',
+    path: `/v1/text/chatcompletion_v2?GroupId=${MINIMAX_GROUP_ID}`,
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -125,8 +126,8 @@ async function generateSummary(newsData) {
       res.on('end', () => {
         try {
           const parsedData = JSON.parse(responseData);
-          if (parsedData.error) {
-            console.error(`[Kimi] 错误: ${parsedData.error.message}`);
+          if (parsedData.base_resp && parsedData.base_resp.status_code !== 0) {
+            console.error(`[MiniMax] 汇总错误: ${parsedData.base_resp.status_msg}`);
             resolve(null);
             return;
           }
@@ -138,14 +139,19 @@ async function generateSummary(newsData) {
             const summary = JSON.parse(jsonMatch[0]);
             resolve(fixSummaryIds(summary, newsData));
           } else {
+            console.warn('⚠️ MiniMax 返回的内容不包含有效的 JSON 汇总');
             resolve(null);
           }
         } catch (error) {
+          console.error(`[MiniMax] 汇总解析失败: ${error.message}`);
           resolve(null);
         }
       });
     });
-    req.on('error', () => resolve(null));
+    req.on('error', (e) => {
+      console.error(`[MiniMax] 汇总请求失败: ${e.message}`);
+      resolve(null);
+    });
     req.write(data);
     req.end();
   });
