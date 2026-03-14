@@ -1,74 +1,75 @@
-name: Daily News Auto-Update
+name: Daily News Update
 
 on:
   schedule:
-    # 每天北京时间早上 8:00 (UTC 0:00)
+    # 每天北京时间 8:00 运行 (UTC 00:00)
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # 允许手动触发
   # push:
-  #   branches:
-  #     - master
-  #   paths-ignore:
-  #     - 'docs/**'
-  #     - 'data/**'
+  #   branches: [ master ]
 
-env:
-  TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-  MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-  MINIMAX_GROUP_ID: ${{ secrets.MINIMAX_GROUP_ID }}
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  build:
+  generate:
     name: Generate News Content
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '24'
-          cache: 'npm'
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '24' # 沿用之前的 Node 24 优化
+        cache: 'npm'
+        
+    - name: Install Dependencies
+      run: npm install
       
-      - name: Install dependencies
-        run: npm install
-      
-      - name: Generate daily news
-        run: node backend/scraper/generate.js --real --archive
-      
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: news-content
-          path: |
-            docs/
-            data/
-          retention-days: 1
+    - name: Generate Daily News
+      run: node backend/scraper/generate.js --real --archive
+      env:
+        TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+        MINIMAX_GROUP_ID: ${{ secrets.MINIMAX_GROUP_ID }}
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+        
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "📰 Update daily news for $(date +%Y-%m-%d) [skip ci]" || echo "No changes to commit"
+        git pull --rebase origin master || echo "No remote changes to pull"
+        git push || git push --force-with-lease
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Upload Page Artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './docs'
+        
   deploy:
-    name: Sync and Push
-    needs: build
+    name: Deploy to GitHub Pages
+    needs: generate
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Download Artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: news-content
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add docs/ data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update daily news [skip ci]" && git push)
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
