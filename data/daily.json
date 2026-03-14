@@ -2,7 +2,7 @@
   "date": {
     "date": "2026-03-14",
     "display": "2026年3月14日星期六",
-    "timestamp": "2026-03-14T12:51:36.465Z",
+    "timestamp": "2026-03-14T13:21:26.537Z",
     "year": "2026",
     "month": "03",
     "day": "14"
@@ -14,63 +14,63 @@
       "icon": "🤖",
       "items": [
         {
-          "title": "最新AI新闻与重大AI突破：2026及2025年",
-          "summary": "摘要：印度正在新德里主办一场高级别全球峰会，汇集世界领导人和科技高管，共同探讨人工智能治理的未来。",
+          "title": "AI Magazine：最新AI新闻、洞察与报告",
+          "summary": "本周AI五大新闻 · 谷歌为何收购AI网络安全领导者Wiz · 华为：在MWC 2026推动产业AI转型 · 这个...",
           "content": "",
-          "source": "Crescendo",
-          "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+          "source": "Aimagazine",
+          "url": "https://aimagazine.com/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/robot0/400/250"
         },
         {
-          "title": "人工智能 - 最新AI新闻与分析 - WSJ.com",
-          "summary": "联邦快递计划部署AI代理员工 · 安thropic与五角大楼的争议对每家企业都至关重要 · 甲骨文额外拨出5亿美元支付重组费用",
+          "title": "最新AI新闻及最受关注的AI突破：2026年和2025年",
+          "summary": "摘要：印度正在新德里举办一次高级别全球峰会，召集世界各国领导人和科技企业高管共同探讨AI治理的未来。",
           "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/tech/ai?gaa_at=eafs&gaa_n=AWEtsqf8dA5yRcmylHet-XvDI-DFkynthYYNun1N49wxrCLBfxuJLbicth6R&gaa_ts=69b55d5d&gaa_sig=ccUif2Y-ASmpxD03_pGCDblBMqLl2mOC_Mm4iSzdYXt-3A0b5bf7ObhKBW-i2AjRtxK8LLvcUlX8lnwPAOrTiA%3D%3D",
+          "source": "Crescendo",
+          "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/robot1/400/250"
         },
         {
-          "title": "AI新闻 | 最新新闻 | 洞察：助力AI驱动业务增长",
-          "summary": "ABB：物理AI模拟提升工厂自动化投资回报率\n\nGoogle正式布局工业机器人AI——这次动了真格",
+          "title": "人工智能 - 最新AI新闻与分析 - 华尔街日报网",
+          "summary": "联邦快递计划部署AI代理员工团队 · Anthropic与五角大楼的争议关乎每一家企业 · 甲骨文额外拨款5亿美元用于支付重组成本",
           "content": "",
-          "source": "Artificialintelligence-news",
-          "url": "https://www.artificialintelligence-news.com/",
+          "source": "Wsj",
+          "url": "https://www.wsj.com/tech/ai?gaa_at=eafs&gaa_n=AWEtsqddsFHAM2w3gBYrNppQpOiMA79tkqdUYl9vfpuPKqGJyZ5Ch1pnU7ko&gaa_ts=69b5645b&gaa_sig=O7KfjSbkb_-FExRa96A08Eio0aIGisXApxeKt_XuaNBPC2ebn7q2hww_CDPbA2YDnoh7SIclb_4GlirJrDkpPw%3D%3D",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/robot2/400/250"
         },
         {
-          "title": "“上周AI动态”——@OpenAI 的新 ChatGPT 5.4 模型…",
-          "summary": "在本周的\"上周AI回顾\"节目中，我介绍了新的ChatGPT 5.4模型，以及来自Anthropic的一些重大Claude更新。",
-          "content": "",
-          "source": "Youtube",
-          "url": "https://www.youtube.com/watch?v=ZIufh3fUdu4",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/robot3/400/250"
-        },
-        {
-          "title": "Claude 和 ChatGPT：有什么区别？[2026] - Zapier",
+          "title": "Claude vs. ChatGPT：有什么区别？[2026] - Zapier",
           "summary": "最近一次完整更新是在2025年1月。最近一次更新是在2026年3月。获取生产力技巧，直接发送到...",
           "content": "",
           "source": "Zapier",
           "url": "https://zapier.com/blog/claude-vs-chatgpt/",
           "time": "今日",
           "tag": "资讯",
-          "image": "https://picsum.photos/seed/robot4/400/250"
+          "image": "https://picsum.photos/seed/robot3/400/250"
         },
         {
-          "title": "ChatGPT vs Claude：我让两个默认模型经历了7个真实世界测试",
-          "summary": "OpenAI最新的默认模型ChatGPT-5.2和Anthropic的Claude Sonnet 4.6都设计得快速、高效且功能广泛，能够处理...",
+          "title": "ChatGPT vs Claude：我让两个默认模型经历了7个真实世界测试...",
+          "summary": "OpenAI最新的默认模型ChatGPT-5.2和Anthropic的Claude Sonnet 4.6都设计得快速、高效且功能广泛，能够处理……",
           "content": "",
           "source": "Tomsguide",
           "url": "https://www.tomsguide.com/ai/chatgpt-vs-claude-i-put-both-default-models-through-7-real-world-tests-one-is-the-clear-winner",
           "time": "今日",
           "tag": "资讯",
+          "image": "https://picsum.photos/seed/robot4/400/250"
+        },
+        {
+          "title": "GPT-5.4碾压Anthropic的Claude + 你错过的8个人工智能更新",
+          "summary": "加入我们的WhatsApp社区 获取最新的AI更新、技巧和... Claude、OpenAI更新）。Vaibhav Sisinty•10.9万次观看 · 17:49。前往...",
+          "content": "",
+          "source": "Youtube",
+          "url": "https://www.youtube.com/watch?v=SVXTV69c2wQ",
+          "time": "今日",
+          "tag": "Claude",
           "image": "https://picsum.photos/seed/robot5/400/250"
         }
       ]
@@ -81,8 +81,8 @@
       "icon": "🌍",
       "items": [
         {
-          "title": "《跨境电商杂志》：在线电商新闻与洞察",
-          "summary": "### 伊朗战争对电商的影响：冲突如何重塑全球在线贸易 ###\n\n### 欧盟电商合规指南 +链接 ###\n\n### Temu挑战亚马逊抢占跨境电商主导地位。跨境... ###",
+          "title": "Cross-Border Magazine - 在线电商新闻与洞察，为...",
+          "summary": "### 伊朗战争对电子商务的影响：冲突如何重塑全球在线贸易 ###\n\n### 欧盟电子商务合规指南 +链接 ###\n\n### Temu挑战亚马逊在跨境电子商务领域的主导地位。跨境... ###",
           "content": "",
           "source": "Cross-border-magazine",
           "url": "https://cross-border-magazine.com/",
@@ -91,8 +91,8 @@
           "image": "https://picsum.photos/seed/shopping0/400/250"
         },
         {
-          "title": "跨境电商 - 报告、统计数据和营销趋势",
-          "summary": "电子商务与零售\n电子商务销售\n移动商务\n零售销售\n社交商务\n浏览全部 →\n\n#### 2021年第二季度社交媒体更新####\n\n#### 2021年消费者对数字广告的态度####\n\n#### 故事营销20...",
+          "title": "跨境电商——报告、统计与营销趋势",
+          "summary": "电商与零售\n电商销售\n移动商务\n零售销售\n社交电商\n浏览全部 →\n\n#### 2021年第二季度社交媒体更新\n#### 2021年消费者对数字广告的态度\n#### 故事营销 20...",
           "content": "",
           "source": "Emarketer",
           "url": "https://www.emarketer.com/topics/industry/cross-border-ecommerce",
@@ -101,8 +101,8 @@
           "image": "https://picsum.photos/seed/shopping1/400/250"
         },
         {
-          "title": "跨境电子商务蓬勃发展：亚洲引领增长，美洲...",
-          "summary": "# 跨境电商蓬勃发展：亚洲领跑增长，美洲占据最高价值\n\n跨境电商是全球电商增长的核心驱动力。跨境电商是增长最快的电商领域之一。",
+          "title": "跨境电商蓬勃发展：亚洲引领增长，美洲...",
+          "summary": "跨境电商蓬勃发展：亚洲领跑增长，美洲占据最高价值。跨境电商是全球电商增长的核心驱动力。跨境电商是增长最快的电商领域之一。",
           "content": "",
           "source": "Ecdb",
           "url": "https://ecdb.com/blog/cross-border-e-commerce-boom/5183",
@@ -112,7 +112,7 @@
         },
         {
           "title": "Amazon Haul 推出，与 Shein、Temu、TikTok Shop 展开竞争",
-          "summary": "亚马逊于周三推出了一个新的折扣商城，主打\"超低价\"，与Temu、Shein和TikTok Shop展开竞争。",
+          "summary": "亚马逊周三推出一个新的折扣市场，推广“疯狂低价”，与Temu、Shein和TikTok Shop展开竞争。",
           "content": "",
           "source": "Axios",
           "url": "https://www.axios.com/2024/11/13/amazon-haul-temu-shein-tiktok-shop-competition",
@@ -121,8 +121,8 @@
           "image": "https://picsum.photos/seed/shopping3/400/250"
         },
         {
-          "title": "Temu、Shein和TikTok Shop带来的威胁 - 亚马逊卖家中心",
-          "summary": "作为亚马逊卖家，亚马逊是我们的盟友，而Temu/Shein/TikTok Shop现在是我们共同的竞争对手。有史以来第一次，我们都面临着同样的处境。",
+          "title": "Temu、Shein 和 TikTok Shop 的威胁 - 亚马逊卖家中心",
+          "summary": "作为亚马逊卖家，亚马逊是我们的盟友，而Temu/Shein/TikTok Shop现在是我们共同的竞争对手。有史以来第一次，我们都在同一条船上了。",
           "content": "",
           "source": "Sellercentral",
           "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/a676b3d0-85b1-4db0-b742-6197a96da700",
@@ -132,7 +132,7 @@
         },
         {
           "title": "亚马逊与Temu及SHEIN竞争的幕后故事",
-          "summary": "…点赞，22条评论。TikTok视频…探索Temu和Shein如何改变了美国的购物方式，并挑战了亚马逊的主导地位….",
+          "summary": "点赞，22 条评论。TikTok 视频……发现 Temu 和 Shein 如何改变了美国的购物方式，并挑战了亚马逊的主导地位。",
           "content": "",
           "source": "Tiktok",
           "url": "https://www.tiktok.com/@uptin/video/7526985759853645078",
@@ -148,38 +148,38 @@
       "icon": "💡",
       "items": [
         {
-          "title": "Tech Funding News | 全球科技创业公司融资新闻",
-          "summary": "获取全球科技创业公司的最新融资新闻动态。涵盖人工智能、金融科技、加密货币、风险投资等领域。",
+          "title": "创业融资 - 科技初创公司",
+          "summary": "顶级创业公司和科技融资新闻 – 2025年3月12日\n\nVeryAI融资1000万美元，利用智能手机掌纹扫描身份验证技术阻止深度伪造和人工智能欺诈\n\n以色列...",
           "content": "",
-          "source": "Techfundingnews",
-          "url": "https://techfundingnews.com/",
+          "source": "Techstartups",
+          "url": "https://techstartups.com/category/funding/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/rocket0/400/250"
         },
         {
-          "title": "美国科技新闻 - 科技融资新闻",
-          "summary": "突发新闻 | 关于美国科技初创公司、风险投资、最新技术，尽在 Tech Funding News：为您报道最具多元化的科技初创公司动态。",
+          "title": "风险投资融资与科技初创公司 - VC新闻日报",
+          "summary": "纽约州纽约市，Onyx Security今日宣布成立，并获得来自Conviction和Cyberstarts的4000万美元融资。阅读更多...VENU签署新一轮融资。",
           "content": "",
-          "source": "Techfundingnews",
-          "url": "https://techfundingnews.com/category/us/",
+          "source": "Vcnewsdaily",
+          "url": "https://vcnewsdaily.com/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/rocket1/400/250"
         },
         {
-          "title": "创业公司 - TechCrunch",
-          "summary": "解析科技创业公司融资、增长及长期发展轨迹的科技创业新闻，涵盖各阶段和各行业。创业公司报道包括气候...",
+          "title": "科技融资新闻 | 全球科技创业公司融资新闻",
+          "summary": "获取全球科技初创公司的最新融资新闻动态，涵盖人工智能、金融科技、加密货币、风险投资等领域。",
           "content": "",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/category/startups/",
+          "source": "Techfundingnews",
+          "url": "https://techfundingnews.com/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/rocket2/400/250"
         },
         {
-          "title": "2026年SaaS产品开发趋势 - Hashbyt",
-          "summary": "2026年的SaaS产品开发专注于构建智能、可扩展的平台，这些平台与真实用户需求紧密结合。增长始于...",
+          "title": "SaaS产品开发趋势2026 - Hashbyt",
+          "summary": "2026年的SaaS产品开发专注于构建智能、可扩展的平台，这些平台与真实用户需求紧密契合。增长始于...",
           "content": "",
           "source": "Hashbyt",
           "url": "https://hashbyt.com/blog/saas-product-development-trends",
@@ -188,8 +188,8 @@
           "image": "https://picsum.photos/seed/rocket3/400/250"
         },
         {
-          "title": "SaaS创业公司趋势：创始人必须构建什么… - Startupik",
-          "summary": "2026年SaaS创业趋势展望：AI原生产品设计、智能体工作流、定价策略转变、安全防护以及驱动增长的指标...",
+          "title": "SaaS创业趋势：创始人必须为……打造什么",
+          "summary": "2026年SaaS创业趋势：AI原生产品设计、代理工作流、定价变化、安全以及驱动增长的指标",
           "content": "",
           "source": "Startupik",
           "url": "https://startupik.com/saas-startup-trends/",
@@ -199,7 +199,7 @@
         },
         {
           "title": "2026年值得关注的顶级SaaS趋势 - Zylo",
-          "summary": "*Gartner预测，到2025年底，全球SaaS投资将达到约2990亿美元，随着AI能力推动采用和定价的变化，2026年将继续增长。供应商们...",
+          "summary": "*Gartner预测，到2025年底，全球SaaS投资将达约2990亿美元，随着AI能力推动采用率和定价策略的调整，2026年将继续增长。伴随供应商...",
           "content": "",
           "source": "Zylo",
           "url": "https://zylo.com/blog/saas-trends/",
@@ -215,8 +215,8 @@
       "icon": "⛓️",
       "items": [
         {
-          "title": "比特币将震惊所有人（突破正在酝酿中）！！！",
-          "summary": "比特币将震惊所有人（突破蓄势中）！！！- 今日比特币新闻、以太坊和替代币\n加密世界\n225000 位订阅者\n453 个赞\n15032 次观看\n2026年2月8日",
+          "title": "比特币将震惊所有人（突破蓄势待发）！！！",
+          "summary": "比特币将震惊所有人（突破蓄势中）！！！ - 今日比特币新闻、以太坊和竞争币",
           "content": "",
           "source": "Youtube",
           "url": "https://www.youtube.com/watch?v=6VEtJwjh-Z4",
@@ -225,8 +225,8 @@
           "image": "https://picsum.photos/seed/crypto0/400/250"
         },
         {
-          "title": "真正的\"翻转\"？以太坊储备超越比特币 - DL News",
-          "summary": "比特币和以太坊之间的财库之争正在升温。与此同时，比特币财库持有总供应量的3.5%。以太坊财库控制着3.5%的全部以太币，而比特币财库则...",
+          "title": "真正的翻转？以太坊国库超过比特币 - DL News",
+          "summary": "比特币和以太坊的国库交易正在升温。与此同时，比特币国库持有总供应量的3.4%。以太坊国库控制着3.5%的以太坊，而比特币国库...",
           "content": "",
           "source": "Dlnews",
           "url": "https://www.dlnews.com/articles/markets/crypto-treasury-trade-heats-up-as-ethereum-firms-lap-bitcoin/",
@@ -235,8 +235,8 @@
           "image": "https://picsum.photos/seed/crypto1/400/250"
         },
         {
-          "title": "以太坊 (ETH) 新闻、分析与预测 - FXStreet",
-          "summary": "今日加密货币：比特币、以太坊、XRP上涨，不顾美伊战争紧张局势\n\n前三价格预测：比特币、以太坊、瑞波币——BTC、ETH和 XRP 正在接近关键技术水平，突破在即……",
+          "title": "以太坊 (ETH) 新闻、分析和预测 - FXStreet",
+          "summary": "### 今日加密货币：比特币、以太坊、XRP上涨，无视美伊战争紧张局势\n\n### 前三价格预测：比特币、以太坊、瑞波币——BTC、ETH和XRP接近关键技术水平，面临突破...（原文未完）",
           "content": "",
           "source": "Fxstreet",
           "url": "https://www.fxstreet.com/cryptocurrencies/ethereum",
@@ -245,8 +245,8 @@
           "image": "https://picsum.photos/seed/crypto2/400/250"
         },
         {
-          "title": "Web3 新闻与最新 Web3 发展动态 - The Block",
-          "summary": "Web3正在改变区块链和互联网。阅读以下内容，了解互联网是如何变得更加去中心化的，这一发展通常被称为Web3。",
+          "title": "Web3新闻与最新Web3发展动态 - The Block",
+          "summary": "Web3正在改变区块链和互联网。阅读以下内容，了解互联网如何变得更加去中心化，这一发展通常被称为Web3。",
           "content": "",
           "source": "Theblock",
           "url": "https://www.theblock.co/category/web3",
@@ -256,7 +256,7 @@
         },
         {
           "title": "Web3 - CoinDesk",
-          "summary": "领先的加密货币（比特币、以太坊、XRP）、区块链、DeFi、数字金融和 Web 3.0 新闻资讯平台，提供分析、视频和实时价格更新。",
+          "summary": "加密货币与区块链资讯领域的领导者，涵盖比特币、以太坊、XRP、DeFi、数字金融及Web 3.0，提供深度分析、视频报道及实时价格更新....",
           "content": "",
           "source": "Coindesk",
           "url": "https://www.coindesk.com/web3",
@@ -265,8 +265,8 @@
           "image": "https://picsum.photos/seed/crypto4/400/250"
         },
         {
-          "title": "DeFi新闻 - 最新黑客攻击、融资、交易量等动态更新...",
-          "summary": "最新新闻、更新、调查以及关于去中心化金融协议的黑客攻击、融资、交易量和总锁仓量的独家分析。",
+          "title": "DeFi新闻 - 黑客攻击、融资、交易量等最新动态",
+          "summary": "最新新闻、动态、调查和独家分析，涵盖去中心化金融协议的黑客攻击、收益率、交易量和总锁仓量等相关内容。",
           "content": "",
           "source": "Dlnews",
           "url": "https://www.dlnews.com/articles/defi/",
@@ -282,38 +282,38 @@
       "icon": "🧬",
       "items": [
         {
-          "title": "BioPharma Dive：生物科技与制药行业新闻",
-          "summary": "BioPharma Dive 为生物科技和生物制药行业的高管提供新闻和报道。我们涵盖临床试验、药物发现与开发等主题……",
+          "title": "STAT生物技术新闻：影响市场的药物开发报道",
+          "summary": "最新消息 · STAT Plus：Grail首席执行官在临床试验受挫后辞职 · STAT Plus：癌细胞可以\"呕吐\"蛋白质到细胞表面 · STAT Plus：FDA启动...",
           "content": "",
-          "source": "Biopharmadive",
-          "url": "https://www.biopharmadive.com/",
+          "source": "Statnews",
+          "url": "https://www.statnews.com/category/biotech/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/dna0/400/250"
         },
         {
-          "title": "BioSpace：生物技术、制药和临床研究新闻",
-          "summary": "数十家生物科技公司本周公布财报。BioSpace 回顾了 Capricor Therapeutics、Legend Biotech、Inovio 和 Allogene 的关键亮点。2026年3月13日。",
+          "title": "BioPharma Dive：生物科技与制药行业新闻",
+          "summary": "BioPharma Dive为生物技术和生物制药企业提供新闻与分析服务。我们涵盖临床试验、药物发现与开发等主题……",
           "content": "",
-          "source": "Biospace",
-          "url": "https://www.biospace.com/",
+          "source": "Biopharmadive",
+          "url": "https://www.biopharmadive.com/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/dna1/400/250"
         },
         {
-          "title": "生物技术新闻 - 最新生物技术和股票新闻",
-          "summary": "生物科技 · BioNTech高管将离职创立新的mRNA公司 · Stramsen生物科技估值190亿美元，寻求投资银行和律师事务所，...",
+          "title": "BioSpace：生物技术、制药及临床研究新闻",
+          "summary": "本周数十家生物技术公司公布财报。BioSpace回顾了Capricor Therapeutics、Legend Biotech、Inovio和Allogene的关键亮点。2026年3月13日。",
           "content": "",
-          "source": "Newsnow",
-          "url": "https://www.newsnow.com/us/Business/Biotech",
+          "source": "Biospace",
+          "url": "https://www.biospace.com/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/dna2/400/250"
         },
         {
-          "title": "CRISPR突破：不切割DNA即可激活基因",
-          "summary": "图2：更安全的CRISPR技术取得新突破\n\n![图片](https://www.sciencedaily.com/images/1920/dna-repair-genetic-mutation-damage.webp)\n\n* 相关主题",
+          "title": "CRISPR新突破：无需切割DNA即可激活基因",
+          "summary": "图片2：一种更安全的CRISPR突破性技术出现\n\n相关主题",
           "content": "",
           "source": "Sciencedaily",
           "url": "https://www.sciencedaily.com/releases/2026/01/260104202813.htm",
@@ -323,7 +323,7 @@
         },
         {
           "title": "CRISPR突破可能改写遗传病的未来",
-          "summary": "一种新的CRISPR方法可以在不切割DNA的情况下控制基因，为治疗遗传疾病开辟了更安全的途径。新方法不使用切割，而是使用改良的CRISPR系统来传递酶...",
+          "summary": "**一种新的CRISPR方法可以在不切割DNA的情况下控制基因，为治疗遗传疾病开辟了更安全的道路。**与切割不同，这种新方法使用改良的CRISPR系统来递送酶...",
           "content": "",
           "source": "Scitechdaily",
           "url": "https://scitechdaily.com/crispr-breakthrough-could-rewrite-future-of-genetic-disease-treatment/",
@@ -332,8 +332,8 @@
           "image": "https://picsum.photos/seed/dna4/400/250"
         },
         {
-          "title": "CRISPR：生物技术突破",
-          "summary": "这一工具——即CRISPR——从此彻底改变了研究领域，为提高作物产量、推进癌症治疗和治愈遗传性疾病开辟了新的可能性。CRISPR-Cas9技术——...",
+          "title": "CRISPR：生物技术领域的重大突破",
+          "summary": "这个被称为CRISPR的工具已经彻底改变了研究领域，为提高作物产量、推进癌症治疗和治愈遗传疾病开辟了新的可能性。CRISPR-Cas9技术——...",
           "content": "",
           "source": "Nsf",
           "url": "https://www.nsf.gov/impacts/crispr",
@@ -349,8 +349,8 @@
       "icon": "⚡",
       "items": [
         {
-          "title": "EV | 电动汽车行业最新资讯",
-          "summary": "重磅电动汽车新闻、特斯拉最新动态、Rivian、Lucid及中国电动汽车市场报道。每日更新电动汽车与自动驾驶资讯。",
+          "title": "EV | 电动汽车行业最新动态",
+          "summary": "加拿大新电动车补贴让特斯拉Model Y价格降至4.5万加元以下\n\nRivian创始人兼首席执行官RJ Scaringe已再次确认...",
           "content": "",
           "source": "Eletric-vehicles",
           "url": "https://eletric-vehicles.com/",
@@ -359,18 +359,18 @@
           "image": "https://picsum.photos/seed/solar0/400/250"
         },
         {
-          "title": "电动汽车新闻 | Canary Media",
-          "summary": "尽管特朗普的贸易和政策计划可能抑制美国增长，但电动汽车和插电式混合动力汽车在全球范围内的前景依然稳健。共和党人正瞄准加州已广泛采用的车辆标准...",
+          "title": "ArenaEV - 电动车新闻、规格及更多内容",
+          "summary": "新闻；Lucid Motors瞄准平价电动汽车市场，推出Cosmos和Earth新车型。5小时前；本田放弃未来电动汽车计划，面临157亿美元亏损。",
           "content": "",
-          "source": "Canarymedia",
-          "url": "https://www.canarymedia.com/articles/electric-vehicles/p3",
+          "source": "Arenaev",
+          "url": "https://www.arenaev.com/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/solar1/400/250"
         },
         {
           "title": "EV杂志：电动汽车新闻之家",
-          "summary": "### 加拿大矿产与供应链：本周电动汽车要闻\n\n本周电动汽车要闻包括：捷豹路虎的克莱尔·帕克谈变革管理、加拿大关键矿产新计划，以及……方面的进展。",
+          "summary": "加拿大矿产与供应链：本周要闻。本周要闻包括：捷豹路虎的克莱尔·帕克谈管理变革、加拿大关键矿产新计划，以及...进展...",
           "content": "",
           "source": "Evmagazine",
           "url": "https://evmagazine.com/",
@@ -379,31 +379,31 @@
           "image": "https://picsum.photos/seed/solar2/400/250"
         },
         {
-          "title": "电池储能系统新兴趋势 - EDN",
-          "summary": "替代电池技术、混合能源存储以及基于人工智能解决方案的应用正在推动电池储能系统的进步。",
+          "title": "能源存储系统的未来——2025年电池趋势综述",
+          "summary": "# 能源存储系统的未来：2025年电池技术新兴趋势\n\n固态电池正在为电动汽车、航空航天和电网规模储能应用进行开发，标志着...",
           "content": "",
-          "source": "Edn",
-          "url": "https://www.edn.com/emerging-trends-in-battery-energy-storage-systems/",
+          "source": "Nationalbatterysupply",
+          "url": "https://nationalbatterysupply.com/blog/the-future-of-energy-storage-systems-emerging-trends-in-battery-technology-for-2025/?srsltid=AfmBOopzmCXWEJgzaIuTrfgWdIaev7MAmpTlCcL5SL5iuxgeK2_p4Ir9",
           "time": "今日",
           "tag": "电池",
           "image": "https://picsum.photos/seed/solar3/400/250"
         },
         {
-          "title": "未来电池新技术 | 标普全球",
-          "summary": "电池技术趋势以改进参数：电池单体尺寸正在增大，以便用更少的壳体材料在单个电池单体中存储更多能量。",
+          "title": "塑造能源存储技术发展的5大趋势",
+          "summary": "# 将塑造能源存储技术发展的5大趋势\n\n一名男子在操作TROES的电池能源存储技术。电池约占所有能源存储系统(ESS)的90%，主要...",
           "content": "",
-          "source": "Spglobal",
-          "url": "https://www.spglobal.com/esg/s1/topic/the-future-of-battery-technology.html",
+          "source": "Troescorp",
+          "url": "https://troescorp.com/5-trends-that-will-shape-energy-storage-technology/",
           "time": "今日",
-          "tag": "电池",
+          "tag": "资讯",
           "image": "https://picsum.photos/seed/solar4/400/250"
         },
         {
-          "title": "电池储能系统：三大关键趋势",
-          "summary": "# ***先进的铅、锂和钒电池化学技术将在构建更可持续的能源供应链中发挥关键作用。*** 此外，随着制造商利用锂来开发长期...",
+          "title": "电池储能系统市场 - BCC Research",
+          "summary": "# 电池储能系统市场\n\n**关键市场洞察：“***根据国际可再生能源机构，在不同类型的电池储能系统中，锂离子是*",
           "content": "",
-          "source": "Stryten",
-          "url": "https://www.stryten.com/battery-energy-storage-systems-three-key-trends-to-watch/",
+          "source": "Bccresearch",
+          "url": "https://www.bccresearch.com/industry-trends/battery-energy-storage-system-industry-trends?srsltid=AfmBOorYa4jA7iD9vefLj1X6JSf0QYYO0xXMopWC1pdRr7P3CkCmoQjd",
           "time": "今日",
           "tag": "电池",
           "image": "https://picsum.photos/seed/solar5/400/250"
@@ -411,7 +411,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-14T12:51:36.465Z",
+  "generatedAt": "2026-03-14T13:21:26.537Z",
   "version": "3.0.0",
   "source": "tavily"
 }
