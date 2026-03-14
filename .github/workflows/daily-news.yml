@@ -1,16 +1,19 @@
-name: Daily News Auto-Deploy
+name: Daily News Auto-Update
 
 on:
   schedule:
-    # 每天早上 7:00 UTC (北京时间 15:00)
-    - cron: '0 7 * * *'
+    # 每天北京时间早上 8:00 (UTC 0:00)
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
       - master
+    paths-ignore:
+      - 'docs/**'
+      - 'data/**'
 
 jobs:
-  generate-and-deploy:
+  generate-and-sync:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -18,6 +21,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,17 +33,15 @@ jobs:
       - name: Install dependencies
         run: npm install
       
-      - name: Generate daily news (with real data)
+      - name: Generate daily news (with real data and archive)
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
-        run: node backend/scraper/generate.js --real
+        run: node backend/scraper/generate.js --real --archive
       
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          publish_branch: master
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/ data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update daily news [skip ci]" && git push)
