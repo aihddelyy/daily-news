@@ -8,20 +8,20 @@ const https = require('https');
 const { tavilySearchBatch } = require('../utils/tavily-api');
 
 // ============================================
-// 12 大分类配置（英文搜索 + 中文显示）
+// 精选 8 大分类配置（英文搜索 + 中文显示）
 // ============================================
 const SOURCES = {
-  tech_frontier: {
-    name: '科技前沿',
-    icon: '🚀',
+  ai_industry: {
+    name: 'AI行业动态',
+    icon: '🧠',
     queries: [
-      'latest cutting-edge technology breakthroughs',
-      'quantum computing research news',
-      'space exploration SpaceX NASA latest',
-      'nuclear fusion energy breakthrough'
+      'artificial intelligence industry business news',
+      'OpenAI Microsoft Anthropic Google partnerships',
+      'enterprise AI investment trends',
+      'AI policy and regulation news'
     ],
-    keywords: ['量子计算', '航天', 'SpaceX', '核聚变', '前沿科技', '实验室'],
-    tagMapping: { 'SpaceX': 'SpaceX', 'NASA': 'NASA', 'Quantum': '量子', 'Fusion': '核聚变' }
+    keywords: ['AI行业', '大模型', 'OpenAI', '算力', '人工智能', '大厂动态'],
+    tagMapping: { 'OpenAI': 'OpenAI', 'Microsoft': '微软', 'Google': 'Google' }
   },
   business_finance: {
     name: '商业财经',
@@ -34,18 +34,6 @@ const SOURCES = {
     ],
     keywords: ['财经', '财报', '美联储', '降息', '华尔街', '宏观经济'],
     tagMapping: { 'Fed': '美联储', 'Earnings': '财报', 'Market': '市场' }
-  },
-  international_affairs: {
-    name: '国际局势',
-    icon: '🌐',
-    queries: [
-      'geopolitics international relations global affairs',
-      'United Nations major summits news',
-      'global conflict updates today',
-      'diplomatic relations breakthroughs'
-    ],
-    keywords: ['地缘政治', '外交', '联合国', '峰会', '局势', '冲突调节'],
-    tagMapping: { 'UN': '联合国', 'Summit': '峰会', 'Diplomacy': '外交' }
   },
   auto_ev: {
     name: '汽车出行',
@@ -83,17 +71,17 @@ const SOURCES = {
     keywords: ['生物医药', 'GLP-1', '创新药', '癌症研究', 'FDA', '阿兹海默'],
     tagMapping: { 'FDA': 'FDA', 'Cancer': '肿瘤', 'Drug': '药物' }
   },
-  consumer_retail: {
-    name: '消费零售',
-    icon: '🛍️',
+  smartphone: {
+    name: '智能手机',
+    icon: '📱',
     queries: [
-      'consumer retail market trends 2026',
-      'global luxury brands revenue news',
-      'LVMH Nike Starbucks market performance',
-      'emerging retail tech automation'
+      'smartphone mobile technology latest news',
+      'Apple iPhone 17 18 rumors leaks',
+      'Android Snapdragon Dimensity chipset news',
+      'Huawei Mate Xiaomi Vivo foldable phones'
     ],
-    keywords: ['消费', '零售', '品牌', '奢侈品', '供应链', '自动化'],
-    tagMapping: { 'Retail': '零售', 'Brand': '品牌', 'Luxury': '奢侈品' }
+    keywords: ['智能手机', '苹果', '安卓', '高通', '折叠屏', '鸿蒙'],
+    tagMapping: { 'iPhone': 'iPhone', 'Android': '安卓', 'Mobile': '手机' }
   },
   entertainment: {
     name: '游戏娱乐',
@@ -118,42 +106,6 @@ const SOURCES = {
     ],
     keywords: ['清洁能源', '光伏', '风电', '储能', '氢能', '碳中和'],
     tagMapping: { 'Solar': '光伏', 'Hydrogen': '氢能', 'Green': '环保' }
-  },
-  smartphone: {
-    name: '智能手机',
-    icon: '📱',
-    queries: [
-      'smartphone mobile technology latest news',
-      'Apple iPhone 17 18 rumors leaks',
-      'Android Snapdragon Dimensity chipset news',
-      'Huawei Mate Xiaomi Vivo foldable phones'
-    ],
-    keywords: ['智能手机', '苹果', '安卓', '高通', '折叠屏', '鸿蒙'],
-    tagMapping: { 'iPhone': 'iPhone', 'Android': '安卓', 'Mobile': '手机' }
-  },
-  ai_industry: {
-    name: 'AI行业动态',
-    icon: '🧠',
-    queries: [
-      'artificial intelligence industry business news',
-      'OpenAI Microsoft Anthropic Google partnerships',
-      'enterprise AI investment trends',
-      'AI policy and regulation news'
-    ],
-    keywords: ['AI行业', '大模型', 'OpenAI', '算力', '人工智能', '大厂动态'],
-    tagMapping: { 'OpenAI': 'OpenAI', 'Microsoft': '微软', 'Google': 'Google' }
-  },
-  iot_smart_home: {
-    name: '物联网智能硬件',
-    icon: '🏠',
-    queries: [
-      'IoT smart home devices hardware news',
-      'Matter standard smart home connectivity',
-      'wearable tech smartwatch Oura latest',
-      'smart appliances connected hardware'
-    ],
-    keywords: ['物联网', '智能家居', '可穿戴设备', 'Matter', '智能硬件'],
-    tagMapping: { 'IoT': 'IoT', 'Smart': '智能', 'Home': '家居' }
   }
 };
 
@@ -167,10 +119,14 @@ function extractDomain(url) {
 
 function getMockImage(category, index) {
   const seeds = { 
-    tech_frontier: 'tech', business_finance: 'biz', international_affairs: 'world',
-    auto_ev: 'auto', semiconductor: 'chip', biopharma: 'bio',
-    consumer_retail: 'shop', entertainment: 'game', clean_energy: 'green',
-    smartphone: 'phone', ai_industry: 'brain', iot_smart_home: 'iot'
+    ai_industry: 'brain',
+    business_finance: 'biz',
+    auto_ev: 'auto',
+    semiconductor: 'chip',
+    biopharma: 'bio',
+    smartphone: 'phone',
+    entertainment: 'game',
+    clean_energy: 'green'
   };
   return `https://picsum.photos/seed/${seeds[category] || 'news'}${index}/400/250`;
 }
@@ -212,15 +168,11 @@ function getTodayInfo() {
 
 function getMockNews(category) {
   const mockDB = {
-    tech_frontier: [
-      { title: '量子计算容错性取得重大突破', summary: '科研团队成功延长了量子比特的相干时间，标志着通用量子计算迈出关键一步。', source: '前沿科学', url: '#', time: '今日', tag: '量子' },
-      { title: '新一代核聚变实验装置点火成功', summary: '“人造太阳”实现了超过 1000 秒的高约束模运行。', source: '能源报', url: '#', time: '今日', tag: '核聚变' }
+    ai_industry: [
+      { title: 'AGI 评估标准委员会今日成立', summary: '旨在为日益增强的通用人工智能提供客观的多维评估框架。', source: 'AI行业资讯', url: '#', time: '今日', tag: '行业' }
     ],
     business_finance: [
       { title: '美联储暗示下季度降息路径', summary: '最新议息会议纪要显示，多数官员支持逐步恢复中性利率。', source: '华尔街日报', url: '#', time: '今日', tag: '宏调' }
-    ],
-    international_affairs: [
-      { title: '全球气候峰会达成减排新共识', summary: '超过 100 个国家签署了关于加速可再生能源转型的联合声明。', source: '联合国新闻', url: '#', time: '今日', tag: '峰会' }
     ],
     auto_ev: [
       { title: '全固态电池汽车开启公开路测', summary: '某头部车企宣布其固态电池原型车已完成 5000 公里无故障路跑。', source: '电车志', url: '#', time: '今日', tag: '电池' }
@@ -231,23 +183,14 @@ function getMockNews(category) {
     biopharma: [
       { title: '通用型流感疫苗临床试验结果乐观', summary: '该疫苗可涵盖过去十年的主流变种，有效性大幅提升。', source: '医学周刊', url: '#', time: '今日', tag: '疫苗' }
     ],
-    consumer_retail: [
-      { title: '无人自动化零售技术加速下沉', summary: '二三线城市开始大规模部署基于 AI 视觉的无人便利店。', source: '零售周刊', url: '#', time: '今日', tag: '零售' }
+    smartphone: [
+      { title: '新型柔性屏技术解决折叠痕迹难题', summary: '通过更换铰链支撑结构和像素补偿，折叠屏寿命延长一倍。', source: '机圈网', url: '#', time: '今日', tag: '硬件' }
     ],
     entertainment: [
       { title: '某 3A 大作发售首日销量破千万', summary: '凭借极致的画面表现和沉浸感，该作刷新了单机游戏销售记录。', source: '游戏机', url: '#', time: '今日', tag: '游戏' }
     ],
     clean_energy: [
       { title: '海上风电单机容量突破 25MW', summary: '超大型海上风机顺利并网，标志着清洁能源装备进入新纪元。', source: '绿色电力', url: '#', time: '今日', tag: '风电' }
-    ],
-    smartphone: [
-      { title: '新型柔性屏技术解决折叠痕迹难题', summary: '通过更换铰链支撑结构和像素补偿，折叠屏寿命延长一倍。', source: '机圈网', url: '#', time: '今日', tag: '硬件' }
-    ],
-    ai_industry: [
-      { title: 'AGI 评估标准委员会今日成立', summary: '旨在为日益增强的通用人工智能提供客观的多维评估框架。', source: 'AI行业资讯', url: '#', time: '今日', tag: '行业' }
-    ],
-    iot_smart_home: [
-      { title: 'Matter 3.0 标准正式发布', summary: '新增对机器人厨具和全屋智能投影的多设备协同支持。', source: '智家观察', url: '#', time: '今日', tag: '标准' }
     ]
   };
   
@@ -305,7 +248,7 @@ async function generateDailyNews(useRealSearch = false) {
       items = getMockNews(key);
     }
     
-    // 始终推送分类，确保导航栏完整展示 12 项
+    // 始终推送分类，确保导航栏完整展示
     categories.push({ id: key, name: config.name, icon: config.icon, items: items || [] });
   }
   

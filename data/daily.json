@@ -2,31 +2,22 @@
   "date": {
     "date": "2026-03-14",
     "display": "2026年3月15日星期日",
-    "timestamp": "2026-03-14T16:53:30.632Z"
+    "timestamp": "2026-03-14T17:00:30.040Z"
   },
   "categories": [
     {
-      "id": "tech_frontier",
-      "name": "科技前沿",
-      "icon": "🚀",
+      "id": "ai_industry",
+      "name": "AI行业动态",
+      "icon": "🧠",
       "items": [
         {
-          "title": "量子计算容错性取得重大突破",
-          "summary": "科研团队成功延长了量子比特的相干时间，标志着通用量子计算迈出关键一步。",
-          "source": "前沿科学",
+          "title": "AGI 评估标准委员会今日成立",
+          "summary": "旨在为日益增强的通用人工智能提供客观的多维评估框架。",
+          "source": "AI行业资讯",
           "url": "#",
           "time": "今日",
-          "tag": "量子",
-          "image": "https://picsum.photos/seed/tech0/400/250"
-        },
-        {
-          "title": "新一代核聚变实验装置点火成功",
-          "summary": "“人造太阳”实现了超过 1000 秒的高约束模运行。",
-          "source": "能源报",
-          "url": "#",
-          "time": "今日",
-          "tag": "核聚变",
-          "image": "https://picsum.photos/seed/tech1/400/250"
+          "tag": "行业",
+          "image": "https://picsum.photos/seed/brain0/400/250"
         }
       ]
     },
@@ -43,22 +34,6 @@
           "time": "今日",
           "tag": "宏调",
           "image": "https://picsum.photos/seed/biz0/400/250"
-        }
-      ]
-    },
-    {
-      "id": "international_affairs",
-      "name": "国际局势",
-      "icon": "🌐",
-      "items": [
-        {
-          "title": "全球气候峰会达成减排新共识",
-          "summary": "超过 100 个国家签署了关于加速可再生能源转型的联合声明。",
-          "source": "联合国新闻",
-          "url": "#",
-          "time": "今日",
-          "tag": "峰会",
-          "image": "https://picsum.photos/seed/world0/400/250"
         }
       ]
     },
@@ -111,18 +86,18 @@
       ]
     },
     {
-      "id": "consumer_retail",
-      "name": "消费零售",
-      "icon": "🛍️",
+      "id": "smartphone",
+      "name": "智能手机",
+      "icon": "📱",
       "items": [
         {
-          "title": "无人自动化零售技术加速下沉",
-          "summary": "二三线城市开始大规模部署基于 AI 视觉的无人便利店。",
-          "source": "零售周刊",
+          "title": "新型柔性屏技术解决折叠痕迹难题",
+          "summary": "通过更换铰链支撑结构和像素补偿，折叠屏寿命延长一倍。",
+          "source": "机圈网",
           "url": "#",
           "time": "今日",
-          "tag": "零售",
-          "image": "https://picsum.photos/seed/shop0/400/250"
+          "tag": "硬件",
+          "image": "https://picsum.photos/seed/phone0/400/250"
         }
       ]
     },
@@ -157,57 +132,9 @@
           "image": "https://picsum.photos/seed/green0/400/250"
         }
       ]
-    },
-    {
-      "id": "smartphone",
-      "name": "智能手机",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "新型柔性屏技术解决折叠痕迹难题",
-          "summary": "通过更换铰链支撑结构和像素补偿，折叠屏寿命延长一倍。",
-          "source": "机圈网",
-          "url": "#",
-          "time": "今日",
-          "tag": "硬件",
-          "image": "https://picsum.photos/seed/phone0/400/250"
-        }
-      ]
-    },
-    {
-      "id": "ai_industry",
-      "name": "AI行业动态",
-      "icon": "🧠",
-      "items": [
-        {
-          "title": "AGI 评估标准委员会今日成立",
-          "summary": "旨在为日益增强的通用人工智能提供客观的多维评估框架。",
-          "source": "AI行业资讯",
-          "url": "#",
-          "time": "今日",
-          "tag": "行业",
-          "image": "https://picsum.photos/seed/brain0/400/250"
-        }
-      ]
-    },
-    {
-      "id": "iot_smart_home",
-      "name": "物联网智能硬件",
-      "icon": "🏠",
-      "items": [
-        {
-          "title": "Matter 3.0 标准正式发布",
-          "summary": "新增对机器人厨具和全屋智能投影的多设备协同支持。",
-          "source": "智家观察",
-          "url": "#",
-          "time": "今日",
-          "tag": "标准",
-          "image": "https://picsum.photos/seed/iot0/400/250"
-        }
-      ]
     }
   ],
-  "generatedAt": "2026-03-14T16:53:30.632Z",
+  "generatedAt": "2026-03-14T17:00:30.040Z",
   "version": "3.0.0",
   "source": "mock"
 }

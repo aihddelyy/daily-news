@@ -119,18 +119,14 @@ const TEMPLATE = `<!DOCTYPE html>
 
 function generateNewsContent(data) {
   const tagColors = {
-    tech_frontier: 'tech_frontier',
+    ai_industry: 'ai_industry',
     business_finance: 'business_finance',
-    international_affairs: 'international_affairs',
     auto_ev: 'auto_ev',
     semiconductor: 'semiconductor',
     biopharma: 'biopharma',
-    consumer_retail: 'consumer_retail',
-    entertainment: 'entertainment',
-    clean_energy: 'clean_energy',
     smartphone: 'smartphone',
-    ai_industry: 'ai_industry',
-    iot_smart_home: 'iot_smart_home'
+    entertainment: 'entertainment',
+    clean_energy: 'clean_energy'
   };
 
   return data.categories.map(cat => {
