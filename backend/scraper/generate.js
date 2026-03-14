@@ -20,20 +20,20 @@ const TEMPLATE = `<!DOCTYPE html>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{title}}</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="{{base}}css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 </head>
 <body>
   <header class="header">
     <div class="nav-container">
-      <a href="/" class="logo">
+      <a href="{{base}}" class="logo">
         <div class="logo-icon">📰</div>
         <span class="logo-text">AI 日报</span>
       </a>
       <nav class="nav-links">
-        <a href="#" class="nav-link active" data-category="all">首页</a>
+        <a href="{{base}}#" class="nav-link active" data-category="all">首页</a>
         {{navCategories}}
-        <a href="archive/" class="nav-link">存档</a>
+        <a href="{{base}}archive/" class="nav-link">存档</a>
       </nav>
       <div class="nav-actions">
         <div class="search-box">
@@ -113,7 +113,7 @@ const TEMPLATE = `<!DOCTYPE html>
     </div>
   </footer>
 
-  <script src="js/app.js"></script>
+  <script src="{{base}}js/app.js"></script>
 </body>
 </html>`;
 
@@ -162,15 +162,17 @@ function generateNewsContent(data) {
   }).join('');
 }
 
-function generateHTML(data) {
+function generateHTML(data, isArchive = false) {
+  const base = isArchive ? '../' : '';
   const totalNews = data.categories.reduce((sum, cat) => sum + cat.items.length, 0);
   const categoryCount = data.categories.filter(cat => cat.items.length > 0).length;
 
   const navCategories = data.categories.map(cat => 
-    `<a href="#${cat.id}" class="nav-link" data-category="${cat.id}">${cat.name}</a>`
+    `<a href="${base}#${cat.id}" class="nav-link" data-category="${cat.id}">${cat.name}</a>`
   ).join('');
 
   return TEMPLATE
+    .replace(/{{base}}/g, base)
     .replace('{{title}}', `AI 日报 - ${data.date.date}`)
     .replace('{{dateDisplay}}', data.date.display)
     .replace(/{{totalNews}}/g, totalNews)
@@ -185,7 +187,7 @@ function saveArchive(data) {
     fs.mkdirSync(PATHS.archive, { recursive: true });
   }
   const archiveFile = path.join(PATHS.archive, `${data.date.date}.html`);
-  fs.writeFileSync(archiveFile, generateHTML(data), 'utf-8');
+  fs.writeFileSync(archiveFile, generateHTML(data, true), 'utf-8');
   updateArchiveIndex();
 }
 
