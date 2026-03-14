@@ -11,122 +11,149 @@ const { tavilySearchBatch } = require('../utils/tavily-api');
 // 六大分类配置（英文搜索 + 中文显示）
 // ============================================
 const SOURCES = {
-  ai: {
-    name: 'AI 人工智能',
-    icon: '🤖',
+  tech_frontier: {
+    name: '科技前沿',
+    icon: '🚀',
     queries: [
-      'latest artificial intelligence news today',
-      'OpenAI ChatGPT Claude latest updates',
-      'AI agents autonomous robotics news',
-      'major AI breakthroughs this week'
+      'latest cutting-edge technology breakthroughs',
+      'quantum computing research news',
+      'space exploration SpaceX NASA latest',
+      'nuclear fusion energy breakthrough'
     ],
-    keywords: ['AI', '人工智能', '大模型', 'ChatGPT', 'Claude', 'OpenAI', '机器人', '智能体'],
-    tagMapping: {
-      'OpenAI': 'OpenAI',
-      'Google': 'Google',
-      'Anthropic': 'Claude',
-      'Meta': 'Meta',
-      'Microsoft': 'Microsoft',
-      'NVIDIA': 'NVIDIA',
-      'agent': 'Agent',
-      'robot': '机器人'
-    }
+    keywords: ['量子计算', '航天', 'SpaceX', '核聚变', '前沿科技', '实验室'],
+    tagMapping: { 'SpaceX': 'SpaceX', 'NASA': 'NASA', 'Quantum': '量子', 'Fusion': '核聚变' }
   },
-  ecommerce: {
-    name: '跨境电商',
-    icon: '🌍',
+  business_finance: {
+    name: '商业财经',
+    icon: '📊',
     queries: [
-      'cross-border e-commerce industry news',
-      'SHEIN Temu TikTok Shop Amazon latest',
-      'DTC brand international expansion news',
-      'global e-commerce logistics trends'
+      'global business finance market news',
+      'Wall Street Journal business highlights',
+      'central bank interest rates trends',
+      'top corporate earnings news'
     ],
-    keywords: ['跨境电商', '出海', 'SHEIN', 'Temu', '亚马逊', '独立站', 'DTC'],
-    tagMapping: {
-      'SHEIN': 'SHEIN',
-      'Temu': 'Temu',
-      'TikTok': 'TikTok',
-      'Amazon': 'Amazon',
-      'Shopify': 'Shopify'
-    }
+    keywords: ['财经', '财报', '美联储', '降息', '华尔街', '宏观经济'],
+    tagMapping: { 'Fed': '美联储', 'Earnings': '财报', 'Market': '市场' }
   },
-  startup: {
-    name: '产品创业',
-    icon: '💡',
+  international_affairs: {
+    name: '国际局势',
+    icon: '🌐',
     queries: [
-      'tech startup funding news today',
-      'SaaS product growth startup trends',
-      'venture capital latest investments',
-      'notable startup acquisitions 2025 2026'
+      'geopolitics international relations global affairs',
+      'United Nations major summits news',
+      'global conflict updates today',
+      'diplomatic relations breakthroughs'
     ],
-    keywords: ['创业', '融资', '独角兽', 'SaaS', 'PMF', '增长', '投资'],
-    tagMapping: {
-      'YC': 'YC',
-      'Y Combinator': 'YC',
-      'seed': '种子轮',
-      'Series A': 'A轮',
-      'Series B': 'B轮',
-      'IPO': 'IPO'
-    }
+    keywords: ['地缘政治', '外交', '联合国', '峰会', '局势', '冲突调节'],
+    tagMapping: { 'UN': '联合国', 'Summit': '峰会', 'Diplomacy': '外交' }
   },
-  web3: {
-    name: '区块链 Web3',
-    icon: '⛓️',
+  auto_ev: {
+    name: '汽车出行',
+    icon: '🚗',
     queries: [
-      'cryptocurrency Bitcoin Ethereum news',
-      'DeFi Web3 blockchain latest updates',
-      'crypto institutional investment news',
-      'NFT metaverse digital assets trends'
+      'electric vehicles EV industry news today',
+      'autonomous driving Tesla FSD latest',
+      'BYD Xiaomi Auto market expansion',
+      'solid-state battery for EV news'
     ],
-    keywords: ['区块链', 'Web3', '加密货币', '比特币', '以太坊', 'DeFi', 'NFT', '元宇宙'],
-    tagMapping: {
-      'Bitcoin': 'BTC',
-      'BTC': 'BTC',
-      'Ethereum': 'ETH',
-      'ETH': 'ETH',
-      'Solana': 'SOL',
-      'DeFi': 'DeFi',
-      'NFT': 'NFT',
-      'ETF': 'ETF'
-    }
+    keywords: ['汽车', '电动车', 'EV', '特斯拉', '比亚迪', '自动驾驶', '小米汽车'],
+    tagMapping: { 'Tesla': 'Tesla', 'BYD': '比亚迪', 'EV': '电动', 'Autonomous': '智驾' }
   },
-  biotech: {
-    name: '生物科技',
+  semiconductor: {
+    name: '半导体芯片',
+    icon: '💻',
+    queries: [
+      'semiconductor industry chip technology news',
+      'NVIDIA GPU Blackwell AI chip updates',
+      'TSMC Intel Samsung foundry news',
+      'ASML photolithography tech trends'
+    ],
+    keywords: ['半导体', '芯片', '英伟达', '台积电', '光刻机', 'ASML', 'GPU'],
+    tagMapping: { 'NVIDIA': 'NVIDIA', 'TSMC': '台积电', 'Intel': 'Intel', 'GPU': '芯片' }
+  },
+  biopharma: {
+    name: '生物医药',
     icon: '🧬',
     queries: [
-      'biotech pharmaceutical latest news',
-      'gene therapy CRISPR breakthrough updates',
-      'FDA drug approval news today',
-      'biotechnology medical innovation'
+      'biopharmaceutical drug development news',
+      'GLP-1 weight loss drug market latest',
+      'cancer research immunotherapy updates',
+      'FDA pharma approval today'
     ],
-    keywords: ['生物科技', '医药', '基因', 'CRISPR', '创新药', 'FDA'],
-    tagMapping: {
-      'FDA': 'FDA',
-      'Pfizer': 'Pfizer',
-      'Moderna': 'Moderna',
-      'gene': '基因',
-      'therapy': '疗法'
-    }
+    keywords: ['生物医药', 'GLP-1', '创新药', '癌症研究', 'FDA', '阿兹海默'],
+    tagMapping: { 'FDA': 'FDA', 'Cancer': '肿瘤', 'Drug': '药物' }
   },
-  newenergy: {
-    name: '新能源',
-    icon: '⚡',
+  consumer_retail: {
+    name: '消费零售',
+    icon: '🛍️',
     queries: [
-      'electric vehicle EV industry news',
-      'battery technology energy storage trends',
-      'renewable energy solar wind updates',
-      'Tesla BYD CATL latest market news'
+      'consumer retail market trends 2026',
+      'global luxury brands revenue news',
+      'LVMH Nike Starbucks market performance',
+      'emerging retail tech automation'
     ],
-    keywords: ['新能源', '电动车', '储能', '电池', '碳中和', '光伏', '氢能'],
-    tagMapping: {
-      'Tesla': 'Tesla',
-      'BYD': 'BYD',
-      'CATL': 'CATL',
-      'solid-state': '固态电池',
-      'battery': '电池',
-      'solar': '光伏',
-      'hydrogen': '氢能'
-    }
+    keywords: ['消费', '零售', '品牌', '奢侈品', '供应链', '自动化'],
+    tagMapping: { 'Retail': '零售', 'Brand': '品牌', 'Luxury': '奢侈品' }
+  },
+  entertainment: {
+    name: '游戏娱乐',
+    icon: '🎮',
+    queries: [
+      'gaming industry news AAA titles news',
+      'Nintendo Sony Xbox latest updates',
+      'Netflix Disney streaming market news',
+      'esports tournament major results'
+    ],
+    keywords: ['游戏', '影视', '任天堂', '索尼', 'Xbox', '流媒体', '电竞'],
+    tagMapping: { 'Nintendo': '任天堂', 'Sony': '索尼', 'Game': '游戏' }
+  },
+  clean_energy: {
+    name: '环保能源',
+    icon: '🌿',
+    queries: [
+      'clean energy renewable solar wind news',
+      'energy storage battery green hydrogen',
+      'climate change policy global updates',
+      'carbon capture technology trends'
+    ],
+    keywords: ['清洁能源', '光伏', '风电', '储能', '氢能', '碳中和'],
+    tagMapping: { 'Solar': '光伏', 'Hydrogen': '氢能', 'Green': '环保' }
+  },
+  smartphone: {
+    name: '智能手机',
+    icon: '📱',
+    queries: [
+      'smartphone mobile technology latest news',
+      'Apple iPhone 17 18 rumors leaks',
+      'Android Snapdragon Dimensity chipset news',
+      'Huawei Mate Xiaomi Vivo foldable phones'
+    ],
+    keywords: ['智能手机', '苹果', '安卓', '高通', '折叠屏', '鸿蒙'],
+    tagMapping: { 'iPhone': 'iPhone', 'Android': '安卓', 'Mobile': '手机' }
+  },
+  ai_industry: {
+    name: 'AI行业动态',
+    icon: '🧠',
+    queries: [
+      'artificial intelligence industry business news',
+      'OpenAI Microsoft Anthropic Google partnerships',
+      'enterprise AI investment trends',
+      'AI policy and regulation news'
+    ],
+    keywords: ['AI行业', '大模型', 'OpenAI', '算力', '人工智能', '大厂动态'],
+    tagMapping: { 'OpenAI': 'OpenAI', 'Microsoft': '微软', 'Google': 'Google' }
+  },
+  iot_smart_home: {
+    name: '物联网智能硬件',
+    icon: '🏠',
+    queries: [
+      'IoT smart home devices hardware news',
+      'Matter standard smart home connectivity',
+      'wearable tech smartwatch Oura latest',
+      'smart appliances connected hardware'
+    ],
+    keywords: ['物联网', '智能家居', '可穿戴设备', 'Matter', '智能硬件'],
+    tagMapping: { 'IoT': 'IoT', 'Smart': '智能', 'Home': '家居' }
   }
 };
 
