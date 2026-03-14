@@ -245,6 +245,8 @@ async function main() {
   }
 }
 
+module.exports = { generateHTML };
+
 if (require.main === module) {
   main();
 }
