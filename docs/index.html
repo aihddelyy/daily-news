@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 - 2026-03-14</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+  <header class="header">
+    <div class="nav-container">
+      <a href="/" class="logo">
+        <div class="logo-icon">📰</div>
+        <span class="logo-text">AI 日报</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#" class="nav-link active">今日日报</a>
+        <a href="archive/" class="nav-link">历史存档</a>
+      </nav>
+      <div class="nav-actions">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" class="search-input" placeholder="搜索资讯...">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-card">
+      <div class="hero-image"></div>
+      <div class="hero-content">
+        <span class="hero-tag">
+          <span>📅</span> 今日日报
+        </span>
+        <h1 class="hero-title">全域前沿行业日报</h1>
+        <p class="hero-title" style="font-size: 1.5rem; color: var(--text-secondary); margin-bottom: 1rem;">2026年3月14日星期六</p>
+        <div class="hero-meta">
+          <div class="hero-author">
+            <div class="author-avatar">AI</div>
+            <span>AI 智能助手</span>
+          </div>
+          <span>•</span>
+          <span>27 条精选资讯</span>
+          <span>•</span>
+          <span>6 大领域</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="main">
+    <div class="stats-bar">
+      <div class="stat-item">
+        <div class="stat-value">27</div>
+        <div class="stat-label">今日资讯</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">6</div>
+        <div class="stat-label">分类板块</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">24h</div>
+        <div class="stat-label">实时更新</div>
+      </div>
+    </div>
+
+    <!-- AI 汇总按钮 -->
+    <div style="display: flex; justify-content: center; margin-bottom: 2rem;">
+      <button class="summary-btn" onclick="window.AIDailyNews.showDailySummary()">
+        <span>✨</span> AI 智能汇总
+      </button>
+    </div>
+
+    <div class="category-filter">
+      <button class="filter-btn active" data-category="all">
+        <span>📰</span> 全部
+      </button>
+      <button class="filter-btn" data-category="ai"><span>🤖</span> AI前沿</button>
+      <button class="filter-btn" data-category="ecommerce"><span>🌍</span> 跨境电商</button>
+      <button class="filter-btn" data-category="startup"><span>💡</span> 产品创业</button>
+      <button class="filter-btn" data-category="web3"><span>⛓️</span> Web3</button>
+      <button class="filter-btn" data-category="biotech"><span>🧬</span> 生物科技</button>
+      <button class="filter-btn" data-category="newenergy"><span>⚡</span> 新能源</button>
+    </div>
+
+    
+    <section class="category-section" data-category="ai" id="ai">
+      <div class="category-header">
+        <h2 class="category-title">
+          <span class="category-icon">🤖</span>AI 人工智能
+        </h2>
+        <span class="category-count">6 条</span>
+      </div>
+      <div class="news-grid">
+      <a href="https://www.huanqiu.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/ai0/400/250" alt="越南《人工智能法》正式生效" loading="lazy">
+            <span class="news-category-tag ai">政策</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">越南《人工智能法》正式生效</h3>
+            <p class="news-summary">越南正式实施《人工智能法》，标志东盟 AI 治理进入新阶段。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 环球时报</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.xinhuanet.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/ai1/400/250" alt="荣耀发布机器人手机" loading="lazy">
+            <span class="news-category-tag ai">产品</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">荣耀发布机器人手机</h3>
+            <p class="news-summary">MWC 2026 上，荣耀推出融合具身智能的机器人手机。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 新华网</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.jfdaily.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/ai2/400/250" alt="阿里千问大模型负责人卸任" loading="lazy">
+            <span class="news-category-tag ai">人事</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">阿里千问大模型负责人卸任</h3>
+            <p class="news-summary">阿里巴巴最年轻 P10 级技术专家宣布离开千问团队。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 上观新闻</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://finance.sina.com.cn" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/ai3/400/250" alt="黄仁勋：300亿投资可能是最后一次" loading="lazy">
+            <span class="news-category-tag ai">融资</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">黄仁勋：300亿投资可能是最后一次</h3>
+            <p class="news-summary">英伟达 CEO 表示近期投资可能是最后一次。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 新浪财经</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.chinastarmarket.cn" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/ai4/400/250" alt="蚂蚁集团发布强化学习框架" loading="lazy">
+            <span class="news-category-tag ai">开源</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">蚂蚁集团发布强化学习框架</h3>
+            <p class="news-summary">首个全异步训推解耦的大模型强化学习训练系统。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 科创板日报</span></div>
+              <span class="news-date">昨日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.ruanmeng.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/ai5/400/250" alt="我国首个国家级人形机器人标准体系发布" loading="lazy">
+            <span class="news-category-tag ai">标准</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">我国首个国家级人形机器人标准体系发布</h3>
+            <p class="news-summary">我国首个国家级"人形机器人与具身智能标准体系"正式发布。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 软盟资讯</span></div>
+              <span class="news-date">3月2日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    </div>
+    </section>
+    <section class="category-section" data-category="ecommerce" id="ecommerce">
+      <div class="category-header">
+        <h2 class="category-title">
+          <span class="category-icon">🌍</span>跨境电商
+        </h2>
+        <span class="category-count">4 条</span>
+      </div>
+      <div class="news-grid">
+      <a href="https://www.xinhuanet.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/shop0/400/250" alt="深圳华强北发布 AI 硬件全球销售热力图" loading="lazy">
+            <span class="news-category-tag ecommerce">数据</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">深圳华强北发布 AI 硬件全球销售热力图</h3>
+            <p class="news-summary">2026年1-2月数据显示，无人机海内外市场需求旺盛。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 新华社</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.ithome.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/shop1/400/250" alt="雷军两会建议：提高人形机器人使用率" loading="lazy">
+            <span class="news-category-tag ecommerce">政策</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">雷军两会建议：提高人形机器人使用率</h3>
+            <p class="news-summary">小米 CEO 提出 5 份建议，涉及智能制造应用和人才培养。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 IT之家</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.huawei.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/shop2/400/250" alt="华为发布 Atlas 950 SuperPoD" loading="lazy">
+            <span class="news-category-tag ecommerce">产品</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">华为发布 Atlas 950 SuperPoD</h3>
+            <p class="news-summary">MWC 2026 期间，华为发布多款超节点产品。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 华为官网</span></div>
+              <span class="news-date">昨日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://finance.sina.com.cn" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/shop3/400/250" alt="千问"一句话下单"功能 DAU 突破 7300 万" loading="lazy">
+            <span class="news-category-tag ecommerce">数据</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">千问"一句话下单"功能 DAU 突破 7300 万</h3>
+            <p class="news-summary">超过 400 万 60 岁以上新用户通过 AI 完成外卖下单。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 新浪财经</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    </div>
+    </section>
+    <section class="category-section" data-category="startup" id="startup">
+      <div class="category-header">
+        <h2 class="category-title">
+          <span class="category-icon">💡</span>产品创业
+        </h2>
+        <span class="category-count">3 条</span>
+      </div>
+      <div class="news-grid">
+      <a href="https://www.bloomberg.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/rocket0/400/250" alt="OpenAI 完成 1100 亿美元新一轮融资" loading="lazy">
+            <span class="news-category-tag startup">融资</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">OpenAI 完成 1100 亿美元新一轮融资</h3>
+            <p class="news-summary">该轮融资包括英伟达、亚马逊和软银的投资承诺。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 彭博社</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.bjd.com.cn" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/rocket1/400/250" alt="北京数据和人工智能安全检测中心揭牌" loading="lazy">
+            <span class="news-category-tag startup">政策</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">北京数据和人工智能安全检测中心揭牌</h3>
+            <p class="news-summary">AI 产业迎来专业鉴定机构，七大创新成果发布。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 北京日报</span></div>
+              <span class="news-date">3月2日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.mwcbarcelona.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/rocket2/400/250" alt="Honor 推出全球首款机器人手机" loading="lazy">
+            <span class="news-category-tag startup">创新</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">Honor 推出全球首款机器人手机</h3>
+            <p class="news-summary">荣耀 CEO 表示，这是智能手机的"全新物种"。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 MWC 2026</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    </div>
+    </section>
+    <section class="category-section" data-category="web3" id="web3">
+      <div class="category-header">
+        <h2 class="category-title">
+          <span class="category-icon">⛓️</span>区块链 Web3
+        </h2>
+        <span class="category-count">5 条</span>
+      </div>
+      <div class="news-grid">
+      <a href="https://www.coindesk.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/crypto0/400/250" alt="比特币 ETF 资金流入创新高" loading="lazy">
+            <span class="news-category-tag web3">BTC</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">比特币 ETF 资金流入创新高</h3>
+            <p class="news-summary">美国比特币 ETF 单日净流入超 10 亿美元。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 CoinDesk</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.theblock.co" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/crypto1/400/250" alt="以太坊 Dencun 升级完成" loading="lazy">
+            <span class="news-category-tag web3">ETH</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">以太坊 Dencun 升级完成</h3>
+            <p class="news-summary">升级引入 EIP-4844，使 Layer2 交易费用降低 90% 以上。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 The Block</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.scmp.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/crypto2/400/250" alt="香港证监会批准首批现货加密 ETF" loading="lazy">
+            <span class="news-category-tag web3">ETF</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">香港证监会批准首批现货加密 ETF</h3>
+            <p class="news-summary">香港正式批准比特币和以太坊现货 ETF。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 南华早报</span></div>
+              <span class="news-date">昨日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://defillama.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/crypto3/400/250" alt="DeFi 协议总锁仓量突破 1000 亿美元" loading="lazy">
+            <span class="news-category-tag web3">DeFi</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">DeFi 协议总锁仓量突破 1000 亿美元</h3>
+            <p class="news-summary">受市场回暖带动，DeFi 生态 TVL 创下近两年新高。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 DeFiLlama</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.caixin.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/crypto4/400/250" alt="央行数字货币跨境支付试点扩大" loading="lazy">
+            <span class="news-category-tag web3">CBDC</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">央行数字货币跨境支付试点扩大</h3>
+            <p class="news-summary">数字人民币跨境支付试点新增 5 个国家和地区。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 财新</span></div>
+              <span class="news-date">3月3日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    </div>
+    </section>
+    <section class="category-section" data-category="biotech" id="biotech">
+      <div class="category-header">
+        <h2 class="category-title">
+          <span class="category-icon">🧬</span>生物科技
+        </h2>
+        <span class="category-count">3 条</span>
+      </div>
+      <div class="news-grid">
+      <a href="https://www.reuters.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/biotech0/400/250" alt="首款 CRISPR 基因编辑疗法获 FDA 批准" loading="lazy">
+            <span class="news-category-tag biotech">FDA</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">首款 CRISPR 基因编辑疗法获 FDA 批准</h3>
+            <p class="news-summary">FDA 批准首个基于 CRISPR 的基因疗法。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 Reuters</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.nature.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/biotech1/400/250" alt="AI 辅助药物研发获重大突破" loading="lazy">
+            <span class="news-category-tag biotech">AI</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">AI 辅助药物研发获重大突破</h3>
+            <p class="news-summary">人工智能辅助制药，新药研发时间缩短 50%。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 Nature</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.bbc.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/biotech2/400/250" alt="mRNA 技术获诺贝尔奖认可" loading="lazy">
+            <span class="news-category-tag biotech">奖项</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">mRNA 技术获诺贝尔奖认可</h3>
+            <p class="news-summary">mRNA 疫苗技术获诺贝尔化学奖。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 BBC</span></div>
+              <span class="news-date">昨日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    </div>
+    </section>
+    <section class="category-section" data-category="newenergy" id="newenergy">
+      <div class="category-header">
+        <h2 class="category-title">
+          <span class="category-icon">⚡</span>新能源
+        </h2>
+        <span class="category-count">6 条</span>
+      </div>
+      <div class="news-grid">
+      <a href="https://www.stcn.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/energy0/400/250" alt="宁德时代发布新一代固态电池技术" loading="lazy">
+            <span class="news-category-tag newenergy">固态电池</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">宁德时代发布新一代固态电池技术</h3>
+            <p class="news-summary">能量密度突破 500Wh/kg，预计 2027 年量产装车。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 证券时报</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.thepaper.cn" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/energy1/400/250" alt="特斯拉上海储能超级工厂投产" loading="lazy">
+            <span class="news-category-tag newenergy">Tesla</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">特斯拉上海储能超级工厂投产</h3>
+            <p class="news-summary">年产能 40GWh，产品将面向全球市场供应。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 澎湃新闻</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.mee.gov.cn" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/energy2/400/250" alt="全国碳市场扩容纳入钢铁水泥行业" loading="lazy">
+            <span class="news-category-tag newenergy">碳中和</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">全国碳市场扩容纳入钢铁水泥行业</h3>
+            <p class="news-summary">碳交易市场覆盖范围扩大，推动高耗能行业绿色转型。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 生态环境部</span></div>
+              <span class="news-date">昨日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.pvmen.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/energy3/400/250" alt="光伏组件出口量同比增长 35%" loading="lazy">
+            <span class="news-category-tag newenergy">光伏</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">光伏组件出口量同比增长 35%</h3>
+            <p class="news-summary">中国光伏产品海外需求持续旺盛。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 光伏們</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.cnautonews.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/energy4/400/250" alt="氢能源重卡商业化运营启动" loading="lazy">
+            <span class="news-category-tag newenergy">氢能</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">氢能源重卡商业化运营启动</h3>
+            <p class="news-summary">首批 100 辆氢燃料电池重卡投入物流干线运营。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 中国汽车报</span></div>
+              <span class="news-date">3月2日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    
+      <a href="https://www.byd.com" class="news-card-link" target="_blank" rel="noopener">
+        <article class="news-card">
+          <div class="news-image">
+            <img src="https://picsum.photos/seed/energy5/400/250" alt="比亚迪发布第五代 DM 混动技术" loading="lazy">
+            <span class="news-category-tag newenergy">BYD</span>
+          </div>
+          <div class="news-content">
+            <h3 class="news-title">比亚迪发布第五代 DM 混动技术</h3>
+            <p class="news-summary">百公里油耗降至 2.9L，综合续航超 2000 公里。</p>
+            <div class="news-meta">
+              <div class="news-author"><span>📰 比亚迪</span></div>
+              <span class="news-date">今日</span>
+            </div>
+          </div>
+        </article>
+      </a>
+    </div>
+    </section>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <div class="logo-icon">📰</div>
+            <span class="logo-text">AI 日报</span>
+          </div>
+          <p class="footer-desc">
+            每日自动抓取前沿科技、商业财经等领域热点，由 AI 自动排版并生成精美摘要。
+          </p>
+          <p class="footer-contact">由 AI 自动生成 • 2026/3/14 18:38:08</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p class="footer-copyright">© 2026 AI Daily News. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

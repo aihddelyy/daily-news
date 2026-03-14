@@ -1,0 +1,18 @@
+{
+  "name": "ai-daily-news",
+  "version": "3.0.0",
+  "description": "AI Daily News - 每日自动生成的行业前沿资讯日报",
+  "main": "backend/scraper/generate.js",
+  "scripts": {
+    "start": "node backend/scraper/generate.js",
+    "generate": "node backend/scraper/generate.js",
+    "generate:real": "node backend/scraper/generate.js --real",
+    "generate:archive": "node backend/scraper/generate.js --real --archive"
+  },
+  "keywords": ["ai", "news", "daily", "tavily", "kimi"],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
