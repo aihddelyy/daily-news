@@ -15,10 +15,10 @@ const SOURCES = {
     name: 'AI 人工智能',
     icon: '🤖',
     queries: [
-      'AI artificial intelligence news today March 2026',
-      'OpenAI ChatGPT GPT-5 Claude LLM latest',
-      'AI agents autonomous robotics humanoid',
-      'machine learning deep learning breakthrough'
+      'latest artificial intelligence news today',
+      'OpenAI ChatGPT Claude latest updates',
+      'AI agents autonomous robotics news',
+      'major AI breakthroughs this week'
     ],
     keywords: ['AI', '人工智能', '大模型', 'ChatGPT', 'Claude', 'OpenAI', '机器人', '智能体'],
     tagMapping: {
@@ -36,10 +36,10 @@ const SOURCES = {
     name: '跨境电商',
     icon: '🌍',
     queries: [
-      'cross-border e-commerce news March 2026',
-      'SHEIN Temu TikTok Shop Amazon global',
-      'DTC brand international expansion',
-      'e-commerce logistics supply chain'
+      'cross-border e-commerce industry news',
+      'SHEIN Temu TikTok Shop Amazon latest',
+      'DTC brand international expansion news',
+      'global e-commerce logistics trends'
     ],
     keywords: ['跨境电商', '出海', 'SHEIN', 'Temu', '亚马逊', '独立站', 'DTC'],
     tagMapping: {
@@ -54,10 +54,10 @@ const SOURCES = {
     name: '产品创业',
     icon: '💡',
     queries: [
-      'startup funding venture capital March 2026',
-      'SaaS product growth startup news',
-      'tech startup funding Series A B',
-      'startup IPO acquisition 2026'
+      'tech startup funding news today',
+      'SaaS product growth startup trends',
+      'venture capital latest investments',
+      'notable startup acquisitions 2025 2026'
     ],
     keywords: ['创业', '融资', '独角兽', 'SaaS', 'PMF', '增长', '投资'],
     tagMapping: {
@@ -73,10 +73,10 @@ const SOURCES = {
     name: '区块链 Web3',
     icon: '⛓️',
     queries: [
-      'cryptocurrency Bitcoin Ethereum news March 2026',
-      'DeFi Web3 blockchain latest',
-      'crypto ETF institutional investment',
-      'NFT metaverse digital assets'
+      'cryptocurrency Bitcoin Ethereum news',
+      'DeFi Web3 blockchain latest updates',
+      'crypto institutional investment news',
+      'NFT metaverse digital assets trends'
     ],
     keywords: ['区块链', 'Web3', '加密货币', '比特币', '以太坊', 'DeFi', 'NFT', '元宇宙'],
     tagMapping: {
@@ -94,10 +94,10 @@ const SOURCES = {
     name: '生物科技',
     icon: '🧬',
     queries: [
-      'biotech pharmaceutical news March 2026',
-      'gene therapy CRISPR breakthrough',
-      'FDA drug approval 2026',
-      'biotechnology innovation'
+      'biotech pharmaceutical latest news',
+      'gene therapy CRISPR breakthrough updates',
+      'FDA drug approval news today',
+      'biotechnology medical innovation'
     ],
     keywords: ['生物科技', '医药', '基因', 'CRISPR', '创新药', 'FDA'],
     tagMapping: {
@@ -112,10 +112,10 @@ const SOURCES = {
     name: '新能源',
     icon: '⚡',
     queries: [
-      'electric vehicle EV news March 2026',
-      'battery technology energy storage',
-      'renewable energy solar wind',
-      'Tesla BYD CATL EV market'
+      'electric vehicle EV industry news',
+      'battery technology energy storage trends',
+      'renewable energy solar wind updates',
+      'Tesla BYD CATL latest market news'
     ],
     keywords: ['新能源', '电动车', '储能', '电池', '碳中和', '光伏', '氢能'],
     tagMapping: {

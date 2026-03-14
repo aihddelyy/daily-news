@@ -72,20 +72,19 @@ async function generateSummary(newsData) {
 1. 整体摘要：用2-3句话概括今日所有分类的核心动态
 2. 按分类汇总：
    - 为每个分类生成1-2句话的分类摘要
-   - 提取3-5个该分类的关键点/趋势
+   - 提取3-4个该分类的关键点/趋势
    - 为每条新闻生成精简摘要（30-50字）
-   - 提取每条新闻的1-2个关键洞察
-   - 必须包含所有新闻，不要遗漏任何一条
-3. 语言风格：简洁、专业、易读
-请严格按照以下JSON格式返回：
+   - 提取每条新闻的1个关键洞察
+3. 必须输出纯 JSON 格式，尽量不要包含任何 Markdown 格式、代码块标记（如 \`\`\`json）或额外的解释文字。
+4. 语言风格：简洁、专业、易读
+
+JSON 结构如下：
 {
   "date": "日期",
   "overallSummary": "整体摘要",
   "categories": [
     {
-      "id": "分类ID",
       "name": "分类名称",
-      "icon": "图标",
       "categorySummary": "分类摘要",
       "keyPoints": ["关键点1", "关键点2"],
       "news": [
@@ -132,14 +131,30 @@ async function generateSummary(newsData) {
             return;
           }
           
-          const content = parsedData.choices?.[0]?.message?.content?.trim() || '';
-          const jsonMatch = content.match(/\{[\s\S]*\}/);
+          let content = parsedData.choices?.[0]?.message?.content?.trim() || '';
           
-          if (jsonMatch) {
-            const summary = JSON.parse(jsonMatch[0]);
-            resolve(fixSummaryIds(summary, newsData));
+          // 增强型 JSON 提取：兼容 markdown 代码块
+          let jsonStr = content;
+          if (content.includes('```')) {
+            const matches = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+            if (matches && matches[1]) {
+              jsonStr = matches[1];
+            }
           } else {
-            console.warn('⚠️ MiniMax 返回的内容不包含有效的 JSON 汇总');
+            const matches = content.match(/\{[\s\S]*\}/);
+            if (matches) {
+              jsonStr = matches[0];
+            }
+          }
+          
+          try {
+            const summary = JSON.parse(jsonStr);
+            resolve(fixSummaryIds(summary, newsData));
+          } catch (parseError) {
+            console.warn('⚠️ MiniMax 返回的内容无法解析为 JSON');
+            console.log('--- MiniMax 原始内容 ---');
+            console.log(content);
+            console.log('--- 结束 ---');
             resolve(null);
           }
         } catch (error) {
