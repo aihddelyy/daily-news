@@ -2,7 +2,7 @@
   "date": {
     "date": "2026-03-14",
     "display": "2026年3月14日星期六",
-    "timestamp": "2026-03-14T15:40:51.048Z",
+    "timestamp": "2026-03-14T15:55:58.823Z",
     "year": "2026",
     "month": "03",
     "day": "14"
@@ -215,63 +215,63 @@
       "icon": "🚗",
       "items": [
         {
-          "title": "EV | The latest news on the electric vehicle industry.",
-          "summary": "Breaking EV news, Tesla updates, Rivian, Lucid & Chinese EV market coverage. Daily updates on electric vehicles & autonomous driving....",
+          "title": "EV Industry Updates",
+          "summary": "Stay updated on the latest industry news in electric cars, plug-in hybrids, hybrids, and hydrogen vehicles. Learn about cutting-edge EV technologies and more....",
           "content": "",
-          "source": "Eletric-vehicles",
-          "url": "https://eletric-vehicles.com/",
+          "source": "Greencars",
+          "url": "https://www.greencars.com/news-topics/industry-updates",
           "time": "今日",
           "tag": "电动",
           "image": "https://picsum.photos/seed/news0/400/250"
         },
         {
-          "title": "Electric Vehicles: Trending News, Latest Updates, Analysis",
-          "summary": "See the latest on Electric Vehicles. From breaking news to in-depth reporting, Bloomberg tracks the full story in real time....",
+          "title": "EV Strategy News | Today's Latest Stories",
+          "summary": "Falling prices steer US buyers toward used electric vehicles. Steep depreciation and improving reliability are drawing more Americans to used electric vehicles...",
           "content": "",
-          "source": "Bloomberg",
-          "url": "https://bloomberg.com/latest/electric-vehicles",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/ev-strategy/",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "电动",
           "image": "https://picsum.photos/seed/news1/400/250"
         },
         {
-          "title": "Electric Vehicles | Electric Car News & Insights - Autovista24",
-          "summary": "Electric vehicles news - Find out the latest news, analysis and insight, including the automotive industry's transition to electrification....",
+          "title": "Electric Vehicles",
+          "summary": "Automotive News provides the latest news and stories on electric vehicles (EVs). BYD to launch new premium EV in Europe that can charge in minutes....",
           "content": "",
-          "source": "Autovista24",
-          "url": "https://autovista24.autovistagroup.com/tech/electric/",
+          "source": "Autonews",
+          "url": "https://www.autonews.com/electric-vehicles/",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/news2/400/250"
         },
         {
-          "title": "I tested Tesla's latest 'mind blowing' Full Self-Driving v14",
+          "title": "Tesla UPDATED its AI Self Driving... So I Tested It - YouTube",
+          "summary": "Tesla FSD v14.2.1 is here and today I get behind the wheel of my Model 3 Performance to try all the new features!...",
+          "content": "",
+          "source": "Youtube",
+          "url": "https://www.youtube.com/watch?v=3SD4QXmPyfU",
+          "time": "今日",
+          "tag": "Tesla",
+          "image": "https://picsum.photos/seed/news3/400/250"
+        },
+        {
+          "title": "I tested Tesla's latest 'mind blowing' Full Self-Driving v14 | Electrek",
           "summary": "In short, Tesla FSD v14 is an incremental improvement to the automaker's advanced driver-assist system (ADAS) and the most impressive Level 2...",
           "content": "",
           "source": "Electrek",
           "url": "https://electrek.co/2025/12/16/tesla-full-self-driving-v14-review/",
           "time": "今日",
           "tag": "Tesla",
-          "image": "https://picsum.photos/seed/news3/400/250"
+          "image": "https://picsum.photos/seed/news4/400/250"
         },
         {
-          "title": "Best Tech 2026: Believe It, Tesla FSD (Supervised) Is the Best Driver ...",
+          "title": "Best Tech 2026: Believe It, Tesla FSD (Supervised) Is ... - MotorTrend",
           "summary": "No other ADAS on the market today can do what Tesla FSD does, which is drive on most roads—city, freeway, divided highway, two lines or one …...",
           "content": "",
           "source": "Motortrend",
           "url": "https://www.motortrend.com/features/tesla-fsd-driver-assistance-system-best-tech-2026",
           "time": "今日",
           "tag": "Tesla",
-          "image": "https://picsum.photos/seed/news4/400/250"
-        },
-        {
-          "title": "Full Self-Driving (Supervised)",
-          "summary": "Full Self-Driving (Supervised) intelligently and accurately completes driving maneuvers for you, including route navigation, steering, lane changes, parking and...",
-          "content": "",
-          "source": "Tesla",
-          "url": "https://www.tesla.com/fsd",
-          "time": "今日",
-          "tag": "资讯",
           "image": "https://picsum.photos/seed/news5/400/250"
         }
       ]
@@ -483,6 +483,16 @@
       "icon": "🎮",
       "items": [
         {
+          "title": "News | GamesIndustry.biz",
+          "summary": "... News. Shinji Mikami forms AAA studio Unbound. Developer is a \"fully independent company\" creating AAA titles and original IP. March 10, 2026 Sophie McEvoy....",
+          "content": "",
+          "source": "Gamesindustry",
+          "url": "https://www.gamesindustry.biz/archive/news",
+          "time": "今日",
+          "tag": "游戏",
+          "image": "https://picsum.photos/seed/news0/400/250"
+        },
+        {
           "title": "Gaming Market Faces Challenges: AAA Titles Shrink as Smaller ...",
           "summary": "The gaming industry's shift away from the rigid scheme focused solely on exponential growth with each new project allows for greater creativity in game development. Major publishers are responding to ",
           "content": "",
@@ -490,24 +500,14 @@
           "url": "https://nationaltoday.com/us/ca/santa-monica/news/2026/02/22/gaming-market-faces-challenges-aaa-titles-shrink-as-smaller-projects-rise/",
           "time": "今日",
           "tag": "资讯",
-          "image": "https://picsum.photos/seed/news0/400/250"
-        },
-        {
-          "title": "Why Indie Games Are Outperforming AAA Titles in 2025 - AInvest",
-          "summary": "- Indie games and platforms like RobloxRBLX-- outperform AAA studios in 2025, driven by lower costs, social trends, and industry consolidation. The gaming industry is undergoing a seismic shift in 202",
-          "content": "",
-          "source": "Ainvest",
-          "url": "https://www.ainvest.com/news/reshaping-gaming-industry-indie-games-outperforming-aaa-titles-2025-2512/",
-          "time": "今日",
-          "tag": "游戏",
           "image": "https://picsum.photos/seed/news1/400/250"
         },
         {
-          "title": "AAA Game Industry Faces Layoffs, Smaller Games May Be Future",
-          "summary": "The gaming industry is experiencing significant shifts, with signs pointing to a decline in the dominance of large AAA titles and a...",
+          "title": "AAA Game Industry is Dying, Ex-Nexon CEO Believes - 80 Level",
+          "summary": "# AAA Game Industry is Dying, Ex-Nexon CEO Believes. Sharing this opinion is Owen Mahoney, Nexon's former CEO responsible for acquiring ARC Raiders' dev Embark Studio in 2021, who recently said he bel",
           "content": "",
-          "source": "World",
-          "url": "https://world.infonasional.com/aaa-game-industry-layoffs-smaller-games",
+          "source": "80",
+          "url": "https://80.lv/articles/aaa-game-industry-is-dying-ex-nexon-ceo-believes",
           "time": "今日",
           "tag": "游戏",
           "image": "https://picsum.photos/seed/news2/400/250"
@@ -523,23 +523,23 @@
           "image": "https://picsum.photos/seed/news3/400/250"
         },
         {
-          "title": "An Update to Our Shared Commitment to Safer Gaming - Xbox Wire",
-          "summary": "Nintendo, Sony Interactive Entertainment, and Microsoft continue to collaborate to improve player safety across our platforms....",
+          "title": "Xbox News | Nintendo Life",
+          "summary": "News Xbox Is Bringing Another Game To Switch 2 Later This Month. Compulsion's award-winning title 'South of Midnight'. It's been a busy week for Xbox,...",
           "content": "",
-          "source": "News",
-          "url": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/",
+          "source": "Nintendolife",
+          "url": "https://www.nintendolife.com/tags/xbox",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "任天堂",
           "image": "https://picsum.photos/seed/news4/400/250"
         },
         {
-          "title": "Xbox Updates 'Safer Gaming' Principles In Partnership With ...",
-          "summary": "\"We've partnered behind the scenes\" - All the way back in late 2020, Xbox announced that it was partnering with Sony (PlayStation) and Nintendo...",
+          "title": "An Unreleased Nintendo Title Gets An Update & Sony Pushes For ...",
+          "summary": "With discussion around multiple Nintendo events happening a quiet update was spotted for a new release. Sony decided to send out messages...",
           "content": "",
-          "source": "Purexbox",
-          "url": "https://www.purexbox.com/news/2026/01/xbox-updates-safer-gaming-principles-in-partnership-with-nintendo-and-playstation",
+          "source": "Youtube",
+          "url": "https://www.youtube.com/watch?v=bXDEKGhGLfE",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "任天堂",
           "image": "https://picsum.photos/seed/news5/400/250"
         }
       ]
@@ -617,6 +617,16 @@
       "icon": "📱",
       "items": [
         {
+          "title": "Mobile Technology - News, reviews and comparisons",
+          "summary": "Smartphones have become indispensable in our daily lives. Read on for news, reviews and comparisons of the latest smartphones, tablets and e-readers....",
+          "content": "",
+          "source": "Newatlas",
+          "url": "https://newatlas.com/mobile-technology/",
+          "time": "今日",
+          "tag": "手机",
+          "image": "https://picsum.photos/seed/news0/400/250"
+        },
+        {
           "title": "Mobile Phones News | Latest Smartphones News - NewsNow",
           "summary": "Latest news on mobile phones, covering the latest updates on the Apple iPhone, Google Pixel, Samsung Galaxy, Xiaomi and more smartphone handset headlines....",
           "content": "",
@@ -624,24 +634,14 @@
           "url": "https://www.newsnow.com/us/Tech/Mobile+Phones",
           "time": "今日",
           "tag": "手机",
-          "image": "https://picsum.photos/seed/news0/400/250"
+          "image": "https://picsum.photos/seed/news1/400/250"
         },
         {
-          "title": "Mobile Technology - CNBC",
+          "title": "Mobile Technology",
           "summary": "Latest tech news for the mobile industry covering tablets, smartphones, new gear, innovative wireless products, and special reports....",
           "content": "",
           "source": "Cnbc",
           "url": "https://www.cnbc.com/mobile/",
-          "time": "今日",
-          "tag": "手机",
-          "image": "https://picsum.photos/seed/news1/400/250"
-        },
-        {
-          "title": "Mobile Technology - New Atlas",
-          "summary": "Smartphones have become indispensable in our daily lives. Read on for news, reviews and comparisons of the latest smartphones, tablets and e-readers....",
-          "content": "",
-          "source": "Newatlas",
-          "url": "https://newatlas.com/mobile-technology/",
           "time": "今日",
           "tag": "手机",
           "image": "https://picsum.photos/seed/news2/400/250"
@@ -813,7 +813,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-14T15:40:51.048Z",
+  "generatedAt": "2026-03-14T15:55:58.823Z",
   "version": "3.0.0",
   "source": "tavily"
 }
