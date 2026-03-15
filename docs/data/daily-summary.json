@@ -1,37 +1,36 @@
 {
-  "date": "2026-03-14",
-  "overallSummary": "AI领域巨头合作建立安全联盟，半导体技术持续突破；可再生能源与新能源车加速发展。",
+  "date": "2026年3月15日",
+  "overallSummary": "AI持续重塑各行业格局，头部企业加速整合与安全合作；全球新能源与半导体产业在政策波动中保持增长势头。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI应用持续扩展，巨头联手建立安全标准",
+      "categorySummary": "AI应用加速普及，头部科技企业通过合作与并购强化竞争力，安全治理成为行业焦点",
       "keyPoints": [
-        "OpenAI、Google、Microsoft、Anthropic联手成立AI安全联盟",
-        "Google三个月内第二次投资Anthropic",
-        "AI应用从商业零售延伸至医疗影像诊断"
+        "约88%组织已使用AI",
+        "OpenAI与Google、Microsoft、Anthropic成立前沿模型论坛",
+        "Meta考虑裁员20%抵消AI基础设施成本",
+        "Google三个月内第二次投资Anthropic"
       ],
       "news": [
         {
-          "title": "OpenAI、Google、Microsoft、Anthropic创建论坛",
-          "summary": "四大AI巨头联手成立Agentic AI联盟，确保AI系统安全可控",
+          "title": "人工智能如何改变商业",
+          "summary": "麦肯锡：约88%组织至少在一项业务中使用AI",
           "keyInsights": [
-            "行业自律组织成立",
-            "旨在建立AI安全标准"
+            "AI正改变商业形态和工作性质"
           ]
         },
         {
-          "title": "Google在AI竞争中支持Anthropic",
-          "summary": "谷歌三个月内对Anthropic第二次重大投资，正面交锋微软OpenAI",
+          "title": "OpenAI与Google、Microsoft、Anthropic创建论坛",
+          "summary": "行业领袖联合成立前沿模型论坛，推进AI安全研究",
           "keyInsights": [
-            "AI竞争加剧",
-            "Anthropic获谷歌战略支持"
+            "巨头合作强化AI安全责任"
           ]
         },
         {
-          "title": "Zalando AI提高业务生产力",
-          "summary": "欧洲时尚零售商Zalando AI提升生产力，预测增长12-25%",
+          "title": "Meta可能裁员20%",
+          "summary": "科技巨头考虑裁员抵消AI基础设施成本上升",
           "keyInsights": [
-            "AI商业应用成效显著"
+            "AI基础设施投入压力显现"
           ]
         }
       ],
@@ -39,57 +38,26 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车技术突破，充电速度大幅提升",
-      "keyPoints": [
-        "比亚迪推出几分钟内充电的高端电动车",
-        "特斯拉FSD v14为最令人印象深刻的L2级系统",
-        "电动汽车快充技术持续进步"
-      ],
-      "news": [
-        {
-          "title": "比亚迪将在欧洲推出快充高端电动车",
-          "summary": "比亚迪欧洲推新款高端电动车，充电仅需几分钟",
-          "keyInsights": [
-            "快充技术突破",
-            "比亚迪进军欧洲高端市场"
-          ]
-        },
-        {
-          "title": "特斯拉FSD V14测试",
-          "summary": "特斯拉FSD v14被称为目��最令人印象深刻的L2级系统",
-          "keyInsights": [
-            "ADAS技术渐进式改进",
-            "特斯拉领先地位巩固"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "1nm以下制程推进，AI芯片持续迭代",
+      "categorySummary": "AI驱动芯片需求激增，中国出口大幅增长，英伟达加速产品迭代",
       "keyPoints": [
-        "NVIDIA Blackwell专为超大规模AI推理设计",
-        "imec发布2D-pFETs创纪录成果",
-        "进入1纳米以下制程准备阶段"
+        "中国芯片出口激增73%",
+        "英伟达Blackwell GPU年度迭代",
+        "美国芯片法案带动450亿美元新投资"
       ],
       "news": [
         {
-          "title": "NVIDIA Blackwell：专为超大规模AI推理而生",
-          "summary": "NVIDIA Blackwell纵向扩展能力为横向扩展AI工厂奠定基础",
+          "title": "中国芯片出口激增73%",
+          "summary": "人工智能需求推动半导体出口增长",
           "keyInsights": [
-            "AI推理芯片升级",
-            "数据中心能力增强"
+            "AI需求是增长主要驱动力"
           ]
         },
         {
-          "title": "imec发布基于WSe2的2D-pFETs创纪录成果",
-          "summary": "与台积电合作实现Imax高达690μA/μm，助力拓展逻辑技术路线图",
+          "title": "英伟达公布Blackwell继任者",
+          "summary": "GPU发布周期从两年一次提前至每年一次",
           "keyInsights": [
-            "2D材料突破",
-            "先进制程新路径"
+            "AI芯片竞争加剧"
           ]
         }
       ],
@@ -98,33 +66,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "AI驱动药物研发，GLP-1市场高速增长",
+      "categorySummary": "GLP-1减肥药市场快速扩张，生物技术IPO活跃",
       "keyPoints": [
-        "GLP-1市场2026年预计大幅增长",
-        "AI与抗体设计结合获资本青睐",
-        "默克应对Gardasil疫苗需求挑战"
+        "GLP-1减肥药市场2024年138亿美元",
+        "预计2030年达488亿美元",
+        "辉瑞CEO薪酬增至2760万美元"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂与肥胖市场",
-          "summary": "全球GLP-1市场预计从622亿美元增至2035年1575亿美元",
+          "title": "GLP-1受体激动剂减肥药市场规模",
+          "summary": "2024年138.4亿美元，2030年将达488.4亿美元",
           "keyInsights": [
-            "年复合增长率9.7%",
-            "减肥药市场爆发"
+            "减肥药市场高速增长"
           ]
         },
         {
-          "title": "Quantx融资8500万美元",
-          "summary": "Quantx融资8500万美元推进口服免疫学药物研发",
+          "title": "Salspera将成2026年第七家生物技术IPO",
+          "summary": "可能筹资9100万美元用于胰腺癌药物测试",
           "keyInsights": [
-            "AI药物研发受资本追捧"
-          ]
-        },
-        {
-          "title": "Galux获2900万美元B轮融资",
-          "summary": "AI与抗体设计结合，Galux获2900万美元用于药物研发",
-          "keyInsights": [
-            "AI生物医药融合加速"
+            "生物技术IPO市场持续活跃"
           ]
         }
       ],
@@ -132,49 +92,53 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18设计泄露，外观或将延续",
+      "name": "汽车出行",
+      "categorySummary": "电动汽车加速迭代，特斯拉FSD系统更新，充电技术突破",
       "keyPoints": [
-        "iPhone 18 Pro或沿用iPhone 17 Pro设计",
-        "iPhone 18采用打孔摄像头设计",
-        "消费者面临等待或购买抉择"
+        "比亚迪将推新款高端EV",
+        "特斯拉FSD v14发布",
+        "起亚停产Niro EV转专用电动车型"
       ],
       "news": [
         {
-          "title": "苹果可能为iPhone 18 Pro沿用iPhone 17 Pro的设计",
-          "summary": "非官方渲染图显示iPhone 18 Pro采用打孔摄像头设计",
+          "title": "比亚迪将在欧洲推出新款高端电动汽车",
+          "summary": "充电仅需几分钟",
           "keyInsights": [
-            "设计语言延续",
-            "打孔屏成趋势"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
-    },
-    {
-      "name": "游戏娱乐",
-      "categorySummary": "独立游戏表现优于3A，游戏行业格局生变",
-      "keyPoints": [
-        "2025年独立游戏表现超越AAA级",
-        "游戏行业经历创作空间增大",
-        "Xbox与索尼任天堂推进安全游戏"
-      ],
-      "news": [
-        {
-          "title": "独立游戏在2025年表现优于AAA级游戏",
-          "summary": "受低成本、社交趋势和行业整合驱动，独立游戏超越3A工作室",
-          "keyInsights": [
-            "行业模式转变",
-            "创作自由度提升"
+            "充电技术突破"
           ]
         },
         {
-          "title": "Xbox更新更安全游戏承诺",
-          "summary": "Xbox与索尼任天堂继续合作改善玩家安全",
+          "title": "特斯拉FSD v14测试",
+          "summary": "目前最令人印象深刻的L2级系统",
           "keyInsights": [
-            "平台安全合作",
-            "行业自律"
+            "渐进式改进"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "AAA游戏开发周期延长，行业裁员持续，任天堂Switch 2独占优势明显",
+      "keyPoints": [
+        "AAA游戏开发需3-4年甚至7-8年",
+        "自2022年超10000名从业者受影响",
+        "Switch 2有12款独占游戏"
+      ],
+      "news": [
+        {
+          "title": "AAA游戏行业面临裁员",
+          "summary": "小型游戏或成未来趋势",
+          "keyInsights": [
+            "行业面临结构性挑战"
+          ]
+        },
+        {
+          "title": "Nintendo Switch 2独占游戏",
+          "summary": "已发布12款独占游戏",
+          "keyInsights": [
+            "Switch 2独占优势明显"
           ]
         }
       ],
@@ -183,35 +147,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源持续增长，太阳能主导地位显现",
+      "categorySummary": "可再生能源持续增长，太阳能主导地位凸显，氢能储能技术突破",
       "keyPoints": [
-        "太阳能正在走向主导全球能源系统",
-        "可再生能源装机2030年预计翻番",
-        "绿色氢能储存技术突破"
+        "全球可再生能源2030年产能将翻倍",
+        "太阳能将主导全球能源系统",
+        "德国开发氢能储存太阳能电池"
       ],
       "news": [
         {
-          "title": "太阳能正在走向主导全球能源系统",
-          "summary": "全球光伏发电增长���历史纪录，超越其他能源技术",
+          "title": "可再生能源继续增长",
+          "summary": "预计到2030年全球产能增加一倍以上",
           "keyInsights": [
-            "光伏历史性突破",
-            "能源转型加速"
+            "政策波动未阻止增长趋势"
           ]
         },
         {
-          "title": "新型太阳能电池以绿色氢气形式储存能量",
-          "summary": "德国研究人员开发共聚物基太阳能电池，将能量储存为绿色氢气",
+          "title": "新型太阳能电池以绿色氢气储存能量",
+          "summary": "德国研究人员开发创新共聚物基太阳能电池",
           "keyInsights": [
-            "储能与发电结合",
-            "氢能应用创新"
-          ]
-        },
-        {
-          "title": "可再生能源持续增长",
-          "summary": "预计到2030年全球装机容量将翻一番以上",
-          "keyInsights": [
-            "政策支持持续",
-            "全球增长趋势"
+            "储能技术突破"
           ]
         }
       ],
