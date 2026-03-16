@@ -1,82 +1,36 @@
 {
-  "date": "2026年3月14日",
-  "overallSummary": "科技领域全面爆发：AI与量子计算加速融合，半导体巨头英伟达发布新一代Blackwell Ultra芯片；联合国召开第79届大会聚焦全球危机；可再生能源首次成为全球最大电力来源。",
+  "date": "2026年3月15日",
+  "overallSummary": "AI持续重塑各行业格局，头部企业加速整合与安全合作；全球新能源与半导体产业在政策波动中保持增长势头。",
   "categories": [
     {
-      "name": "科技前沿",
-      "categorySummary": "AI与量子计算成为核心技术驱动力，前沿技术向实用化演进",
-      "keyPoints": [
-        "自主AI智能体与领域专用语言模型成2026年焦点",
-        "量子计算突破：高维量子态实现光子多信息携带",
-        "5G网络与区块链深化应用落地"
-      ],
-      "news": [
-        {
-          "title": "2026年值得关注的尖端技术趋���",
-          "summary": "自主AI智能体、领域专用语言模型、小语言模型、快速学习机器人、量子与光子计算成重点",
-          "keyInsights": [
-            "技术趋势正从通用向垂直领域深化"
-          ]
-        },
-        {
-          "title": "量子计算机研究新突破",
-          "summary": "研究人员创造高维量子态，每个光子可携带更多信息",
-          "keyInsights": [
-            "量子信息处理能力显著提升"
-          ]
-        }
-      ],
-      "id": "tech_frontier",
-      "icon": "🚀"
-    },
-    {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达加速GPU迭代周期，AI芯片市场竞争白热化",
-      "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin芯片",
-        "GPU发布周期从两年缩短至一年",
-        "数据中心AI芯片将贡献2026年约50%行业收入"
-      ],
-      "news": [
-        {
-          "title": "英伟达发布Blackwell Ultra和Rubin AI芯片",
-          "summary": "Blackwell Ultra将于下半年发货，Vera Rubin接棒发布",
-          "keyInsights": [
-            "芯片巨头加速产品迭代频率"
-          ]
-        },
-        {
-          "title": "2026年全球半导体行业展望",
-          "summary": "AI数据中心芯片预计贡献约半数行业收入",
-          "keyInsights": [
-            "AI芯片成半导体行业核心驱动���"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
       "name": "AI行业动态",
-      "categorySummary": "AI应用深度渗透商业，巨头结盟推动行业标准化",
+      "categorySummary": "AI应用加速普及，头部科技企业通过合作与并购强化竞争力，安全治理成为行业焦点",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic联手成立AI联盟",
-        "约88%组织在至少一业务职能中使用AI",
-        "微软Azure OpenAI与Epic EHR平台整合"
+        "约88%组织已使用AI",
+        "OpenAI与Google、Microsoft、Anthropic成立前沿模型论坛",
+        "Meta考虑裁员20%抵消AI基础设施成本",
+        "Google三个月内第二次投资Anthropic"
       ],
       "news": [
         {
-          "title": "巨头联手成立Agentic AI联盟",
-          "summary": "微软、谷歌、OpenAI和Anthropic组建AI联盟",
+          "title": "人工智能如何改变商业",
+          "summary": "麦肯锡：约88%组织至少在一项业务中使用AI",
           "keyInsights": [
-            "行业头部企业推动标准化合作"
+            "AI正改变商业形态和工作性质"
           ]
         },
         {
-          "title": "AI如何改变商业",
-          "summary": "麦肯锡：约88%组织已在业务中使用AI",
+          "title": "OpenAI与Google、Microsoft、Anthropic创建论坛",
+          "summary": "行业领袖联合成立前沿模型论坛，推进AI安全研究",
           "keyInsights": [
-            "AI商业化应用已相当普及"
+            "巨头合作强化AI安全责任"
+          ]
+        },
+        {
+          "title": "Meta可能裁员20%",
+          "summary": "科技巨头考虑裁员抵消AI基础设施成本上升",
+          "keyInsights": [
+            "AI基础设施投入压力显现"
           ]
         }
       ],
@@ -84,93 +38,53 @@
       "icon": "🧠"
     },
     {
-      "name": "国际局势",
-      "categorySummary": "联合国召开第79届大会，地缘政治紧张与多边合作挑战并存",
+      "name": "半导体芯片",
+      "categorySummary": "AI驱动芯片需求激增，中国出口大幅增长，英伟达加速产品迭代",
       "keyPoints": [
-        "联合国警告世界处于危险十字路口",
-        "美中俄在多边主义问题上分歧明显",
-        "发展中国家呼吁发达国家增加支持"
+        "中国芯片出口激增73%",
+        "英伟达Blackwell GPU年度迭代",
+        "美国芯片法案带动450亿美元新投资"
       ],
       "news": [
         {
-          "title": "世界领导人在联合国峰会面临严峻挑战",
-          "summary": "联合国成立80周年前夕，领导人聚焦乌克兰战争、加沙冲突、气候危机等全球议题",
+          "title": "中国芯片出口激增73%",
+          "summary": "人工智能需求推动半导体出口增长",
           "keyInsights": [
-            "多边主义面临重大考验"
-          ]
-        }
-      ],
-      "id": "international_affairs",
-      "icon": "🌐"
-    },
-    {
-      "name": "环保能源",
-      "categorySummary": "可再生能源历史性突破，首次成为全球最大电力来源",
-      "keyPoints": [
-        "太阳能与风力发电首次超越电力需求增长",
-        "绿氢成为长期储能关键解决方案",
-        "全球清洁能源格局正在重塑"
-      ],
-      "news": [
-        {
-          "title": "可再生能源首次成为全球最大电力来源",
-          "summary": "全球太阳能和风力发电蓬勃发展，首次超过电力需求增长",
-          "keyInsights": [
-            "能源转型里程碑时刻"
+            "AI需求是增长主要驱动力"
           ]
         },
         {
-          "title": "Green hydrogen是长期能源储存的关键",
-          "summary": "电池主导短期储能，绿氢成为长期储能前景方案",
+          "title": "英伟达公布Blackwell继任者",
+          "summary": "GPU发布周期从两年一次提前至每年一次",
           "keyInsights": [
-            "氢能技术互补电池储能短板"
+            "AI芯片竞争加剧"
           ]
         }
       ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车技术升级，特斯拉FSD v14实现L2级自动驾驶新突破",
-      "keyPoints": [
-        "比亚迪将在欧洲推出高端快充电动汽车",
-        "特斯拉FSD v14为目前最先进L2级系统",
-        "充电技术持续突破"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14测试体验",
-          "summary": "FSD v14是特斯拉高级驾驶辅助系统的渐进式改进，目前仅美加可用",
-          "keyInsights": [
-            "L2级自动驾驶持续精进"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
+      "id": "semiconductor",
+      "icon": "💻"
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，AI加速药物研发",
+      "categorySummary": "GLP-1减肥药市场快速扩张，生物技术IPO活跃",
       "keyPoints": [
-        "GLP-1市场2035年预计达1575亿美元",
-        "诺和诺德和礼来将推出新注射剂和口服制剂",
-        "AI辅助抗体设计获2900万美元B轮融资"
+        "GLP-1减肥药市场2024年138亿美元",
+        "预计2030年达488亿美元",
+        "辉瑞CEO薪酬增至2760万美元"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂与肥胖市场",
-          "summary": "诺和诺德和礼来即将推出新注射剂和口服制剂，市场显著增长",
+          "title": "GLP-1受体激动剂减肥药市场规模",
+          "summary": "2024年138.4亿美元，2030年将达488.4亿美元",
           "keyInsights": [
-            "减肥药市场进入高速扩张期"
+            "减肥药市场高速增长"
           ]
         },
         {
-          "title": "AI与抗体设计相遇",
-          "summary": "Galux获2900万美元B轮融资用于AI药物研发",
+          "title": "Salspera将成2026年第七家生物技术IPO",
+          "summary": "可能筹资9100万美元用于胰腺癌药物测试",
           "keyInsights": [
-            "AI制药获资本持续看好"
+            "生物技术IPO市场持续活跃"
           ]
         }
       ],
@@ -178,39 +92,53 @@
       "icon": "🧬"
     },
     {
-      "name": "消费零售",
-      "categorySummary": "奢侈品市场承压，高端消费出现��滑趋势",
+      "name": "汽车出行",
+      "categorySummary": "电动汽车加速迭代，特斯拉FSD系统更新，充电技术突破",
       "keyPoints": [
-        "全球奢侈品市场收入下降2%至3580亿欧元",
-        "定价策略导致7000万消费者流失",
-        "情感营销成为零售核心策略"
+        "比亚迪将推新款高端EV",
+        "特斯拉FSD v14发布",
+        "起亚停产Niro EV转专用电动车型"
       ],
       "news": [
         {
-          "title": "全球奢侈品市场销售额下降",
-          "summary": "高端服装、鞋类和手提包销售额从3640亿欧元下降至3580亿欧元",
+          "title": "比亚迪将在欧洲推出新款高端电动汽车",
+          "summary": "充电仅需几分钟",
           "keyInsights": [
-            "奢侈品行业面临消费信心挑战"
+            "充电技术突破"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14测试",
+          "summary": "目前最令人印象深刻的L2级系统",
+          "keyInsights": [
+            "渐进式改进"
           ]
         }
       ],
-      "id": "consumer_retail",
-      "icon": "🛍️"
+      "id": "auto_ev",
+      "icon": "🚗"
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA大作缩减，独立游戏与小型工作室崛起",
+      "categorySummary": "AAA游戏开发周期延长，行业裁员持续，任天堂Switch 2独占优势明显",
       "keyPoints": [
-        "2025年独立游戏表现优于AAA工作室",
-        "大型发行商面临裁员与项目缩减",
-        "游戏行业转向创作空间更大的发展模式"
+        "AAA游戏开发需3-4年甚至7-8年",
+        "自2022年超10000名从业者受影响",
+        "Switch 2有12款独占游戏"
       ],
       "news": [
         {
-          "title": "为什么独立游戏在2025年超越AAA级游戏",
-          "summary": "独立游戏凭借更低成本和社交趋势表现优于AAA工作室",
+          "title": "AAA游戏行业面临裁员",
+          "summary": "小型游戏或成未来趋势",
           "keyInsights": [
-            "游戏行业进入多元化发展新阶段"
+            "行业面临结构性挑战"
+          ]
+        },
+        {
+          "title": "Nintendo Switch 2独占游戏",
+          "summary": "已发布12款独占游戏",
+          "keyInsights": [
+            "Switch 2独占优势明显"
           ]
         }
       ],
@@ -218,44 +146,31 @@
       "icon": "🎮"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18系列传言涌现，折叠屏手机价格接近两倍",
+      "name": "环保能源",
+      "categorySummary": "可再生能源持续增长，太阳能主导地位凸显，氢能储能技术突破",
       "keyPoints": [
-        "iPhone 18 Pro或沿用iPhone 17 Pro设计",
-        "折叠版iPhone价格预计接近Pro Max两倍",
-        "打孔相机设计成主流趋势"
+        "全球可再生能源2030年产能将翻倍",
+        "太阳能将主导全球能源系统",
+        "德国开发氢能储存太阳能电池"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro渲染图曝光",
-          "summary": "iPhone 18 Pro非官方渲染图显示打孔相机设计",
+          "title": "可再生能源继续增长",
+          "summary": "预计到2030年全球产能增加一倍以上",
           "keyInsights": [
-            "苹果延续性设计策略"
+            "政策波动未阻止增长趋势"
           ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
-    },
-    {
-      "name": "物联网智能硬件",
-      "categorySummary": "Matter标准推进智能家居统一，IKEA发布创新产品",
-      "keyPoints": [
-        "Matter标准促进跨平台设备兼容性",
-        "IKEA发布可安装任何地方的运动感应智能灯",
-        "Z-Wave智能门锁新品推出"
-      ],
-      "news": [
+        },
         {
-          "title": "Matter智能家居标准普及",
-          "summary": "Matter作为开放IP标准，统一智能家居设备跨平台兼容",
+          "title": "新型太阳能电池以绿色氢气储存能量",
+          "summary": "德国研究人员开发创新共聚物基太阳能电池",
           "keyInsights": [
-            "智能家居标准碎片化问题有望解决"
+            "储能技术突破"
           ]
         }
       ],
-      "id": "iot_smart_home",
-      "icon": "🏠"
+      "id": "clean_energy",
+      "icon": "🌿"
     }
   ]
 }
