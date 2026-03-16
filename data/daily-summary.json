@@ -1,36 +1,29 @@
 {
-  "date": "2026年3月15日",
-  "overallSummary": "AI持续重塑各行业格局，头部企业加速整合与安全合作；全球新能源与半导体产业在政策波动中保持增长势头。",
+  "date": "2026-03-16",
+  "overallSummary": "AI领域巨头合作深化，英伟达发布新一代Blackwell Ultra芯片；GLP-1减肥药市场高速增长，AAA游戏行业面临挑战。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI应用加速普及，头部科技企业通过合作与并购强化竞争力，安全治理成为行业焦点",
+      "categorySummary": "AI巨头加速竞合，OpenAI与Anthropic、Google联手成立安全研究组织，同时各厂商在芯片和应用场景持续布局。",
       "keyPoints": [
-        "约88%组织已使用AI",
-        "OpenAI与Google、Microsoft、Anthropic成立前沿模型论坛",
-        "Meta考虑裁员20%抵消AI基础设施成本",
-        "Google三个月内第二次投资Anthropic"
+        "OpenAI、Google、Microsoft、Anthropic成立前沿模型论坛共推AI安全",
+        "Shopify CEO用Anthropic Claude开发MRI网络查看器",
+        "Anthropic扩展与谷歌AI芯片合作",
+        "OpenAI、Anthropic、Google联手打造AI创业加速器"
       ],
       "news": [
         {
-          "title": "人工智能如何改变商业",
-          "summary": "麦肯锡：约88%组织至少在一项业务中使用AI",
+          "title": "AI安全联盟成立",
+          "summary": "OpenAI、Google、Microsoft和Anthropic成立前沿模型论坛，推动AI安全研究协作",
           "keyInsights": [
-            "AI正改变商业形态和工作性质"
+            "头部AI企业罕见联手，安全与责任成行业共识"
           ]
         },
         {
-          "title": "OpenAI与Google、Microsoft、Anthropic创建论坛",
-          "summary": "行业领袖联合成立前沿模型论坛，推进AI安全研究",
+          "title": "Shopify CEO展示AI医疗应用",
+          "summary": "Tobi Lütke用Claude开发MRI查看器，验证AI在医疗影像潜力",
           "keyInsights": [
-            "巨头合作强化AI安全责任"
-          ]
-        },
-        {
-          "title": "Meta可能裁员20%",
-          "summary": "科技巨头考虑裁员抵消AI基础设施成本上升",
-          "keyInsights": [
-            "AI基础设施投入压力显现"
+            "AI应用从通用向垂直场景延伸"
           ]
         }
       ],
@@ -38,26 +31,53 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "AI驱动芯片需求激增，中国出口大幅增长，英伟达加速产品迭代",
+      "name": "汽车出行",
+      "categorySummary": "传统车企转型承压，特斯拉FSD持续迭代，EV行业价格战与裁员并行。",
       "keyPoints": [
-        "中国芯片出口激增73%",
-        "英伟达Blackwell GPU年度迭代",
-        "美国芯片法案带动450亿美元新投资"
+        "本田取消三款电动汽车项目",
+        "大众计划大规模裁员",
+        "特斯拉FSD v14发布，性能提升"
       ],
       "news": [
         {
-          "title": "中国芯片出口激增73%",
-          "summary": "人工智能需求推动半导体出口增长",
+          "title": "特斯拉FSD v14发布",
+          "summary": "FSD v14为目前最令人印象深刻的L2级辅助驾驶系统",
           "keyInsights": [
-            "AI需求是增长主要驱动力"
+            "渐进式改进，但仍未达完全自动驾驶"
           ]
         },
         {
-          "title": "英伟达公布Blackwell继任者",
-          "summary": "GPU发布周期从两年一次提前至每年一次",
+          "title": "本田取消EV车型",
+          "summary": "本田取消三款电动汽车，凸显传统车企转型困境",
           "keyInsights": [
-            "AI芯片竞争加剧"
+            "EV市场增速放缓影响车企决策"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "英伟达新一代AI芯片量产在即，中国芯片出口强劲增长73%。",
+      "keyPoints": [
+        "英伟达发布Blackwell Ultra和Rubin芯片",
+        "中国芯片出口前两月达433亿美元",
+        "英伟达扩展Blackwell服务器产品线"
+      ],
+      "news": [
+        {
+          "title": "英伟达发布新一代AI芯片",
+          "summary": "Blackwell Ultra下半年出货，Vera Rubin芯片同步推出",
+          "keyInsights": [
+            "AI算力竞赛持续，芯片迭代周期加速"
+          ]
+        },
+        {
+          "title": "中国芯片出口激增",
+          "summary": "今年一二月芯片出口额433亿美元，同比增73%",
+          "keyInsights": [
+            "AI需求推动半导体增长"
           ]
         }
       ],
@@ -66,25 +86,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场快速扩张，生物技术IPO活跃",
+      "categorySummary": "GLP-1减肥药市场高速增长，辉瑞CEO薪酬提升，Salspera或成今年第七家上市 biotech。",
       "keyPoints": [
-        "GLP-1减肥药市场2024年138亿美元",
-        "预计2030年达488亿美元",
-        "辉瑞CEO薪酬增至2760万美元"
+        "GLP-1减肥药市场2024年138亿美元，2030年预计488亿",
+        "辉瑞CEO 2025年薪酬增至2760万美元",
+        "Salspera或IPO融资9100万美元"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药市场规模",
-          "summary": "2024年138.4亿美元，2030年将达488.4亿美元",
+          "title": "GLP-1市场高速增长",
+          "summary": "全球GLP-1减肥药市场年复合增长率9.7%，2035年将达1575亿美元",
           "keyInsights": [
-            "减肥药市场高速增长"
+            "诺和诺德、礼来主导市场"
           ]
         },
         {
-          "title": "Salspera将成2026年第七家生物技术IPO",
-          "summary": "可能筹资9100万美元用于胰腺癌药物测试",
+          "title": "辉瑞CEO薪酬增长",
+          "summary": "艾伯特·博尔拉2025年薪酬2760万美元，较前年增12%",
           "keyInsights": [
-            "生物技术IPO市场持续活跃"
+            "大型药企高管薪酬与业绩挂钩"
           ]
         }
       ],
@@ -92,53 +112,26 @@
       "icon": "🧬"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车加速迭代，特斯拉FSD系统更新，充电技术突破",
-      "keyPoints": [
-        "比亚迪将推新款高端EV",
-        "特斯拉FSD v14发布",
-        "起亚停产Niro EV转专用电动车型"
-      ],
-      "news": [
-        {
-          "title": "比亚迪将在欧洲推出新款高端电动汽车",
-          "summary": "充电仅需几分钟",
-          "keyInsights": [
-            "充电技术突破"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14测试",
-          "summary": "目前最令人印象深刻的L2级系统",
-          "keyInsights": [
-            "渐进式改进"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏开发周期延长，行业裁员持续，任天堂Switch 2独占优势明显",
+      "categorySummary": "AAA游戏开发周期过长行业承压，三大主机厂商联手推进玩家安全保护。",
       "keyPoints": [
-        "AAA游戏开发需3-4年甚至7-8年",
-        "自2022年超10000名从业者受影响",
-        "Switch 2有12款独占游戏"
+        "AAA游戏开发需3-8年，前Nexon CEO称行业正消亡",
+        "Xbox、任天堂、索尼联手更新安全游戏承诺",
+        "行业缩减大型游戏投入"
       ],
       "news": [
         {
-          "title": "AAA游戏行业面临裁员",
-          "summary": "小型游戏或成未来趋势",
+          "title": "AAA游戏行业面临危机",
+          "summary": "开发周期过长且成本高昂，前Nexon CEO认为行业正在消亡",
           "keyInsights": [
-            "行业面临结构性挑战"
+            "游戏行业结构性变革，小型游戏更受青睐"
           ]
         },
         {
-          "title": "Nintendo Switch 2独占游戏",
-          "summary": "已发布12款独占游戏",
+          "title": "三大主机厂商安全合作",
+          "summary": "微软、任天堂、索尼公布安全游戏承诺最新进展",
           "keyInsights": [
-            "Switch 2独占优势明显"
+            "玩家安全成行业共同关注"
           ]
         }
       ],
@@ -147,30 +140,42 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源持续增长，太阳能主导地位凸显，氢能储能技术突破",
+      "categorySummary": "绿色氢能作为长期储能方案受关注，电池储能定位短期，氢能互补锂电。",
       "keyPoints": [
-        "全球可再生能源2030年产能将翻倍",
-        "太阳能将主导全球能源系统",
-        "德国开发氢能储存太阳能电池"
+        "绿色氢能成为长期储能关键",
+        "氢能可补充或替代锂离子电池",
+        "巴基斯坦提升本土电力自给率"
       ],
       "news": [
         {
-          "title": "可再生能源继续增长",
-          "summary": "预计到2030年全球产能增加一倍以上",
+          "title": "绿色氢能定位长期储能",
+          "summary": "电池适用于短期储能，绿色氢气正成为长期储能的有前景载体",
           "keyInsights": [
-            "政策波动未阻止增长趋势"
-          ]
-        },
-        {
-          "title": "新型太阳能电池以绿色氢气储存能量",
-          "summary": "德国研究人员开发创新共聚物基太阳能电池",
-          "keyInsights": [
-            "储能技术突破"
+            "氢能解决季节性储能难题"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro渲染图曝光，或沿用iPhone 17 Pro打孔屏设计。",
+      "keyPoints": [
+        "iPhone 18 Pro或沿用iPhone 17 Pro设计",
+        "预计采用打孔屏摄像头"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18 Pro设计曝光",
+          "summary": "非官方渲染图显示打孔屏摄像头，可能沿用17 Pro设计语言",
+          "keyInsights": [
+            "苹果设计语言传承而非颠覆"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
     }
   ]
 }
