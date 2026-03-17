@@ -179,7 +179,7 @@ function generateHTML(data, isArchive = false) {
     .replace(/{{categoryCount}}/g, categoryCount)
     .replace('{{navCategories}}', navCategories)
     .replace('{{content}}', generateNewsContent(data))
-    .replace('{{updateTime}}', new Date(data.generatedAt).toLocaleString('zh-CN'));
+    .replace('{{updateTime}}', new Date(data.generatedAt).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' }));
 }
 
 function saveArchive(data) {
@@ -196,7 +196,13 @@ function updateArchiveIndex() {
   const files = fs.readdirSync(PATHS.archive).filter(f => f.endsWith('.html') && f !== 'index.html').sort().reverse();
   const listHTML = files.map(file => {
     const date = file.replace('.html', '');
-    const displayDate = new Date(date).toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+    const displayDate = new Date(date + 'T00:00:00Z').toLocaleDateString('zh-CN', { 
+      year: 'numeric', 
+      month: 'long', 
+      day: 'numeric', 
+      weekday: 'long',
+      timeZone: 'Asia/Shanghai' 
+    });
     return `<a href="${file}" class="archive-item"><span class="archive-date">${displayDate}</span><span class="archive-link">查看 →</span></a>`;
   }).join('');
 

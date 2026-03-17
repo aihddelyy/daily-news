@@ -157,12 +157,24 @@ function formatSearchResults(results, category) {
 }
 
 function getTodayInfo() {
+  // 强制北京时间 (UTC+8)
   const now = new Date();
-  const dateStr = now.toISOString().split('T')[0];
+  const beijingTime = new Date(now.getTime() + (8 * 60 * 60 * 1000));
+  
+  // 使用 beijingTime 生成日期字符串
+  const dateStr = beijingTime.toISOString().split('T')[0];
+  
+  // 格式化显示日期 (也使用北京时区)
   return {
     date: dateStr,
-    display: now.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' }),
-    timestamp: now.toISOString()
+    display: beijingTime.toLocaleDateString('zh-CN', { 
+      year: 'numeric', 
+      month: 'long', 
+      day: 'numeric', 
+      weekday: 'long',
+      timeZone: 'UTC' // 因为已经手动加了 8 小时，这里用 UTC 即可
+    }),
+    timestamp: now.toISOString() // 原始时间戳用于系统参考
   };
 }
 
