@@ -1,35 +1,30 @@
 {
-  "date": "2026年3月17日",
-  "overallSummary": "AI正在重塑企业运营模式，微软深化与Anthropic合作减少对OpenAI依赖；伊朗战争引发石油市场史上最大动荡，油价飙升；Nvidia发布Blackwell Ultra和Rubin芯片加速AI算力竞争。",
+  "date": "2026年3月19日星期四",
+  "overallSummary": "AI工具持续推动行业变革，Nvidia发布新一代AI芯片；微软与Anthropic深化合作，全球科技竞争格局加速演变。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI应用加速渗透商业场景，科技巨头战略分化明显，微软转向Anthropic，巨头联手投资AI初创公司。",
+      "categorySummary": "AI编程工具使开发者产出翻倍，科技巨头联合成立前沿模型论坛推进AI安全。",
       "keyPoints": [
-        "88%组织已部署AI至少一项业务职能",
-        "微软减少OpenAI合作，深化与Anthropic关系",
-        "OpenAI、Anthropic、Google联手投资AI初创公司"
+        "AI编程工具让开发者产出近乎翻番",
+        "OpenAI、Google、Microsoft、Anthropic成立前沿模型论坛",
+        "微软战略重心转向Anthropic，多元化AI布局"
       ],
       "news": [
         {
-          "title": "人工智能将如何改变企业",
-          "summary": "麦肯锡估计约88%组织在至少一项业务职能中使用AI，重塑工作性���。",
+          "title": "AI编程工具近乎让开发者产出翻番",
+          "summary": "来自700家公司数据显示，AI工具使软件开发产出翻倍，代码质量保持稳定。",
           "keyInsights": [
-            "AI已从实验阶段进入规模化商业应用"
+            "AI编程效率提升显著",
+            "代码质量未受影响"
           ]
         },
         {
-          "title": "微软转向Anthropic",
-          "summary": "微软逐步脱离与OpenAI独家合作，转向Anthropic，标志着AI供应商多元化战略。",
+          "title": "微软转向Anthropic，战略重心偏离OpenAI",
+          "summary": "微软多元化AI业务，与Anthropic深化合作，减少对OpenAI依赖。",
           "keyInsights": [
-            "科技巨头避免过度依赖单一AI供应商"
-          ]
-        },
-        {
-          "title": "Shopify CEO展示AI医疗应用",
-          "summary": "Tobi Lütke用Anthropic的Claude开发MRI网络查看器，拓展AI医疗场景。",
-          "keyInsights": [
-            "大语言模型在垂直领域应用潜力巨大"
+            "微软AI布局多元化",
+            "科技巨头竞合关系变化"
           ]
         }
       ],
@@ -38,25 +33,27 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "伊朗战争导致石油市场史无前例动荡，油价创历史新高，全球能源格局面临重塑。",
+      "categorySummary": "欧洲股市上涨关注美联储，印度炼油商转向俄罗斯石油，全球能源市场波动。",
       "keyPoints": [
-        "伊朗战争造成石油市场史上最大规模动荡",
-        "油价飙升创历史新高",
-        "特朗普威胁打击伊朗石油出口枢纽"
+        "欧洲股市上涨，关注美联储政策",
+        "印度炼油商在伊朗危机中转向俄罗斯石油",
+        "全球石油和股票市场持续波动"
       ],
       "news": [
         {
-          "title": "IEA：伊朗战争造成石油市场最大动荡",
-          "summary": "IEA表示伊朗战争引发石油市场史无前例的供应冲击。",
+          "title": "欧洲股市上涨，关注焦点转向美联储",
+          "summary": "欧洲股市上涨，交易员关注美联储政策走向。",
           "keyInsights": [
-            "地缘政治风险成为油价主要驱动因素"
+            "欧洲市场乐观情绪上升",
+            "美联储成焦点"
           ]
         },
         {
-          "title": "摩根大通：油价将上涨",
-          "summary": "摩根大通预计油价将持续上涨，市场供应紧张。",
+          "title": "印度炼油商关注俄罗斯石油",
+          "summary": "孟买炼油厂在伊朗危机之际再次关注俄罗斯石油。",
           "keyInsights": [
-            "能源期货市场看涨情绪浓厚"
+            "地缘政治影响能源采购",
+            "俄油地位回升"
           ]
         }
       ],
@@ -64,26 +61,57 @@
       "icon": "📊"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "Nvidia发布Blackwell Ultra和Rubin芯片，中国芯片出口激增73%，AI算力竞争白热化。",
+      "name": "汽车出行",
+      "categorySummary": "VinFast交付量翻倍增长，特斯拉FSD v14发布，燃油价格攀升推动电动车需求。",
       "keyPoints": [
-        "Nvidia推出Blackwell Ultra和Rubin AI芯片",
-        "中国芯片出口同比增长73%达433亿美元",
-        "全球半导体行业迈向万亿美元规模"
+        "VinFast 2025年交付量增长102%达196,919辆",
+        "特斯拉FSD v14发布，渐进式改进",
+        "伊朗战争导致燃油涨价，推动EV需求"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Rubin芯片",
-          "summary": "黄仁勋公布Blackwell Ultra今年下半年发货，Vera Rubin芯片路线图。",
+          "title": "VinFast 2025年交付量增长102%",
+          "summary": "VinFast年度营收达36亿美元，全球生产布局扩大。",
           "keyInsights": [
-            "Nvidia加速AI芯片迭代节奏保持领先"
+            "越南电动车企高速增长",
+            "全球化布局成效显著"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14测试体验",
+          "summary": "特斯拉FSD v14展现更强能力和更流畅表现，测试者称其为驾驶的未来。",
+          "keyInsights": [
+            "FSD能力持续提升",
+            "L2辅助驾驶接近完全自动驾驶"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "Nvidia发布Blackwell Ultra和Rubin芯片，中国芯片出口激增73%，AI芯片管控趋严。",
+      "keyPoints": [
+        "Nvidia发布Blackwell Ultra和Rubin AI芯片",
+        "中国芯片��口同比增长73%达433亿美元",
+        "美国考虑加强AI芯片出口管控"
+      ],
+      "news": [
+        {
+          "title": "英伟达发布Blackwell Ultra和Rubin AI芯片",
+          "summary": "黄仁勋发布Blackwell Ultra系列和下一代GPU Vera Rubin。",
+          "keyInsights": [
+            "AI芯片性能持续突破",
+            "Nvidia保持领先"
           ]
         },
         {
           "title": "中国芯片出口激增73%",
-          "summary": "一二月份中国芯片出口达433亿美元，AI需求推动半导体增长。",
+          "summary": "AI需求推动下，1-2月中国芯片出口达433亿美元。",
           "keyInsights": [
-            "中国半导体产能快速扩张"
+            "中国半导体产能扩张",
+            "全球芯片竞争加剧"
           ]
         }
       ],
@@ -91,26 +119,107 @@
       "icon": "💻"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "太阳能和风能增速超电力需求，新型太阳能电池可储存为绿色氢能，长期储能技术突破。",
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场高速增长，多款新药获批，辉瑞CEO薪酬上涨至2760万美元。",
       "keyPoints": [
-        "今年全球太阳能风能发电量已超过电力需求",
-        "新型太阳能电池可转化为绿色氢气",
-        "绿色氢能成为长期储能关键载体"
+        "GLP-1减肥药市场预计2030年达488亿美元",
+        "FDA批准Sun Pharma、诺华新药",
+        "辉瑞CEO 2025年薪酬2760万美元"
       ],
       "news": [
         {
-          "title": "太阳能和风能增速超过电力需求",
-          "summary": "新分析显示今年全球太阳能风能发电量已超过电力需求增速。",
+          "title": "GLP-1减肥药市场规模高速增长",
+          "summary": "市场规模从138亿美元预计增至2030年488亿美元。",
           "keyInsights": [
-            "可再生能源发展超预期"
+            "减肥药市场爆发",
+            "诺和诺德和礼来领跑"
           ]
         },
         {
-          "title": "绿色氢能成长期储能关键",
-          "summary": "电池适合短期储能，绿色氢能正成为长期储能的理想载体。",
+          "title": "新型GLP-1减肥药物效果更强",
+          "summary": "CagriSema和retatrutide减重效果可达现有治疗两倍。",
           "keyInsights": [
-            "氢储能技术路线逐渐清晰"
+            "多靶点药物突破",
+            "减重效果显著提升"
+          ]
+        }
+      ],
+      "id": "biopharma",
+      "icon": "🧬"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro设计曝光，苹果可能沿用iPhone 17 Pro设计语言。",
+      "keyPoints": [
+        "iPhone 18 Pro渲染图展示挖孔摄像头",
+        "苹果可能沿用iPhone 17 Pro设计",
+        "iPhone 18设计引发等待还是购买讨论"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18 Pro设计泄露",
+          "summary": "iPhone 18 Pro非官方渲染图曝光，展示挖孔摄像头设计。",
+          "keyInsights": [
+            "设计延续性策略",
+            "挖孔屏成趋势"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "独立游戏崛起超越3A大作，微软、索尼、任天堂联合更新玩家安全准则。",
+      "keyPoints": [
+        "2025年独立游戏超越传统3A大作",
+        "Xbox、索尼、任天堂联合发布玩家安全更新",
+        "AI技术强化游戏内容安全检测"
+      ],
+      "news": [
+        {
+          "title": "独立游戏崛起，AAA游戏行业受挑战",
+          "summary": "Nexon前CEO认为AAA游戏行业正在衰落。",
+          "keyInsights": [
+            "游戏行业格局变化",
+            "独立游戏和创新平台崛起"
+          ]
+        },
+        {
+          "title": "微软、索尼、任天堂联合发布玩家安全更新",
+          "summary": "三大平台深化安全合作，更新社区准则和家庭安全功能。",
+          "keyInsights": [
+            "行业安全标准统一",
+            "AI检测有害内容"
+          ]
+        }
+      ],
+      "id": "entertainment",
+      "icon": "🎮"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "印度要求本土太阳能硅片，太阳能主导能源地位增强，绿色氢能储能技术突破。",
+      "keyPoints": [
+        "印度要求从2028年起使用本土太阳能硅锭和硅片",
+        "太阳能主导全球能源系统发展趋势明显",
+        "新型太阳能电池可将能量储存为绿色氢气"
+      ],
+      "news": [
+        {
+          "title": "印度推进本土太阳能制造",
+          "summary": "印度要求清洁能源企业从2028年起仅使用本土制造的太阳能材料。",
+          "keyInsights": [
+            "能源本土化政策",
+            "太阳能产业链竞争"
+          ]
+        },
+        {
+          "title": "绿色氢能电池储能解决方案",
+          "summary": "德国开发共聚物基太阳能电池，将能量储存为绿色氢���。",
+          "keyInsights": [
+            "储能技术创新",
+            "氢能应用拓展"
           ]
         }
       ],
