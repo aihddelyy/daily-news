@@ -1,35 +1,35 @@
 {
-  "date": "2026-03-21",
-  "overallSummary": "AI领域呈现多元合作格局，科技巨头加速布局企业级AI代理；电动汽车行业面临转型阵痛，特斯拉FSD即将获欧洲批准；Nvidia发布新一代AI芯片抢占市场先机。",
+  "date": "2026-03-22",
+  "overallSummary": "AI行业巨头加速合纵连横布局安全与芯片合作；全球地缘冲突冲击金融市场与供应链，能源转型持续推进。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI战略调整，微软转向Anthropic减少对OpenAI依赖，Anthropic深化与谷歌合作，企业AI代理安全部署成为焦点。",
+      "categorySummary": "AI头部企业通过联盟与芯片合作重塑行业格局，多元化合作成趋势。",
       "keyPoints": [
-        "微软多元化AI战略，转向Anthropic合作",
-        "AI客服初创公司估值达20亿美元",
-        "AI可协助全科医生应对工作负担"
+        "OpenAI、Google、微软、Anthropic成立前沿模型论坛共推AI安全",
+        "微软多元化布局，转向Anthropic深化AI合作",
+        "Anthropic与Google大幅扩展AI芯片合作伙伴关系"
       ],
       "news": [
         {
-          "title": "微软转向Anthropic，减少对OpenAI的依赖",
-          "summary": "微软与Anthropic合作深化，标志着其生成式AI领域多元化战略迈出新步伐。",
+          "title": "OpenAI与谷歌、Anthropic和微软合作成立前沿模型论坛",
+          "summary": "四大AI巨头联合成立行业联盟，致力于推进前沿AI模型安全开发。",
           "keyInsights": [
-            "科技巨头降低单一供应商风险"
+            "行业协作成AI安全治理新模式"
           ]
         },
         {
-          "title": "Anthropic深化与谷歌的AI芯片合作",
-          "summary": "Anthropic和谷歌扩大AI合作伙伴关系，独立生成式AI供应商格局生变。",
+          "title": "微软转向Anthropic，转变与OpenAI的合作关系",
+          "summary": "微软在生成式AI领域迈出多元化布局新步伐。",
           "keyInsights": [
-            "芯片合作成AI竞争关键"
+            "科技巨头分散AI投资风险"
           ]
         },
         {
-          "title": "NVIDIA关注企业AI代理安全部署",
-          "summary": "NVIDIA致力于推动企业AI代理更安全部署，保障AI应用可靠性。",
+          "title": "Anthropic加强与Google的AI芯片合作",
+          "summary": "双方扩展合作伙伴关系，Anthropic获取更强AI算力支持。",
           "keyInsights": [
-            "企业AI安全成行业重点"
+            "芯片合作成AI企业核心竞争力"
           ]
         }
       ],
@@ -37,26 +37,53 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车行业面临挑战，本田取消多款电动车型；特斯拉FSD获重大进展，欧洲市场即将突破。",
+      "name": "商业财经",
+      "categorySummary": "地缘政治风险引发全球股市震荡，企业战略调整应对新局势。",
       "keyPoints": [
-        "特斯拉FSD v14为最令人印象深刻的L2系统",
-        "特斯拉FSD下月在荷兰获欧洲批准",
-        "本田取消三款电动汽车，大众裁员"
+        "伊朗战争冲击导致股市暴跌，道指纳指接近回调区间",
+        "特朗普考虑逐步缩减中东军事行动",
+        "特斯拉首款半挂卡车受到市场热捧"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14版本测试评价",
-          "summary": "特斯拉FSD v14是高级驾驶辅助系统的增量改进，也是目前最令人印象深刻的L2系统。",
+          "title": "全球股市因中东局势暴跌",
+          "summary": "伊朗战争冲击加剧市场损失，主要指数接近回调区间。",
           "keyInsights": [
-            "FSD技术持续迭代精进"
+            "地缘政治成市场最大扰动因素"
           ]
         },
         {
-          "title": "特斯拉FSD将于下月在荷兰获得里程碑式欧洲批准",
-          "summary": "特斯拉即将攻克自动驾驶关键难题，欧洲市场准入在即。",
+          "title": "特斯拉首款半挂卡车上市受热捧",
+          "summary": "特斯拉正式推出首款半挂卡车，已获卡车司机广泛认可。",
           "keyInsights": [
-            "自动驾驶监管逐步放开"
+            "特斯拉商用车业务打开新增长极"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "中国电动车市场面临挑战，特斯拉FSD技术持续迭代领跑行业。",
+      "keyPoints": [
+        "小鹏汽车季度预测疲软，加剧中国电动车市场悲观情绪",
+        "特斯拉FSD v14展现更强能力与流畅表现",
+        "L2级别自动驾驶技术取得增量改进"
+      ],
+      "news": [
+        {
+          "title": "小鹏汽车疲软季度预测加剧市场悲观",
+          "summary": "Q1营收低于预期，中国电动车市场竞争加剧。",
+          "keyInsights": [
+            "价格战与需求疲软双重压力"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14测试表现令人印象深刻",
+          "summary": "FSD v14较前版能力更强、运行更流畅，为L2级别最佳表现。",
+          "keyInsights": [
+            "自动驾驶技术持续迭代精进"
           ]
         }
       ],
@@ -65,25 +92,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "Nvidia发布Blackwell Ultra和Rubin AI芯片新品，中国市场H200获批，芯片制造技术持续突破。",
+      "categorySummary": "英伟达加速产品迭代，Blackwell Ultra与Rubin芯片接力布局AI算力。",
       "keyPoints": [
-        "Nvidia发布Blackwell Ultra和Rubin AI芯片",
-        "Nvidia H200芯片在中国获准销售",
-        "原子级超薄材料或可解决芯片制造难题"
+        "英伟达获准在中国销售H200 AI芯片",
+        "英伟达发布Blackwell Ultra和Rubin AI芯片",
+        "RTX PRO 6000 Blackwell GPU企业级版本即将上市"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Rubin AI芯片",
-          "summary": "黄仁勋公布Blackwell Ultra系列将于今年晚些时候发货，以及下一代GPU Vera Rubin。",
+          "title": "英伟达发布Blackwell Ultra和Rubin AI芯片",
+          "summary": "Jensen Huang公布新一代GPU路线图，Blackwell Ultra今年发货。",
           "keyInsights": [
-            "Nvidia加速AI芯片迭代"
+            "AI芯片军备竞赛持续升级"
           ]
         },
         {
-          "title": "Nvidia在中国获准销售后恢复H200 AI芯片生产",
-          "summary": "中国政府推动国产替代背景下，中国AI开发者将抢购Nvidia H200芯片。",
+          "title": "英伟达获准在中国销售H200芯片",
+          "summary": "中国政府推动下，国内AI开发者将抢购H200芯片。",
           "keyInsights": [
-            "中国市场仍是关键战场"
+            "高端AI芯片中国市场重启"
           ]
         }
       ],
@@ -92,25 +119,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，FDA推动减少动物实验，辉瑞CEO薪酬引发关注。",
+      "categorySummary": "GLP-1减肥药市场爆发在即，地缘冲突扰乱制药供应链。",
       "keyPoints": [
-        "GLP-1市场2030年预计达488.4亿美元",
-        "FDA发布指南推动减少动物实验",
-        "辉瑞CEO 2025年薪酬增至2760万美元"
+        "GLP-1市场规模预计从622亿增至1575亿美元",
+        "新型GLP-1药物CagriSema和retatrutide减重效果或达现有两倍",
+        "中东冲突扰乱海湾地区生物制药冷链运输"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药物市场规模报告",
-          "summary": "全球GLP-1减肥药市场2024年138.4亿美元，预计2030年将达488.4亿美元。",
+          "title": "GLP-1减肥药市场规模将增长153%",
+          "summary": "全球GLP-1市场预计从622亿���长至2035年的1575亿美元。",
           "keyInsights": [
-            "减肥药市场增长潜力巨大"
+            "减重药成医药行业最大增长引擎"
           ]
         },
         {
-          "title": "FDA推动减少药物开发中的动物研究",
-          "summary": "FDA发布指南草案，帮助申办者验证可替代动物实验的新方法。",
+          "title": "新型GLP-1减肥药效果或达现有两倍",
+          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果显著。",
           "keyInsights": [
-            "医药研发伦理标准提升"
+            "多靶点药物引领下一代减肥疗法"
+          ]
+        },
+        {
+          "title": "中东冲突扰乱制药供应链",
+          "summary": "海湾航空海运枢纽受阻，生物制药冷链运输面临风险。",
+          "keyInsights": [
+            "地缘风险倒逼供应链多元化"
           ]
         }
       ],
@@ -119,18 +153,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果产品规划曝光，iPhone 18 Pro或采用折叠屏设计，iPhone 17 Pro设计元素有望延续。",
+      "categorySummary": "苹果加速产品线布局，折叠屏iPhone将于明年秋季正式面世。",
       "keyPoints": [
-        "iPhone 18 Pro可能采用折叠屏设计",
-        "iPhone 17 Pro设计或沿用至iPhone 18 Pro",
-        "苹果首款折叠���iPhone或秋季推出"
+        "苹果首款折叠屏iPhone预计2026年秋季发布",
+        "iPhone 18 Pro可能沿用iPhone 17 Pro设计语言",
+        "iPhone 18系列设计泄露引市场关注"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro渲染图泄露打孔摄像头设计",
-          "summary": "多条传言称苹果首款折叠屏iPhone将于2026年秋季推出。",
+          "title": "苹果首款折叠屏iPhone将于2026年发布",
+          "summary": "多方传闻确认折叠屏机型将与iPhone 18 Pro系列同步亮相。",
           "keyInsights": [
-            "折叠屏成为苹果新方向"
+            "折叠屏成苹果产品线新突破点"
+          ]
+        },
+        {
+          "title": "iPhone 18 Pro设计可能沿用前代方案",
+          "summary": "非官方渲染图显示挖孔相机设计，迭代策略为主。",
+          "keyInsights": [
+            "苹果放缓设计革新节奏"
           ]
         }
       ],
@@ -139,25 +180,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏开发面临成本压力，三大主机厂商联合推动玩家安全。",
+      "categorySummary": "AAA游戏面临开发周期过长困境，主机三强联手推进游戏安全。",
       "keyPoints": [
-        "AAA大作开发周期长达3-8年",
-        "索尼、微软、任天堂联合发布玩家安全声明",
-        "Global Gaming League签约六款AAA级游戏"
+        "AAA游戏开发周期已达3-8年，行业效率受质疑",
+        "Xbox、索尼、任天堂更新安全游戏共同承诺",
+        "玩家健康与游戏成瘾问题推动行业合作"
       ],
       "news": [
         {
-          "title": "游戏市场面临挑战：AAA大作萎缩",
-          "summary": "游戏开发成本攀升、创新投入增加，行业格局正在重塑。",
+          "title": "Xbox携手索尼任天堂更新安全游戏原则",
+          "summary": "三家公司共同推广家长控制和时间管理工具。",
           "keyInsights": [
-            "游戏行业寻求转型突破"
+            "行业协作应对玩家健康挑战"
           ]
         },
         {
-          "title": "索尼、微软、任天堂就玩家安全发布联合声明",
-          "summary": "三大主机厂商更新玩家安全承诺，持续改善平台体验。",
+          "title": "AAA游戏产业面临效率与成本困境",
+          "summary": "开发周期过长推高成本，小型游戏崛起分流市场。",
           "keyInsights": [
-            "跨平台安全合作成趋势"
+            "游戏产业格局正在重构"
           ]
         }
       ],
@@ -166,25 +207,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "德国太阳能电池技术突破，可将能源储存为绿色氢气；埃及签署大规模清洁能源协议。",
+      "categorySummary": "全球清洁能源持续扩张，氢能储能与绿氢技术成为新兴方向。",
       "keyPoints": [
-        "德国研发新型太阳能电池可储存为绿色氢气",
-        "埃及签署5.6吉瓦太阳能、风能购电协议",
-        "氢能储存成为绿色电池替代方案"
+        "埃及���署5.6吉瓦太阳能、风能和储能购电协议",
+        "德国研究人员开发新型共聚物基太阳能电池可储能为绿氢",
+        "氢气储能方案在可再生能源领域兴起"
       ],
       "news": [
         {
-          "title": "新型太阳能电池将能量储存为绿色氢气",
-          "summary": "德国研究人员开发创新共聚物太阳能电池，能源储存技术获突破。",
+          "title": "埃及签署大规模清洁能源协议",
+          "summary": "埃及与Renergy合作探讨绿色超大规模数据中心，签署5.6吉瓦清洁能源协议。",
           "keyInsights": [
-            "氢能储运技术进展显著"
+            "新兴市场清洁能源需求井喷"
           ]
         },
         {
-          "title": "埃及签署5.6吉瓦太阳能、风能和电池购电协议",
-          "summary": "埃及与Renergy洽谈绿色供电超大规模数据中心，清洁能源布局加速。",
+          "title": "新型太阳能电池可将能量储为绿氢",
+          "summary": "德国研究人员创新共聚物基太阳能电池，突破能量转化储存瓶颈。",
           "keyInsights": [
-            "新兴市场清洁能源需求旺盛"
+            "太阳能-氢能技术路线获突破"
           ]
         }
       ],
