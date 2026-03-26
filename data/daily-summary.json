@@ -1,28 +1,35 @@
 {
-  "date": "2026-03-26",
-  "overallSummary": "AI行业形成新联盟格局，微软牵手Anthropic降低OpenAI依赖；Nvidia发布Blackwell Ultra芯片；GLP-1减肥药市场预计翻倍增长。",
+  "date": "2026-03-27",
+  "overallSummary": "AI监管审查升级，微软多元化布局；英伟达发布新一代AI芯片；GLP-1减肥药市场持续扩张。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI合作布局，医疗场景落地加速",
+      "categorySummary": "科技巨头与AI初创公司合作面临监管审查，印度成为AI投资新热土。",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic联手成立Agentic联盟",
-        "微软通过Anthropic减少对OpenAI依赖，Word/Excel等将获支持",
-        "AI辅助全科医生诊疗，Karpathy分享最大化利用AI token方法"
+        "美参议员正式调查谷歌与Anthropic、微软与OpenAI合作协议",
+        "微软减少对OpenAI依赖，转向Anthropic寻求多元化",
+        "Google、Microsoft、OpenAI和Anthropic均在印度加大投资布局"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic联盟",
-          "summary": "四大科技公司联合成立AI Agent行业组织",
+          "title": "参议员审查谷歌与Anthropic、微软与OpenAI的合作协议",
+          "summary": "沃���和怀登参议员要求提供科技巨头与AI初创公司合作协议的详细信息。",
           "keyInsights": [
-            "行业标准化加速，巨头间竞争转向合作"
+            "监管关注点集中在资金关系和技术控制权"
           ]
         },
         {
-          "title": "微软与Anthropic和Nvidia合作加码云基础设施",
-          "summary": "微软通过采购Anthropic技术降低OpenAI依赖",
+          "title": "微软转向Anthropic，减少对OpenAI的依赖",
+          "summary": "微软多年作为OpenAI主要云合作伙伴，正寻求生成式AI领域多元化。",
           "keyInsights": [
-            "微软AI战略多元化，Anthropic获大客户背书"
+            "标志着微软AI战略重大调整"
+          ]
+        },
+        {
+          "title": "为何科技巨头要在印度押下重注",
+          "summary": "西方市场增长趋缓，中国战略复杂化，印度成为新投资热点。",
+          "keyInsights": [
+            "人才渠道和新兴市场是核心吸引力"
           ]
         }
       ],
@@ -30,46 +37,19 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车成本上升影响满意度，自动驾驶渐进式迭代",
-      "keyPoints": [
-        "JD Power研究：家用充电成本上升，EV用户满意度下降",
-        "特斯拉FSD v14发布，渐进式改进但最令人印象深刻的L2系统",
-        "斯巴鲁全新纯电SUV将亮相纽约车展"
-      ],
-      "news": [
-        {
-          "title": "我测试了特斯拉最新的全自动驾驶FSD v14",
-          "summary": "FSD v14为渐进式改进，L2级最令人印象深刻",
-          "keyInsights": [
-            "自动驾驶技术稳步迭代，完全无人驾驶仍需时日"
-          ]
-        },
-        {
-          "title": "斯巴鲁预告全新纯电动SUV即将亮相纽约车展",
-          "summary": "斯巴鲁加入电动化浪潮",
-          "keyInsights": [
-            "传统车企加速电动化转型"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "Nvidia发布新一代AI芯片，架构持续升级",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin下一代GPU，芯片制造技术持续突破。",
       "keyPoints": [
-        "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
-        "RTX PRO 6000 Blackwell服务器版GPU即将应用",
-        "原子级超薄材料可能有助于解决芯片制造难题"
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+        "RTX PRO 6000 Blackwell Server Edition GPU即将推出",
+        "原子级超薄材料或有助于解决芯片制造难题"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Blackwell Ultra今年发货，Rubin为下一代GPU",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "黄仁勋发布Blackwell Ultra系列（今年发货��及下一代Vera Rubin GPU。",
           "keyInsights": [
-            "AI芯片竞争加剧，算力持续突破"
+            "下一代GPU将进一步提升AI训练和推理性能"
           ]
         }
       ],
@@ -78,25 +58,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发，地缘冲突影响供应链",
+      "categorySummary": "GLP-1减肥药市场爆发，新型药物减重效果翻倍，市场规模预计翻倍增长。",
       "keyPoints": [
-        "GLP-1市场将从622亿美元增至2035年1575亿美元",
-        "CagriSema和retatrutide减重效果可达现有治疗两倍",
-        "中东冲突扰乱海湾制药冷链运输"
+        "GLP-1市场预计从622亿美元增至2035年的1575亿美元",
+        "CagriSema和retatrutide新型药物减重效果达现有方案两倍",
+        "Maze Therapeutics APOL1抑制剂临床数据积极"
       ],
       "news": [
         {
-          "title": "新型GLP-1减肥药物即将上市",
-          "summary": "CagriSema和retatrutide靶向多激素，效果翻倍",
+          "title": "新型GLP-1减肥药物即将问世",
+          "summary": "CagriSema和retatrutide针对多种肠道激素，减重效果翻倍。",
           "keyInsights": [
-            "减肥药进入多靶点时代，市场格局重塑"
+            "多靶点药物代表下一代肥胖治疗方向"
           ]
         },
         {
-          "title": "GLP-1市场趋势与2025年全球预测",
-          "summary": "GLP-1市场9.7%复合增长，2035年达1575亿美元",
+          "title": "GLP-1市场趋势与全球预测",
+          "summary": "GLP-1市场2024-2035年复合增长率将达9.7%。",
           "keyInsights": [
-            "减重市场成医药新蓝海"
+            "诺和诺德和礼来主导市场格局"
           ]
         }
       ],
@@ -104,19 +84,73 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18设计延续17代风格，灵动岛或缩小",
+      "name": "汽车出行",
+      "categorySummary": "索尼本田放弃Afeela电动车项目，特斯拉FSD v14实现渐进式改进。",
       "keyPoints": [
-        "iPhone 17 Pro设计可能沿用至iPhone 18 Pro",
-        "iPhone 18灵动岛将缩小",
-        "18和18 Pro或配备与17 Pro相同RAM"
+        "索尼本田移动取消Afeela电动车，因代价高昂和需求疲软",
+        "特斯拉FSD v14为目前最令人印象深刻的L2级别系统",
+        "B.C.电动汽车强制令遭质疑"
       ],
       "news": [
         {
-          "title": "Apple可能将iPhone 17 Pro的设计用于iPhone 18 Pro",
-          "summary": "设计语言延续，挖孔摄像头成为主流",
+          "title": "索尼本田移动取消Afeela电动车",
+          "summary": "本田因代价高昂的撤退和需求疲软审查合资企业。",
           "keyInsights": [
-            "苹果设计周期延长，减少换代频率"
+            "电动汽车行业面临盈利挑战"
+          ]
+        },
+        {
+          "title": "特斯拉最新全自动驾驶v14测试",
+          "summary": "FSD v14为渐进式改进，评测者称其为驾驶的未来。",
+          "keyInsights": [
+            "L2级辅助驾驶持续进化"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "清洁能源逆势增长，氢能储能成为电池替代方案，太阳能和风能首超煤炭。",
+      "keyPoints": [
+        "2025年全球太阳能和风能发电量增长109%，首超煤炭",
+        "氢能储能作为绿色替代方案受关注",
+        "清洁能源发展不受政治因素影响"
+      ],
+      "news": [
+        {
+          "title": "清洁能源正在蓬勃发展",
+          "summary": "可再生能源首次超越煤炭，尽管政策存在不确定性。",
+          "keyInsights": [
+            "市场驱动已超越政策影响"
+          ]
+        },
+        {
+          "title": "氢能储能成为绿色替代方案",
+          "summary": "氢气从太阳能产生，发电后只产生水作为副产品。",
+          "keyInsights": [
+            "长期储能方案的重要补充"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro可能沿用iPhone 17 Pro设计，设计周期延长。",
+      "keyPoints": [
+        "iPhone 17 Pro设计可能沿用至iPhone 18 Pro",
+        "iPhone 18 Pro传闻展示打孔摄像头设计",
+        "苹果产品更新策略发生转变"
+      ],
+      "news": [
+        {
+          "title": "苹果可能将iPhone 17 Pro设计沿用于iPhone 18 Pro",
+          "summary": "iPhone 18 Pro非官方渲染图曝光，展示打孔摄像头设计。",
+          "keyInsights": [
+            "设计语言稳定性提升或延长产品周期"
           ]
         }
       ],
@@ -125,18 +159,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏开发陷入困境，行业呼吁做小做精",
+      "categorySummary": "AAA游戏开发成本攀升，行业面临转型压力，小型精品游戏受关注。",
       "keyPoints": [
-        "AAA游戏开发需3-8年，成本激增",
-        "Xbox将South of Midnight带到Switch 2",
-        "三大主机平台联合推进更安全游戏承诺"
+        "AAA游戏开发周期已延长至3-8年",
+        "前Nexon CEO认为AAA游戏行业正在衰退",
+        "Xbox和Switch游戏生态竞争加剧"
       ],
       "news": [
         {
-          "title": "AAA游戏终于证明游戏需要做得更小",
-          "summary": "开发成本和周期问题倒逼精品化策略",
+          "title": "AAA大作减少，小型游戏崛起",
+          "summary": "游戏开发成本不断增加，创新设计需要更高投资。",
           "keyInsights": [
-            "游戏行业从规���竞争转向效率竞争"
+            "行业盈利模式面临重构"
+          ]
+        },
+        {
+          "title": "Xbox新闻与Nintendo Life",
+          "summary": "Xbox为Switch 2带来新游戏，《South of Midnight》即将登陆。",
+          "keyInsights": [
+            "跨平台合作成新趋势"
           ]
         }
       ],
@@ -144,31 +185,24 @@
       "icon": "🎮"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "清洁能源政策调整，储氢技术成为新方向",
+      "name": "商业财经",
+      "categorySummary": "全球市场消息面活跃，大型并购交易频发，涉及饮料、零售和金融多个领域。",
       "keyPoints": [
-        "印度推迟燃煤灵活性计划，因太阳能发电受限上升",
-        "氢能储存成为锂电池储能的有前景替代方案",
-        "离网绿色氢能系统中电池与氢储能需权衡"
+        "Diageo以18亿美元将板球队出售给贝莱德支持的财团",
+        "Corebridge Financial与Equitable Holdings合并",
+        "汉高将收购Olaplex"
       ],
       "news": [
         {
-          "title": "印度推迟燃煤灵活性计划",
-          "summary": "太阳能发电增长推动燃煤转型放缓",
+          "title": "Diageo出售板球队，Corebridge合并，汉高收购Olaplex",
+          "summary": "三大并购交易涉及饮料、体育赞助和美妆行业。",
           "keyInsights": [
-            "新能源渗透率提升影响传统能源规划"
-          ]
-        },
-        {
-          "title": "氢能储存：一种绿色的电池替代方案",
-          "summary": "氢储能利用太阳能产生，发电仅产水",
-          "keyInsights": [
-            "储氢技术或成长时储能关键"
+            "行业整合趋势持续"
           ]
         }
       ],
-      "id": "clean_energy",
-      "icon": "🌿"
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
