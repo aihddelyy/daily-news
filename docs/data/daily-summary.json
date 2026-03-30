@@ -1,38 +1,28 @@
 {
-  "date": "2026-03-30",
-  "overallSummary": "AI领域巨头联手组建代理式AI联盟开源标准，半导体行业英伟达发布Blackwell Ultra和Rubin芯片，能源市场因中东局势震荡，GLP-1减肥药市场预计翻倍增长。",
+  "date": "2026-03-31",
+  "overallSummary": "AI行业迎来重大整合，微软、谷歌、OpenAI和Anthropic成立Agentic AI联盟；英伟达发布Blackwell Ultra和Rubin芯片加剧AI芯片竞争；游戏产业AAA大作面临萎缩挑战。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头组建AI代理联盟，AI在医疗领域加速渗透。",
+      "categorySummary": "四大科技巨头联手成立AI代理联盟，印度成为投资新热土",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic组建代理式AI联盟，由Linux基金会支持",
-        "微软Copilot企业用户可在OpenAI和Anthropic模型间切换",
-        "BBC报道全科医生转向AI处理患者工作量"
+        "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
+        "约88%的组织已在至少一项业务职能中应用AI",
+        "科技巨头正大力押注印度市场"
       ],
       "news": [
         {
-          "title": "四大科技巨头组建Agentic AI联盟",
-          "summary": "微软、谷歌、OpenAI和Anthropic联手创建代理式AI联盟，由Linux基金会支持，旨在制定开源标准。",
+          "title": "四大科技巨头成立Agentic AI联盟",
+          "summary": "微���、谷歌、OpenAI和Anthropic联手成立AI代理联盟，由Linux基金会支持",
           "keyInsights": [
-            "行业标准化进程加速",
-            "开源生态建设成为重点"
+            "行业标准化合作加速"
           ]
         },
         {
-          "title": "谷歌确认Anthropic Claude服务正常",
-          "summary": "Google确认Anthropic的Claude AI工具对非国防客户仍可通过Google Cloud Platform访问。",
+          "title": "微软与Anthropic达成Copilot合作",
+          "summary": "企业用户可在Copilot中切换使用OpenAI和Anthropic模型",
           "keyInsights": [
-            "安抚客户担忧",
-            "云服务连续性保障"
-          ]
-        },
-        {
-          "title": "BBC：全科医生转向AI辅助工作",
-          "summary": "BBC报道全科医生开始使用AI进行咨询和行政工作，以应对患者工作量压力。",
-          "keyInsights": [
-            "AI医疗应用加速落地",
-            "医疗资源压力催生技术需求"
+            "AI模型竞争转向合作"
           ]
         }
       ],
@@ -41,27 +31,25 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "中东局势引发能源市场波动，油价震荡但部分经济体抗压能力较强。",
+      "categorySummary": "欧洲市场收涨但地缘风险上升，私人信贷市场流动性收紧",
       "keyPoints": [
-        "伊朗冲突言论震动市场，油价波动",
-        "大型油气公司CEO关注供应中断风险",
-        "意大利财政部表示能承受中东危机影响"
+        "欧洲市场收涨，伊朗战争升级，经济信心恶化",
+        "私人信贷基金限制赎回，规模外流加剧",
+        "地缘政治风险影响全球市场信心"
       ],
       "news": [
         {
-          "title": "伊朗战争担忧引发市场波动",
-          "summary": "上周伊朗冲突言论震动市场，油价出现明显波动，油气行业CEO关注供应中断。",
+          "title": "欧洲市场收涨但地缘风险上升",
+          "summary": "伊朗战争升级导致欧洲市场波动，经济信心恶化",
           "keyInsights": [
-            "地缘政治风险溢价上升",
-            "供应链脆弱性凸显"
+            "地缘政治成主要风险因素"
           ]
         },
         {
-          "title": "意大利表示财政可承受中东冲击",
-          "summary": "意大利财政部长表示意大利财政部能够承受中东危机带来的负面影响。",
+          "title": "私人信贷基金流动性收紧",
+          "summary": "私人信贷基金限制赎回，规模外流加剧",
           "keyInsights": [
-            "部分经济体抗压能力强",
-            "欧央行政策协调重要性"
+            "信贷市场风险积聚"
           ]
         }
       ],
@@ -70,27 +58,25 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续迭代，福特调整电动化策略转向增程式。",
+      "categorySummary": "特斯拉FSD持续进化，传统车企加速电动化转型",
       "keyPoints": [
-        "特斯拉FSD v14为渐进式改进，L2级辅助驾驶最佳表现",
-        "福特从纯电动汽车转向增程式电动汽车",
-        "旧金山100英里测试显示FSD接近驾驶未来"
+        "特斯拉FSD v14发布，渐进式改进显著",
+        "现代汽车计划2030年在北美推出36款新车型",
+        "福特从纯电动转向增程式电动汽车"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14测试：渐进式改进",
-          "summary": "特斯拉FSD v14是高级驾驶辅助系统的渐进式改进，也是最令人印象深刻的L2级表现。",
+          "title": "特斯拉FSD v14发布",
+          "summary": "特斯拉FSD v14是最令人印象深刻的L2级辅助系统",
           "keyInsights": [
-            "L2级自动驾驶持续精进",
-            "安全性与可靠性平衡"
+            "AI驱动的自动驾驶持续进化"
           ]
         },
         {
-          "title": "福特转向增程式电动汽车",
-          "summary": "福特从纯电动汽车转向增程式电动汽车，Be.EV收购Mer的英国业务。",
+          "title": "现代汽车260亿美元押注北美",
+          "summary": "现代计划2030年在北美推出36款新车，80%国内组装",
           "keyInsights": [
-            "纯电路线遇阻",
-            "增程式作为过渡方案受青睐"
+            "车企加码本地化生产"
           ]
         }
       ],
@@ -99,35 +85,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Rubin芯片，中国加速芯片自主化。",
+      "categorySummary": "英伟达发布新一代AI芯片，AI芯片市场贡献半数行业收入",
       "keyPoints": [
-        "NVIDIA发布Blackwell Ultra和Rubin AI芯片，年内出货",
-        "中国芯片产业寻求更多国家支持实现AI主导",
-        "NVIDIA扩展Blackwell服务器，新增AI和机器人能力"
+        "英伟达发布Blackwell Ultra和Rubin AI芯片",
+        "AI芯片市场预计2026年贡献约半数行业收入",
+        "主要AI芯片制造商考虑规则变更"
       ],
       "news": [
         {
-          "title": "NVIDIA发布Blackwell Ultra和Rubin芯片",
-          "summary": "黄仁勋发布Blackwell Ultra系列，将于今年晚些时候出货，以及下一代GPU Vera Rubin。",
+          "title": "英伟达发布Blackwell Ultra和Rubin芯片",
+          "summary": "黄仁勋公布Blackwell Ultra和Vera Rubin下一代GPU",
           "keyInsights": [
-            "算力军备竞赛持续",
-            "AI芯片代际更替加速"
+            "AI芯片竞争升级"
           ]
         },
         {
-          "title": "NVIDIA扩展Blackwell服务器能力",
-          "summary": "NVIDIA扩展Blackwell动力服务器，新增AI和机器人技术能力。",
+          "title": "AI芯片市场收入占比过半",
+          "summary": "到2026年数据中心AI芯片将贡献约半数行业收入",
           "keyInsights": [
-            "AI基础设施持续投入",
-            "机器人赛道成新焦点"
-          ]
-        },
-        {
-          "title": "中国寻求芯片产业国家支持",
-          "summary": "中国��片产业学者和企业家敦促北京规范AI发展，寻求更多国家支持实现AI主导地位。",
-          "keyInsights": [
-            "芯片自主可控战略",
-            "政策与产业协同加速"
+            "AI芯片成半导体增长核心驱动力"
           ]
         }
       ],
@@ -136,27 +112,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，新型双重靶点药物减重效果显著。",
+      "categorySummary": "GLP-1减肥药市场爆发，新型药物减重效果达现有两倍",
       "keyPoints": [
-        "GLP-1市场将从622亿美元增至2035年1575亿美元，复合增长率9.7%",
-        "CagriSema和retatrutide可产生两倍于现有疗法的减重效果",
-        "Idel Therapeutics完成900万欧元融资"
+        "GLP-1减肥药市场预计2030年达488.4亿美元",
+        "新药CagriSema和retatrutide减重效果达现有两倍",
+        "GLP-1市场2035年将达1575亿美元"
       ],
       "news": [
         {
-          "title": "GLP-1减肥药市场爆发式增长",
-          "summary": "GLP-1市场规模预计从622亿美元增长至2035年的1575亿美元，复合年增长率9.7%。",
+          "title": "新型GLP-1减肥药即将上市",
+          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果翻倍",
           "keyInsights": [
-            "代谢疾病赛道成蓝海",
-            "市场规模五年翻倍"
+            "代谢药物领域重大突破"
           ]
         },
         {
-          "title": "新型GLP-1药物减重效果翻倍",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，可能产生目前治疗两倍的减重效果。",
+          "title": "GLP-1市场爆发式增长",
+          "summary": "2024年138.4亿美元增至2030年488.4亿美元",
           "keyInsights": [
-            "多靶点药物优于单靶点",
-            "减重疗效天花板提升"
+            "减重药物成医药新蓝海"
           ]
         }
       ],
@@ -165,19 +139,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列9月发布，苹果将推出首款折叠屏设备。",
+      "categorySummary": "苹果首款折叠屏iPhone即将发布，旗舰手机创新持续",
       "keyPoints": [
-        "iPhone 18 Pro和Pro Max将在9月照常发布",
-        "苹果计划推出首款折叠屏设备",
-        "iPhone 18 Pro有8大重磅功能升级"
+        "iPhone 18将推出首款折叠屏设备",
+        "iPhone 17 Pro带来外观设计革新和摄像头升级",
+        "折叠屏成高端手机新战场"
       ],
       "news": [
         {
-          "title": "iPhone 18系列曝光8大功能",
-          "summary": "iPhone 18 Pro和Pro Max将照常在9月发布，同时苹果计划推出首款折叠屏设备。",
+          "title": "iPhone 18传闻：首款折叠屏",
+          "summary": "iPhone Fold为苹果首款折叠屏手机，将于9月发布",
           "keyInsights": [
-            "折叠屏成苹果新增长点",
-            "高端机型差异化策略"
+            "苹果入局折叠屏市场"
           ]
         }
       ],
@@ -186,27 +159,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临挑战，三大主机厂商联合推进玩家安全。",
+      "categorySummary": "AAA游戏产业面临衰退，三大主机平台联合推进玩家安全",
       "keyPoints": [
-        "AAA级游戏开发需3-4年至7-8年，前Nexon CEO认为行业正在衰落",
-        "微软、索尼、任天堂联合发布玩家安全更新",
-        "小型游戏崛起冲击传统AAA模式"
+        "AAA级游戏开发周期长达3-8年，前Nexon CEO认为产业正在衰落",
+        "微软、索尼、任天堂联合发布玩家安全声明",
+        "小型独立游戏和短周期游戏崛起"
       ],
       "news": [
         {
-          "title": "前Nexon CEO：AAA游戏产业衰落",
-          "summary": "前Nexon CEO欧文·马奥尼认为AAA游戏行业正在衰落，开发周期过长成主因。",
+          "title": "AAA游戏产业面临挑战",
+          "summary": "AAA游戏开发需3-8年，前Nexon CEO认为产业正在衰落",
           "keyInsights": [
-            "开发成本与周期矛盾",
-            "独立游戏生态崛起"
+            "游戏产业格局生变"
           ]
         },
         {
-          "title": "三大主机厂��合发布玩家安全更新",
-          "summary": "微软、索尼和任天堂联合发布更安全游戏环境的最新动态和共同原则。",
+          "title": "三大主机平台联合安全声明",
+          "summary": "微软、索尼和任天堂联合发布更安全游戏环境承诺",
           "keyInsights": [
-            "行业自律标准统一",
-            "玩家安全成行业共识"
+            "行业安全标准统一"
           ]
         }
       ],
@@ -215,35 +186,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源首次超越煤炭，绿色氢能储能解决方案加速发展。",
+      "categorySummary": "全球清洁能源首次超越煤炭，新西兰20亿太阳能项目落地",
       "keyPoints": [
-        "全球太阳能和风能发电量增长109%，首次超过煤炭",
-        "英国地热能源首创项目将为万户家庭供能",
-        "绿色氢能电池储能系统项目落地"
+        "2025年太阳能和风能发电量增长109%，首次超过煤炭",
+        "Lodestone Energy在新西兰投资20亿新西兰元太阳能项目",
+        "清洁能源发展势不可挡"
       ],
       "news": [
         {
-          "title": "可再生能源历史性超越煤炭",
-          "summary": "去年全球太阳能和风能发电量增长109%，首次超过煤炭，清洁能源势不可挡。",
+          "title": "清洁能源首次超越煤炭",
+          "summary": "2025年全球太阳能和风能发电量增长109%，首次超过煤炭",
           "keyInsights": [
-            "能源转型里程碑",
-            "碳中和进程加速"
+            "能源转型里程碑"
           ]
         },
         {
-          "title": "英国地热能源首创项目",
-          "summary": "英国地热能源首创项目地球热量将为一万户家庭供能，开创绿色能源新路径。",
+          "title": "新西兰20亿太阳能项目",
+          "summary": "Lodestone Energy计划在新西兰交付价值20亿新西兰元太阳能项目",
           "keyInsights": [
-            "地热能源商业化",
-            "分布式能源新方向"
-          ]
-        },
-        {
-          "title": "绿色氢能储能项目落地",
-          "summary": "160千瓦PEM电解槽配合5兆瓦/1小时电池储能系统的绿色氢能项目投入运营。",
-          "keyInsights": [
-            "长时储能破局",
-            "氢能产业链完善"
+            "大洋洲可再生能源投资加速"
           ]
         }
       ],
