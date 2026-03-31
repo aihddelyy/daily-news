@@ -1,28 +1,36 @@
 {
-  "date": "2026-03-31",
-  "overallSummary": "AI行业迎来重大整合，微软、谷歌、OpenAI和Anthropic成立Agentic AI联盟；英伟达发布Blackwell Ultra和Rubin芯片加剧AI芯片竞争；游戏产业AAA大作面临萎缩挑战。",
+  "date": "2026-04-01",
+  "overallSummary": "AI行业联盟与芯片技术突破成为今日核心亮点，代理式AI标准化与新一代AI芯片同步推进。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "四大科技巨头联手成立AI代理联盟，印度成为投资新热土",
+      "categorySummary": "科技巨头加速AI标准化进程与全球布局",
       "keyPoints": [
-        "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
-        "约88%的组织已在至少一项业务职能中应用AI",
-        "科技巨头正大力押注印度市场"
+        "四大AI公司成立Agentic AI联盟，推动开源标准制定",
+        "AI医疗应用深化，全科医生借助AI减轻工作负担",
+        "谷歌、微软押注印度市场，规避地缘政治风险"
       ],
       "news": [
         {
-          "title": "四大科技巨头成立Agentic AI联盟",
-          "summary": "微���、谷歌、OpenAI和Anthropic联手成立AI代理联盟，由Linux基金会支持",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立代理式AI联盟",
+          "summary": "四大AI公司联合成立Agentic AI联盟，由Linux基金���支持，为AI智能体制定开源标准。",
           "keyInsights": [
-            "行业标准化合作加速"
+            "推动AI智能体标准化",
+            "Linux基金会支持"
           ]
         },
         {
-          "title": "微软与Anthropic达成Copilot合作",
-          "summary": "企业用户可在Copilot中切换使用OpenAI和Anthropic模型",
+          "title": "Anthropic深化与Google的AI芯片合作",
+          "summary": "Anthropic与Google扩大AI合作伙伴关系，独立生成式AI厂商与云巨头深度绑定。",
           "keyInsights": [
-            "AI模型竞争转向合作"
+            "AI芯片合作深化"
+          ]
+        },
+        {
+          "title": "为什么谷歌、微软、OpenAI和Anthropic押注印度",
+          "summary": "西方市场增长趋成熟，地缘政治风险使中国战略复杂，科技巨头加大印度投资与人才布局。",
+          "keyInsights": [
+            "印度成为新增长极"
           ]
         }
       ],
@@ -30,80 +38,26 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "欧洲市场收涨但地缘风险上升，私人信贷市场流动性收紧",
-      "keyPoints": [
-        "欧洲市场收涨，伊朗战争升级，经济信心恶化",
-        "私人信贷基金限制赎回，规模外流加剧",
-        "地缘政治风险影响全球市场信心"
-      ],
-      "news": [
-        {
-          "title": "欧洲市场收涨但地缘风险上升",
-          "summary": "伊朗战争升级导致欧洲市场波动，经济信心恶化",
-          "keyInsights": [
-            "地缘政治成主要风险因素"
-          ]
-        },
-        {
-          "title": "私人信贷基金流动性收紧",
-          "summary": "私人信贷基金限制赎回，规模外流加剧",
-          "keyInsights": [
-            "信贷市场风险积聚"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续进化，传统车企加速电动化转型",
-      "keyPoints": [
-        "特斯拉FSD v14发布，渐进式改进显著",
-        "现代汽车计划2030年在北美推出36款新车型",
-        "福特从纯电动转向增程式电动汽车"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14发布",
-          "summary": "特斯拉FSD v14是最令人印象深刻的L2级辅助系统",
-          "keyInsights": [
-            "AI驱动的自动驾驶持续进化"
-          ]
-        },
-        {
-          "title": "现代汽车260亿美元押注北美",
-          "summary": "现代计划2030年在北美推出36款新车，80%国内组装",
-          "keyInsights": [
-            "车企加码本地化生产"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布新一代AI芯片，AI芯片市场贡献半数行业收入",
+      "categorySummary": "AI芯片市场竞争加剧，新一代产品密集发布",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Rubin AI芯片",
-        "AI芯片市场预计2026年贡献约半数行业收入",
-        "主要AI芯片制造商考虑规则变更"
+        "Nvidia发布Blackwell Ultra与Rubin芯片",
+        "AI芯片依赖数据中心，贡献约50%行业收入",
+        "先进封装技术采用面临规则调整"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Rubin芯片",
-          "summary": "黄仁勋公布Blackwell Ultra和Vera Rubin下一代GPU",
+          "title": "Nvidia发布Blackwell Ultra和Rubin AI芯片",
+          "summary": "黄仁勋公布Blackwell Ultra将于晚些时候发货，以及下一代GPU Vera Rubin。",
           "keyInsights": [
-            "AI芯片竞争升级"
+            "新一代AI芯片发布"
           ]
         },
         {
-          "title": "AI芯片市场收入占比过半",
-          "summary": "到2026年数据中心AI芯片将贡献约半数行业收入",
+          "title": "NVIDIA扩展Blackwell驱动服务器",
+          "summary": "NVIDIA提供更高性能Blackwell驱动服务器，新增AI和机器人技术能力。",
           "keyInsights": [
-            "AI芯片成半导体增长核心驱动力"
+            "服务器性能提升"
           ]
         }
       ],
@@ -111,26 +65,60 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发，新型药物减重效果达现有两倍",
+      "name": "汽车出行",
+      "categorySummary": "车企加速电动化转型与技术迭代",
       "keyPoints": [
-        "GLP-1减肥药市场预计2030年达488.4亿美元",
-        "新药CagriSema和retatrutide减重效果达现有两倍",
-        "GLP-1市场2035年将达1575亿美元"
+        "现代汽车计划2030年前在北美推出36款新车型",
+        "特斯拉FSD v14实现增量改进，L2级表现突出",
+        "福特从纯电转向增程式电动车策略"
       ],
       "news": [
         {
-          "title": "新型GLP-1减肥药即将上市",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果翻倍",
+          "title": "我测试了特斯拉最新的全自动驾驶FSD v14",
+          "summary": "Tesla FSD v14是高级驾驶辅助系统的增量改进，也是最令人印象深刻的L2级系统。",
           "keyInsights": [
-            "代谢药物领域重大突破"
+            "FSD持续迭代"
           ]
         },
         {
-          "title": "GLP-1市场爆发式增长",
-          "summary": "2024年138.4亿美元增至2030年488.4亿美元",
+          "title": "现代汽车2030年北美车型规划",
+          "summary": "现代计划2030年前在北美推出36款新车型，获260亿美元投资支持，设定80%国内组装率目标。",
           "keyInsights": [
-            "减重药物成医药新蓝海"
+            "车企加码北美市场"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场高速增长，新一代药物���将问世",
+      "keyPoints": [
+        "GLP-1减肥药市场2030年预计达488亿美元",
+        "Royalty Pharma与强生合作开发自免疾病疗法",
+        "CagriSema和retatrutide减重效果可达现有治疗两倍"
+      ],
+      "news": [
+        {
+          "title": "GLP-1受体激动剂减肥药物市场规模报告",
+          "summary": "全球GLP-1减肥药市场2024年138.4亿美元，预计2030年达488.4亿美元。",
+          "keyInsights": [
+            "市场高速增长"
+          ]
+        },
+        {
+          "title": "新GLP-1减肥药物即将问世",
+          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果可能是现有治疗两倍。",
+          "keyInsights": [
+            "新一代减肥药突破"
+          ]
+        },
+        {
+          "title": "Royalty Pharma与强生达成合作",
+          "summary": "Royalty Pharma与强生签署5亿美元研发协议，共同开发自身免疫性疾病治疗方法。",
+          "keyInsights": [
+            "药企合作深化"
           ]
         }
       ],
@@ -139,18 +127,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果首款折叠屏iPhone即将发布，旗舰手机创新持续",
+      "categorySummary": "iPhone 18泄露信息持续释出",
       "keyPoints": [
-        "iPhone 18将推出首款折叠屏设备",
-        "iPhone 17 Pro带来外观设计革新和摄像头升级",
-        "折叠屏成高端手机新战场"
+        "iPhone 18传言配备新配色方案",
+        "苹果折叠屏设备存在可能性",
+        "多项新功能即将揭晓"
       ],
       "news": [
         {
-          "title": "iPhone 18传闻：首款折叠屏",
-          "summary": "iPhone Fold为苹果首款折叠屏手机，将于9月发布",
+          "title": "iPhone 18传闻：目前我们知道的一切",
+          "summary": "业界对苹果首款折叠屏智能手机iPhone Fold猜测已久。",
           "keyInsights": [
-            "苹果入局折叠屏市场"
+            "折叠屏iPhone可能性"
+          ]
+        },
+        {
+          "title": "iPhone 18 Pro新配色曝光",
+          "summary": "苹果考虑为iPhone 18 Pro增加棕色、紫色和绿色三种新配色选项。",
+          "keyInsights": [
+            "新配色方案"
           ]
         }
       ],
@@ -159,25 +154,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临衰退，三大主机平台联合推进玩家安全",
+      "categorySummary": "AAA游戏行业面临挑战与转型压力",
       "keyPoints": [
-        "AAA级游戏开发周期长达3-8年，前Nexon CEO认为产业正在衰落",
-        "微软、索尼、任天堂联合发布玩家安全声明",
-        "小型独立游戏和短周期游戏崛起"
+        "AAA游戏开发周期延长至3-8年",
+        "前Nexon CEO认为AAA游戏行业正在消亡",
+        "Nintendo、PlayStation、Xbox共推安全游戏承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏产业面临挑战",
-          "summary": "AAA游戏开发需3-8年，前Nexon CEO认为产业正在衰落",
+          "title": "AAA游戏行业正在消亡",
+          "summary": "前Nexon CEO Owen Mahoney认为AAA游戏行业面临严峻挑战。",
           "keyInsights": [
-            "游戏产业格局生变"
+            "行业前景堪忧"
           ]
         },
         {
-          "title": "三大主机平台联合安全声明",
-          "summary": "微软、索尼和任天堂联合发布更安全游戏环境承诺",
+          "title": "游戏市场面临挑战：AAA级游戏萎缩",
+          "summary": "AAA游戏开发至少需要3-4年，某些情况下接近7-8年。",
           "keyInsights": [
-            "行业安全标准统一"
+            "开发成本攀升"
           ]
         }
       ],
@@ -186,25 +181,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "全球清洁能源首次超越煤炭，新西兰20亿太阳能项目落地",
+      "categorySummary": "清洁能源高速发展，绿色氢能受关注",
       "keyPoints": [
-        "2025年太阳能和风能发电量增长109%，首次超过煤炭",
-        "Lodestone Energy在新西兰投资20亿新西兰元太阳能项目",
-        "清洁能源发展势不可挡"
+        "2025年全球太阳能和风能发电增长109%",
+        "可再生能源首次超越煤炭发电",
+        "绿色氢能成为长期储能关键方案"
       ],
       "news": [
         {
-          "title": "清洁能源首次超越煤炭",
-          "summary": "2025年全球太阳能和风能发电量增长109%，首次超过煤炭",
+          "title": "清洁能源正在蓬勃发展",
+          "summary": "全球太阳能和风能发电增长109%，首次超越煤炭成为主要能源。",
           "keyInsights": [
-            "能源转型里程碑"
+            "清洁能源里程碑"
           ]
         },
         {
-          "title": "新西兰20亿太阳能项目",
-          "summary": "Lodestone Energy计划在新西兰交付价值20亿新西兰元太阳能项目",
+          "title": "绿氢：长期储能的关键",
+          "summary": "电池适合短期储能，绿色氢能正成为有前景的长期储能载体。",
           "keyInsights": [
-            "大洋洲可再生能源投资加速"
+            "氢能储能前景"
           ]
         }
       ],
