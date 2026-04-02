@@ -1,36 +1,42 @@
 {
-  "date": "2026-04-02",
-  "overallSummary": "AI领域巨头加速整合与标准制定，科技企业转向印度市场寻求增长；全球市场面临地缘政治风险，欧洲股市创2022年来最差表现。",
+  "date": "2026-04-03",
+  "overallSummary": "AI领域安全标准与联盟建设加速，科技巨头重押印度市场；半导体行业新品密集发布，AI芯片驱动增长；清洁能源全球占比首次超越煤炭。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI行业进入标准统一与战略分化阶段，科技巨头加速多元化布局",
+      "categorySummary": "AI代理安全标准成焦点，四大科技巨头印度布局深化，并成立代理式AI开源联盟。",
       "keyPoints": [
-        "微软战略重心从OpenAI向Anthropic转移",
-        "四大AI巨头联合成立Agentic AI联盟制定开源标准",
-        "AI使用领域分化加剧，多数人处于劣势",
-        "印度成为科技巨头新投资热土"
+        "Okta CEO呼吁AI代理需配备终止开关",
+        "微软转向Anthropic，多元化AI投资策略",
+        "Google、微软、OpenAI、Anthropic联手成立Agentic AI联盟"
       ],
       "news": [
         {
-          "title": "微软转向Anthropic，合作重心从OpenAI���移",
-          "summary": "微软生成式AI战略多元化迈出新步伐",
+          "title": "Okta CEO表示所有AI代理都需要终止开关",
+          "summary": "为百万员工提供安全访问服务的Okta，正思考代理型AI安全风险。",
           "keyInsights": [
-            "标志微软与OpenAI合作关系的重大转变"
+            "AI代理安全已成行业共识问题"
           ]
         },
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
-          "summary": "四大AI企业联合制定AI代理开源标准",
+          "title": "微软转投Anthropic",
+          "summary": "微软与OpenAI关系出现转变，多元化AI布局迈出新步伐。",
           "keyInsights": [
-            "Linux基金会支持，行业标准化加速"
+            "科技巨头减少单一依赖"
           ]
         },
         {
-          "title": "谷歌、微软、OpenAI和Anthropic为何在印度押下重注",
-          "summary": "西方市场增长趋缓，中国战略风险上升",
+          "title": "四大科技巨头重押印度",
+          "summary": "印度成AI军备竞赛关键战场，年产百万STEM人才吸引投资。",
           "keyInsights": [
-            "印度成人才与市场新阵地"
+            "印度将成全球AI发展关键力量"
+          ]
+        },
+        {
+          "title": "代理式AI联盟成立",
+          "summary": "微软、谷歌、OpenAI、Anthropic联手，由Linux基金会支持制定开源标准。",
+          "keyInsights": [
+            "行业标准化进程启动"
           ]
         }
       ],
@@ -38,80 +44,26 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "全球市场承压，欧洲股市创近年最差表现",
-      "keyPoints": [
-        "欧洲股市录得2022年来最差单月表现",
-        "中东地缘政治风险持续",
-        "市场避险情绪升温"
-      ],
-      "news": [
-        {
-          "title": "国际商务、世界新闻与全球股市",
-          "summary": "欧洲股市2022年来最差单月",
-          "keyInsights": [
-            "伊朗战争等地缘因素影响市场"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "电���汽车行业调整持续，特斯拉FSD能力提升",
-      "keyPoints": [
-        "特斯拉FSD 14版本能力与流畅度显著提升",
-        "传统车企EV生产面临挑战",
-        "入门级EV市场竞争加剧"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD 14展现更强能力",
-          "summary": "FSD 14比之前版本更流畅",
-          "keyInsights": [
-            "众包数据显示性能提升明显"
-          ]
-        },
-        {
-          "title": "GM Factory Zero EV生产再次暂停",
-          "summary": "通用电动汽车生产遇阻",
-          "keyInsights": [
-            "传统车企转型挑战持续"
-          ]
-        },
-        {
-          "title": "Kia EV3在美国首次亮相",
-          "summary": "入门级EV产品丰富市场选择",
-          "keyInsights": [
-            "EV市场增长放缓下的竞争策略"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片竞争升级，大厂加速并购与新品迭代",
+      "categorySummary": "AI芯片需求强劲，新品密集发布，英特尔百亿级收购扩充产能。",
       "keyPoints": [
-        "英特尔142亿美元收购阿波罗爱尔兰合资股份",
-        "Nvidia发布Blackwell Ultra和Vera Rubin",
-        "数据中心AI芯片贡献约半数行业营收"
+        "英伟达发布Blackwell Ultra和Vera Rubin",
+        "英特尔142亿美元收购爱尔兰芯片厂股份",
+        "AI芯片将贡献2026年行业收入约50%"
       ],
       "news": [
         {
-          "title": "英特尔142亿美元收购阿波罗爱尔���芯片合资股份",
-          "summary": "英特尔强化芯片制造控制",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin",
+          "summary": "Blackwell Ultra将于年末发货，Vera Rubin为下一代GPU。",
           "keyInsights": [
-            "芯片产能整合加速"
+            "芯片迭代速度加快"
           ]
         },
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "新一代GPU年内陆续出货",
+          "title": "英特尔142亿美元收购阿波罗股份",
+          "summary": "英特尔收购爱尔兰合资芯片制造工厂股份，强化欧洲产能。",
           "keyInsights": [
-            "AI芯片性能竞赛持续升级"
+            "芯片制造产能争夺加剧"
           ]
         }
       ],
@@ -119,26 +71,53 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "AI制药合作深化，GLP-1市场持续扩张",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD持续迭代，Rivian R2获年度绿车奖，换电业务向东南亚拓展。",
       "keyPoints": [
-        "Insilico与礼来达成27.5亿美元药物合作",
-        "GLP-1市场预计2035年达1575亿美元",
-        "Tyvaso获IPF III期临床成功"
+        "特斯拉FSD v14为最佳Level 2系统",
+        "Rivian R2荣获2026电动汽车绿车奖",
+        "U Power拓展泰国及香港换电业务"
       ],
       "news": [
         {
-          "title": "Insilico Medicine与礼来达成27.5亿美元药物合作协议",
-          "summary": "AI驱动药物研发获大厂认可",
+          "title": "特斯拉FSD v14测试表现",
+          "summary": "FSD v14为渐进式改进，也是最令人印象深刻的Level 2系统。",
           "keyInsights": [
-            "Royalty Pharma另签5亿美元研发协议"
+            "自动驾驶持续优化中"
           ]
         },
         {
-          "title": "GLP-1市场到2035年将达1575亿美元",
-          "summary": "减肥药物市场复合增长率9.7%",
+          "title": "Rivian R2获绿车奖",
+          "summary": "Rivian R2荣获2026电动汽车绿车奖，产品力获认可。",
           "keyInsights": [
-            "Ozempic、Wegovy等推动行业重塑"
+            "初创车企产品获行业肯定"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场爆发，新药效果翻倍；基因疗法获FDA批准。",
+      "keyPoints": [
+        "GLP-1市场将从622亿增至1575亿美元",
+        "CagriSema和retatrutide效果可达现有药物2倍",
+        "United Therapeutics Tyvaso IPF试验成功"
+      ],
+      "news": [
+        {
+          "title": "新型GLP-1减肥药效果翻倍",
+          "summary": "CagriSema和retatrutide靶向多种肠道激素，效果显著提升。",
+          "keyInsights": [
+            "减肥药进入新一轮竞争"
+          ]
+        },
+        {
+          "title": "GLP-1市场预测",
+          "summary": "2035年市场规模将达1575亿美元，年复合增长率9.7%。",
+          "keyInsights": [
+            "代谢药物赛道持续火热"
           ]
         }
       ],
@@ -147,25 +126,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果产品线布局加速，折叠屏iPhone渐近",
+      "categorySummary": "iPhone 18设计泄露在即，Pro机型或新增配色选项。",
       "keyPoints": [
-        "iPhone 18 Pro可能沿用17 Pro设计语言",
-        "苹果首款折叠屏iPhone Fold有望发布",
-        "Pro版本照常9月发布"
+        "iPhone 18渲染图显示打孔显示屏设计",
+        "Pro机型或新增棕色、紫色等配色",
+        "设计革新引用户持观望态度"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro将采用打孔摄像头设计",
-          "summary": "iPhone设计延续策略引关注",
+          "title": "iPhone 18设计泄露",
+          "summary": "渲染图显示左上角打孔显示屏凹口，设计或有���大改变。",
           "keyInsights": [
-            "非官方渲染图泄露设计细节"
-          ]
-        },
-        {
-          "title": "iPhone 18传闻：苹果首款折叠屏手机",
-          "summary": "苹果折叠屏设备多年传言将成真",
-          "keyInsights": [
-            "折叠屏开发周期长终见成果"
+            "苹果设计进入新周期"
           ]
         }
       ],
@@ -174,25 +146,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏开发周期拉长，行业面临成本压力",
+      "categorySummary": "AAA游戏开发周期过长问题凸显，前Nexon CEO认为行业正在衰退。",
       "keyPoints": [
-        "AAA游戏开发周期达3-8年",
-        "主机厂商联合承诺游戏安全",
-        "小型游戏崛起分流市场"
+        "AAA游戏开发需3-8年",
+        "前Nexon CEO认为AAA行业消亡",
+        "Switch 2成市场焦点"
       ],
       "news": [
         {
-          "title": "游戏市场面临挑战：AAA大作数量减少",
-          "summary": "开发周期过长挤压产量",
+          "title": "AAA游戏行业衰退论",
+          "summary": "开发周期过长，小型游戏崛起，AAA大作规模缩减。",
           "keyInsights": [
-            "小型独立游戏填补市场空缺"
-          ]
-        },
-        {
-          "title": "Nintendo、PlayStation和Xbox就游戏安全发布更新",
-          "summary": "三大主机厂商联合��全承诺",
-          "keyInsights": [
-            "行业自律机制推进"
+            "游戏行业格局正在转变"
           ]
         }
       ],
@@ -201,30 +166,50 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "绿色氢能定位长期储能，清洁能源技术持续演进",
+      "categorySummary": "全球太阳能和风能发电量增长109%，首次超越煤炭，绿色氢能储能被看好。",
       "keyPoints": [
-        "绿色氢能成为长期储能关键方案",
-        "电解技术实现太阳能储氢",
-        "电池与氢能互补覆盖不同时长储能需求"
+        "全球可再生能源发电量增长109%",
+        "风能和太阳能首次超越煤炭",
+        "绿色氢能成长期储能关键"
       ],
       "news": [
         {
-          "title": "绿色氢能：长期储能的关键",
-          "summary": "氢能补位电池短期储能局限",
+          "title": "清洁能源超越煤炭",
+          "summary": "去年全球太阳能和风能发电量增长109%，首次超过煤炭。",
           "keyInsights": [
-            "100%可再生能源供电的储能路径"
+            "能源转型里程碑"
           ]
         },
         {
-          "title": "氢能储能：一种相较于电池的绿色替代方案",
-          "summary": "电解过程将太阳能转化为氢气储存",
+          "title": "绿色氢能储能",
+          "summary": "绿色氢能正成为有前景的长期储能载体，与锂电池互补。",
           "keyInsights": [
-            "长期储能技术路线明确"
+            "储能技术路线多元化"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "地缘政治影响市场，特朗普对伊开战言论引发油价波动。",
+      "keyPoints": [
+        "油价短暂跌破100美元",
+        "英国财政大臣对美伊局势表不满",
+        "伊朗战争风险影响市场情绪"
+      ],
+      "news": [
+        {
+          "title": "地缘政治影响市场",
+          "summary": "特朗普对伊开战承诺推动股价大涨，油价短暂跌破100美元。",
+          "keyInsights": [
+            "地缘风险持续扰动市场"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
