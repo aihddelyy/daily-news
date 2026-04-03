@@ -1,42 +1,28 @@
 {
-  "date": "2026-04-03",
-  "overallSummary": "AI领域安全标准与联盟建设加速，科技巨头重押印度市场；半导体行业新品密集发布，AI芯片驱动增长；清洁能源全球占比首次超越煤炭。",
+  "date": "2026-04-04",
+  "overallSummary": "AI巨头加速布局印度市场，科技巨头联合成立Agentic AI标准联盟；半导体领域英伟达发布Blackwell Ultra与Vera Rubin新芯片；GLP-1减肥药市场预计翻两倍增长。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI代理安全标准成焦点，四大科技巨头印度布局深化，并成立代理式AI开源联盟。",
+      "categorySummary": "头部AI企业加速布局印度，联合成立开源智能体标准联盟。",
       "keyPoints": [
-        "Okta CEO呼吁AI代理需配备终止开关",
-        "微软转向Anthropic，多元化AI投资策略",
-        "Google、微软、OpenAI、Anthropic联手成立Agentic AI联盟"
+        "Google、Microsoft、OpenAI、Anthropic重金押注印度",
+        "四大巨头联合成立Agentic AI联盟，由Linux基金会支持",
+        "联合投资AI创业公司趋势明显"
       ],
       "news": [
         {
-          "title": "Okta CEO表示所有AI代理都需要终止开关",
-          "summary": "为百万员工提供安全访问服务的Okta，正思考代理型AI安全风险。",
+          "title": "为何Google、Microsoft、OpenAI和Anthropic重金押注印度",
+          "summary": "西方市场增长趋缓，中国战略受限，大型AI公司扩大印度投资与合作。",
           "keyInsights": [
-            "AI代理安全已成行业共识问题"
+            "印度成为AI人才与市场新重心"
           ]
         },
         {
-          "title": "微软转投Anthropic",
-          "summary": "微软与OpenAI关系出现转变，多元化AI布局迈出新步伐。",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic联盟",
+          "summary": "四大AI巨头联合成立Agentic AI联盟，由Linux基金会支持制定开源标准。",
           "keyInsights": [
-            "科技巨头减少单一依赖"
-          ]
-        },
-        {
-          "title": "四大科技巨头重押印度",
-          "summary": "印度成AI军备竞赛关键战场，年产百万STEM人才吸引投资。",
-          "keyInsights": [
-            "印度将成全球AI发展关键力量"
-          ]
-        },
-        {
-          "title": "代理式AI联盟成立",
-          "summary": "微软、谷歌、OpenAI、Anthropic联手，由Linux基金会支持制定开源标准。",
-          "keyInsights": [
-            "行业标准化进程启动"
+            "AI智能体开源标准有望统一"
           ]
         }
       ],
@@ -44,53 +30,46 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "AI芯片需求强劲，新品密集发布，英特尔百亿级收购扩充产能。",
+      "name": "商业财经",
+      "categorySummary": "美国就业超预期，GLP-1减肥药市场高速增长。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin",
-        "英特尔142亿美元收购爱尔兰芯片厂股份",
-        "AI芯片将贡献2026年行业收入约50%"
+        "美国3月新增就业17.8万，超出预期",
+        "失业率降至4.3%",
+        "GLP-1减肥药市场预计达488亿美元"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin",
-          "summary": "Blackwell Ultra将于年末发货，Vera Rubin为下一代GPU。",
+          "title": "美国3月就业数据与GLP-1市场",
+          "summary": "新增就业超预期，GLP-1减肥药市场规模预计十年内翻两倍。",
           "keyInsights": [
-            "芯片迭代速度加快"
-          ]
-        },
-        {
-          "title": "英特尔142亿美元收购阿波罗股份",
-          "summary": "英特尔收购爱尔兰合资芯片制造工厂股份，强化欧洲产能。",
-          "keyInsights": [
-            "芯片制造产能争夺加剧"
+            "就业稳健，医药新赛道高成长"
           ]
         }
       ],
-      "id": "semiconductor",
-      "icon": "💻"
+      "id": "business_finance",
+      "icon": "📊"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续迭代，Rivian R2获年度绿车奖，换电业务向东南亚拓展。",
+      "categorySummary": "特斯拉FSD持续迭代，印度EV市场布局加速。",
       "keyPoints": [
-        "特斯拉FSD v14为最佳Level 2系统",
-        "Rivian R2荣获2026电动汽车绿车奖",
-        "U Power拓展泰国及香港换电业务"
+        "特斯拉FSD V14.2新增统计功能与神经网络升级",
+        "优品汽车扩大泰国、香港换电业务",
+        "里维安R2获2026电动绿车奖"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14测试表现",
-          "summary": "FSD v14为渐进式改进，也是最令人印象深刻的Level 2系统。",
+          "title": "特斯拉FSD V14.2最新资讯",
+          "summary": "新增FSD统计功能、UI改进及神经网络升级，是最令人印象深刻的L2级辅助系统。",
           "keyInsights": [
-            "自动驾驶持续优化中"
+            "FSD向完全自动驾驶持续推进"
           ]
         },
         {
-          "title": "Rivian R2获绿车奖",
-          "summary": "Rivian R2荣获2026电动汽车绿车奖，产品力获认可。",
+          "title": "优品汽车扩大泰国、香港换电业务",
+          "summary": "优品汽车扩大泰国、香港换电业务布局，国际化提速。",
           "keyInsights": [
-            "初创车企产品获行业肯定"
+            "换电模式加速出海"
           ]
         }
       ],
@@ -98,26 +77,46 @@
       "icon": "🚗"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发，新药效果翻倍；基因疗法获FDA批准。",
+      "name": "半导体芯片",
+      "categorySummary": "英伟达发布Blackwell Ultra与Vera Rubin，AI芯片竞争持续升级。",
       "keyPoints": [
-        "GLP-1市场将从622亿增至1575亿美元",
-        "CagriSema和retatrutide效果可达现有药物2倍",
-        "United Therapeutics Tyvaso IPF试验成功"
+        "英伟达发布Blackwell Ultra将于今年稍晚发货",
+        "下一代Vera Rubin GPU正式亮相",
+        "AI芯片将贡献2026年约一半行业收入"
       ],
       "news": [
         {
-          "title": "新型GLP-1减肥药效果翻倍",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，效果显著提升。",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "黄仁勋发布Blackwell Ultra和Vera Rubin下一代GPU，性能大幅提升。",
           "keyInsights": [
-            "减肥药进入新一轮竞争"
+            "英伟达巩固AI芯片领先地位"
           ]
         },
         {
-          "title": "GLP-1市场预测",
-          "summary": "2035年市场规模将达1575亿美元，年复合增长率9.7%。",
+          "title": "英特尔收购阿波罗爱尔兰芯片合资企业股份",
+          "summary": "英特尔以142亿美元收购阿波罗在爱尔兰芯片制造合资企业的股份。",
           "keyInsights": [
-            "代谢药物赛道持续火热"
+            "英特尔加码欧洲芯片制造"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药管线丰富，新型候选药物减重效果翻倍。",
+      "keyPoints": [
+        "GLP-1市场2030年预计达488亿美元",
+        "CagriSema和retatrutide可减重翻倍",
+        "多靶点肠道激素药物研发加速"
+      ],
+      "news": [
+        {
+          "title": "新型GLP-1减肥药物即将上市且效果更强",
+          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果或达现有疗法两倍。",
+          "keyInsights": [
+            "减重药进入疗效升级阶段"
           ]
         }
       ],
@@ -125,39 +124,26 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18设计泄露在即，Pro机型或新增配色选项。",
-      "keyPoints": [
-        "iPhone 18渲染图显示打孔显示屏设计",
-        "Pro机型或新增棕色、紫色等配色",
-        "设计革新引用户持观望态度"
-      ],
-      "news": [
-        {
-          "title": "iPhone 18设计泄露",
-          "summary": "渲染图显示左上角打孔显示屏凹口，设计或有���大改变。",
-          "keyInsights": [
-            "苹果设计进入新周期"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
-    },
-    {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏开发周期过长问题凸显，前Nexon CEO认为行业正在衰退。",
+      "categorySummary": "AAA游戏开发成本攀升引发行业担忧，三大主机厂联合关注玩家安全。",
       "keyPoints": [
-        "AAA游戏开发需3-8年",
-        "前Nexon CEO认为AAA行业消亡",
-        "Switch 2成市场焦点"
+        "AAA游戏开发周期拉长至3-8年",
+        "前Nexon CEO认为AAA游戏行业正在消亡",
+        "索尼、微软、任天堂联合发布玩家安全声明"
       ],
       "news": [
         {
-          "title": "AAA游戏行业衰退论",
-          "summary": "开发周期过长，小型游戏崛起，AAA大作规模缩减。",
+          "title": "玩���认为AAA游戏停滞不前",
+          "summary": "AAA游戏开发成本高企、质量争议持续，玩家满意度下降。",
           "keyInsights": [
-            "游戏行业格局正在转变"
+            "高成本模式倒逼行业转型"
+          ]
+        },
+        {
+          "title": "索尼、微软、任天堂发布联合玩家安全声明",
+          "summary": "三大主机厂商联合阐述玩家安全共同原则，持续深化合作。",
+          "keyInsights": [
+            "平台安全标准走向统一"
           ]
         }
       ],
@@ -166,50 +152,23 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "全球太阳能和风能发电量增长109%，首次超越煤炭，绿色氢能储能被看好。",
+      "categorySummary": "全球清洁能源超越煤炭，绿氢储能受关注。",
       "keyPoints": [
-        "全球可再生能源发电量增长109%",
-        "风能和太阳能首次超越煤炭",
-        "绿色氢能成长期储能关键"
+        "2025年全球太阳能和风能发电量增长109%",
+        "可再生能源首次超过煤炭发电",
+        "绿氢与电池储能集成技术加速成熟"
       ],
       "news": [
         {
-          "title": "清洁能源超越煤炭",
-          "summary": "去年全球太阳能和风能发电量增长109%，首次超过煤炭。",
+          "title": "清洁能源蓬勃发展——不管有没有特朗普",
+          "summary": "全球风能和太阳能发电量激增，可再生能源历史性超越煤炭。",
           "keyInsights": [
-            "能源转型里程碑"
-          ]
-        },
-        {
-          "title": "绿色氢能储能",
-          "summary": "绿色氢能正成为有前景的长期储能载体，与锂电池互补。",
-          "keyInsights": [
-            "储能技术路线多元化"
+            "清洁能源转型不可逆"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "地缘政治影响市场，特朗普对伊开战言论引发油价波动。",
-      "keyPoints": [
-        "油价短暂跌破100美元",
-        "英国财政大臣对美伊局势表不满",
-        "伊朗战争风险影响市场情绪"
-      ],
-      "news": [
-        {
-          "title": "地缘政治影响市场",
-          "summary": "特朗普对伊开战承诺推动股价大涨，油价短暂跌破100美元。",
-          "keyInsights": [
-            "地缘风险持续扰动市场"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
     }
   ]
 }
