@@ -1,38 +1,30 @@
 {
-  "date": "2026-04-06",
-  "overallSummary": "AI巨头联合成立代理联盟推动行业标准化，地缘政治紧张局势升温，英伟达发布Blackwell Ultra和Rubin新一代芯片。",
+  "date": "2026-04-07",
+  "overallSummary": "AI行业巨头联合成立Agentic AI联盟推动智能体标准，电动车市场进入淘汰赛，半导体领域英伟达发布Blackwell Ultra新品。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头联手成立AI代理联盟，加速器项目启动，印度成投资热土。",
+      "categorySummary": "头部AI企业联合推动智能体标准化，科技巨头加速布局印度市场。",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic成立AI代理联盟，制定开源标准",
-        "四大AI公司联合推出创业加速器",
-        "科技企业大举押注印度市场"
+        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
+        "云服务商争相投资印度AI市场",
+        "OpenAI借助媒体扩大影响力"
       ],
       "news": [
         {
-          "title": "AI代理联盟成立",
-          "summary": "微软、谷歌、OpenAI、Anthropic联手组建AI代理联盟，由Linux基金会支持制定开源标准。",
+          "title": "巨头联合成立Agentic AI联盟",
+          "summary": "Linux基金会支持的AI智能体开源标准组织成立",
           "keyInsights": [
-            "行业标准化进程加速",
-            "头部企业联合主导规则制定"
+            "联合制定行业规范",
+            "开源标准降低开发门槛"
           ]
         },
         {
-          "title": "AI创业加速器启动",
-          "summary": "OpenAI、Anthropic、Google等联手推出AI创业加速器，Meta、Microsoft、红杉资本参与。",
+          "title": "Google、微软等在印度押下重注",
+          "summary": "扩大投资、建立合作、拓展人才渠道",
           "keyInsights": [
-            "资本加速AI生态布局",
-            "多方合作模式"
-          ]
-        },
-        {
-          "title": "印度成AI投资热土",
-          "summary": "谷歌、微软、OpenAI、Anthropic正加大印度投资，建立合作关系和人才渠道。",
-          "keyInsights": [
-            "新兴市场成增长引擎",
-            "人才竞争加剧"
+            "争夺新兴市场",
+            "人才争夺激烈"
           ]
         }
       ],
@@ -40,56 +32,28 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "美伊紧张局势升级，全球市场避险情绪升温。",
-      "keyPoints": [
-        "特朗普警告伊朗48小时内局势剧变",
-        "美军战斗机在伊朗被击落",
-        "搜救行动加紧进行"
-      ],
-      "news": [
-        {
-          "title": "美伊紧张局势",
-          "summary": "特朗普警告伊朗\"48小时后地狱将全面降临\"，美军战斗机被击落，机组人员搜救中。",
-          "keyInsights": [
-            "中东地缘风险骤升",
-            "市场避险情绪加剧"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "中国电动车行业进入淘汰赛阶段，Rivian获年度大奖，特斯拉FSD持续迭代。",
+      "categorySummary": "特斯拉重夺全球纯电销量领先地位，中国电动车市场进入淘汰赛阶段。",
       "keyPoints": [
-        "比亚迪董事长警告行业进入淘汰赛",
-        "Rivian R2获2026年度电动汽车绿色汽车奖",
-        "特斯拉FSD v14测试表现优异"
+        "特斯拉重新夺回全球纯电销量第一",
+        "比亚迪警告行业进入淘汰阶段",
+        "Rivian在美国超越福特交付量"
       ],
       "news": [
         {
-          "title": "中国电动车淘汰赛开启",
-          "summary": "比亚迪董事长王传福警告：中国电动车行业利润下降19%，弱势企业进入淘汰阶段。",
+          "title": "特斯拉FSD v14测试结果",
+          "summary": "L2级渐进式改进，目前最令人印象深刻的ADAS",
           "keyInsights": [
-            "行业整合加速",
-            "价格战白热化"
+            "技术持续迭代",
+            "FSD全球化推广中"
           ]
         },
         {
-          "title": "Rivian R2获奖",
-          "summary": "Rivian R2荣获Green Car Journal 2026年度电动汽车绿色汽车奖。",
+          "title": "比亚迪警告利润下降19%",
+          "summary": "中国电动车行业进入弱势企业淘汰阶段",
           "keyInsights": [
-            "美国电动车品牌获认可"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14",
-          "summary": "特斯拉FSD v14最新测试：增量改进，L2级别最令人印象深刻的系统。",
-          "keyInsights": [
-            "自动驾驶持续进化",
-            "安全性提升"
+            "价格战加剧",
+            "行业整合加速"
           ]
         }
       ],
@@ -98,26 +62,27 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Rubin芯片，算力竞争升级。",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin新品，巩固AI芯片市场主导地位。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Rubin芯片",
-        "Blackwell服务器扩展新增AI和机器人功能",
-        "超大规模AI推理芯片发布"
+        "Blackwell Ultra将于今年晚些时候出货",
+        "Vera Rubin下一代GPU发布",
+        "亚马逊、微软、谷歌已宣布采用Blackwell"
       ],
       "news": [
         {
-          "title": "英伟达新芯片发布",
-          "summary": "英伟达CEO黄仁勋发布Blackwell Ultra（今年晚些发货）和Vera Rubin（下一代GPU）。",
+          "title": "英伟达GTC大会发布重磅新品",
+          "summary": "Blackwell架构性能提升2.5倍，能耗降低25%",
           "keyInsights": [
-            "算力竞赛升级",
-            "AI芯片迭代加速"
+            "开启下一工业革命",
+            "云服务商首批采用"
           ]
         },
         {
-          "title": "Blackwell服务器扩展",
-          "summary": "英伟达扩展搭载Blackwell芯片的服务器，新增AI和机器人功能。",
+          "title": "Blackwell将永久改变AI",
+          "summary": "黄仁勋称Blackwell是AI计算新时代",
           "keyInsights": [
-            "AI基础设施加速部署"
+            "巩固80%市场份额",
+            "构建完整AI生态"
           ]
         }
       ],
@@ -126,27 +91,27 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，新药减重效果可达现有两倍。",
+      "categorySummary": "GLP-1减肥药市场高速增长，口服制剂有望占据三分之一市场份额。",
       "keyPoints": [
-        "GLP-1减肥药市场2030年将达488亿美元",
-        "口服药物预计占三分之一市场份额",
-        "CagriSema和retatrutide新药减重效果翻倍"
+        "GLP-1市场将从138亿增至488亿美元",
+        "口服药物预计占三分之一以上份额",
+        "产后抑郁药物口服版受关注"
       ],
       "news": [
         {
-          "title": "GLP-1减肥药市场爆发",
-          "summary": "全球GLP-1市场2024年138亿美元，预计2030年达488亿美元，复合增长率23%。",
+          "title": "GLP-1激动剂市场预测",
+          "summary": "2024年138亿美元增至2030年488亿美元",
           "keyInsights": [
-            "减重市场黄金期",
-            "口服制剂潜力巨大"
+            "减肥药赛道高增长",
+            "口服制剂成新方向"
           ]
         },
         {
-          "title": "新型GLP-1药物即将问世",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果可达现有治疗两倍。",
+          "title": "诺和诺德口服药物预期",
+          "summary": "2030年口服减肥药将占市场三分之一",
           "keyInsights": [
-            "疗效突破",
-            "多靶点疗法成趋势"
+            "口服便利性优势",
+            "诺和诺德先发优势"
           ]
         }
       ],
@@ -155,19 +120,27 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro设计泄露，屏幕打孔设计将沿用两代。",
+      "categorySummary": "iPhone 18 Pro设计泄露，挖孔屏设计延续，折叠屏技术取得进展。",
       "keyPoints": [
-        "iPhone 18 Pro采用打孔摄像头设计",
-        "iPhone 17 Pro设计将沿用至iPhone 18 Pro",
-        "等待还是购买引发讨论"
+        "iPhone 18 Pro沿用挖孔摄像头设计",
+        "折叠屏铰链3D打印技术取得进展",
+        "iPhone 14 2026年仍具购买价值"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro设计泄露",
-          "summary": "iPhone 18 Pro非官方渲染图显示左上角挖孔显示屏，设计语言将沿用两代。",
+          "title": "iPhone 18 Pro渲染图泄露",
+          "summary": "左上角打孔显示屏，后置摄像头设计延续",
           "keyInsights": [
-            "苹果设计语言稳定",
-            "挖孔屏成主流"
+            "设计语言稳定",
+            "等待或购买两难"
+          ]
+        },
+        {
+          "title": "iPhone折叠屏铰链技术",
+          "summary": "3D打印铰链或实现无感折痕",
+          "keyInsights": [
+            "技术突破中",
+            "折痕问题待解决"
           ]
         }
       ],
@@ -176,26 +149,27 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临高成本长周期困境，微软Xbox推重大更新。",
+      "categorySummary": "独立游戏表现超越AAA大作，游戏行业面临开发周期过长挑战。",
       "keyPoints": [
-        "AAA游戏开发周期3-8年，行业增长仅1%",
-        "Xbox迎来新功能更新",
-        "微软确认下一代Xbox计划"
+        "独立游戏因低成本、社交趋势表现优于AAA",
+        "AAA大作开���周期达3-8年",
+        "Xbox迎来近一年首次功能更新"
       ],
       "news": [
         {
-          "title": "AAA游戏行业困境",
-          "summary": "AAA游戏开发周期3-8年，行业勉强增长1%，前Nexon CEO称产业走向衰落。",
+          "title": "2025年独立游戏崛起",
+          "summary": "低成本、社交趋势推动独立游戏超越大厂",
           "keyInsights": [
-            "成本压力巨大",
-            "行业转型迫在眉睫"
+            "行业格局重塑",
+            "玩家偏好转变"
           ]
         },
         {
-          "title": "Xbox重大更新",
-          "summary": "近一年来首次，Xbox Series X迎来包含新功能的重大更新。",
+          "title": "Xbox Series X新功能更新",
+          "summary": "新负责人带来史诗级更新",
           "keyInsights": [
-            "微软重视用户体验"
+            "倾听玩家声音",
+            "与索尼任天堂合作"
           ]
         }
       ],
@@ -204,27 +178,27 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "英国可再生能源发电创新高，绿色氢能储能技术持续发展。",
+      "categorySummary": "全球清洁能源蓬勃发展，可再生能源发电量首次超越煤炭。",
       "keyPoints": [
-        "英国2025年可再生能源发电创纪录",
-        "化石燃料使用也同步增加",
-        "绿色氢能储能系统持续推进"
+        "全球太阳能和风能发电增长109%",
+        "可再生能源首次超越煤炭",
+        "绿氢成为长期储能关键方案"
       ],
       "news": [
         {
-          "title": "英国可再生能源创新高",
-          "summary": "英国2025年风能和太阳能发电创纪录，但化石燃料使用也同步增加。",
+          "title": "清洁能源超越煤炭",
+          "summary": "可再生能源发电量增长109%，首次超越煤炭",
           "keyInsights": [
-            "清洁能源增长但转型复杂",
-            "能源结构仍需优化"
+            "能源转型加速",
+            "绿色氢能储能"
           ]
         },
         {
-          "title": "绿色氢能储能发展",
-          "summary": "绿色氢能电池储能系统通过电解将太阳能转化为氢气储存，为运输供能。",
+          "title": "绿氢破解储能难题",
+          "summary": "绿氢为长时储能和季节性储能提供方案",
           "keyInsights": [
-            "长时储能方案",
-            "氢能技术商业化推进"
+            "技术示范进行中",
+            "��再生能源消纳关键"
           ]
         }
       ],
