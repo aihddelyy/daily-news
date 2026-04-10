@@ -1,35 +1,30 @@
 {
-  "date": "2026-04-10",
-  "overallSummary": "AI行业标准化加速推进，科技巨头联合组建Agentic AI联盟；可再生能源发电创历史新高，德克萨斯州ERCOT电网刷新风能和太阳能发电纪录。",
+  "date": "2026-04-11",
+  "overallSummary": "AI领域科技巨头联手成立代理联盟推动标准化；英伟达发布新一代AI芯片；同时中东局势冲击全球石油供应链，能源市场承压。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI代理标准化进程加速，科技巨头联合推动行业开源标准制定。",
+      "categorySummary": "科技巨头联合推动AI代理标准化，亚马逊CEO力推大规模AI投资，印度成为新战场。",
       "keyPoints": [
-        "微软、谷歌、OpenAI和Anthropic联合组建Agentic AI联盟",
-        "大型科技公司在印度大举押注AI投资与人才储备",
-        "AI基础设施投资持续增长，企业AI应用加速渗透"
+        "微软、谷歌、OpenAI、Anthropic联手成立AI代理联盟",
+        "亚马逊CEO力推大规模AI投资",
+        "科技公司加大在印度市场的投入"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联合组建Agentic AI联盟",
-          "summary": "四大科技巨头联合组建Agentic AI联盟，由Linux Foundation支持，旨在为AI代理制定开源标准。",
+          "title": "四大AI巨头组建Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI和Anthropic联手成立AI代理联盟，由Linux基金会支持，将为AI智能体制定开源标准。",
           "keyInsights": [
-            "AI代理标准化进入实质性推进阶段"
+            "AI代理标准化进程加速",
+            "开源生态成为行业共识"
           ]
         },
         {
-          "title": "为何谷歌、微软、OpenAI和Anthropic在印度大举押注",
-          "summary": "大型科技公司和AI企业正在扩大对印度的投资、合作及人才储备。",
+          "title": "谷歌确认Anthropic Claude AI正常运营",
+          "summary": "谷歌证实Anthropic Claude AI工具对非国防客户在谷歌云平台上仍可正常使用。",
           "keyInsights": [
-            "印度成为全球AI竞争战略要地"
-          ]
-        },
-        {
-          "title": "谷歌加入微软阵营：Anthropic仍正常运营",
-          "summary": "谷歌证实Anthropic的Claude AI工具对非国防客户仍可通过Google Cloud Platform访问。",
-          "keyInsights": [
-            "Anthropic服务稳定性获多方确认"
+            "微软谷歌联合安抚客户",
+            "Anthropic合作稳定"
           ]
         }
       ],
@@ -37,67 +32,49 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "NVIDIA新品发布推动AI推理加速，数据中心AI芯片市场贡献近半行业收入。",
+      "name": "商业财经",
+      "categorySummary": "中东地缘政治冲击石油供应链，全球市场避险情绪上升。",
       "keyPoints": [
-        "NVIDIA发布Blackwell Ultra和Rubin AI芯片",
-        "数据中心AI芯片2026年预计贡献约一半行业收入",
-        "AI驱动内存成本飙升，供应持续紧张"
+        "伊朗袭击沙特石油设施导致产量大幅下降",
+        "美伊停火协议未能提振霍尔木兹海峡交通",
+        "股指期货下跌"
       ],
       "news": [
         {
-          "title": "Nvidia announces Blackwell Ultra and Vera Rubin AI chips",
-          "summary": "NVIDIA发布Blackwell Ultra和Rubin AI芯片，CEO黄仁勋称将于今年晚些时候发货。",
+          "title": "伊朗袭击导致沙特石油产量下降",
+          "summary": "伊朗袭击沙特重要输油管道和生产设施，导致该王国石油产量大幅下降，油价小幅上涨。",
           "keyInsights": [
-            "NVIDIA新一代AI芯片正式亮相"
-          ]
-        },
-        {
-          "title": "2026年半导体行业展望",
-          "summary": "芯片市场严重依赖数据中心AI芯片，预计到2026年贡献约一半行业收入。",
-          "keyInsights": [
-            "AI芯片成为半导体行业核心驱动力"
-          ]
-        },
-        {
-          "title": "探秘英伟达Blackwell Ultra：驱动AI工厂时代的芯片",
-          "summary": "Blackwell Ultra GPU在核心创新基础上进一步加速训练和AI推理能力。",
-          "keyInsights": [
-            "AI推理芯片性能持续突破"
+            "中东局势持续影响能源市场",
+            "霍尔木兹海峡交通未改善"
           ]
         }
       ],
-      "id": "semiconductor",
-      "icon": "💻"
+      "id": "business_finance",
+      "icon": "📊"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉Q1重夺全球纯电领先地位，Rivian在美交付量超越福特。",
+      "categorySummary": "英国政府大力支��电池回收产业，联合国新规或助力特斯拉FSD全球化。",
       "keyPoints": [
-        "特斯拉Q1重新夺回全球纯电动汽车领先地位",
-        "Rivian在美国电动汽车交付量上超越福特",
-        "起亚公布针对北美市场的中型皮卡计划"
+        "Altilium获1850万英镑政府资助建设电池回收设施",
+        "联合国自动驾驶新法规利好特斯拉FSD",
+        "特斯拉FSD v14为增量改进"
       ],
       "news": [
         {
-          "title": "EV报道 - 电动汽车行业新闻与洞察",
-          "summary": "特斯拉Q1重新夺回全球纯电领先地位，Rivian在美交付量超越福特。",
+          "title": "英国政府资助建设首个商业电池回收设施",
+          "summary": "Altilium获得1850万英镑资助，在普利茅斯建设首个商业电动汽车电池回收设施，与捷豹路虎建立合作。",
           "keyInsights": [
-            "特斯拉凭借库存优势重返榜首"
+            "电池回收产业获政策支持",
+            "供应链可持续性成焦点"
           ]
         },
         {
-          "title": "电动汽车 - 汽车新闻",
-          "summary": "起亚公布针对北美市场的中型皮卡计划，欲与丰田一较高下。",
+          "title": "联合国新规或为特斯拉FSD开路",
+          "summary": "联合国自动驾驶新法规可能为特斯拉FSD在欧洲和亚洲市场铺平道路。",
           "keyInsights": [
-            "传统车企加速布局电动皮卡市场"
-          ]
-        },
-        {
-          "title": "我测试了特斯拉最新全自动驾驶v14版",
-          "summary": "特斯拉FSD v14是高级驾驶辅助系统的一次增量改进，也是目前最令人印象深刻的L2级系统。",
-          "keyInsights": [
-            "FSD持续进化，L2级自动驾驶接近瓶颈"
+            "监管框架逐步完善",
+            "FSD全球化进程加速"
           ]
         }
       ],
@@ -105,33 +82,57 @@
       "icon": "🚗"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场规模快速扩张，新型药物减重效果显著提升。",
+      "name": "半导体芯片",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin芯片，美国对华芯片限制持续升级。",
       "keyPoints": [
-        "GLP-1减肥药市场规模预计从134亿美元增至488亿美元",
-        "CagriSema和retatrutide减重效果可能是现有方案的两倍",
-        "波士顿肿瘤学公司与中国宣旨生物制药达成癌症药物协议"
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+        "美国施压日本和荷兰配合对华芯片限制",
+        "供应链中断风险加剧"
       ],
       "news": [
         {
-          "title": "2030年GLP-1受体激动剂减肥药物市场规模报告",
-          "summary": "全球GLP-1受体激动剂减肥药物市场规模预计到2030年将达到488.4亿美元。",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin芯片",
+          "summary": "英伟达发布Blackwell Ultra——将于今年晚些时候发货，以及Vera Rubin——下一代GPU。",
           "keyInsights": [
-            "减肥药市场进入高速增长期"
+            "AI芯片性能持续提升",
+            "算力竞争白热化"
           ]
         },
         {
-          "title": "新型GLP-1减肥药物即将问世——而且效果更强",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果可能是现有治疗方案的两倍。",
+          "title": "美国芯片限制或引发供应链中断",
+          "summary": "美国新法案向日本和荷兰施压，要求配合对华芯片限制措施，可能对全球供应链产生连锁反应。",
           "keyInsights": [
-            "新一代减肥药疗效有望实现突破"
+            "地缘政治影响科技供应链",
+            "盟友面临选边压力"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场持续扩张，口服药物有望占据半壁江山。",
+      "keyPoints": [
+        "口服药物将占GLP-1肥胖市场50%",
+        "艾伯维押注GLP-1替代品",
+        "减肥药市场竞争加剧"
+      ],
+      "news": [
+        {
+          "title": "减肥药市场预测：口服药物占50%",
+          "summary": "机构预计到2030年，口服药物将占据GLP-1肥胖市场高达50%的份额。",
+          "keyInsights": [
+            "口服GLP-1前景广阔",
+            "给药方式革新"
           ]
         },
         {
-          "title": "生物制药新闻",
-          "summary": "波士顿肿瘤学公司与中国宣旨生物制药达成癌症药物协议，Royalty Pharma签署5亿美元研究协议。",
+          "title": "艾伯维进军减肥药市场",
+          "summary": "艾伯维押注1期临床试验的GLP-1替代品，正式进军减肥药市场。",
           "keyInsights": [
-            "中美生物医药合作持续深化"
+            "巨头入局减肥赛道",
+            "差异化竞争开启"
           ]
         }
       ],
@@ -140,25 +141,19 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro规格曝光，电池容量将大幅提升。",
+      "categorySummary": "iPhone 18系列设计信息曝光，苹果今年或保持渐进式更新策略。",
       "keyPoints": [
-        "iPhone 18 Pro电池容量将提升至5,200 mAh",
-        "分析师声称掌握iPhone 18 Pro完整规格",
-        "iPhone折叠屏传闻更加确定"
+        "iPhone 18 Pro将有两项设计变更",
+        "iPhone 18和iPhone Air 2外观变化有限",
+        "折叠屏iPhone成为焦点"
       ],
       "news": [
         {
-          "title": "Apple Loop：iPhone 18 Pro曝光、iPhone 17e的重要决定",
-          "summary": "iPhone 18 Pro电池容量将从现有水平提升至5,200 mAh。",
+          "title": "iPhone 18 Pro设计变更曝光",
+          "summary": "泄密者透露iPhone 18 Pro将有两项设计变更，自iPhone 17 Pro采用大胆新设计后，苹果今年改动有限。",
           "keyInsights": [
-            "苹果持续提升旗舰机型续航能力"
-          ]
-        },
-        {
-          "title": "iPhone 18 传闻汇总——目前已知信息一览",
-          "summary": "分析师声称掌握iPhone 18 Pro和iPhone折叠屏的完整规格。",
-          "keyInsights": [
-            "折叠屏iPhone渐行渐近"
+            "设计迭代趋保守",
+            "折叠屏产品抢风头"
           ]
         }
       ],
@@ -167,32 +162,27 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "游戏市场增长停滞，AAA级大作开发周期过长引发担忧。",
+      "categorySummary": "3A游戏开发周期延长行业面临挑战，任天堂新游疑似泄露。",
       "keyPoints": [
-        "游戏行业勉强实现1%增长",
-        "AAA级大作开发至少需要3-4年，有些接近7-8年",
-        "任天堂、索尼和微软承诺提升游戏平台安全性"
+        "AAA游戏开发周期达3-8年",
+        "游戏市场面临成本压力",
+        "任天堂重磅游戏疑似泄露"
       ],
       "news": [
         {
-          "title": "游戏市场面临挑战：随着AAA级游戏规模缩减",
-          "summary": "AAA级大作开发至少需要3到4年，有些甚至接近7到8年，开发模式可持续性存疑。",
+          "title": "AAA游戏发展停滞引关注",
+          "summary": "报告显示AAA游戏开发至少需要3-4年，部分接近7-8年，行业面临挑战。",
           "keyInsights": [
-            "游戏开发成本与周期问题日益严峻"
+            "开发成本持续攀升",
+            "创新速度放缓"
           ]
         },
         {
-          "title": "传奇《罪恶装备》创作者向AAA游戏开发商发出警告",
-          "summary": "《罪恶装备》核心创作者石渡太辅对3A游戏开发的发展方向表达担忧。",
+          "title": "任天堂新游疑似提前泄露",
+          "summary": "任天堂下周重磅作品正式发售前疑似已在网上流传。",
           "keyInsights": [
-            "资深开发者对行业现状提出警示"
-          ]
-        },
-        {
-          "title": "关于我们共同承诺打造更安��游戏体验的最新进展",
-          "summary": "任天堂、索尼互动娱乐和微软将继续合作，在平台上改善玩家安全。",
-          "keyInsights": [
-            "三大主机厂商加强玩家安全合作"
+            "游戏泄露频发",
+            "发行策略调整"
           ]
         }
       ],
@@ -201,57 +191,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源发电创历史新高，欧洲能源危机推动海上风电加速发展。",
+      "categorySummary": "可再生能源发电量创历史新高，绿色氢能项目在南澳大利亚落地。",
       "keyPoints": [
-        "可再生能源发电创历史纪录",
-        "德克萨斯州ERCOT电网风能和太阳能发电刷新峰值",
-        "能源危机为欧洲海上风电带来增长机遇"
+        "可再生能源发电量创历史新高",
+        "绿色氢能电池储能项目在南澳落地",
+        "欧洲海上风电受能源危机推动"
       ],
       "news": [
         {
-          "title": "今年春天可再生能源创下纪录",
-          "summary": "2025年3月第一周，德克萨斯州ERCOT创下了风能和太阳能发电的历史纪录。",
+          "title": "可再生能源发电量创新高",
+          "summary": "今年春季可再生能源发电量创历史新高，德克萨斯州电网创风能和太阳能发电量纪录。",
           "keyInsights": [
-            "美国可再生能源渗透率持续提升"
+            "清洁能源渗透加速",
+            "电网灵活性需求增加"
           ]
         },
         {
-          "title": "清洁能源新闻",
-          "summary": "沃旭能源CEO看好能源危机为欧洲海上风电带来的增长机遇。",
+          "title": "南澳绿色氢能储能项目完成",
+          "summary": "南澳大利亚阿德莱德绿色氢气生产和电池存储系统项目重新分类为已完成。",
           "keyInsights": [
-            "能源安全推动欧洲加速发展海上风电"
-          ]
-        },
-        {
-          "title": "氢能储能：电池的绿色替代方案",
-          "summary": "氢气储存解决方案成为有前景的替代方��，发电时仅产生水作为副产品。",
-          "keyInsights": [
-            "绿色氢能成为长时储能重要方向"
+            "氢储能技术验证",
+            "长时储能方案推进"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "全球市场关注科技股财报与AI投资动态，供应链变化影响行业格局。",
-      "keyPoints": [
-        "麦肯锡发现AI推动全球贸易增长，中美贸易流向发生转变",
-        "内存成本受AI驱动需求影响持续飙升",
-        "全球市场关注科技、媒体及电信行业动态"
-      ],
-      "news": [
-        {
-          "title": "半导体：最新新闻与动态",
-          "summary": "麦肯锡发现AI推动全球贸易增长，中美贸易流向发生转变，内存成本飙升。",
-          "keyInsights": [
-            "AI正在重塑全球贸易格局"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
     }
   ]
 }
