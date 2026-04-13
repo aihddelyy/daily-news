@@ -1,35 +1,28 @@
 {
-  "date": "2026-04-13",
-  "overallSummary": "AI行业巨头组建代理式AI联盟推动开源标准，全球可再生能源发电创新纪录，GLP-1减肥药市场预计翻三倍增长。",
+  "date": "2026-04-14",
+  "overallSummary": "AI巨头联手成立Agentic AI联盟推动智能体标准；英伟达发布Blackwell Ultra和Vera Rubin芯片加速AI算力竞争；生物医药领域GLP-1减肥药市场预计翻三倍增长。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟，AI代理标准化进程加速。",
+      "categorySummary": "科技巨头联合成立AI代理标准联盟，算力竞争持续升级",
       "keyPoints": [
-        "四大AI巨头组建Agentic AI联盟，由Linux基金会支持制定开源标准",
-        "Anthropic Claude在谷歌云平台对非国防客户保持正常访问",
-        "微软Copilot将支持切换使用OpenAI和Anthropic模型"
+        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
+        "Anthropic与Google、Broadcom签署数吉瓦算力协议",
+        "Claude AI对非国防客户仍正常运营"
       ],
       "news": [
         {
-          "title": "微软、Google、OpenAI和Anthropic联手成立Agentic AI联盟",
-          "summary": "四大AI公司联合组建代理式AI联盟，制定开源标准",
+          "title": "四大AI巨头成立Agentic AI联盟",
+          "summary": "微软、谷��、OpenAI、Anthropic联合成立代理式AI联盟，由Linux基金会支持，制定开源标准",
           "keyInsights": [
-            "Linux基金会支持，行业标准化加速"
+            "行业首次大规模协作制定智能体标准"
           ]
         },
         {
-          "title": "谷歌确认Anthropic Claude仍在Google Cloud可访问",
-          "summary": "与微软做法一致，非国防客户仍可使用Claude",
+          "title": "Anthropic签署AI计算协议",
+          "summary": "与Google及Broadcom签署协议获取数吉瓦下一代算力，营收超越OpenAI",
           "keyInsights": [
-            "主流云平台对Anthropic保持开放态度"
-          ]
-        },
-        {
-          "title": "微软与Anthropic合作开发AI Copilot",
-          "summary": "Copilot商业用户可切换使用OpenAI和Anthropic模型",
-          "keyInsights": [
-            "多模型集成成为AI助手发展方向"
+            "算力资源竞争白热化"
           ]
         }
       ],
@@ -37,73 +30,26 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "全球市场保持关注，美银大额存单利率0.63%，新兴中国市场占比下降。",
-      "keyPoints": [
-        "美国商业大额6个月定期存单利率达0.63%",
-        "农业信贷银行净利润下滑，任命新任CEO",
-        "新兴中国市场份额下降"
-      ],
-      "news": [
-        {
-          "title": "华尔街日报商业头条",
-          "summary": "匈牙利选举及美国经济相关报道",
-          "keyInsights": [
-            "欧洲地缘政治持续影响市场"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "英国政府资助电动汽车电池回收，特斯拉FSD v14实现增量改进。",
-      "keyPoints": [
-        "Altilium获1850万英镑资助建设商业化电池回收设施",
-        "Altilium与捷豹路虎建立合作关系",
-        "特斯拉FSD v14为L2级辅助驾驶重大改进"
-      ],
-      "news": [
-        {
-          "title": "Altilium获1850万英镑英国政府资助建电池回收设施",
-          "summary": "在普利茅斯建设首个商业化EV电池回收设施",
-          "keyInsights": [
-            "英国加码电池回收产业链布局"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14测试报告",
-          "summary": "特斯拉全自动驾驶v14为最令人印象深刻的L2级改进",
-          "keyInsights": [
-            "FSD持续迭代但仍未达完全自动驾驶"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin芯片，美国施压盟友强化对华芯片限制。",
+      "categorySummary": "英伟达加速AI芯片迭代，Blackwell Ultra和Rubin芯片即将出货",
       "keyPoints": [
         "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "RTX PRO 6000 Blackwell GPU将随多家厂商服务器出货",
-        "美国新法案施压日本和荷兰保持对华芯片限制一致"
+        "Blackwell驱动服务器扩展AI和机器人技术",
+        "Blackwell Ultra基于核心创新加速训练和推理"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Blackwell Ultra今年发货，Rubin为下一代GPU",
+          "title": "英伟达发布Blackwell Ultra和Rubin芯片",
+          "summary": "Blackwell Ultra今年晚些时候发货，Rubin为下一代GPU，性能大幅提升",
           "keyInsights": [
-            "英伟达AI芯片迭代提速"
+            "AI芯片迭代速度加快"
           ]
         },
         {
-          "title": "NVIDIA Blackwell Ultra深入解析",
-          "summary": "加速AI训练和推理，节能dual-reticle设计",
+          "title": "Blackwell Ultra驱动AI工厂时代",
+          "summary": "节能双重光刻技术，专为AI工厂时代设计",
           "keyInsights": [
-            "AI训练芯片能效持续优化"
+            "芯片能效成为核心竞争点"
           ]
         }
       ],
@@ -111,33 +57,53 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场规模预计翻三倍，新型药物减重效果可达现有两倍。",
+      "name": "汽车出行",
+      "categorySummary": "电动汽车融资热潮持续，特斯拉FSD实现渐进式升级",
       "keyPoints": [
-        "GLP-1减肥药市场2024年138亿美元，预计2030年达488亿美元",
-        "诺和诺德和礼来将推出新注射制剂和口服制剂",
-        "CagriSema和retatrutide减重效果可能达现有治疗两倍"
+        "Slate Auto完成6.5亿美元C轮融资",
+        "特斯拉FSD v14为最令人印象深刻的L2级系统",
+        "Apollo Go机器人武汉测试陷入停滞"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药市场规模报告",
-          "summary": "2030年市场规模预计达488亿美元",
+          "title": "Slate Auto融资6.5亿美元",
+          "summary": "由TWG Global领投，为印第安纳州模块化电动卡车工厂提供资金，目标2026年末投产",
           "keyInsights": [
-            "减肥药市场高速增长，巨头竞争激烈"
+            "电动卡车赛道获得资本青睐"
           ]
         },
         {
-          "title": "新型GLP-1减肥药即将上市",
-          "summary": "CagriSema和retatrutide针对多种肠道激素",
+          "title": "特斯拉FSD v14测试",
+          "summary": "渐进式改进，目前最令人印象深刻的L2级高级驾驶辅助系统",
           "keyInsights": [
-            "多靶点药物代表下一代减肥疗法"
+            "自动驾驶技术稳步推进"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场爆发，新型药物减重效果或翻倍",
+      "keyPoints": [
+        "GLP-1减肥药市场规模预计从138亿增至488亿美元",
+        "新型药物CagriSema和retatrutide减重效果可能翻倍",
+        "诺和诺德和礼来计划推出新注射和口服制剂"
+      ],
+      "news": [
+        {
+          "title": "GLP-1减肥药市场报告",
+          "summary": "2024年市场规模138.4亿美元，预计2030年达488.4亿美元，年复合增长率超20%",
+          "keyInsights": [
+            "代谢疾病治疗成为医药增长引擎"
           ]
         },
         {
-          "title": "波士顿肿瘤公司与中国宣诸生物达成癌症药物合作",
-          "summary": "Royalty Pharma签署5亿美元研究协议",
+          "title": "新型GLP-1减肥药即将问世",
+          "summary": "CagriSema和retatrutide针对多种肠道激素，减重效果可能是现有治疗的两倍",
           "keyInsights": [
-            "中美生物医药合作持续推进"
+            "多靶点药物研发成趋势"
           ]
         }
       ],
@@ -146,25 +112,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro将专注性能提升而非外观改变，折叠屏iPhone Fold同场发布。",
+      "categorySummary": "iPhone 18系列预计9月发布，Pro版本新增配色方案",
       "keyPoints": [
-        "iPhone 18 Pro和Pro Max将于2026年9月发布",
-        "iPhone Fold折叠屏将同期登场",
-        "苹果将专注于性能提升而非设计改变"
+        "iPhone 18 Pro和Pro Max预计2026年9月发布",
+        "iPhone 18 Pro新增棕色、紫色配色方案",
+        "iPhone 17e中端机型同步推出"
       ],
       "news": [
         {
-          "title": "iPhone 18传闻和规格",
-          "summary": "iPhone 18 Pro和Pro Max将于2026年9月发布",
+          "title": "iPhone 18系列曝光",
+          "summary": "iPhone 18 Pro和Pro Max与iPhone Fold一同发布，配备新配色和性能升级",
           "keyInsights": [
-            "苹果产品线首次加入折叠屏"
-          ]
-        },
-        {
-          "title": "Apple不会改变iPhone 18 Pro的设计",
-          "summary": "苹果对iPhone 17成功满意，专注性能",
-          "keyInsights": [
-            "迭代策略转向内在升级"
+            "苹果产品线进一步分化"
           ]
         }
       ],
@@ -173,25 +132,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "独立游戏崛起超越AAA大作，微软、索尼、任天堂联合提升玩家安全。",
+      "categorySummary": "AAA游戏开发周期延长，独立游戏表现超越3A大作",
       "keyPoints": [
-        "独立游戏2025年表现优于AAA工作室",
-        "AAA游戏开发周期长达3-8年，成本高企",
-        "微软、索尼、任天堂联合发布玩家安全更新"
+        "AAA游戏开发周期3-4年甚至7-8年",
+        "2025年独立游戏表现超越传统3A工作室",
+        "微软确认下一代Xbox计划"
       ],
       "news": [
         {
-          "title": "游戏行业的重塑：独立游戏在2025年超越3A大作",
-          "summary": "低成本、社交趋势推动独立游戏崛起",
+          "title": "游戏行业重塑",
+          "summary": "独立游戏和Roblox凭借低成本、社交趋势超越传统3A游戏工作室",
           "keyInsights": [
-            "游戏行业格局正在重构"
+            "游戏行业格局正在改变"
           ]
         },
         {
-          "title": "微软、索尼、任天堂联合发布玩家安全更新",
-          "summary": "三大主机平台改善玩家安全环境",
+          "title": "Xbox下一代主机计划",
+          "summary": "微软确认下一代Xbox将运行Xbox和PC游戏，任天堂Switch 2获新捆绑包",
           "keyInsights": [
-            "行业安全标准统一化趋势"
+            "主机生态加速融合"
           ]
         }
       ],
@@ -200,32 +159,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "春季可再生能源发电创新纪录，绿氢储能解决方案持续发展。",
+      "categorySummary": "可再生能源创纪录增长，绿色氢能储能成新方向",
       "keyPoints": [
-        "2025年春季可再生能源发电创历史纪录",
-        "德克萨斯州ERCOT电网风能和太阳能发电创新高",
-        "Vineyard Wind起诉GE Vernova终止45亿美元项目"
+        "2025年春季可再生能源创纪录季节",
+        "印度拉贾斯坦邦60吉瓦项目等待并网",
+        "绿色氢能电池储能解决方案推进中"
       ],
       "news": [
         {
-          "title": "今年春季可再生能源迎来创纪录季节",
-          "summary": "德克萨斯州电网创风能和太阳能发电历史纪录",
+          "title": "可再生能源创纪录",
+          "summary": "德克萨斯州ERCOT创下单周风力发电和太阳能发电历史纪录",
           "keyInsights": [
             "清洁能源渗透率持续提升"
           ]
         },
         {
-          "title": "Vineyard Wind起诉GE Vernova",
-          "summary": "试图阻止45亿美元风电项目合同终止",
+          "title": "印度60吉瓦可再生能源项目",
+          "summary": "印度太阳能第一大邦��贾斯坦邦有大量项目等待并网",
           "keyInsights": [
-            "海上风电项目面临供应链挑战"
-          ]
-        },
-        {
-          "title": "氢能存储作为电池的绿色替代方案",
-          "summary": "一公斤氢气含约33千瓦时能量",
-          "keyInsights": [
-            "长时储能领域氢能优势明显"
+            "储能成为发展瓶颈"
           ]
         }
       ],
