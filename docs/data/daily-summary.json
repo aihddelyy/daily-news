@@ -1,38 +1,30 @@
 {
-  "date": "2026-04-17",
-  "overallSummary": "AI巨头罕见联手组建代理联盟并推出加速器计划；英伟达发布Blackwell Ultra和Rubin新一代AI芯片；可再生能源发电量创历史新高。",
+  "date": "2026-04-18",
+  "overallSummary": "AI行业巨头联手成立代理式AI联盟，芯片厂商加速产品迭代；全球市场因地缘政治缓和预期而反弹，道指大涨油价暴跌。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头从竞争走向合作，共同制定AI代理开源标准并孵化初创企业。",
+      "categorySummary": "科技巨头加速AI生态整合，代理式AI标准化成为行业焦点。",
       "keyPoints": [
-        "微软、谷歌、OpenAI和Anthropic联合组建AI代理联盟",
-        "多家巨头联手推出AI初创企业加速器项目",
-        "印度成为全球AI战略布局新重心"
+        "微软、谷歌、OpenAI、Anthropic联合成立Agentic AI联盟",
+        "Anthropic深化与Google的AI芯片战略合作",
+        "Box CEO通过Slack频道追踪AI采用情况"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手组建Agentic AI代理联盟",
-          "summary": "由Linux基金会支持的组织将为AI代理制定开源标准。",
+          "title": "四大AI公司联手成立Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI、Anthropic联合Linux基金会成立代理式AI联盟，旨在创建开源标准。",
           "keyInsights": [
-            "行业从竞争转向标准共建",
-            "开源协议或成行业规范"
+            "AI代理标准化进程加速",
+            "开源生态成竞争焦点"
           ]
         },
         {
-          "title": "OpenAI、Anthropic与谷歌联合推出AI初创企业加速器",
-          "summary": "Meta、Microsoft和Sequoia共同参与，打造AI创业生态。",
+          "title": "Anthropic深化与Google的AI芯片合作",
+          "summary": "双方大幅扩展AI合作伙伴关系，在芯片供应层面深度绑定。",
           "keyInsights": [
-            "资本与技术双轮驱动",
-            "行业整合趋势明显"
-          ]
-        },
-        {
-          "title": "为何Google、Microsoft、OpenAI和Anthropic都在押注印度",
-          "summary": "西方市场趋于成熟，地缘政治风险使中国战略复杂，印度成为投资热土。",
-          "keyInsights": [
-            "人才与市场双优势",
-            "地缘政治重塑布局"
+            "AI芯片供应格局重塑",
+            "云厂商与AI公司绑定加深"
           ]
         }
       ],
@@ -40,28 +32,86 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布新一代AI芯片组合，AI驱动芯片短缺持续影响全球供应链。",
+      "name": "商业财经",
+      "categorySummary": "地缘政治风险缓解推动市场反弹，能源价格大幅回落。",
       "keyPoints": [
-        "Blackwell Ultra将于2026年下半年出货",
-        "Vera Rubin成为下一代GPU平台",
-        "AI驱动芯片短缺正在减缓全球联网进程"
+        "道琼斯指数大涨，油价暴跌",
+        "特朗普称伊朗战争应尽快结束",
+        "中国经济增速超预期"
       ],
       "news": [
         {
-          "title": "Nvidia宣布Blackwell Ultra和Rubin AI芯片",
-          "summary": "黄仁勋发布Blackwell Ultra和Vera Rubin，后者为下一代GPU。",
+          "title": "伊朗宣布海峡开放，油价暴跌",
+          "summary": "地缘政治缓和预期升温，油价大幅下跌，市场风险偏好回升。",
           "keyInsights": [
-            "AI工厂芯片竞争升级",
-            "推理能力成为核心焦点"
+            "中东局势现转机",
+            "能源市场重新定价"
           ]
         },
         {
-          "title": "NVIDIA Blackwell：为极致规模AI推理而生",
-          "summary": "Blackwell专为AI工厂设计的完整系统架构核心。",
+          "title": "美联储官员沃勒转鸽",
+          "summary": "沃勒表示冲突可能阻止降息，但整体立场转向宽松。",
           "keyInsights": [
-            "从GPU到AI系统转型",
-            "推理市场规模扩大"
+            "货币政策路径复杂化",
+            "地缘政治影响决策"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "传统车企电动化加速，特斯拉FSD持续迭代。",
+      "keyPoints": [
+        "宝马Q1欧洲BEV订单增长40%",
+        "特斯拉FSD v14发布",
+        "Neue Klasse iX3订单超5万份"
+      ],
+      "news": [
+        {
+          "title": "宝马欧洲电动车订单激增",
+          "summary": "2026年Q1欧洲BEV订单增长40%，Neue Klasse iX3订单超5万份。",
+          "keyInsights": [
+            "传统车企电动化提速",
+            "新一代平台获市场认可"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14发布",
+          "summary": "特斯拉全自动驾驶v14是最令人印象深刻的L2级系统，渐进式改进。",
+          "keyInsights": [
+            "自动驾驶竞争加剧",
+            "L2级系统持续优化"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "AI芯片军备竞赛持续，新一代产品密集发布。",
+      "keyPoints": [
+        "Nvidia发布Blackwell Ultra和Rubin芯片",
+        "NVIDIA扩展Blackwell架构服务器",
+        "AI驱动芯片短缺影响全球联网"
+      ],
+      "news": [
+        {
+          "title": "Nvidia发布Blackwell Ultra和Rubin",
+          "summary": "Blackwell Ultra今年晚些时候出货，Vera Rubin为下一代GPU。",
+          "keyInsights": [
+            "AI算力持续攀升",
+            "产品迭代周期缩短"
+          ]
+        },
+        {
+          "title": "NVIDIA扩展Blackwell服务器产品线",
+          "summary": "新增AI和机器人技术能力，进一步扩展数据中心市场。",
+          "keyInsights": [
+            "AI基础设施需求旺盛",
+            "机器人技术成新增长点"
           ]
         }
       ],
@@ -70,27 +120,27 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场规模高速扩张，下一代药物减重效果或翻倍。",
+      "categorySummary": "GLP-1减肥药市场持续扩张，新药研发管线密集推进。",
       "keyPoints": [
-        "GLP-1市场2024年138亿美元，预计2030年达488亿美元",
-        "CagriSema和retatrutide减重效果可达现有两倍",
-        "FDA新专员提交2027财年预算提案"
+        "GLP-1减肥药市场2030年预计达488亿美元",
+        "CagriSema和retatrutide减重效果或翻倍",
+        "生物技术公司密集IPO"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药物市场到2030年将超488亿美元",
-          "summary": "诺和诺德Wegovy和礼来Mounjaro主导市场，52周减重15%-22.5%。",
+          "title": "新型GLP-1减肥药效果更强",
+          "summary": "CagriSema和retatrutide针对多种肠道激素，减重效果或翻倍。",
           "keyInsights": [
-            "口服制剂研发成关键",
-            "心血管获益扩大应用"
+            "减重药物疗效突破",
+            "市场竞争格局重塑"
           ]
         },
         {
-          "title": "新型GLP-1减肥药物即将问世且效果更强",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果或翻倍。",
+          "title": "多家生物技术公司加入IPO排队",
+          "summary": "Seaport Therapeutics和Hemab Therapeutics加入IPO行列。",
           "keyInsights": [
-            "多靶点药物成趋势",
-            "市场竞争将加剧"
+            "生物医药融资活跃",
+            "资本市场热情回升"
           ]
         }
       ],
@@ -98,115 +148,20 @@
       "icon": "🧬"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "太阳能和风能发电量创历史新高，绿色氢能储能方案加速推进。",
-      "keyPoints": [
-        "2026年春季可再生能源发电量创历史新高",
-        "德克萨斯州ERCOT风能和太阳能刷新纪录",
-        "绿色氢能储能作为电池替代方案受关注"
-      ],
-      "news": [
-        {
-          "title": "今年春季可再生能源发电量创历史新高",
-          "summary": "2025年3月德克萨斯州ERCOT创下风能和太阳能发电历史纪录。",
-          "keyInsights": [
-            "电网稳定性提升",
-            "储能需求同步增长"
-          ]
-        },
-        {
-          "title": "能源革命势不可挡：创纪录的太阳能和风能",
-          "summary": "清洁能源投资持续增长，全球能源转型加速。",
-          "keyInsights": [
-            "能源结构深度调整",
-            "投资持续涌入"
-          ]
-        }
-      ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "宝马电动车订单飙升40%，特斯拉FSD v14实现最流畅体验。",
-      "keyPoints": [
-        "宝马2026年Q1欧洲BEV订单增长40%",
-        "Neue Klasse iX3获超50,000份订单",
-        "特��拉FSD v14为最令人印象深刻的L2级系统"
-      ],
-      "news": [
-        {
-          "title": "宝马集团报告2026年Q1欧洲BEV订单增长40%",
-          "summary": "Neue Klasse iX3自欧洲上市以来获得超50,000份订单。",
-          "keyInsights": [
-            "新一代平台获市场认可",
-            "欧洲EV渗透率提升"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14测试：最令人印象深刻的L2级自动驾驶",
-          "summary": "特斯拉FSD v14是对ADAS的渐进式改进，体验最流畅。",
-          "keyInsights": [
-            "FSD迭代速度加快",
-            "L2能力持续逼近极限"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "华尔街创新高，欧洲股市上涨，伊朗局势仍是全球市场焦点。",
-      "keyPoints": [
-        "华尔街创下历史新高",
-        "欧洲股市上涨，英国GDP跃升",
-        "伊朗战争冲击可能推高全球债务"
-      ],
-      "news": [
-        {
-          "title": "欧洲股市上涨，英国GDP跃升",
-          "summary": "伊朗和平谈判仍是焦点，市场情绪改善。",
-          "keyInsights": [
-            "地缘风险缓和",
-            "欧洲经济信心回升"
-          ]
-        },
-        {
-          "title": "全球经济面临严峻考验",
-          "summary": "伊朗战争冲击可能推高全球债务水平。",
-          "keyInsights": [
-            "地缘风险未消除",
-            "债务压力持续累积"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "智能手机",
-      "categorySummary": "iPhone 18渲染图泄露，小米18 Pro配置强劲，市场期待换机潮。",
+      "categorySummary": "苹果折叠屏iPhone传言升温，产品迭代周期加速。",
       "keyPoints": [
-        "iPhone 18 Pro渲染图显示左上角打孔设计",
-        "小米18 Pro曝光：AI按钮、双2亿像素摄像头",
-        "iPhone Fold或与iPhone 18系列同步发布"
+        "iPhone 18传闻持续发酵",
+        "折叠屏iPhone开发进展曝光",
+        "iPhone 17与iPhone 18对比讨论"
       ],
       "news": [
         {
-          "title": "iPhone 18：我们目前所知的一切",
-          "summary": "iPhone 18 Pro和Pro Max将于2026年9月与iPhone Fold一同发布。",
+          "title": "iPhone 18传闻汇总",
+          "summary": "iPhone 18 Pro渲染图曝光，左上角挖孔显示屏设计。",
           "keyInsights": [
-            "折叠屏加入产品线",
-            "苹果大年即将到来"
-          ]
-        },
-        {
-          "title": "小米18 Pro曝光：AI按钮、背屏及双2亿像素",
-          "summary": "功能强大配置丰富的旗舰智能手机即将发布。",
-          "keyInsights": [
-            "摄像头规格竞争加剧",
-            "AI硬件成标配"
+            "苹果设计语言演进",
+            "折叠屏成为焦点"
           ]
         }
       ],
@@ -215,32 +170,53 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "3A大作开发周期延长至7-8年，小型游戏收入占比首超半数。",
+      "categorySummary": "AAA游戏面临成本压力，市场结构正在转变。",
       "keyPoints": [
-        "56% PC游戏收入来自前20名以��游戏",
-        "3A大作开发周期至少3-4年甚至7-8年",
-        "主机和PC市场正发生结构性转变"
+        "56% PC游戏收入流向排名前20之外",
+        "前Nexon CEO认为AAA游戏正在消亡",
+        "Xbox宣布下一代主机"
       ],
       "news": [
         {
-          "title": "AAA游戏主导地位正在削弱：56%收入来自非头部游戏",
-          "summary": "Newzoo报告显示PC和主机市场结构性转变正在发生。",
+          "title": "AAA游戏主导地位削弱",
+          "summary": "Newzoo报告显示PC和主机游戏市场结构性转变，份额流向独立游戏。",
           "keyInsights": [
-            "长尾市场崛起",
-            "中小型游戏商业价值凸显"
+            "游戏市场分散化",
+            "独立游戏崛起"
           ]
         },
         {
-          "title": "游戏市场面临挑战：AAA级游戏缩减",
-          "summary": "行业到达关键节点，开发成本与周期双重压力。",
+          "title": "前Nexon CEO看衰AAA游戏",
+          "summary": "开发成本膨胀导致AAA游戏风险增加，行业需重新审视商业模式。",
           "keyInsights": [
-            "开发风险上升",
-            "独立游戏空间扩大"
+            "游戏开发成本危机",
+            "行业转型压力"
           ]
         }
       ],
       "id": "entertainment",
       "icon": "🎮"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "可再生能源发电创新纪录，清洁能源渗透率提升。",
+      "keyPoints": [
+        "春季成为可再生能源创纪录季节",
+        "德州ERCOT风力发电创历史新高",
+        "太阳能发电持续增长"
+      ],
+      "news": [
+        {
+          "title": "可再生能源发电创新纪录",
+          "summary": "2025年3月德州ERCOT创风力发电和太阳能发电历史纪录。",
+          "keyInsights": [
+            "清洁能源渗透加速",
+            "电网稳定性提升"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
     }
   ]
 }
