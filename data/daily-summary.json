@@ -1,69 +1,67 @@
 {
-  "date": "2026-04-25",
-  "overallSummary": "AI巨头加速布局计算基础设施与开源标准；英伟达发布新一代AI芯片；特斯拉FSD v14推送；GLP-1药物市场持续扩大；iPhone 18 Pro曝光折叠屏与重大相机升级。",
+  "date": "2026-04-26",
+  "overallSummary": "AI领域头部企业加速联盟化，电动车市场进入淘汰赛，GLP-1减肥药市场预计翻三倍。",
   "categories": [
     {
-      "name": "AI行业动态",
-      "categorySummary": "AI行业加速整合，科技巨头联手制定开源标准并在全球范围扩展投资。",
+      "name": "AI行业",
+      "categorySummary": "科技巨头加速联盟化布局，AI代码生成成主流，但市场泡沫担忧加剧。",
       "keyPoints": [
-        "Anthropic与Google、Broadcom签署千兆瓦级AI计算协议",
-        "微软、谷歌、OpenAI、Anthropic联合成立Agentic AI联盟",
-        "四大AI企业均在印度加大投资布局"
+        "微软、谷歌、OpenAI、Anthropic联手成立AI代理开源联盟",
+        "Google内部75%新代码由AI生成",
+        "AI行业万亿级数据中心投资引发泡沫破裂担忧"
       ],
       "news": [
         {
-          "title": "Anthropic与Google及Broadcom签署AI计算��议",
-          "summary": "确保获得多个千兆瓦级下一代计算能力，营收超越OpenAI。",
+          "title": "微软、谷歌、OpenAI和Anthropic成立Agentic联盟",
+          "summary": "四大AI巨头联手成立AI代理联盟，由Linux基金会支���制定开源标准。",
           "keyInsights": [
-            "AI算力竞争进入新阶段，协议确保Anthropic基础设施优势"
+            "AI代理标准化进程加速，行业从竞争走向竞合"
           ]
         },
         {
-          "title": "Agentic AI联盟成立",
-          "summary": "微软、谷歌、OpenAI、Anthropic联手，由Linux基金会支持制定开源标准。",
+          "title": "Anthropic深化与谷歌的AI芯片合作",
+          "summary": "Anthropic与谷歌大幅扩展AI合作伙伴关系，独立生成式AI厂商合作深化。",
           "keyInsights": [
-            "巨头联合推动AI智能体标准化，行业规范化加速"
+            "芯片合作成为AI厂商绑定关键策略"
           ]
         },
         {
-          "title": "科技巨头押注印度市场",
-          "summary": "西方市场增长趋缓，中国战略复杂化，AI企业在印度大幅扩投。",
+          "title": "AI是下一个互联网泡沫破裂吗？",
+          "summary": "人工智能行业在转型前已投入数以万亿计的数据中心投资。",
           "keyInsights": [
-            "印度成为AI投资新热土，地缘政治重塑全球布局"
-          ]
-        },
-        {
-          "title": "甲骨文AI债务浪潮冲击华尔街",
-          "summary": "甲骨文人工智能债务规模将华尔街推向极限。",
-          "keyInsights": [
-            "AI基础设施投资债务风险上升"
+            "AI投资规模引发市场泡沫担忧"
           ]
         }
-      ],
-      "id": "ai_industry",
-      "icon": "🧠"
+      ]
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD v14版本推送，美国电动车市场增长强劲。",
+      "categorySummary": "电动车行业进入淘汰阶段，特斯拉FSD持续迭代但仍为L2级别。",
       "keyPoints": [
-        "特斯拉FSD 14.3版本开始推送",
-        "美国电动汽车销量同比增长11%",
-        "日产聆风获年���最佳紧凑型电动SUV"
+        "电动车行业进入\"淘汰阶段\"，弱者出局",
+        "特斯拉FSD v14是增量改进，属最先进L2级系统",
+        "Stellantis电动车可通过适配器访问特斯拉超充网络"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14.3版本推送",
-          "summary": "特斯拉推出FSD最新迭代版本，为最令人印象深刻的L2级辅助驾驶。",
+          "title": "电动汽车行业进入\"淘汰阶段\"",
+          "summary": "EV行业进入淘汰阶段，弱者出局——利润成核心问题。",
           "keyInsights": [
-            "特斯拉自动驾驶持续迭代，但定位仍为L2级辅助"
+            "EV行业从烧钱扩���转向盈利竞争"
           ]
         },
         {
-          "title": "美国电动车市场增长11%",
-          "summary": "截至3月底，美国新售电动汽车近30万辆。",
+          "title": "特斯拉FSD v14测试",
+          "summary": "特斯拉FSD v14是其高级驾驶辅助系统的增量改进，属最令人印象深刻的L2级系统。",
           "keyInsights": [
-            "美国电动车市场稳步增长，但前路仍不确定"
+            "L2级自动驾驶逐步成熟，商业落地加速"
+          ]
+        },
+        {
+          "title": "特斯拉2026年春季软件更新",
+          "summary": "特斯拉发布2026年春季软件更新，推出自动驾驶应用及\"Hey Grok\"等功能。",
+          "keyInsights": [
+            "座舱摄像头开始用于评估驾驶员年龄监管功能"
           ]
         }
       ],
@@ -71,60 +69,33 @@
       "icon": "🚗"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra与Vera Rubin新一代AI芯片。",
-      "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "Blackwell Ultra将于今年晚些时候发货",
-        "NVIDIA扩展Blackwell驱动服务器，新增AI和机器人功能"
-      ],
-      "news": [
-        {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin",
-          "summary": "Blackwell Ultra今年发货，Vera Rubin为下一代GPU。",
-          "keyInsights": [
-            "英伟达加速芯片迭代，AI算力竞争持续升级"
-          ]
-        },
-        {
-          "title": "NVIDIA扩展Blackwell驱动服务器",
-          "summary": "新增AI和机器人技术能力，提供更高性能。",
-          "keyInsights": [
-            "服务器端AI算力布局加速"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场高速增长，CAR-T疗法有新进展。",
+      "categorySummary": "GLP-1减肥药市场规模预计翻三倍，DNA数据存储进入工业化阶段。",
       "keyPoints": [
-        "GLP-1受体激动剂市场2024年达537.4亿美元",
-        "2030年预计增至1707.5亿美元，CAGR 13%",
-        "赛诺菲Dupixent销售强劲获FDA批准"
+        "GLP-1减肥药市场2030年预计达4884亿美元，较2024年增长253%",
+        "阿斯利康IL-33生物制剂COPD三期临床结果一致",
+        "GenScript与Mimulus合作推进DNA数据存储工业化"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场高速增长",
-          "summary": "减重药物市场预计从138亿美元增至488亿美元。",
+          "title": "GLP-1激动剂减肥药市场规模报告",
+          "summary": "全球GLP-1减肥药市场2024年1384亿美元，预计2030年达4884亿美元。",
           "keyInsights": [
-            "代谢疾病药物成医药增长最大引擎"
+            "减肥药市场复合年增长率领先医药行业"
           ]
         },
         {
-          "title": "CAR-T疗法与GLP-1新进展",
-          "summary": "肿瘤学、免疫学和代谢领域创新持续扩大。",
+          "title": "GenScript与Mimulus合作DNA数据存储",
+          "summary": "双方合作将DNA数据存储推向工业化，应对AI时代数据爆发。",
           "keyInsights": [
-            "细胞疗法与代谢药物并列为研发热点"
+            "DNA存储成本效率获突破，商业化在即"
           ]
         },
         {
-          "title": "Dupixent获FDA批准",
-          "summary": "赛诺菲与Regeneron合作产品销售强劲。",
+          "title": "阿斯利康COPD生物制剂III期成功",
+          "summary": "阿斯利康报告IL-33生物制剂治疗COPD的一致性III期临床结果。",
           "keyInsights": [
-            "免疫药物市场持续扩大"
+            "COPD生物制剂赛道竞争加剧"
           ]
         }
       ],
@@ -132,26 +103,53 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro系列曝光，折叠屏与相机成最大亮点。",
+      "name": "半导体芯片",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin新一代AI芯片，AI驱动芯片短缺持续。",
       "keyPoints": [
-        "iPhone 18 Pro将推出折叠屏版本",
-        "相机升级：可变光圈镜头、200MP长焦",
-        "iPhone 18 Pro将提供四种颜色"
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+        "AI驱动芯片短缺正在阻碍全球联网进程",
+        "英伟达扩展Blackwell驱动服务器，新增AI和机器人技术"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro相机重大升级",
-          "summary": "可变光圈镜头、200MP长焦，景深控制重大升级。",
+          "title": "Nvidia宣布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "黄仁勋透露Blackwell Ultra将于今年晚些时候发货，Vera Rubin为下一代GPU。",
           "keyInsights": [
-            "苹果相机技术迎突破性升级"
+            "英伟达AI芯片迭代加速，算力竞赛持续"
           ]
         },
         {
-          "title": "iPhone Fold折叠屏曝光",
-          "summary": "iPhone 18系列将首次推出折叠屏机型。",
+          "title": "AI驱动的芯片短缺正在阻��全球联网进程",
+          "summary": "GSMA报告显示AI驱动的芯片短缺正在阻碍全球联网进程。",
           "keyInsights": [
-            "苹果入局折叠屏，手机形态革新"
+            "AI算力需求与芯片供给矛盾加剧"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18系列传言四起，折叠屏iPhone Fold有望今年面世。",
+      "keyPoints": [
+        "iPhone 18 Pro系列预计9月照常发布",
+        "苹果首款折叠屏iPhone Fold即将面世",
+        "iPhone Fold将具备3D功能"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18泄露：苹果的下一代升级",
+          "summary": "iPhone 18泄露显示苹果下一项升级完全令人提不起劲，但iPhone Fold将具备3D功能。",
+          "keyInsights": [
+            "苹果折叠屏终于要来了"
+          ]
+        },
+        {
+          "title": "iPhone 18：我们知道的一切",
+          "summary": "iPhone 18 Pro和Pro Max将照常9月发布，届时苹果计划推出首款折叠屏。",
+          "keyInsights": [
+            "2026年或成折叠屏iPhone元年"
           ]
         }
       ],
@@ -160,25 +158,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "3A游戏开发成本高企，主机厂商联合发布玩家安全标准。",
+      "categorySummary": "AAA游戏主导地位削弱，56%PC游戏收入来自前20名以外，行业仅增1%。",
       "keyPoints": [
-        "新3A游戏开发成本或达3亿美元",
-        "微软、索尼、任天堂联合发布玩家安全声明",
-        "游戏行业增长停滞，仅1%"
+        "56%的PC游戏收��来自前20名以外的游戏",
+        "游戏行业2025年勉强实现1%增长",
+        "Xbox、PlayStation、任天堂联合提升玩家安全"
       ],
       "news": [
         {
-          "title": "3A游戏开发成本高企",
-          "summary": "开发成本3亿美元或更高，导致裁员和工作室关闭。",
+          "title": "AAA游戏的主导地位正在削弱",
+          "summary": "Newzoo报告显示PC和主机游戏市场正在发生结构性转变。",
           "keyInsights": [
-            "高成本与低增长压缩游戏行业利润空间"
+            "游戏行业从大作主导转向多元化"
           ]
         },
         {
-          "title": "三大主机厂联合安全声明",
-          "summary": "微软、索尼、任天堂联合承诺打造安全游戏环境。",
+          "title": "任天堂、PlayStation和Xbox安全游戏承诺",
+          "summary": "三大主机平台联合提升玩家安全水平，提供多样化控制功能。",
           "keyInsights": [
-            "行业自律提升玩家安全保障"
+            "跨平台安全标准统一趋势明显"
           ]
         }
       ],
@@ -187,37 +185,57 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源超越电力需求，绿色氢能成为储能新方向。",
+      "categorySummary": "可再生能源超全球电力需求，氢储能成绿色电池替代方案。",
       "keyPoints": [
-        "可再生能源超越全球电力需求",
-        "海上风电场持续建设",
-        "绿色氢能储能受关注"
+        "可再生能源超越全球电力需求，主要由中国太阳能增长推动",
+        "氢气储存成为前景广阔的绿色电池替代方案",
+        "特朗普取消海上风电项目引发政治争议"
       ],
       "news": [
         {
-          "title": "可再生能源超越电力需求",
-          "summary": "去年可再生能源超越全球电力需求，主要得益于中国太阳能增长。",
+          "title": "可再生能源超越全球电力需求",
+          "summary": "去年可再生能源超过全球电力需求，主要由中国太阳能增长推动。",
           "keyInsights": [
-            "清洁能源转型加速，中国引领增长"
+            "清洁能源转型进入临界点"
           ]
         },
         {
-          "title": "海上风电场建设推进",
-          "summary": "罗德岛沿海风电场逐步成型，涡轮机高度达自由女神像三倍。",
+          "title": "氢能储能：一种绿色电池替代方案",
+          "summary": "氢气储存解决方案前景广阔，可从太阳能中产生，只需水即可发电。",
           "keyInsights": [
-            "海上风电成清洁能源重要支柱"
-          ]
-        },
-        {
-          "title": "绿色氢能储能方案",
-          "summary": "氢能储存成为有前景的电池替代方案。",
-          "keyInsights": [
-            "长时储能需求推动氢能技术发展"
+            "氢储能成本下降，商业化加速"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "全球资本涌入印度金融中心，摩根士丹利看好财报季股票表现。",
+      "keyPoints": [
+        "全球企业涌入印度金融之都，低收入居民面临重新开发抉择",
+        "摩根士丹利称五只股票在财报前仍有上涨空间",
+        "英格兰银行副行长称股市将下跌"
+      ],
+      "news": [
+        {
+          "title": "全球企业涌入印度金融之都",
+          "summary": "随着全球企业涌入印度金融之都，百万低收入居民面临重新开发协议的抉择。",
+          "keyInsights": [
+            "印度城市化进程中的民生挑战"
+          ]
+        },
+        {
+          "title": "摩根士丹利看好财报前股票上涨空间",
+          "summary": "摩根士丹利称五只股票在财报前仍有上涨空间。",
+          "keyInsights": [
+            "财报季前机构调仓动向值得关注"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
