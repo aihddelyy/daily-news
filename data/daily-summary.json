@@ -1,38 +1,28 @@
 {
-  "date": "2026-04-27",
-  "overallSummary": "AI领域迎来重磅合作，四大科技巨头成立Agentic AI联盟；特斯拉Cybercab正式投产，自动驾驶竞争加剧；同时市场对AI芯片需求持续强劲，Nvidia发布新一代Blackwell Ultra和Rubin芯片。",
+  "date": "2026-04-28",
+  "overallSummary": "AI领域呈现联盟化与全球化双趋势，科技巨头押注印度市场；半导体领域英伟达新品发布推动AI算力升级；生物医药GLP-1减肥药市场预计翻三倍增长。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI行业竞争白热化，人才争夺与跨界合作并行。",
+      "categorySummary": "头部企业从竞争走向协作，AI Agent联盟成立；印度成为全球AI战略布局焦点。",
       "keyPoints": [
-        "四大科技巨头联手成立Agentic AI联盟，创建AI agent开源标准",
-        "特斯拉Cybercab自动驾驶出租车已投入生产",
-        "高管纷纷跳槽OpenAI，AI人才争夺战升级"
+        "微软、谷歌、OpenAI、Anthropic组建AI代理联盟，制定开源标准",
+        "谷歌、微软、OpenAI争相投资印度，构建22种语言AI系统",
+        "Anthropic Claude在谷歌云平台维持正常运营"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic��手成立Agentic AI联盟",
-          "summary": "由Linux Foundation支持的AI agent开源标准联盟正式成立。",
+          "title": "AI巨头联���组建Agentic AI联盟",
+          "summary": "Linux基金会支持，创建AI智能体开源标准",
           "keyInsights": [
-            "巨头合作旨在建立行业标准",
-            "开源生态或成新趋势"
+            "推动AI Agent生态标准化，降低开发门槛"
           ]
         },
         {
-          "title": "Elon Musk：特斯拉Cybercab已投入生产",
-          "summary": "AI驱动的自动驾驶出租车正式进入量产阶段。",
+          "title": "谷歌、微软、OpenAI和Anthropic重注印度",
+          "summary": "争夺14亿人口语言市场，印度成最后未开发AI市场",
           "keyInsights": [
-            "自动驾驶商业化加速",
-            "AI车载应用前景广阔"
-          ]
-        },
-        {
-          "title": "AI人才争夺战：高管纷纷跳槽OpenAI",
-          "summary": "软件行业成为新目标，人才流动频繁。",
-          "keyInsights": [
-            "AI领域人才稀缺",
-            "OpenAI吸引力增强"
+            "谁主导印度市场谁将定义下一个十年AI格局"
           ]
         }
       ],
@@ -40,86 +30,19 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "地缘政治影响持续，科技竞争与贸易摩擦交织。",
-      "keyPoints": [
-        "白宫指控中国进行AI模型抄袭",
-        "摩根士丹利看好五只股票上涨空间",
-        "伊朗称无计划与美巴举行会面"
-      ],
-      "news": [
-        {
-          "title": "白宫指控中国\"工业规模\"行动中抄袭美国AI模型",
-          "summary": "美中AI竞争升级，知识产权争议再起。",
-          "keyInsights": [
-            "科技��争加剧",
-            "地缘政治风险上升"
-          ]
-        },
-        {
-          "title": "摩根士丹利：五只股票财报前仍有上涨空间",
-          "summary": "机构看好特定标的，建议关注财报季。",
-          "keyInsights": [
-            "投资机会涌现",
-            "业绩驱动为主"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "电动车技术突破与渠道变革并行。",
-      "keyPoints": [
-        "特斯拉FSD v14被称最令人印象深刻的L2系统",
-        "宁德时代发布1500公里续航电池",
-        "Scout发起直售模式挑战"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14实测：增量改进的L2级系统",
-          "summary": "FSD 13.2.9已展示AI驱动软件的精致版本。",
-          "keyInsights": [
-            "自动驾驶持续进化",
-            "用户体验显著提升"
-          ]
-        },
-        {
-          "title": "宁德时代1500公里续航电池",
-          "summary": "电池技术再获突破，里程焦虑有望缓解。",
-          "keyInsights": [
-            "续航能力大幅提升",
-            "电动车竞争力增强"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片需求旺盛，新产品密集发布。",
+      "categorySummary": "英伟达加速迭代，Blackwell Ultra今年发货，Vera Rubin新一代GPU亮相。",
       "keyPoints": [
-        "Nvidia发布Blackwell Ultra和Rubin芯片",
-        "AI驱动芯片短缺影响全球联网进程",
-        "NVIDIA扩展Blackwell系列服务器"
+        "英伟达发布Blackwell Ultra，今年晚些时候发货",
+        "Vera Rubin成为英伟达下一代GPU",
+        "AI驱动芯片短缺影响全球联网进程"
       ],
       "news": [
         {
           "title": "Nvidia发布Blackwell Ultra和Rubin AI芯片",
-          "summary": "Blackwell Ultra将于今年晚些时候发货，Vera Rubin为下一代GPU。",
+          "summary": "Jensen Huang发布Blackwell Ultra，Rubin为新一代GPU",
           "keyInsights": [
-            "算力竞争持续",
-            "AI基础设施加速部署"
-          ]
-        },
-        {
-          "title": "AI驱动的芯片短缺正在减缓全球联网进程",
-          "summary": "GSMA报告显示芯片供需失衡影响数字化进程。",
-          "keyInsights": [
-            "供应链挑战持续",
-            "产能扩张势在必行"
+            "英伟达加速AI芯片迭代节奏"
           ]
         }
       ],
@@ -128,27 +51,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，AI加速药物研发。",
+      "categorySummary": "GLP-1减肥药市场高速增长，新型药物减重效果翻倍；基因疗法获FDA批准。",
       "keyPoints": [
-        "GLP-1市场预计2030年达488.4亿美元",
-        "阿斯利康IL-33生物制剂COPD试验结果积极",
-        "AI在药物发现中应用扩大"
+        "GLP-1减肥药市场规模将从138亿增至488亿美元",
+        "CagriSema和retatrutide减重效果达现有药物两倍",
+        "Regeneron基因疗法Otarmeni获FDA批准用于罕见听力损失"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药市场高速增长",
-          "summary": "市场规模从138.4亿美元预计增至488.4亿美元。",
+          "title": "GLP-1受体激动剂市场预计翻三倍",
+          "summary": "从138亿美元增至488亿美元（2024-2030）",
           "keyInsights": [
-            "减重药赛道火热",
-            "诺和诺德、礼来领跑"
+            "减重药成为医药行业最大增长赛道"
           ]
         },
         {
-          "title": "阿斯利康IL-33生物制剂COPD III期试验结果一致",
-          "summary": "呼吸系统疾病治疗取得进展。",
+          "title": "FDA批准首款遗传性听力损失基因疗法",
+          "summary": "Regeneron Otarmeni获批，开创基因疗法新纪元",
           "keyInsights": [
-            "创新药研发持续",
-            "慢病治疗新选择"
+            "基因疗法适应症持续扩展"
           ]
         }
       ],
@@ -156,28 +77,46 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18泄露密集，折叠屏设备即将发布。",
+      "name": "汽车出行",
+      "categorySummary": "EV行业进入淘汰赛，宁德时代续航突破；特斯拉FSD v14实现增量升级。",
       "keyPoints": [
-        "iPhone 18 Pro配色和摄像头泄露",
-        "苹果首款折叠屏设备九月发布",
-        "FCC扩大外国制造路由器禁令"
+        "宁德时代发布1500公里续航电池",
+        "EV行业淘汰赛加速，弱势玩家利润承压",
+        "特斯拉FSD v14为最令人印象深刻的L2系统"
       ],
       "news": [
         {
-          "title": "iPhone 18泄露：配色与摄像头信息曝光",
-          "summary": "韩国媒体ETNews披露新机摄像头和配色细节。",
+          "title": "特斯拉FSD v14测试：令人惊叹的增量改进",
+          "summary": "L2级辅助驾驶系统实现迄今最佳表现",
           "keyInsights": [
-            "产品升级可期",
-            "苹果创新周期持续"
+            "FSD持续迭代但仍���突破L2级别"
           ]
         },
         {
-          "title": "苹果首款折叠屏设备九月发布",
-          "summary": "iPhone 18 Pro系列同步推出，产品线扩张。",
+          "title": "Stellantis EV接入特斯拉超级充电网络",
+          "summary": "250美元适配器即可访问特斯拉充电网络",
           "keyInsights": [
-            "折叠屏时代开启",
-            "高端市场竞争加剧"
+            "充电网络生态开放成行业趋势"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro传闻密集，Face ID升级与设计变更成焦点。",
+      "keyPoints": [
+        "iPhone 18 Pro传出Face ID重大升级",
+        "新配色和设计变更泄露",
+        "苹果产品策略引发降级猜测"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18 Pro传闻：5大最可信泄露消息",
+          "summary": "涵盖设计变更、配色、Face ID升级",
+          "keyInsights": [
+            "距发布尚远，信息可靠性待验证"
           ]
         }
       ],
@@ -186,27 +125,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏面临成本压力，小型游戏市场份额上升。",
+      "categorySummary": "AAA游戏增长停滞，Xbox/索尼/任天堂联合推动游戏安全。",
       "keyPoints": [
-        "AAA游戏开发成本超3亿美元",
-        "56%的PC游戏收入流向Top 20以外",
-        "游戏行业仅实现1%增长"
+        "AAA游戏行业仅实现1%增长，面临停滞",
+        "Xbox、索尼、任天堂持续合作改善玩家安全",
+        "《刺客信条Hexe》开发遇阻，可能延期"
       ],
       "news": [
         {
-          "title": "AAA游戏开发成本现已超过3亿美元",
-          "summary": "游戏需售出400-600万份才能盈利。",
+          "title": "AAA游戏停滞：行业勉强实现1%��长",
+          "summary": "3A大作投入产出失衡，玩家仅观看一次过场动画",
           "keyInsights": [
-            "成本压力巨大",
-            "风险管控成关键"
-          ]
-        },
-        {
-          "title": "56%的PC游戏收入流向排名前20以外",
-          "summary": "Newzoo报告显示市场结构发生转变。",
-          "keyInsights": [
-            "独立游戏崛起",
-            "多元化发展"
+            "3A游戏商业模式面临转型压力"
           ]
         }
       ],
@@ -215,32 +145,43 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源超越电力需求，绿色氢能发展加速。",
+      "categorySummary": "太阳能持续高速增长，绿色氢能加速布局能源脱碳。",
       "keyPoints": [
-        "可再生能源超越全球电力需求",
-        "绿色氢能储能解决方案推进",
-        "智利阿塔卡马沙漠面临光污染威胁"
+        "太阳能去年大幅增长，势头不减",
+        "绿色氢能与电池储能成为脱碳关键",
+        "电动重型车辆应用拓展"
       ],
       "news": [
         {
-          "title": "可再生能源超越全球电力需求",
-          "summary": "主要得益于中国太阳能的增长。",
+          "title": "太阳能去年大幅增长，势头不减",
+          "summary": "清洁能源渗透率持续提升",
           "keyInsights": [
-            "清洁能源加速替代",
-            "中国引领增长"
-          ]
-        },
-        {
-          "title": "绿色氢能电池储能解决方案发展",
-          "summary": "可再生能源驱动的氢气���产推进脱碳进程。",
-          "keyInsights": [
-            "储能技术突破",
-            "能源转型加速"
+            "可再生能源进入规模化增长阶段"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "市场信息渠道畅通，具体动态需深入追踪。",
+      "keyPoints": [
+        "路透社、华尔街日报等主流财经媒体覆盖广泛",
+        "债券、商业、经济、金融多领域动态",
+        "ESG关注度持续影响企业战略"
+      ],
+      "news": [
+        {
+          "title": "全球市场要闻",
+          "summary": "路透社、CNBC、华尔街日报提供即时市场动态",
+          "keyInsights": [
+            "关注美股主要指数及银行投资监管"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
