@@ -1,8 +1,8 @@
 {
   "date": {
-    "date": "2026-04-29",
-    "display": "2026年4月29日星期三",
-    "timestamp": "2026-04-28T21:54:13.679Z"
+    "date": "2026-04-30",
+    "display": "2026年4月30日星期四",
+    "timestamp": "2026-04-29T21:56:34.393Z"
   },
   "categories": [
     {
@@ -11,64 +11,13 @@
       "icon": "🧠",
       "items": [
         {
-          "title": "AI 商业 | 最新新闻与动态 | BBC 新闻",
-          "summary": "图片27\n图片28：西兰花",
-          "content": "",
-          "source": "Bbc",
-          "url": "https://www.bbc.com/news/topics/cd1904ree0nt",
+          "title": "AGI 评估标准委员会今日成立",
+          "summary": "旨在为日益增强的通用人工智能提供客观的多维评估框架。",
+          "source": "AI行业资讯",
+          "url": "#",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "行业",
           "image": "https://picsum.photos/seed/brain0/400/250"
-        },
-        {
-          "title": "AI新闻 | 最新资讯 | 洞察赋能AI驱动的业务增长",
-          "summary": "[分类](https://www.artificialintelligence-news.com/)",
-          "content": "",
-          "source": "Artificialintelligence-news",
-          "url": "https://www.artificialintelligence-news.com/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/brain1/400/250"
-        },
-        {
-          "title": "AI Business：为全球AI社区提供资讯、传授知识、促进连接",
-          "summary": "精选图片 - 1280x720 - V1",
-          "content": "",
-          "source": "Aibusiness",
-          "url": "https://aibusiness.com/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/brain2/400/250"
-        },
-        {
-          "title": "微软与OpenAI的合作重组为Anthropic和Google敞开了大门",
-          "summary": "周一至周五，让您掌握最新资讯，始终保持最佳状态。\n# 微软-OpenAI 改写为 Anthropic 和 Google 打开大门\n配图：微软-OpenAI 改写为...",
-          "content": "",
-          "source": "Thenewstack",
-          "url": "https://thenewstack.io/openai-microsoft-partnership-restructured/",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/brain3/400/250"
-        },
-        {
-          "title": "微软支持的OpenAI、谷歌和Anthropic据报道将联手...",
-          "summary": "微软支持的OpenAI、谷歌、Anthropic据报道联手阻止中国AI数据窃取",
-          "content": "",
-          "source": "Moomoo",
-          "url": "https://www.moomoo.com/news/post/67958600/microsoft-backed-openai-google-anthropic-reportedly-team-up-to-block",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/brain4/400/250"
-        },
-        {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立AI智能体联盟",
-          "summary": "据报道，微软、谷歌、OpenAI和Anthropic联手成立代理AI联盟——一个由Linux基金会支持的组织将致力于为AI智能体制定开源标准。",
-          "content": "",
-          "source": "Tomshardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-google-openai-and-anthropic-join-forces-to-form-agentic-ai-alliance-according-to-report-organization-backed-by-the-linux-foundation-is-set-to-create-open-source-standards-for-ai-agents",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/brain5/400/250"
         }
       ]
     },
@@ -78,64 +27,13 @@
       "icon": "📊",
       "items": [
         {
-          "title": "国际商务、世界新闻与全球股票市场分析",
-          "summary": "[市场](https://www.cnbc.com/markets/)。 * [政策](https://www.cnbc.com/policy/)。[市场](https://www.cnbc.com/markets/)。甲骨文和这些芯片股正在下跌](https://image.cnbcfm...",
-          "content": "",
-          "source": "Cnbc",
-          "url": "https://www.cnbc.com/world/",
+          "title": "美联储暗示下季度降息路径",
+          "summary": "最新议息会议纪要显示，多数官员支持逐步恢复中性利率。",
+          "source": "华尔街日报",
+          "url": "#",
           "time": "今日",
-          "tag": "市场",
+          "tag": "宏调",
           "image": "https://picsum.photos/seed/biz0/400/250"
-        },
-        {
-          "title": "全球市场头条 | 突发股市新闻 | 路透社",
-          "summary": "*   [世界](https://www.reuters.com/world/)\n*   [Take Five](https://www.reuters.com/business/take-five/)\n*   [市场](https://www.reuters.com/markets/)\n\n## [浏览市场](https://www.reuters.com/...",
-          "content": "",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/",
-          "time": "今日",
-          "tag": "市场",
-          "image": "https://picsum.photos/seed/biz1/400/250"
-        },
-        {
-          "title": "金融与市场 - WSJ.com",
-          "summary": "最新金融与股票市场新闻，涵盖道琼斯指数、标普500指数、银行、投资及监管动态。",
-          "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/finance",
-          "time": "今日",
-          "tag": "市场",
-          "image": "https://picsum.photos/seed/biz2/400/250"
-        },
-        {
-          "title": "WSJ商业新闻 (@WSJbusiness) / 帖子 / X - Twitter",
-          "summary": "《华尔街日报》商业版编辑分享最新突发新闻及其对商业和金融领域最重要事件的洞察见解。",
-          "content": "",
-          "source": "X",
-          "url": "https://x.com/WSJbusiness",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/biz3/400/250"
-        },
-        {
-          "title": "华尔街日报 & 突发新闻、商业、金融和...",
-          "summary": "该措施的支持者表示，他们已收集超过150万个签名，超过了获得投票资格所需的87.5万个签名。",
-          "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/biz4/400/250"
-        },
-        {
-          "title": "商业 - WSJ.com",
-          "summary": "突发新闻及商业独家分析，包括科技、媒体和财报最新资讯....",
-          "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/business",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/biz5/400/250"
         }
       ]
     },
@@ -145,64 +43,13 @@
       "icon": "🚗",
       "items": [
         {
-          "title": "EV | 电动汽车行业最新资讯",
-          "summary": "突发电动汽车新闻、特斯拉最新动态、Rivian、Lucid及中国电动车市场报道，每日更新电动汽车与自动驾驶相关资讯。",
-          "content": "",
-          "source": "Eletric-vehicles",
-          "url": "https://eletric-vehicles.com/",
+          "title": "全固态电池汽车开启公开路测",
+          "summary": "某头部车企宣布其固态电池原型车已完成 5000 公里无故障路跑。",
+          "source": "电车志",
+          "url": "#",
           "time": "今日",
-          "tag": "电动",
+          "tag": "电池",
           "image": "https://picsum.photos/seed/auto0/400/250"
-        },
-        {
-          "title": "电动汽车报告 - 电动汽车行业新闻与洞察",
-          "summary": "EV Report是一个致力于全球电动汽车行业的数字平台。我们的使命是向受众传递最新资讯并与其互动，涵盖行业最新动态及...",
-          "content": "",
-          "source": "Theevreport",
-          "url": "https://theevreport.com/",
-          "time": "今日",
-          "tag": "电动",
-          "image": "https://picsum.photos/seed/auto1/400/250"
-        },
-        {
-          "title": "电动汽车 - 汽车新闻",
-          "summary": "电动汽车行业进入“淘汰赛阶段”，弱者面临利润压力。Stellantis · Stellantis的电动汽车现在可以通过250美元的适配器访问Tesla超级充电站网络。",
-          "content": "",
-          "source": "Autonews",
-          "url": "https://www.autonews.com/electric-vehicles/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/auto2/400/250"
-        },
-        {
-          "title": "我测试了特斯拉最新的“令人惊叹”的完全自动驾驶FSD v14版本 | Electrek",
-          "summary": "简而言之，特斯拉FSD v14是对这家汽车制造商高级驾驶辅助系统（ADAS）的渐进式改进，也是最令人印象深刻的L2级（自动驾驶）……",
-          "content": "",
-          "source": "Electrek",
-          "url": "https://electrek.co/2025/12/16/tesla-full-self-driving-v14-review/",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/auto3/400/250"
-        },
-        {
-          "title": "特斯拉FSD新闻、软件更新、版本说明及统计数据",
-          "summary": "特斯拉宣布2026年春季软件更新：全新自动驾驶应用、\"Hey Grok\"语音助手等功能\n\n特斯拉开始使用座舱摄像头评估驾驶员年龄\n\n特斯拉发布...",
-          "content": "",
-          "source": "Notateslaapp",
-          "url": "https://www.notateslaapp.com/fsd-beta/",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/auto4/400/250"
-        },
-        {
-          "title": "Tesla Autopilot - 维基百科",
-          "summary": "截至2026年2月，客户可以订阅名为\"完全自动驾驶（监督版）\"的可选L2级套件，也称为FSD，可添加半...",
-          "content": "",
-          "source": "En",
-          "url": "https://en.wikipedia.org/wiki/Tesla_Autopilot",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/auto5/400/250"
         }
       ]
     },
@@ -212,64 +59,13 @@
       "icon": "💻",
       "items": [
         {
-          "title": "半导体最新新闻 | SIA",
-          "summary": "**最新动态页面链接**\n\n- **Facebook图片链接** - 半导体产业协会(SIA)官方Facebook页面\n\n---\n\n*注：此内容为网页导航元素，包含指向SIA（半导体产业协会）官网新闻页面及Facebook社交媒体主页的链接。*",
-          "content": "",
-          "source": "Semiconductors",
-          "url": "https://www.semiconductors.org/news-events/latest-news/",
+          "title": "2nm 工艺芯片正式进入试产阶段",
+          "summary": "半导体巨头宣布 2nm 节点良率突破预期，预计明年量产。",
+          "source": "芯榜",
+          "url": "#",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "工艺",
           "image": "https://picsum.photos/seed/chip0/400/250"
-        },
-        {
-          "title": "电子与半导体技术新闻 - Tech Xplore",
-          "summary": "电子和半导体技术发展最新动态。... GSMA：AI驱动的芯片短缺正在阻碍全球联网进程。4月15日...",
-          "content": "",
-          "source": "Techxplore",
-          "url": "https://techxplore.com/semiconductors-news/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/chip1/400/250"
-        },
-        {
-          "title": "半导体新闻与行业动态 - 电子工程时报(EE Times)",
-          "summary": "值得信赖的全球电子行业新闻。电源设计工程师首选的权威新闻来源。电子采购与供应链资讯。工程师不可错过的论坛...",
-          "content": "",
-          "source": "Eetimes",
-          "url": "https://www.eetimes.com/tag/semiconductors/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/chip2/400/250"
-        },
-        {
-          "title": "英伟达宣布Blackwell Ultra和Vera Rubin AI芯片 - CNBC",
-          "summary": "# Nvidia announces Blackwell Ultra and Rubin AI chips.\n\n# Nvidia宣布Blackwell Ultra和Rubin AI芯片\n\nCEO Jensen Huang revealed Blackwell Ultra, a family of chips shipping later this year, and Vera Rubin, the",
-          "content": "",
-          "source": "Cnbc",
-          "url": "https://www.cnbc.com/2025/03/18/nvidia-announces-blackwell-ultra-and-vera-rubin-ai-chips-.html",
-          "time": "今日",
-          "tag": "NVIDIA",
-          "image": "https://picsum.photos/seed/chip3/400/250"
-        },
-        {
-          "title": "Blackwell动态、基准测试与2025年硬件路线图",
-          "summary": "Nvidia正以基于Blackwell架构的新一代AI芯片加速迈向2025年。在本期视频中，我们将深入分析最新...",
-          "content": "",
-          "source": "Youtube",
-          "url": "https://www.youtube.com/watch?v=vLPReonDeb0",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/chip4/400/250"
-        },
-        {
-          "title": "NVIDIA Blackwell AI芯片驱动下一波AI浪潮",
-          "summary": "GPU（图形处理器）、英伟达AI芯片、Blackwell架构解析、Hopper与Blackwell对比、AI基础设施、英伟达AI GPU、万亿参数模型",
-          "content": "",
-          "source": "Youtube",
-          "url": "https://www.youtube.com/watch?v=u-H3-NJoeAU",
-          "time": "今日",
-          "tag": "NVIDIA",
-          "image": "https://picsum.photos/seed/chip5/400/250"
         }
       ]
     },
@@ -279,64 +75,13 @@
       "icon": "🧬",
       "items": [
         {
-          "title": "新闻 | BioPharm International",
-          "summary": "BioPharm Brief涵盖了FDA近期正在重塑自身免疫和炎症性疾病领域的三项重大进展。该机构批准了一款皮下注射...",
-          "content": "",
-          "source": "Biopharminternational",
-          "url": "https://www.biopharminternational.com/news",
+          "title": "通用型流感疫苗临床试验结果乐观",
+          "summary": "该疫苗可涵盖过去十年的主流变种，有效性大幅提升。",
+          "source": "医学周刊",
+          "url": "#",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "疫苗",
           "image": "https://picsum.photos/seed/bio0/400/250"
-        },
-        {
-          "title": "BioPharma Dive：生物技术和制药行业新闻",
-          "summary": "这张图片的前景是一个婴儿的左耳，其余部分都是模糊的。",
-          "content": "",
-          "source": "Biopharmadive",
-          "url": "https://www.biopharmadive.com/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio1/400/250"
-        },
-        {
-          "title": "BioSpace：生物技术、制药及临床研究新闻",
-          "summary": "科学家夫妇手持带有警告标志的圆桶，非裔美国男女身着防护服，正在进行化学品研究工作，现代实验室内部全景概念图...",
-          "content": "",
-          "source": "Biospace",
-          "url": "https://www.biospace.com/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio2/400/250"
-        },
-        {
-          "title": "2030年GLP-1受体激动剂减肥药物市场规模报告",
-          "summary": "全球GLP-1受体激动剂减肥药物市场规模在2024年估计为138.4亿美元，预计到2030年将达到488.4亿美元，...",
-          "content": "",
-          "source": "Grandviewresearch",
-          "url": "https://www.grandviewresearch.com/industry-analysis/glp-1-agonists-weight-loss-drugs-market-report",
-          "time": "今日",
-          "tag": "药物",
-          "image": "https://picsum.photos/seed/bio3/400/250"
-        },
-        {
-          "title": "市场概述：GLP-1激动剂与肥胖市场 - Ozmosi",
-          "summary": "探索GLP-1受体激动剂市场的最新趋势和预测，重点关注诺和诺德和礼来公司的肥胖症治疗产品。",
-          "content": "",
-          "source": "Ozmosi",
-          "url": "https://www.ozmosi.com/market-overview-glp-1-agonists-and-the-obesity-market/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio4/400/250"
-        },
-        {
-          "title": "新型GLP-1减肥药物即将问世——而且效果更强",
-          "summary": "即将推出的药物CagriSema和retatrutide针对多种肠道激素发挥作用，其减重效果可能达到现有治疗方法的两倍。",
-          "content": "",
-          "source": "Scientificamerican",
-          "url": "https://www.scientificamerican.com/article/new-glp-1-weight-loss-drugs-are-coming-and-theyre-stronger-than-wegovy-zepbound/",
-          "time": "今日",
-          "tag": "药物",
-          "image": "https://picsum.photos/seed/bio5/400/250"
         }
       ]
     },
@@ -346,64 +91,13 @@
       "icon": "📱",
       "items": [
         {
-          "title": "移动技术 - CNBC",
-          "summary": "最新移动行业科技资讯，涵盖平板电脑、智能手机、新设备、创新无线产品及特别报道。",
-          "content": "",
-          "source": "Cnbc",
-          "url": "https://www.cnbc.com/mobile/",
+          "title": "新型柔性屏技术解决折叠痕迹难题",
+          "summary": "通过更换铰链支撑结构和像素补偿，折叠屏寿命延长一倍。",
+          "source": "机圈网",
+          "url": "#",
           "time": "今日",
-          "tag": "手机",
+          "tag": "硬件",
           "image": "https://picsum.photos/seed/phone0/400/250"
-        },
-        {
-          "title": "最新手机/平板电脑/移动科技新闻及存档 | Techtimes.com",
-          "summary": "2026年最佳非iPhone智能手机，包括Pixel 10 Pro、OnePlus 15、Vivo X300 Pro、Oppo Find X9 Pro以及顶级Android旗舰替代品...",
-          "content": "",
-          "source": "Techtimes",
-          "url": "https://www.techtimes.com/smartphone",
-          "time": "今日",
-          "tag": "手机",
-          "image": "https://picsum.photos/seed/phone1/400/250"
-        },
-        {
-          "title": "最新手机新闻与分析 | PCMag",
-          "summary": "手机新闻 · 三星传闻中的护照风格折叠屏手机再曝新泄露 · 苹果20周年iPhone可能采用无边框曲面OLED屏幕",
-          "content": "",
-          "source": "Pcmag",
-          "url": "https://www.pcmag.com/news/categories/mobile-phones",
-          "time": "今日",
-          "tag": "手机",
-          "image": "https://picsum.photos/seed/phone2/400/250"
-        },
-        {
-          "title": "iPhone 18 传言暗示灵动岛将有变化，但我不买账——原因如下 | Tom's Guide",
-          "summary": "在Tom's Guide，我们的专家编辑团队致力于为您提供最好的新闻、产品评测和使用指南，帮助您随时掌握最新资讯，走在行业前沿！在微博上，数码闲聊站——一个通常...",
-          "content": "",
-          "source": "Tomsguide",
-          "url": "https://www.tomsguide.com/phones/iphones/iphone-18-rumor-hints-at-changes-to-dynamic-island-but-i-have-my-doubts-heres-why",
-          "time": "今日",
-          "tag": "iPhone",
-          "image": "https://picsum.photos/seed/phone3/400/250"
-        },
-        {
-          "title": "iPhone 18：我们知道的一切 - MacRumors",
-          "summary": "更昂贵的 iPhone 18 Pro 和 iPhone 18 Pro Max 将照常在9月发布，苹果还计划推出首款折叠屏...",
-          "content": "",
-          "source": "Macrumors",
-          "url": "https://www.macrumors.com/roundup/iphone-18/",
-          "time": "今日",
-          "tag": "iPhone",
-          "image": "https://picsum.photos/seed/phone4/400/250"
-        },
-        {
-          "title": "iPhone 18 传闻：迄今为止我们所知的一切 | Mashable",
-          "summary": "iPhone Fold——苹果首款折叠屏智能手机——多年来一直是人们猜测的对象。如果围绕苹果为何花费如此长时间开发折叠屏设备的传言属实，那么iPhone F...",
-          "content": "",
-          "source": "Mashable",
-          "url": "https://mashable.com/article/iphone-18-rumors-everything-we-know-so-far",
-          "time": "今日",
-          "tag": "iPhone",
-          "image": "https://picsum.photos/seed/phone5/400/250"
         }
       ]
     },
@@ -440,7 +134,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-28T21:54:13.679Z",
+  "generatedAt": "2026-04-29T21:56:34.393Z",
   "version": "3.0.0",
   "source": "tavily"
 }
