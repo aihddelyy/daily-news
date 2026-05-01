@@ -1,39 +1,55 @@
 {
-  "date": "2026年5月1日",
-  "overallSummary": "多领域技术突破叠加货币政策转向宽松预期，全球科技创新与金融环境进入新一轮周期。",
+  "date": "2026-05-02",
+  "overallSummary": "AI行业巨头微软、谷歌、OpenAI、Anthropic联合成立Agentic AI联盟推动开源标准，标普500指数创新高显示市场信心强劲。",
   "categories": [
     {
-      "name": "AI行业",
-      "categorySummary": "通用人工智能治理框架正式启动，评估标准体系建设迈出关键一步。",
+      "name": "AI行业动态",
+      "categorySummary": "AI巨头联合成立代理联盟，微软OpenAI重组为更多合作打开大门。",
       "keyPoints": [
-        "AGI评估标准委员会成立",
-        "多维评估框架落地",
-        "AI治理进入规范化阶段"
+        "微软OpenAI重组获更多投票权，Anthropic和Google或加入合作",
+        "四大AI巨头联合成立Agentic AI联盟，由Linux基金会支持制定开源标准",
+        "OpenAI、Anthropic、Google联手打造F/ai创业加速器"
       ],
       "news": [
         {
-          "title": "AGI评估标准委员会今日成立",
-          "summary": "为通用人工智能提供客观的多维评估框架",
+          "title": "微软-OpenAI重组为Anthropic和Google打开合作大��",
+          "summary": "微软将获得更多投票影响力及董事会席位，Anthropic和Google可在云计算需求方面与OpenAI建立合作。",
           "keyInsights": [
-            "AI治理从被动监管转为主动标准制定"
+            "AI行业竞争格局正在从对立走向合作"
+          ]
+        },
+        {
+          "title": "四大AI巨头联合组建Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI、Anthropic联合成立AI代理联盟，由Linux基金会支持，将为AI代理制定开源标准。",
+          "keyInsights": [
+            "开源标准将加速AI代理技术统一"
+          ]
+        },
+        {
+          "title": "OpenAI、Anthropic和Google联手打造AI创业加速器",
+          "summary": "Meta、Microsoft和Sequoia参与F/ai创业加速器项目，为AI创业公司提供支持。",
+          "keyInsights": [
+            "大厂联合投资AI创业生态"
           ]
         }
-      ]
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
     },
     {
       "name": "商业财经",
-      "categorySummary": "美联储释放降息信号，流动性宽松周期临近。",
+      "categorySummary": "标普500创新高，AI驱动的经济增长预期持续强劲。",
       "keyPoints": [
-        "多数官员支持逐步恢复中性利率",
-        "下季度降息路径明确",
-        "流动性环境边际改善"
+        "标普500指数升至历史新高",
+        "油价下跌、苹果股价大涨为市场主要动力",
+        "AI相关投资持续受到市场追捧"
       ],
       "news": [
         {
-          "title": "美联储暗示下季度降息路径",
-          "summary": "议息纪要显示多数官员支持逐步恢复中性利率",
+          "title": "标普500指数创新高",
+          "summary": "标普500在油价下跌、苹果股价大涨背景下升至历史新高，开启5月交易。",
           "keyInsights": [
-            "全球资本成本压力将逐步缓解"
+            "科技股仍是市场核心驱动力"
           ]
         }
       ],
@@ -42,18 +58,25 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "全固态电池技术实现里程碑式突破，电动车续航痛点有望彻底解决。",
+      "categorySummary": "特斯拉FSD持续进化，机器人出租车在美国各地推广。",
       "keyPoints": [
-        "固态电池原型车完成5000公里路跑",
-        "无故障性能验证",
-        "量产进程加速"
+        "特斯拉FSD v14是最令人印象深刻的L2级系统",
+        "特斯拉发布2026年春季软件更新，全新自动驾驶应用",
+        "机器人出租车正在美国各地推广"
       ],
       "news": [
         {
-          "title": "全固态电池汽车开启公开路测",
-          "summary": "头部车企固态电池原型车完成5000公里无故障路跑",
+          "title": "特斯拉FSD v14测试体验",
+          "summary": "特斯拉FSD v14是高级驾驶辅助系统的增量改进，也是目前最令人印象深刻的L2级系统。",
           "keyInsights": [
-            "电动车安全性与续航双重瓶颈获突破"
+            "L2级自动驾驶技术持续精进"
+          ]
+        },
+        {
+          "title": "特斯拉2026年春季软件更新",
+          "summary": "全新自动驾驶应用\"Hey Tesla\"语音控制功能发布。",
+          "keyInsights": [
+            "语音交互将成为智驾新入口"
           ]
         }
       ],
@@ -62,18 +85,18 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "2nm工艺进入试产阶段，先进制程竞争格局生变。",
+      "categorySummary": "Nvidia发布Blackwell Ultra和Vera Rubin新一代AI芯片。",
       "keyPoints": [
-        "2nm节点良率超预期",
-        "明年实现量产",
-        "制程竞赛进入新阶段"
+        "Blackwell Ultra将于今年晚些时候发货",
+        "Vera Rubin是Nvidia���一代GPU",
+        "新芯片能效提升25倍，成本更低"
       ],
       "news": [
         {
-          "title": "2nm工艺芯片正式进入试产阶段",
-          "summary": "半导体巨头宣布2nm节点良率突破预期，预计明年量产",
+          "title": "Nvidia发布Blackwell Ultra和Rubin AI芯片",
+          "summary": "黄仁勋发布Blackwell Ultra系列和Vera Rubin下一代GPU，Blackwell Ultra能效提升25倍。",
           "keyInsights": [
-            "高端芯片产能格局将重塑"
+            "AI芯片算力竞赛持续升温"
           ]
         }
       ],
@@ -82,18 +105,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "通用型流感疫苗临床数据乐观，疫苗技术迎来范式升级。",
+      "categorySummary": "GLP-1减肥药市场高速增长，新型减重药物效果翻倍。",
       "keyPoints": [
-        "覆盖十年主流变种",
-        "有效性大幅提升",
-        "接种频率有望降低"
+        "GLP-1减肥药市场2024年138.4亿美元，预计2030年达488.4亿美元",
+        "复宏汉霖帕妥珠单抗生物类似药获欧盟批准",
+        "辉瑞Elrexfio治疗多发性骨髓瘤三期临床成功"
       ],
       "news": [
         {
-          "title": "通用型流感疫苗临床试验结果乐观",
-          "summary": "疫苗可涵盖过去十年主流变种，有效性大幅提升",
+          "title": "GLP-1减肥药市场规模预测",
+          "summary": "全球GLP-1受体激动剂减肥药市场将从138.4亿美元增长至488.4亿美元。",
           "keyInsights": [
-            "季节性流感防控体系将根本性改变"
+            "代谢疾病药物赛道持续火热"
+          ]
+        },
+        {
+          "title": "新型GLP-1减肥药效果翻倍",
+          "summary": "CagriSema和retatrutide靶向多种肠道激素，可能产生两倍于现有药物的减重效果。",
+          "keyInsights": [
+            "多靶点药物将成为减重治疗新方向"
           ]
         }
       ],
@@ -101,37 +131,39 @@
       "icon": "🧬"
     },
     {
-      "name": "消费电子",
-      "categorySummary": "折叠屏技术痛点获突破，柔性显示进入成熟期。",
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro配色和相机配置泄露，四种颜色可选。",
       "keyPoints": [
-        "折叠痕迹难题解决",
-        "铰链结构优化",
-        "屏幕寿命延长一倍"
+        "iPhone 18 Pro将有四种颜色可选，包括红色",
+        "韩国媒体曝光iPhone 18摄像头配置",
+        "iPhone Fold折叠屏手机信息同时泄露"
       ],
       "news": [
         {
-          "title": "新型柔性屏技术解决折叠痕迹难题",
-          "summary": "通过更换铰链支撑和像素补偿，折叠屏寿命延长一倍",
+          "title": "iPhone 18 Pro配色泄露",
+          "summary": "iPhone 18 Pro四种配色可选，包括红色；iPhone 18相机配置在最新泄露中曝光。",
           "keyInsights": [
-            "折叠屏手机实用性大幅提升"
+            "苹果产品周期进入泄露常态化阶段"
           ]
         }
-      ]
+      ],
+      "id": "smartphone",
+      "icon": "📱"
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "3A大作刷新销售纪录，沉浸式体验定义新标杆。",
+      "categorySummary": "13款AAA游戏即将发售，Xbox更新安全游戏承诺。",
       "keyPoints": [
-        "首日销量破千万",
-        "画面与体验极致",
-        "单机游戏天花板刷新"
+        "13款AAA游戏即将发售，或将影响行业格局",
+        "Xbox与Nintendo和Sony合作推出更安全游戏承诺",
+        "ROG Ally发布新更新，游戏库聚合功能增强"
       ],
       "news": [
         {
-          "title": "某3A大作发售首日销量破千万",
-          "summary": "凭借极致画面和沉浸感，刷新单机游戏销售记录",
+          "title": "13款即将发售的AAA游戏",
+          "summary": "AAA游戏继续推动行业发展，新作品力求更宏大创意、更先进技术。",
           "keyInsights": [
-            "互动娱乐进入体验为王时代"
+            "大型游戏仍是娱乐产业核心驱动力"
           ]
         }
       ],
@@ -140,18 +172,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "超大型海上风机并网，清洁能源装备功率突破新纪录。",
+      "categorySummary": "风能和太阳能发电量首次超越煤炭，绿色氢能成为长期储能关键。",
       "keyPoints": [
-        "单机容量突破25MW",
-        "超大型风机顺利并网",
-        "清洁能源装备升级"
+        "2024年太阳能和风能发电量占17%，超越煤炭的15%",
+        "绿色氢能为长期储能和季节性储能提供替代方案",
+        "绿色氢电池储能项目持续发展"
       ],
       "news": [
         {
-          "title": "海上风电单机容量突破25MW",
-          "summary": "超大型海上风机顺利并网，标志清洁能源装备进入新纪元",
+          "title": "风能和太阳能发电量首超煤炭",
+          "summary": "2024年太阳能和风能合计发电占全国电力结构17%，超越仅占15%的煤炭。",
           "keyInsights": [
-            "海风发电成本将进一步下降"
+            "清洁能源替代煤炭进程加速"
+          ]
+        },
+        {
+          "title": "绿色氢能成为长期储能关键",
+          "summary": "绿色氢气通过电解工艺生产，为长期储能和季节性储能提供替代方案。",
+          "keyInsights": [
+            "氢储能补齐可再生能源发展短板"
           ]
         }
       ],
