@@ -1,35 +1,30 @@
 {
-  "date": "2026-05-03",
-  "overallSummary": "AI行业整合加速，微软-OpenAI重组为大厂合作创造新格局；英伟达发布Blackwell Ultra芯片加剧算力竞争；FDA批准新型减肥药推动GLP-1市场扩张。",
+  "date": "2026年5月4日星期一",
+  "overallSummary": "AI行业深化整合，Microsoft-OpenAI协议重构开放竞争格局，算力投资持续升温；全球市场在地缘风险中寻求平衡，减肥药市场与清洁能源加速扩张。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI行业进入整合期，大厂间竞争与合作并存，算力基础设施成为核心战场。",
+      "categorySummary": "算力投资成AI核心竞争优势，Microsoft-OpenAI协议重构，巨头联合推出创业加速器。",
       "keyPoints": [
-        "微软-OpenAI重组为Anthropic和Google创造机会",
-        "OpenAI、Anthropic、Google联手推出AI创业加速器",
-        "美国共和党议员呼吁对中国AI芯片采取极端保护措施"
+        "谷歌股价飙升验证算力即竞争优势",
+        "Microsoft-OpenAI协议调整向Anthropic和Google开放",
+        "OpenAI、Anthropic、Google联手推出AI创业加速器"
       ],
       "news": [
         {
-          "title": "微软-OpenAI重组为Anthropic和Google创造机���",
-          "summary": "微软与OpenAI关系调整，Google加大对Anthropic投资，三大AI公司格局生变。",
+          "title": "Microsoft-OpenAI重组为Anthropic和Google打开��门",
+          "summary": "Microsoft同意修改数十亿美元合作协议，OpenAI获更大运营自主权，Anthropic和Google获合作机会。",
           "keyInsights": [
-            "云端巨头竞逐AI业务，竞争格局重塑"
+            "缓解反垄断监管压力",
+            "AI行业竞争格局重塑"
           ]
         },
         {
-          "title": "OpenAI、Anthropic和Google联手打造AI创业加速器",
-          "summary": "科技巨头联合Meta、Microsoft、Sequoia推出F/AI创业加速器项目。",
+          "title": "Nvidia发布Blackwell Ultra和Rubin AI芯片",
+          "summary": "黄仁勋发布Blackwell Ultra系列芯片将于年底发货，Rubin架构同步亮相。",
           "keyInsights": [
-            "AI生态建设成为行业共识"
-          ]
-        },
-        {
-          "title": "Sam Altman的算力赌注正在得到回报",
-          "summary": "Sam Altman在算力基础设施上的投资开始产生回报，但成本压力也在上升。",
-          "keyInsights": [
-            "AI基础设施投入持续加大"
+            "AI推理芯片性能再升级",
+            "数据中心AI芯片收入将占行业50%"
           ]
         }
       ],
@@ -37,26 +32,69 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达新一代AI芯片发布，算力竞争白热化，中国半导体自主化进程持续。",
+      "name": "商业财经",
+      "categorySummary": "地缘风险下市场分化，澳大利亚日本股市无视中东紧张局势，美国债务突破里程碑。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "Blackwell架构专为AI工厂和超大规模推理设计",
-        "中国芯片代工厂受益于半导体自力更生战略"
+        "澳大利亚日本股市上涨，无视伊朗战争担忧",
+        "美国债务突破重要里程碑",
+        "伊朗局势推动美原油出口创纪录"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Blackwell Ultra将���今年晚些时候发货，Vera Rubin为下一代GPU。",
+          "title": "全球市场无视伊朗战争升级担忧",
+          "summary": "澳大利亚和日本股市上涨，油轮涌向墨西哥湾，美国原油出口飙升。",
           "keyInsights": [
-            "黄仁勋称其为AI工厂核心引擎"
+            "能源市场受益于地缘紧张",
+            "亚太市场保持韧性"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD v14实现增量升级，电池技术多元化趋势明显，固态钠离子电池加速商业化。",
+      "keyPoints": [
+        "特斯拉FSD v14为最令人印象深刻的L2级辅助系统",
+        "MG将半固态电池引入欧洲",
+        "宁德时代押注钠离子电池"
+      ],
+      "news": [
+        {
+          "title": "特斯拉FSD v14测试：增量改进",
+          "summary": "特斯拉FSD v14为高级驾驶辅助系统增量改进，L2级性能最佳。",
+          "keyInsights": [
+            "自动驾驶技术稳步演进",
+            "监管压力下功能迭代保守"
           ]
         },
         {
-          "title": "NVIDIA Blackwell：专为超大规模AI推理而生",
-          "summary": "Blackwell架构为AI工厂设计，驱动最大规模AI推理工作负载。",
+          "title": "Rivian CEO薪酬4.03亿美元",
+          "summary": "本周电动车头条：MG固态电池、宁德时代钠电、Rivian高管高薪。",
           "keyInsights": [
-            "AI芯片进入新纪元"
+            "电动车企高管薪酬引发争议"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "AI驱动芯片需求激增，Nvidia新品持续巩固领先地位，数据中心AI芯片贡献将达行业收入一半。",
+      "keyPoints": [
+        "Nvidia Blackwell Ultra和Rubin芯片发布",
+        "AI芯片到2026年将贡献行业收入约50%",
+        "AI驱动芯片短缺阻碍全球联网进程"
+      ],
+      "news": [
+        {
+          "title": "Nvidia扩展Blackwell架构服务器",
+          "summary": "Nvidia为Blackwell服务器新增AI和机器人功能，提供更高性能。",
+          "keyInsights": [
+            "芯片架构向AI工厂倾斜",
+            "推理能力成为核心竞争点"
           ]
         }
       ],
@@ -65,32 +103,26 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，新型药物减重效果翻倍，AI加速药物研发。",
+      "categorySummary": "GLP-1减肥药市场规模高速增长，新型多靶点药物减重效果或翻倍，行业获资本持续涌入。",
       "keyPoints": [
-        "GLP-1减肥药市场规模预计从138亿增至488亿美元",
-        "新型药物CagriSema和retatrutide减重效果或为现有两倍",
-        "FDA批准Auvelity用于阿尔茨海默病治疗"
+        "GLP-1减肥药市场从138亿美元增至488亿美元",
+        "CagriSema和retatrutide减重效果或达当前两倍",
+        "2026年价格下降和老年人资格扩展推动增长"
       ],
       "news": [
         {
-          "title": "新型GLP-1减肥药物即将问世",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果可能翻倍。",
+          "title": "新型GLP-1减肥药即将问世",
+          "summary": "CagriSema和retatrutide针对多种肠道激素，减重效果可能翻倍。",
           "keyInsights": [
-            "减肥药疗效大幅提升"
+            "多靶点药物是下一代方向",
+            "减重效果竞争白热化"
           ]
         },
         {
-          "title": "FDA批准Auvelity用于阿尔茨海默病",
-          "summary": "Axsome Therapeutics的AXS-05获批用于治疗阿尔茨海默病。",
+          "title": "辉瑞Elrexfio多发性骨髓瘤三期临床成功",
+          "summary": "复宏汉霖与欧加农帕妥珠单抗生物类似药获欧盟批准。",
           "keyInsights": [
-            "神经退行性疾病治疗有新突破"
-          ]
-        },
-        {
-          "title": "AI驱动临床试验平台获融资",
-          "summary": "TrialClinIQ获15万美元种子投资，致力于推进健康公平。",
-          "keyInsights": [
-            "AI赋能药物研发趋势明显"
+            "生物类似药国际化加速"
           ]
         }
       ],
@@ -98,60 +130,39 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18系列信息泄露，折叠屏iPhone首次确认，配色和相机成亮点。",
+      "name": "智能手���",
+      "categorySummary": "iPhone 20周年改版传闻升温，首款折叠屏iPhone 18 Pro Max预计9月发布。",
       "keyPoints": [
-        "iPhone 18 Pro将提供四种颜色包括红色",
-        "苹果首款折叠屏手机预计9月发布",
-        "iPhone 18配色和摄像头信息曝光"
+        "iPhone 20周年设计可能延续至Pro系列",
+        "iPhone 18 Pro传言：折叠屏、新颜色、Face ID升级",
+        "iPhone 18颜色和摄像头配置泄露"
       ],
       "news": [
         {
-          "title": "iPhone 18配色与相机配置泄露",
-          "summary": "韩国媒体曝光iPhone 18配色和摄像头详细信息。",
+          "title": "iPhone 18传言汇总：5个最大泄露",
+          "summary": "iPhone 18 Pro和Pro Max将于9月发布，首款折叠屏同期亮相。",
           "keyInsights": [
-            "20周年iPhone设计信息逐步确认"
-          ]
-        },
-        {
-          "title": "Apple iPhone 18 Pro颜色选项曝光",
-          "summary": "Pro版本提供四种颜色，包括标志性的红色选项。",
-          "keyInsights": [
-            "苹果继续深化色彩策略"
-          ]
-        },
-        {
-          "title": "iPhone Fold：首款折叠屏iPhone",
-          "summary": "更昂贵的iPhone 18 Pro和Pro Max将于9月发布，折叠屏同步推出。",
-          "keyInsights": [
-            "苹果正式���军折叠屏市场"
+            "苹果正式进军折叠屏市场",
+            "20周年设计语言将普及"
           ]
         }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
+      ]
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏主导地位削弱，独立游戏崛起，Xbox游戏登录Switch成趋势。",
+      "categorySummary": "AAA游戏开发成本突破3亿美元，但收入结构分化，非头部游戏贡献56%PC收入。",
       "keyPoints": [
-        "56%的PC游戏收入流向排名前20以外的游戏",
-        "Xbox将《South of Midnight》引入Switch 2",
-        "任天堂、索尼和Xbox更新安全游戏原则"
+        "AAA游戏开发成本现已超过3亿美元",
+        "56%的PC游戏收入来自Top 20以外游戏",
+        "Xbox将South of Midnight引入Switch 2"
       ],
       "news": [
         {
-          "title": "AAA游戏主导地位正在削弱",
-          "summary": "Newzoo数据显示大部分收入流向小型游戏，独立游戏崛起。",
+          "title": "知情人士：AAA游戏开发成本超3亿美元",
+          "summary": "AAA游戏预算持续攀升，开发成本已超3亿美元。",
           "keyInsights": [
-            "游戏行业格局正在改变"
-          ]
-        },
-        {
-          "title": "Xbox游戏登录Switch 2",
-          "summary": "Xbox本月将《South of Midnight》带到Switch 2平台。",
-          "keyInsights": [
-            "主机平台壁垒逐渐消融"
+            "游戏行业面临成本危机",
+            "独立游戏市场机会增大"
           ]
         }
       ],
@@ -159,53 +170,20 @@
       "icon": "🎮"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续迭代，美国EV市场稳健增长，韩国测试获好评。",
-      "keyPoints": [
-        "美国Q1电动汽车销量增长11%至近30万辆",
-        "特斯拉FSD 2026春季更新发布全新自动驾驶应用",
-        "特斯拉FSD在韩国真实测试中获得高度评价"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD在韩国测试获高度评价",
-          "summary": "特斯拉FSD监督版在韩国真实自动驾驶测试中表现优异。",
-          "keyInsights": [
-            "FSD国际认可度提升"
-          ]
-        },
-        {
-          "title": "美国Q1 EV销量增长11%",
-          "summary": "截至3月美国新售出近30万辆电动汽车，较去年同期增长11%。",
-          "keyInsights": [
-            "市场增长稳健但前路仍不确定"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "环保能源",
-      "categorySummary": "地缘政治因素意外推动清洁能源转型，太阳能-绿氢储能成为新方向。",
+      "categorySummary": "清洁能源革命加速，太阳能风能装机创纪录，绿色氢能成为储能新方向。",
       "keyPoints": [
-        "伊朗战争加速全球清洁能源转型",
-        "太阳能与绿氢结合成为新型储能方案",
-        "PJM互联队列即将重新启动"
+        "太阳能和风能装机创纪录增长",
+        "电池储能规模持续扩大",
+        "非洲手机信号塔转向太阳能应对柴油成本"
       ],
       "news": [
         {
-          "title": "联合国：伊朗战争加速清洁能源转型",
-          "summary": "联合国气候负责人表示地区冲突推动可再生能源发展。",
+          "title": "能源革命不可阻挡：纪录太阳能和风能",
+          "summary": "可再生能源电力扩张、电池储能增长和清洁能源成为主流。",
           "keyInsights": [
-            "地缘政治影响能源格局"
-          ]
-        },
-        {
-          "title": "太阳能电池绿氢：新能源储存新纪元",
-          "summary": "太阳能-绿氢系统将太阳能转化为氢气储能，解决间歇性问题。",
-          "keyInsights": [
-            "绿色氢能成为关键储能技术"
+            "化石能源替代加速",
+            "新兴市场清洁能源需求旺盛"
           ]
         }
       ],
