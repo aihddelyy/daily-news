@@ -1,38 +1,35 @@
 {
-  "date": "2026年5月6日星期三",
-  "overallSummary": "AI行业迎来重大整合潮，微软-OpenAI协议重组为竞争对手创造机会，同时多家AI巨头联合成立Agentic AI联盟；NVIDIA发布新一代AI芯片加速算力竞争。",
+  "date": "2026-05-07",
+  "overallSummary": "AI监管争议升温，参议院对科技巨头AI合作展开反垄断调查；英伟达发布Blackwell Ultra和Vera Rubin新一代AI芯片；本田搁置150亿美元电动车投资，比亚迪则成为英国最畅销电动车品牌。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI行业竞争格局重塑，多家巨头联合推动行业标准化与创业生态建设。",
+      "categorySummary": "AI智能体加速替代人类工作，监管层面反垄断审查升温。",
       "keyPoints": [
-        "微软-OpenAI协议重组可能削弱独家绑定，为Anthropic和Google创造合作机会",
-        "OpenAI、Anthropic、Google等联手推出F/ai创业加速器",
-        "四大AI巨头组建Agentic AI联盟，由Linux Foundation支持制定开源标准"
+        "AI智能体正替代律师完成更多工作",
+        "参议员对Google-Anthropic、Microsoft-OpenAI合作发起反垄断调查",
+        "微软与OpenAI协议重写，竞争格局或将重构"
       ],
       "news": [
         {
-          "title": "微软-OpenAI重写协议为Anthropic和Google打开大门",
-          "summary": "微软与OpenAI正谈判新协议，可能减少独家依赖，为竞争对手创造机遇。",
+          "title": "Harvey CEO称AI智能体���接律师工作",
+          "summary": "Harvey CEO表示AI正承担更多人类律师任务。",
           "keyInsights": [
-            "协议将重塑AI行业竞争格局",
-            "大型企业客户可能转向多元化供应商策略"
+            "法律行业成AI替代突破口"
           ]
         },
         {
-          "title": "OpenAI、Anthropic和Google联手推出AI创业加速器",
-          "summary": "多家AI领军企业联合Meta、Microsoft、Sequoia在巴黎推出F/ai创业加速器项目。",
+          "title": "参议员就反垄断审查Google-Anthropic交易",
+          "summary": "沃伦、怀登就AI初创合作发起正式调查。",
           "keyInsights": [
-            "巨头联手培育AI创业生态",
-            "巴黎成为AI创业新中心"
+            "科技与AI初创合作面临监管压力"
           ]
         },
         {
-          "title": "微软、谷歌、OpenAI和Anthropic组建Agentic AI联盟",
-          "summary": "四大AI公司联合Linux Foundation推动AI代理开源标准制定。",
+          "title": "微软OpenAI重写协议为Anthropic和Google开门",
+          "summary": "协议变更打破原有排他性合作格局。",
           "keyInsights": [
-            "行业标准化进程加速",
-            "开源生态成为合作重点"
+            "AI领域竞争格局重新洗牌"
           ]
         }
       ],
@@ -40,65 +37,33 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "综合财经媒体聚焦全球市场动态，提供股市、债券及加密货币实时资讯。",
-      "keyPoints": [
-        "全球股票市场持续波动",
-        "加密货币市场关注度提升",
-        "企业ESG治理成为投资焦点"
-      ],
-      "news": [
-        {
-          "title": "国际商务与全球股票市场分析",
-          "summary": "CNBC提供美国市场、加密货币、债券等实时行情与分析。",
-          "keyInsights": [
-            "市场波动性持续",
-            "投资者寻求多元化配置"
-          ]
-        },
-        {
-          "title": "华尔街日报商业资讯",
-          "summary": "突发新闻及商业独家分析，涵盖科技、媒体和财报领域。",
-          "keyInsights": [
-            "科技行业持续受关注",
-            "财报季影响市场情绪"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "电动汽车市场稳步增长，特斯拉FSD持续迭代升级，电池技术呈现多元化趋势。",
+      "categorySummary": "传统车企调整电动化策略，中国品牌海外表现强劲。",
       "keyPoints": [
-        "美国Q1电动汽车销量近30万辆，同比增长11%",
-        "特斯拉FSD v14.3正式推送，停车预测功能改进",
-        "MG将半固态电池引入欧洲，宁德时代押注钠离子电池"
+        "本田搁置150亿美元加拿大电动车投资",
+        "比亚迪成英国最畅销电动车品牌",
+        "特斯拉FSD v14推送，停车预测功能升级"
       ],
       "news": [
         {
-          "title": "美国电动汽车销量增长11%但前景不确定",
-          "summary": "截至3月美国售出近30万辆电动汽车，但市场面临挑战。",
+          "title": "本田搁置150亿美元加拿大电动车投资",
+          "summary": "本田全面改革战略，搁置大型电动车投资。",
           "keyInsights": [
-            "增长势头良好",
-            "未来发展仍有不确定性"
+            "传统车企电动化步伐放缓"
           ]
         },
         {
-          "title": "特斯拉FSD v14.3正式��送",
-          "summary": "新版FSD优化停车位置预测功能，地图显示P图标。",
+          "title": "比���迪成英国最畅销电动车品牌",
+          "summary": "2026年1-4月销量12754辆，市场份额超7%。",
           "keyInsights": [
-            "ADAS功能持续进化",
-            "Level 2自动驾驶体验提升"
+            "中国品牌欧洲市场突破"
           ]
         },
         {
-          "title": "本周热门电动车新闻",
-          "summary": "MG引入半固态电池、宁德时代押注钠离子、Rivian CEO薪酬4.03亿美元。",
+          "title": "特斯拉FSD v14推送",
+          "summary": "特斯拉推送FSD v14.3，停车预测功能改进。",
           "keyInsights": [
-            "电池技术多元化",
-            "高管薪酬引发关注"
+            "自动驾驶辅助系统持续迭代"
           ]
         }
       ],
@@ -107,35 +72,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片成为行业核心增长引擎，NVIDIA新一代产品巩固领先地位。",
+      "categorySummary": "英伟达发布新一代AI芯片，算力军备竞赛持续。",
       "keyPoints": [
-        "2026年AI芯片贡献约一半行业收入",
-        "NVIDIA发布Blackwell Ultra和Vera Rubin芯片",
-        "AI和机器人技术成为服务器扩展重点"
+        "英伟达发布Blackwell Ultra，今年晚些时候出货",
+        "Vera Rubin下一代GPU即将推出",
+        "AI驱动芯片短缺影响网络建设"
       ],
       "news": [
         {
-          "title": "NVIDIA发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Blackwell Ultra将于今年晚些时候出货，Vera Rubin为下一代GPU。",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin",
+          "summary": "黄仁勋发布新一代AI芯片系列。",
           "keyInsights": [
-            "算力竞争持续升级",
-            "AI芯片需求强劲"
+            "算力竞争进入新阶段"
           ]
         },
         {
-          "title": "2026年全球半导体行业展望",
-          "summary": "数据中心AI芯片成为市场核心，预计贡献约50%行业收入。",
+          "title": "AI芯片短缺减缓全球联网进程",
+          "summary": "GSMA指出AI驱动芯片短缺影响网络建设。",
           "keyInsights": [
-            "AI驱动芯片增长",
-            "数据中心需求主导市场"
-          ]
-        },
-        {
-          "title": "NVIDIA扩展Blackwell驱动服务器",
-          "summary": "新增AI和机器人技术能力，强化企业级应用。",
-          "keyInsights": [
-            "AI基础设施扩张",
-            "机器人成为新增长点"
+            "芯片供应链成AI发展瓶颈"
           ]
         }
       ],
@@ -144,27 +99,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药物市场高速增长，新型药物减重效果更强劲。",
+      "categorySummary": "GLP-1减肥药市���规模高速增长，新药效果翻倍。",
       "keyPoints": [
-        "GLP-1减肥药市场2024年138亿美元，预计2030年达488亿美元",
-        "CagriSema和retatrutide减重效果可达现有方案两倍",
-        "中枢神经系统癌症精准放射治疗取得进展"
+        "GLP-1减肥药市场2030年将达488亿美元",
+        "CagriSema和retatrutide减重效果达现有两倍",
+        "Chiesi以19亿美元收购Kalvista"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药物市场爆发",
-          "summary": "2024年市场规模138.4亿美元，预计2030年增长至488.4亿美元。",
+          "title": "GLP-1减肥药市场规模将达488亿美元",
+          "summary": "2024年138亿增至2030年488亿美元。",
           "keyInsights": [
-            "市场高速增长",
-            "诺和诺德和礼来主导市场"
+            "代谢药物成医药增长极"
           ]
         },
         {
-          "title": "新型GLP-1减肥药物即将问世且更强效",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素，减重效果翻倍。",
+          "title": "新型GLP-1减肥药效果更强",
+          "summary": "CagriSema和retatrutide靶向多激素，减重翻倍。",
           "keyInsights": [
-            "多靶点药物成为趋势",
-            "减重效果显著提升"
+            "新一代减肥药疗效突破"
           ]
         }
       ],
@@ -173,35 +126,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果iPhone 18 Pro传闻频出，灵动岛可能缩小25%，三星可折叠手机持续领先。",
+      "categorySummary": "iPhone 18 Pro配置信息泄露，配色方案曝光。",
       "keyPoints": [
-        "iPhone 18 Pro灵动岛疑似缩小25%",
-        "三星Galaxy Z Fold领先，可折叠iPhone预计2026年入场",
-        "20周年iPhone可能带来重新设计"
+        "iPhone 18 Pro将提供四种配色，含红色",
+        "屏下Face ID配置传言再起",
+        "摄像头配置成为关注焦点"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro据称原型机泄露",
-          "summary": "灵动岛缩小25%，边框更薄，疑似iPhone 18 Pro原型曝光。",
+          "title": "iPhone 18 Pro配色和摄像头泄露",
+          "summary": "韩媒曝光新机配色及摄像头配置信息。",
           "keyInsights": [
-            "设计微调为主",
-            "灵动岛持续优化"
-          ]
-        },
-        {
-          "title": "iPhone 18 Pro谣言汇总",
-          "summary": "5大泄露消息涉及新配色、Face ID升级等。",
-          "keyInsights": [
-            "2026年iPhone可能小幅升级",
-            "苹果策略趋于保守"
-          ]
-        },
-        {
-          "title": "Galaxy Z Fold还是等待可折叠iPhone",
-          "summary": "三星保持领先，苹果准备2026年入场折叠屏市场。",
-          "keyInsights": [
-            "折叠屏市场即将迎来苹果竞争",
-            "三星先发优势明显"
+            "苹果迭代周期持续推进"
           ]
         }
       ],
@@ -209,65 +145,51 @@
       "icon": "📱"
     },
     {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临挑战，三大主机平台持续��化游戏安全合作。",
+      "name": "游戏娱��",
+      "categorySummary": "AAA游戏质量争议持续，三大平台深化安全合作。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏产业正在衰落",
-        "用户感知AAA游戏止步不前",
-        "Xbox、任天堂、索尼持续更新游戏安全承诺"
+        "前Nexon CEO认为AAA游戏行业正在衰落",
+        "Xbox、索尼、任天堂更新安全游戏承诺",
+        "玩家反馈AAA大作停滞不前"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏产业正在衰落",
-          "summary": "2024-2025年大量AAA游戏令人失望，产业面临品质危机。",
+          "title": "前Nexon CEO认为AAA游戏行业衰落",
+          "summary": "2024-2025年失望AAA游戏数量增多。",
           "keyInsights": [
-            "AAA游戏口碑下滑",
-            "玩家期待值与实际落差大"
+            "高投入不等于高质量"
           ]
         },
         {
-          "title": "Xbox与任天堂、索尼合作更新游戏安全原则",
-          "summary": "三大平台持续推进更安全游戏环境的共同承诺。",
+          "title": "Xbox携手索尼任天堂更新安全游戏承诺",
+          "summary": "三大平台深化玩家安全领域合作。",
           "keyInsights": [
-            "行业安全标准统一",
-            "跨平台合作深化"
+            "跨平台安全标准统一推进"
           ]
         }
-      ],
-      "id": "entertainment",
-      "icon": "🎮"
+      ]
     },
     {
       "name": "环保能源",
-      "categorySummary": "太阳能和风能持续扩张，绿色氢能成为储能新方向，非洲能源转型加速。",
+      "categorySummary": "太阳能和风能储能成本下降，绿色氢能成为新兴方向。",
       "keyPoints": [
-        "可再生能源装机容量创纪录增长",
-        "非洲移动信号塔转向太阳能应对柴油成本",
-        "绿色氢能成为储能新选择"
+        "非洲手机信号塔转向太阳能以降低柴油成本",
+        "IRENA：太阳能风能配储更具成本竞争力",
+        "绿色氢能结合锂电储能成为新方案"
       ],
       "news": [
         {
-          "title": "能源革命势不可挡：创纪录的太阳能和风能",
-          "summary": "风力发���扩张、电池储能增长，清洁能源势头强劲。",
+          "title": "IRENA：太阳能风能配储更具成本竞争力",
+          "summary": "可再生能源储能从经济学角度更可行。",
           "keyInsights": [
-            "可再生能源成本持续下降",
-            "储能技术进步显著"
+            "清洁能源经济性持续改善"
           ]
         },
         {
-          "title": "非洲移动信号塔转向太阳能",
-          "summary": "非洲地区应对柴油成本飙升，太阳能成为替代方案。",
+          "title": "非洲手机信号塔转向太阳能",
+          "summary": "因柴油成本飙升，非洲基础设施转向清洁能源。",
           "keyInsights": [
-            "能源转型加速新兴市场",
-            "太阳能经济性凸显"
-          ]
-        },
-        {
-          "title": "太阳能电池与绿色氢能",
-          "summary": "绿色氢能成为可再生能源存储新方向。",
-          "keyInsights": [
-            "氢能技术成熟度提升",
-            "长时储能问题获解"
+            "能源转型在新兴市场加速"
           ]
         }
       ],
