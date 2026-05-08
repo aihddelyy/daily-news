@@ -1,36 +1,35 @@
 {
-  "date": "2026-05-08",
-  "overallSummary": "AI领域巨头加速竞合，OpenAI/Anthropic/Google/Microsoft联手成立Agentic AI联盟；电动车市场宁德时代押注钠离子电池，特斯拉FSD持续迭代。",
+  "date": "2026-05-09",
+  "overallSummary": "AI行业整合加速，多家巨头联合推出加速器计划；NVIDIA发布新一代AI芯片Blackwell Ultra和Vera Rubin；清洁能源成本优势持续扩大，太阳能和风能竞争力创新高。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI代理应用深化，头部企业从竞争走向标准制定合作",
+      "categorySummary": "AI代理应用深化，主要科技公司加速布局创业生态。",
       "keyPoints": [
-        "AI代理正承担人类律师工作",
-        "OpenAI/Anthropic/Google联手成立AI创业加速器",
-        "微软OpenAI协议重写为竞争者合作打开大门",
-        "Agentic AI联盟获Linux基金会支持制定开源标准"
+        "OpenAI、Anthropic、Google等联合推出F/ai Accelerator加速器",
+        "AI代理正接手更多律师工作，Harvey CEO确认该趋势",
+        "前谷歌CEO批评微软与OpenAI合作"
       ],
       "news": [
         {
-          "title": "Harvey CEO：AI代理承担更多律师工作",
-          "summary": "AI正逐步替代人类律师完成法律任务",
+          "title": "OpenAI、Anthropic、Meta、Microsoft、Google联合推出F/ai Accelerator加速器计划",
+          "summary": "主要AI公司携手创立F/ai加速器，总部位于巴黎。",
           "keyInsights": [
-            "法律行业AI替代加速"
+            "头部AI企业从竞争转向生态共建"
           ]
         },
         {
-          "title": "OpenAI/Anthropic/Google联手AI创业加速器",
-          "summary": "Meta/Microsoft/Sequoia参与巴黎F/ai计划",
+          "title": "Harvey CEO称AI代理正在接手更多人类律师曾经做的工作",
+          "summary": "Harvey CEO确认AI代理承担更多法律工作。",
           "keyInsights": [
-            "巨头联手扶持AI初创"
+            "AI替代专业服务岗位趋势明确"
           ]
         },
         {
-          "title": "Agentic AI联盟成立",
-          "summary": "Linux基金会支持，制定AI代理开源标准",
+          "title": "前谷歌CEO评价微软与OpenAI的合作",
+          "summary": "前谷歌CEO称该合作是\"最愚蠢的想法\"。",
           "keyInsights": [
-            "行业标准化进程启动"
+            "大厂间AI合作模式存争议"
           ]
         }
       ],
@@ -38,34 +37,46 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电池技术路线分化，本田调整EV投资策略",
+      "name": "商业财经",
+      "categorySummary": "AI公司融资活跃，企业ESG关注度持续上升。",
       "keyPoints": [
-        "MG将半固态电池引入欧洲",
-        "宁德时代押注钠离子电池",
-        "本田暂停150亿美元加拿大EV投资",
-        "特斯拉FSD v14.3正式推送"
+        "Anthropic接近与华尔街公司达成15亿美元合资",
+        "大型企业加大ESG变革关注",
+        "全球市场波动持续"
       ],
       "news": [
         {
-          "title": "本周EV要闻：电池技术路线竞争",
-          "summary": "MG欧洲推半固态，宁德押注钠离子",
+          "title": "Anthropic接近与华尔街公司达成15亿美元合资企业",
+          "summary": "Anthropic与华尔街洽谈15亿美元合资。",
           "keyInsights": [
-            "电池技术多元化趋势"
+            "AI公司融资规模持续扩大"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "自动驾驶法规突破，特斯拉FSD技术获实质进展。",
+      "keyPoints": [
+        "联合国自动驾驶新规或为特斯拉FSD进入欧亚铺路",
+        "特斯拉FSD v14实现渐进式改进",
+        "EV行业关注成本与续航"
+      ],
+      "news": [
+        {
+          "title": "联合国自动驾驶新规可能为特斯拉FSD进入欧洲和亚洲市场铺平道路",
+          "summary": "联合国新规助力特斯拉FSD全球扩张。",
+          "keyInsights": [
+            "监管突破为自动驾驶全球落地创造条件"
           ]
         },
         {
-          "title": "本田暂停加拿大EV投资",
-          "summary": "150亿美元投资重新调整战略",
+          "title": "特斯拉最新FSD v14测试：令人惊艳的2级自动驾驶",
+          "summary": "特斯拉FSD v14为目前最先进2级系统。",
           "keyInsights": [
-            "传统车企EV转型遇阻"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14.3发布",
-          "summary": "停车预测功能改进，P图标显示",
-          "keyInsights": [
-            "L2级ADAS持续进化"
+            "L2辅助驾驶能力持续提升"
           ]
         }
       ],
@@ -74,25 +85,32 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "NVIDIA加速迭代，AI芯片格局生变",
+      "categorySummary": "AI芯片性能竞争加剧，NVIDIA发布Blackwell Ultra和Vera Rubin。",
       "keyPoints": [
-        "NVIDIA推出Blackwell Ultra和Vera Rubin",
-        "Blackwell服务器新增AI和机器人功能",
-        "AI芯片短缺延缓世界联网进程"
+        "NVIDIA发布Blackwell Ultra和Vera Rubin芯片",
+        "日美联手推进2纳米芯片量产",
+        "智能制造技术让老旧设备重生"
       ],
       "news": [
         {
-          "title": "NVIDIA发布Blackwell Ultra和Vera Rubin",
-          "summary": "2026年新芯片系列即将出货",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "黄仁勋发布Blackwell Ultra和下一代Vera Rubin GPU。",
           "keyInsights": [
-            "算力军备竞赛持续"
+            "AI芯片性能竞赛持续加速"
           ]
         },
         {
-          "title": "NVIDIA扩展Blackwell服务器",
-          "summary": "新增AI和机器人能力",
+          "title": "NVIDIA扩展Blackwell服务器，新增AI和机器人技术能力",
+          "summary": "NVIDIA扩展Blackwell服务器，涵盖AI和机器人。",
           "keyInsights": [
-            "边缘AI计算加速"
+            "芯片+软件整合方案成趋势"
+          ]
+        },
+        {
+          "title": "日美联手保持半导体竞争领先优势",
+          "summary": "日美建立双边芯片技术伙伴关系，目标2025年实现2nm量产。",
+          "keyInsights": [
+            "地缘政治推动半导体产业链重构"
           ]
         }
       ],
@@ -101,25 +119,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场持续扩容，新药即将上市",
+      "categorySummary": "GLP-1药物持续火热，精准医疗和生物制造有新进展。",
       "keyPoints": [
-        "GLP-1市场预计增至1575亿美元",
-        "CagriSema和retatrutide效果达现有两倍",
-        "Lunai Bioworks 2000万美元收购CNS平台"
+        "GLP-1减肥药在线诊疗服务普及",
+        "赛诺菲退出FDA优先审评项目",
+        "精准MASH疗法研发推进"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂市场展望",
-          "summary": "2023至2035年CAGR为9.7%",
+          "title": "GLP-1减肥药 - 在线诊疗",
+          "summary": "沃尔格林提供49美元在线问诊和GLP-1药物。",
           "keyInsights": [
-            "减肥药赛道高增长"
+            "GLP-1药物可及性提升"
           ]
         },
         {
-          "title": "新型GLP-1减肥药即将问世",
-          "summary": "CagriSema和retatrutide效果更强",
+          "title": "赛诺菲要求退出FDA的CNPV项目用于Tzield扩展申请",
+          "summary": "赛诺菲撤出FDA优先审评项目。",
           "keyInsights": [
-            "多靶点药物成趋势"
+            "药企与监管机构沟通策略调整"
           ]
         }
       ],
@@ -127,26 +145,60 @@
       "icon": "🧬"
     },
     {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏地位削弱，三大平台联合保障游戏安全",
+      "name": "智能手机",
+      "categorySummary": "iPhone 18泄露信息浮现，各厂商备战下一代产品。",
       "keyPoints": [
-        "56% PC游戏收入流向榜外游戏",
-        "微软/索尼/任天堂联合发布游戏安全声明",
-        "玩家安全成行业共同议题"
+        "iPhone 18 Pro泄露信息已出现",
+        "iPhone 17和iPhone 18规格对比",
+        "新配色和Face ID升级传闻"
       ],
       "news": [
         {
-          "title": "AAA游戏主导地位削弱",
-          "summary": "56%收入流向排名前20以外",
+          "title": "iPhone 18 Pro 谣言汇总：5 大泄露可信度评级",
+          "summary": "iPhone 18 Pro新配色和Face ID升级成焦点。",
           "keyInsights": [
-            "独立游戏崛起"
+            "苹果下一代旗舰机引发关注"
           ]
         },
         {
-          "title": "三大平台联合声明游戏安全",
-          "summary": "微软/索尼/任天堂共同承诺",
+          "title": "首批iPhone 18 Pro泄露信息已经出现",
+          "summary": "iPhone 18 Pro配置信息开始曝光。",
           "keyInsights": [
-            "行业安全标准统一"
+            "苹果产品周期加速迭代"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "3A游戏开发成本高企，发行商审批趋严。",
+      "keyPoints": [
+        "EA两款AAA游戏2024年表现不佳",
+        "3A游戏2亿美元预算成常态",
+        "育碧计划E3公布新AAA游戏"
+      ],
+      "news": [
+        {
+          "title": "EA表示，其两款主要AAA游戏在2024年\"表现不佳\"",
+          "summary": "\"龙腾世纪\"和\"EA SPORTS FC 25\"未达预期。",
+          "keyInsights": [
+            "大型游戏投资回报风险上升"
+          ]
+        },
+        {
+          "title": "前PlayStation负责人：2亿美元3A游戏预算意味着发行商审批的游戏越来越少",
+          "summary": "3A游戏高预算压缩发行商游戏数量。",
+          "keyInsights": [
+            "游戏行业\"精品化\"趋势加速"
+          ]
+        },
+        {
+          "title": "育碧将在E3上公布全新AAA级游戏",
+          "summary": "育碧计划E3公布新AAA游戏。",
+          "keyInsights": [
+            "E3仍是游戏行业重要发布平台"
           ]
         }
       ],
@@ -155,77 +207,37 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "太阳能储能成本竞争力提升，非洲能源转型加速",
+      "categorySummary": "清洁能源成本竞争力创新高，太阳能和风能成主流。",
       "keyPoints": [
-        "非洲手机信号塔转���太阳能",
-        "太阳能风能配储能更具成本竞争力",
-        "绿色氢能储能项目持续推进"
+        "太阳能和风能配储能成本竞争力持续增强",
+        "非洲手机信号塔转向太阳能",
+        "绿色氢能与电池储能对比"
       ],
       "news": [
         {
-          "title": "太阳能和风能配储能成本竞争力提升",
-          "summary": "IRENA报告显示可再生能源优势",
+          "title": "清洁能源新闻 | 今日最新报道",
+          "summary": "IRENA报告：太阳能和风能配储能成本优势扩大。",
           "keyInsights": [
-            "清洁能源经济性改善"
+            "可再生能源��入平价时代"
           ]
         },
         {
-          "title": "非洲手机信号塔转向太阳能",
-          "summary": "柴油成本飙升推动能源转型",
+          "title": "非洲手机信号塔转向太阳能，因柴油成本飙升",
+          "summary": "非洲电信基础设施加速清洁能源转型。",
           "keyInsights": [
-            "新兴市场绿色转型"
+            "新兴市场清洁能源应用提速"
+          ]
+        },
+        {
+          "title": "能源储存对比 - 绿色氢能 vs 电池",
+          "summary": "绿色氢能与电池储能各有适用场景。",
+          "keyInsights": [
+            "多元化储能方案并行发展"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "美股维持强势，地缘风险扰动市场",
-      "keyPoints": [
-        "标普500期货小幅走高",
-        "标普500指数再创历史新高",
-        "交易员关注伊朗局势"
-      ],
-      "news": [
-        {
-          "title": "标普500指数再创新高",
-          "summary": "期货小幅走高，关注伊朗局势",
-          "keyInsights": [
-            "地缘风险溢价上升"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18传闻升温，新配色和摄像头升级成焦点",
-      "keyPoints": [
-        "iPhone 18颜色配置新泄露",
-        "iPhone 17市场表现强��",
-        "iPhone 18发布时间推迟说法被否认"
-      ],
-      "news": [
-        {
-          "title": "iPhone 18谣言汇总",
-          "summary": "5个最大泄露消息可靠性评级",
-          "keyInsights": [
-            "新配色和Face ID升级"
-          ]
-        },
-        {
-          "title": "iPhone 18颜色和摄像头泄露",
-          "summary": "韩国媒体ETNews披露信息",
-          "keyInsights": [
-            "摄像头配置成焦点"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
     }
   ]
 }
