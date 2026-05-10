@@ -1,35 +1,35 @@
 {
-  "date": "2026-05-10",
-  "overallSummary": "AI领域巨头加速整合，微软OpenAI重组为行业合作打开新格局；科技巨头与初创企业生态加速融合。",
+  "date": "2026-05-11",
+  "overallSummary": "AI领域头部企业OpenAI、Anthropic、Google、微软联手成立AI代理联盟与创业加速器；英伟达发布Blackwell Ultra和Vera Rubin芯片驱动AI算力升级；全球清洁能源成本持续低于化石燃料。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI代理应用场景持续扩展，巨头间战略合作加速。",
+      "categorySummary": "科技巨头加速AI生态整合，合规与标准化成新焦点。",
       "keyPoints": [
-        "AI代理替代人类律师工作比例上升",
-        "微软OpenAI协议修订为竞争对手合作创造条件",
-        "OpenAI、Anthropic、Google联手成立AI创业加速器"
+        "OpenAI、Anthropic、Google等联合成立AI代理联盟，获Linux基金会支持",
+        "微软-OpenAI重组为Anthropic和Google合作打开空间",
+        "AI辅助全科医生诊疗和行政工作逐步推广"
       ],
       "news": [
         {
-          "title": "Harvey CEO：AI代理承接更多律师工作",
-          "summary": "AI代理正承担更多传统法律工作",
+          "title": "AI创业加速器f/ai在巴黎启动",
+          "summary": "OpenAI、Anthropic、Google、Meta、微软及红杉资本联手打造",
           "keyInsights": [
-            "法��AI应用加速渗透"
+            "AI巨头联合扶植初创企业"
           ]
         },
         {
-          "title": "全科医生转向AI减轻工作量",
-          "summary": "医疗AI应用扩展至诊疗和行政领域",
+          "title": "AI代理联盟成立",
+          "summary": "获Linux基金会支持，为AI代理制定开源标准",
           "keyInsights": [
-            "医疗AI加速普及"
+            "行业标准化加速"
           ]
         },
         {
-          "title": "微软OpenAI重组为Anthropic和Google打开大门",
-          "summary": "微软OpenAI协议修订，竞争格局重塑",
+          "title": "微软-OpenAI协议重写",
+          "summary": "为Anthropic和Google带来新的商业机会",
           "keyInsights": [
-            "AI行业竞合关系演变"
+            "竞争格局重塑"
           ]
         }
       ],
@@ -38,25 +38,25 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "全球贸易与金融领域呈现新动向。",
+      "categorySummary": "英国政治动荡，贸易议题主导全球市场关注。",
       "keyPoints": [
-        "Anthropic接近达成15亿美元华尔街合资",
-        "特朗普将访华望谈贸易",
-        "汉莎航空面临20亿美元燃油账单"
+        "斯塔默请布朗和哈曼出山缓解辞职压力",
+        "特朗普将访华讨论贸易问题",
+        "日元走弱与汉莎20亿燃油账单成焦点"
       ],
       "news": [
         {
-          "title": "Anthropic接近与华尔街达成15亿美元合资",
-          "summary": "AI公司与华尔街资本深度绑定",
+          "title": "英国政治危机",
+          "summary": "布朗任金融顾问，哈曼专注女性经济改善",
           "keyInsights": [
-            "AI企业金融化加速"
+            "政治稳定受质疑"
           ]
         },
         {
-          "title": "特朗普将访华望谈贸易",
-          "summary": "中美元首会晤或涉及贸易议题",
+          "title": "特朗普访华",
+          "summary": "计划讨论贸易，伊朗议题可能抢镜",
           "keyInsights": [
-            "地缘政治影响全球供应链"
+            "地缘博弈升温"
           ]
         }
       ],
@@ -65,25 +65,25 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特��拉FSD技术持续迭代，自动驾驶能力提升。",
+      "categorySummary": "电动汽车技术突破与产能扩张并行推进。",
       "keyPoints": [
-        "特斯拉FSD反应速度提升20%",
-        "特斯拉FSD v14实现增量改进",
+        "ABB新型DC-DC转换器技术发布",
+        "美国采矿禁令被推翻",
         "Rivian计划生产30万辆电动SUV"
       ],
       "news": [
         {
-          "title": "特斯拉FSD反应速度提升20%",
-          "summary": "FSD系统反应速度显著改善",
+          "title": "特斯拉FSD V14.3.2更新",
+          "summary": "统一Robotaxi与客户车辆FSD模型",
           "keyInsights": [
-            "自动驾驶技术持续突破"
+            "自动驾驶融合加速"
           ]
         },
         {
-          "title": "特斯拉FSD v14：令人惊叹的升级",
-          "summary": "v14是L2级别系统的增量改进",
+          "title": "Rivian扩产计划",
+          "summary": "计划生产30万辆电动SUV",
           "keyInsights": [
-            "L2自动驾驶逐步成熟"
+            "产能瓶颈突破"
           ]
         }
       ],
@@ -92,25 +92,18 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片市场持续扩张，NVIDIA新品发布加速迭代。",
+      "categorySummary": "英伟达新一代AI芯片密集发布，算力竞争升级。",
       "keyPoints": [
-        "NVIDIA发布Blackwell Ultra和Vera Rubin",
-        "AI芯片将贡献2026年行业收入约一半",
-        "化合物半导体市场2031年将达52亿美元"
+        "Blackwell Ultra将于今年晚些时候发货",
+        "Vera Rubin成为下一代GPU",
+        "Blackwell驱动服务器扩展AI与机器人能力"
       ],
       "news": [
         {
-          "title": "NVIDIA发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "黄仁勋发布新一代GPU架构",
+          "title": "英伟达发布Blackwell Ultra和Rubin",
+          "summary": "黄仁勋发布双旗舰芯片",
           "keyInsights": [
-            "AI芯片竞争进入新阶段"
-          ]
-        },
-        {
-          "title": "NVIDIA扩展Blackwell服务器系列",
-          "summary": "新增AI和机器人技术能力",
-          "keyInsights": [
-            "AI基础设施持续强化"
+            "AI算力持续翻倍"
           ]
         }
       ],
@@ -118,53 +111,37 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，ADC药物研发进展积极。",
+      "name": "生物医���",
+      "categorySummary": "GLP-1减肥药市场爆发，癌症药物研发合作深化。",
       "keyPoints": [
-        "GLP-1减肥药市场2030年将达488亿美元",
-        "ArvVent双靶点ADC获FDA IND批准",
-        "精准医学持续推进"
+        "GLP-1市场2024年138.4亿美元，2030年将达488.4亿美元",
+        "UCB与英国癌症研究中心建立多项目合作",
+        "Addex报告药物研发进展"
       ],
       "news": [
         {
-          "title": "GLP-1减肥药市场规模预测",
-          "summary": "2024年138亿增至2030年488亿美元",
+          "title": "GLP-1激动剂市场规模预测",
+          "summary": "6年增长3.5倍，诺和诺德和礼来主导",
           "keyInsights": [
-            "代谢药物市场爆发"
-          ]
-        },
-        {
-          "title": "ArvVent ADC药物获FDA IND批准",
-          "summary": "卵巢癌和子宫内膜癌双靶点疗法",
-          "keyInsights": [
-            "ADC药物研发持续突破"
+            "减肥药成最大增长赛道"
           ]
         }
-      ],
-      "id": "biopharma",
-      "icon": "🧬"
+      ]
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列传闻涌现，卫星通信服务扩展。",
+      "categorySummary": "iPhone 18配置曝光，2nm工艺与折叠屏成焦点。",
       "keyPoints": [
-        "T-Mobile重新开放Starlink移动服务注册",
-        "iPhone 18 Pro五大泄露消息曝光",
-        "高通下一代中端芯片即将发布"
+        "iPhone 18 Pro将采用2nm A20芯片",
+        "WMCM封装提升性能与电池效率",
+        "首款折叠屏iPhone计划中"
       ],
       "news": [
         {
-          "title": "T-Mobile重新开放Starlink注册",
-          "summary": "卫星移动服务无需到店办理",
+          "title": "iPhone 18 Pro配置泄露",
+          "summary": "A20芯片2nm设计，WMCM封装",
           "keyInsights": [
-            "卫星通信服务加速普及"
-          ]
-        },
-        {
-          "title": "iPhone 18 Pro传闻汇总",
-          "summary": "新配色、Face ID升级等五大泄露",
-          "keyInsights": [
-            "苹果产品迭代持续"
+            "苹果芯片工艺领先"
           ]
         }
       ],
@@ -173,25 +150,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏主导地位削弱，独立游戏市场份额上升。",
+      "categorySummary": "AAA游戏开发成本突破3亿美元，行业盈利压力加剧。",
       "keyPoints": [
-        "AAA游戏行业仅增长1%",
-        "56% PC游戏收入来自前20名之外",
-        "索尼、微软、任天堂深化游戏安全合作"
+        "AAA游戏开发成本现已超过3亿美元",
+        "70美元定价需��出400-600万份才能盈利",
+        "Xbox、索尼、任天堂联合推进游戏安全"
       ],
       "news": [
         {
-          "title": "AAA游戏称霸时代落幕",
-          "summary": "前20名外游戏贡献超半数收入",
+          "title": "AAA游戏成本危机",
+          "summary": "开发成本超3亿美元，盈利门槛高企",
           "keyInsights": [
-            "游戏产业格局分散化"
-          ]
-        },
-        {
-          "title": "游戏停滞不前报告",
-          "summary": "行业增长乏力印证玩家感受",
-          "keyInsights": [
-            "游戏行业面临转型压力"
+            "行业面临结构性挑战"
           ]
         }
       ],
@@ -200,25 +170,18 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源成本优势扩大，绿氢储能技术突破。",
+      "categorySummary": "清洁能源成本优势确立，绿色氢储能技术加速成熟。",
       "keyPoints": [
-        "太阳能风能配合储能成本低于化石燃料",
-        "绿色氢气成��储能替代方案",
-        "离岸风电项目持续推进"
+        "IRENA：太阳能风能配储成本已低于化石燃料",
+        "绿色氢能成为新兴储能解决方案",
+        "澳大利亚氢气示范项目完成"
       ],
       "news": [
         {
-          "title": "太阳能风能储能成本低于化石燃料",
-          "summary": "IRENA确认清洁能源经济性优势",
+          "title": "清洁能源成本超越化石燃料",
+          "summary": "IRENA确认可再生能源经济性优势",
           "keyInsights": [
-            "能源转型临界点临近"
-          ]
-        },
-        {
-          "title": "氢能储能：电池的绿色替代",
-          "summary": "绿氢技术解决可再生能源间歇性",
-          "keyInsights": [
-            "储能技术多元化发展"
+            "能源转型临界点"
           ]
         }
       ],
