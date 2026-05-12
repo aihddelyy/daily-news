@@ -1,146 +1,67 @@
 {
-  "date": "2026-05-12",
-  "overallSummary": "AI领域Anthropic加速布局算力基础设施，科技巨头重金押注印度市场；英伟达发布新一代AI芯片Blackwell Ultra；可再生能源春季发电量创历史新高。",
+  "date": "2026-05-13",
+  "overallSummary": "AI领域资本格局生变，Google加码投资Anthropic、微软重组OpenAI关系；英伟达发布新一代AI芯片；GLP-1减肥药市场预计五年翻倍。",
   "categories": [
     {
-      "name": "AI行业动态",
-      "categorySummary": "Anthropic与SpaceX深化合作布局AI基础设施，微软OpenAI重组为竞争对手敞开大门，科技巨头集体加码印度市场。",
+      "name": "AI行业",
+      "categorySummary": "AI竞争格局重塑，Google与Anthropic深化绑定，微软与OpenAI关系出现调整。",
       "keyPoints": [
-        "AnthropicClaude依赖SpaceX数据中心，Mozilla发现其安全漏洞",
-        "微软-OpenAI协议修订利好Anthropic和Google",
-        "四大AI企业重金押注印度市场"
+        "Google计划向Anthropic追加投资100-400亿美元",
+        "微软-OpenAI重组为Anthropic和Google打开合作空间",
+        "英伟达发布Blackwell Ultra和Vera Rubin新一代AI芯片"
       ],
       "news": [
         {
-          "title": "Anthropic挑战OpenAI��联手SpaceX扩展AI基础设施",
-          "summary": "Anthropic借助SpaceX数据中心支撑Claude发展，与马斯克深度绑定",
+          "title": "Google将增加对Anthropic的投资",
+          "summary": "Alphabet计划向Anthropic追加投资100亿美元，可能高达400亿美元。",
           "keyInsights": [
-            "算力依赖关系暴露AI企业基础设施短板",
-            "Mozilla发现ClaudeMythos安全漏洞"
+            "Google持股Anthropic约14%，与微软持股OpenAI 27%形成竞争态势"
           ]
         },
         {
-          "title": "微软与OpenAI修订协议，为Anthropic和Google敞开机遇之门",
-          "summary": "微软OpenAI重组打破独家合作格局",
+          "title": "微软与OpenAI合作关系改变",
+          "summary": "微软-OpenAI重组为Anthropic和Google打开合作大门。",
           "keyInsights": [
-            "竞争格局重塑",
-            "Anthropic和Google获合作窗口"
+            "AI投资格局正在多元化，单一绑定模式松动"
           ]
         },
         {
-          "title": "为何谷歌、微软、OpenAI和Anthropic重金押注印度",
-          "summary": "西方市场增长趋缓，四大AI企业转向印度",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin芯片",
+          "summary": "英伟达CEO黄仁勋发布新一代AI芯片Blackwell Ultra和Vera Rubin。",
           "keyInsights": [
-            "人才渠道布局成重点",
-            "印度成新增长极"
-          ]
-        }
-      ],
-      "id": "ai_industry",
-      "icon": "🧠"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "地缘政治紧张持续，伊朗停火协议前景不明，霍尔木兹海峡局势牵动全球能源市场。",
-      "keyPoints": [
-        "特朗普称伊朗停火协议命悬一线",
-        "德黑兰提出解除霍尔木兹封锁的反提案",
-        "全球市场避险情绪升温"
-      ],
-      "news": [
-        {
-          "title": "特朗普称伊朗停火协议\"命悬一线\"",
-          "summary": "德黑兰提出以解除霍尔木兹封锁为重点的反提案",
-          "keyInsights": [
-            "中东局势高度不稳定",
-            "霍尔木兹海峡或成博弈焦点"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车行业技术迭代加速，特斯拉FSD持续进化，Rivian产能目标大幅提升。",
-      "keyPoints": [
-        "ABB推出新型直流-直流转换器技术",
-        "美国矿业禁令被推翻",
-        "Rivian计划生产30万辆电动SUV"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14最新测试报告",
-          "summary": "FSDv14是增量改进中最令人印象深刻的L2级系统",
-          "keyInsights": [
-            "统一Robotaxi与民用FSD模型",
-            "召唤功能改进明显"
+            "芯片军备竞赛持续，性能持续突破"
           ]
         },
         {
-          "title": "EV Magazine本周要闻",
-          "summary": "ABB新技术、美国矿业政策变动、Rivian扩产",
+          "title": "Anthropic依靠SpaceX数据中心进行AI计算",
+          "summary": "Anthropic将Claude的增长与Elon Musk的SpaceX紧密绑定。",
           "keyInsights": [
-            "供应链政策影响显现",
-            "30万辆产能目标雄心勃勃"
+            "算力基础设施依赖关系值得关注"
           ]
         }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin新一代AI芯片，算力竞争进入新阶段；芯片走私案频发引发监管关注。",
-      "keyPoints": [
-        "英伟达Blackwell架构线下GTC大会发布",
-        "Blackwell Ultra今年稍晚发货，Vera Rubin接棒",
-        "三人涉嫌向中国走私Nvidia芯片被起诉"
-      ],
-      "news": [
-        {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "黄仁勋公布新一代GPU路线图",
-          "keyInsights": [
-            "BlackwellUltra年内发货",
-            "VeraRubin为下一代旗舰"
-          ]
-        },
-        {
-          "title": "英伟达推出Blackwell新架构",
-          "summary": "五年首次线下GTC，AI芯片系列注入更强动力",
-          "keyInsights": [
-            "算力军备竞赛持续",
-            "AI工厂核心引擎升级"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
+      ]
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速扩张，中枢神经系统药物研发持续推进，行业整合加速。",
+      "categorySummary": "GLP-1减肥药市场高速增长，ADC药物研发有新进展。",
       "keyPoints": [
-        "GLP-1市场2024年138.4亿美元，2030年将达488.4亿美元",
-        "露奈生物2000万美元收购扩展CNS平台",
-        "精准MASH疗法和免疫肿瘤学成热点"
+        "GLP-1药物市场预计2035年达1327.9亿美元",
+        "ARR-002双靶点ADC药物获FDA IND批准",
+        "精准MASH疗法成为研发热点"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药市场规模报告",
-          "summary": "市场规模年复合增长率强劲",
+          "title": "GLP-1药物市场规模将达1327.9亿美元",
+          "summary": "GLP-1药物市场从2026年605亿增至2035年1327.9亿，年复合增长率9.63%。",
           "keyInsights": [
-            "诺和诺德和礼来主���市场",
-            "减重赛道持续火热"
+            "减重市场爆发式增长，诺和诺德和礼来主导"
           ]
         },
         {
-          "title": "BioPharm International今日聚焦",
-          "summary": "精准MASH疗法、新兴免疫肿瘤学平台、制造业投资",
+          "title": "ARR-002 ADC药物获FDA IND批准",
+          "summary": "ArriVent BioPharma获批推进双靶点ADC药物用于卵巢癌和子宫内膜癌。",
           "keyInsights": [
-            "精准医疗成趋势",
-            "美国制造业回流"
+            "ADC赛道持续火热"
           ]
         }
       ],
@@ -148,57 +69,53 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone18系列传闻频出，设计变革与定价策略成焦点，苹果面临成本压力。",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD实现20%反应速度提升，自动驾驶能力持续迭代。",
       "keyPoints": [
-        "iPhone18Pro可能采用不同DynamicIsland设计",
-        "尽管内存成本上涨，Apple或维持起始价格不变",
-        "标准版iPhone功能或被削弱"
+        "特斯拉FSD V14.3.2反应速度提升20%",
+        "Rivian计划生产30万辆电动SUV",
+        "EV行业持续技术创新"
       ],
       "news": [
         {
-          "title": "iPhone18Pro传闻汇总：5大泄露消息",
-          "summary": "新配色、FaceID升级、设计变革",
+          "title": "特斯拉FSD反应速度提升20%",
+          "summary": "特斯拉FSD V14.3.2统一机器人出租车与客户车辆模型，改进召唤功能。",
           "keyInsights": [
-            "iPhone17ProMax或成真旗舰",
-            "iPhone17或成性价比之选"
+            "FSD能力逼近自动驾驶临界点"
           ]
         },
         {
-          "title": "iPhone18可能是近年来最糟糕的升级",
-          "summary": "标准版关键功能或被削弱",
+          "title": "Rivian计划生产30万辆电动SUV",
+          "summary": "Rivian扩大产能规划，显示美EV制造商野心。",
           "keyInsights": [
-            "Apple产品线策略调整",
-            "用户需谨慎选择"
+            "美国EV市场产能竞争加剧"
           ]
         }
       ],
-      "id": "smartphone",
-      "icon": "📱"
+      "id": "auto_ev",
+      "icon": "🚗"
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏面临品质危机，业界对即将发布大作寄予厚望；平台安全合作持续深化。",
+      "categorySummary": "AAA游戏商业模式受挑战，独立游戏崛起，玩家安全合作持续。",
       "keyPoints": [
-        "AAA游戏产业面临信任危机",
-        "36款AAA大作即将发布",
-        "任天堂、索尼、微软持续合作改善玩家安全"
+        "56% PC游戏收入流向排名前20以外游戏",
+        "AAA工作室陷入困境，大型游戏商业模式不可持续",
+        "任天堂、索尼、微软继续合作提升玩家安全"
       ],
       "news": [
         {
-          "title": "AAA游戏产业正在消亡，前NEXON掌门人如是说",
-          "summary": "2024-2025年失望作品频出",
+          "title": "AAA游戏主导地位正在瓦解",
+          "summary": "Newzoo数据显示大部分收入流向榜外游戏，贝恩公司警告大型游戏模式不可持续。",
           "keyInsights": [
-            "品质标准下降",
-            "行业急需突破"
+            "游戏行业格局从大厂主导转向多元分散"
           ]
         },
         {
-          "title": "拯救游戏的20大最令人期待的AAA级新作",
-          "summary": "2026年PS5游戏阵容备受期待",
+          "title": "三大平台合作提升玩家安全",
+          "summary": "任天堂、索尼、微软继续合作改善玩家安全体验。",
           "keyInsights": [
-            "大作扎堆",
-            "玩家期待值高"
+            "跨平台安全标准逐步统一"
           ]
         }
       ],
@@ -207,40 +124,70 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源春季发电量创纪录，风光储技术持续突破，绿色氢能成新型储能方向。",
+      "categorySummary": "可再生能源Q1创新纪录，风能和太阳能主导电力未来。",
       "keyPoints": [
-        "2026年春季可再生能源发电量创历史新高",
-        "风能、太阳能和电池在化石燃料危机中作用凸显",
-        "绿色氢能与电池储能系统快速发展"
+        "2026年春季是可再生能源创纪录季度",
+        "可再生能源满足2025年所有新增电力需求",
+        "加拿大在风能太阳能发展中落后"
       ],
       "news": [
         {
-          "title": "今年春季可再生能源创下纪录",
-          "summary": "风光储在各国化石燃料危机时更加重要",
+          "title": "可再生能源创纪录季度",
+          "summary": "风能和太阳能主导电力未来，可再生能源满足新增电力需求。",
           "keyInsights": [
-            "可再生能源占比提升",
-            "季节性优势明显"
+            "清洁能源转型加速"
           ]
         },
         {
-          "title": "电力未来属于风能和太阳能——加拿大落后",
-          "summary": "可再生能源满足2025年所有新增电力需求",
+          "title": "绿色氢能和储能技术发展",
+          "summary": "氢气储存成为电池储能的有力替代方案。",
           "keyInsights": [
-            "全球趋势明确",
-            "加拿大需加速转型"
-          ]
-        },
-        {
-          "title": "太阳能电池与绿色氢能——可再生能源储存新时代",
-          "summary": "两项技术结合成为储能革命核心",
-          "keyInsights": [
-            "绿色氢能前景广阔",
-            "技术融合趋势明显"
+            "储能技术多元化趋势明显"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18 Pro传闻升温，设计和摄像头将有重大变化。",
+      "keyPoints": [
+        "iPhone 18 Pro将采用新灵动岛设计",
+        "新配色和摄像头升级是重点",
+        "机身材料可能有调整"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18 Pro传闻汇总",
+          "summary": "5大泄露消息：灵动岛新外观、机身材料调整、摄像头升级。",
+          "keyInsights": [
+            "苹果继续迭代设计语言"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "全球市场关注特朗普-习近平会晤，WSJ提示Moderna、Intel、美光、福克斯值得关注。",
+      "keyPoints": [
+        "特朗普-习近平会晤影响全球市场",
+        "关注Moderna、Intel、美光、福克斯等股票",
+        "全球央行利率政策持续影响市场"
+      ],
+      "news": [
+        {
+          "title": "全球市场动态",
+          "summary": "美中高层会晤及全球利率政策影响市场走向。",
+          "keyInsights": [
+            "地缘政治因素持续扰动市场"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
