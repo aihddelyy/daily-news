@@ -1,28 +1,35 @@
 {
-  "date": "2026-05-15",
-  "overallSummary": "AI巨头微软、OpenAI、Anthropic和谷歌重塑合作关系，联手打造巴黎AI创业加速器；英伟达发布Blackwell Ultra和Vera Rubin芯片加速AI算力竞争；可再生能源春季发电量创历史新高。",
+  "date": "2026-05-16",
+  "overallSummary": "AI行业巨头加速整合，微软与OpenAI重组催生新格局；新能源领域迎来转折点，太阳能即将超越煤炭成为德克萨斯州主要能源。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI巨头从竞争转向生态合作，重写行业格局",
+      "categorySummary": "AI行业进入深度整合期，科技巨头通过合作与竞争重塑市场格局。",
       "keyPoints": [
-        "微软与OpenAI协议重写，引入Anthropic和谷歌竞争",
-        "OpenAI、Anthropic、谷歌联手打造巴黎F/ai创业加速器",
-        "Meta、Microsoft和Sequoia共同参与，加速AI创业生态"
+        "微软-OpenAI协议重写为Anthropic和Google打开合作大门",
+        "AI巨头联合成立前沿模型论坛推动AI安全标准",
+        "OpenAI、Anthropic和Google联手打造F/ai创业加速器"
       ],
       "news": [
         {
-          "title": "微软与OpenAI重写协议，为Anthropic和谷歌打开大门",
-          "summary": "微软与OpenAI重写合作协议，打破双方绑定格局",
+          "title": "微软与OpenAI的重组为Anthropic和Google打开了大门",
+          "summary": "微软-OpenAI协议重写，行业竞争格局生变",
           "keyInsights": [
-            "为Anthropic和谷歌进入微软AI生态创造机会"
+            "协议重写释放更多竞争空间"
           ]
         },
         {
-          "title": "OpenAI、Anthropic和谷歌联手打造AI创业加速器",
-          "summary": "AI领域领导者联手F/ai加速器，构建巴黎创业生态",
+          "title": "AI巨头联合成立AI安全伙伴关系",
+          "summary": "Anthropic、Google、Microsoft和OpenAI成立前沿模型论坛",
           "keyInsights": [
-            "行业从垂直竞争转向横向生态合作"
+            "AI安全成为行业共识"
+          ]
+        },
+        {
+          "title": "OpenAI、Anthropic和Google联手打造AI创业加速器",
+          "summary": "多家AI领导者参与F/ai巴黎创业加速器项目",
+          "keyInsights": [
+            "AI生态建设加速"
           ]
         }
       ],
@@ -30,46 +37,26 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "全球股市小幅上涨，市场情绪平稳",
-      "keyPoints": [
-        "道琼斯指数50,063点，上涨0.75%",
-        "纳斯达克26,635点，上涨0.88%",
-        "10年期国债收益率4.461%，下降0.45%"
-      ],
-      "news": [
-        {
-          "title": "华尔街股市今日行情",
-          "summary": "主要指数小幅上涨，纳指表现最强",
-          "keyInsights": [
-            "科技股领涨，市场风险偏好回升"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "中国电动车市场进入淘汰赛，特斯拉FSD持续迭代",
+      "categorySummary": "电动汽车行业面临洗牌，特斯拉FSD国际化进程加速。",
       "keyPoints": [
-        "比亚迪利润下降19%，预警行业洗牌",
-        "特斯拉FSD v14发布，渐进式改进",
-        "Stellantis接入特斯拉充电网络"
+        "比亚迪董事长警告：中国电动汽车进入淘汰阶段",
+        "特斯拉FSD V14.3.2统一Robotaxi与乘用车模型",
+        "特斯拉FSD v14 Lite（HW3）开始推向国际市场"
       ],
       "news": [
         {
-          "title": "比亚迪董事长警告中国电动车行业进入淘汰赛",
-          "summary": "利润下降19%，弱势企业面临出局",
+          "title": "比亚迪董事长警告中国电动汽车行业",
+          "summary": "中国电动车行业进入弱势玩家淘汰阶段，利润下降19%",
           "keyInsights": [
-            "价格战加剧，行业集中度将提升"
+            "行业整合信号"
           ]
         },
         {
-          "title": "特斯拉FSD v14测试：最令人印象深刻的L2系统",
-          "summary": "FSD 14.3.2版本发布，辅助驾驶能力提升",
+          "title": "特斯拉FSD V14.3.2更新",
+          "summary": "统一Robotaxi与客户车辆FSD模型，改进召唤功能",
           "keyInsights": [
-            "L2自动驾驶持续进化，功能边界扩展"
+            "FSD技术收敛"
           ]
         }
       ],
@@ -78,25 +65,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin，加速AI算力升级",
+      "categorySummary": "AI芯片市场持续扩张，NVIDIA新一代产品路线图清晰。",
       "keyPoints": [
-        "Blackwell Ultra将于今年晚些时候出货",
-        "Vera Rubin为下一代GPU，性能大幅提升",
-        "Blackwell服务器产品线扩展至AI和机器人"
+        "NVIDIA发布Blackwell Ultra和Vera Rubin AI芯片",
+        "AI芯片到2026年将贡献约一半行业收入",
+        "NVIDIA扩展Blackwell驱动服务器，新增AI和机器人能力"
       ],
       "news": [
         {
-          "title": "英伟达宣布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "黄仁勋发布新一代AI芯片，规划2026年产品线",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
+          "summary": "Blackwell Ultra将于晚些时候发货，Rubin为下一代GPU",
           "keyInsights": [
-            "AI芯片军备竞赛持续，算力密度再创新高"
+            "芯片迭代加速"
           ]
         },
         {
-          "title": "英伟达拓展Blackwell服务器产品线",
-          "summary": "新增AI和机器人技术能力，强化数据中心业务",
+          "title": "2026年全球半导体行业展望",
+          "summary": "AI芯片数据中心敞口大，预计贡献行业收入50%",
           "keyInsights": [
-            "从GPU向全栈AI基础设施提供商转型"
+            "AI驱动增长"
           ]
         }
       ],
@@ -105,25 +92,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场规模高速增长，供需格局重塑",
+      "categorySummary": "GLP-1减肥药市场高速增长，生物制药创新持续突破。",
       "keyPoints": [
-        "GLP-1减肥药市场2024年138亿美元，2030年将达488亿美元",
-        "2026年价格下降，老年人用药普及",
-        "诺和诺德和礼来主导市场"
+        "GLP-1减肥药市场预计从138亿美元增至488亿美元",
+        "基因疗法重要里程碑不断涌现",
+        "FDA突破性疗法认定覆盖罕见癌症"
       ],
       "news": [
         {
-          "title": "GLP-1激动剂减肥药物市场规模报告",
-          "summary": "6年CAGR约23%，市场进入高速增长期",
+          "title": "GLP-1激动剂减肥药物市场预测",
+          "summary": "2024年138.4亿美元增至2030年488.4亿美元",
           "keyInsights": [
-            "减重市场从治疗向消费级扩展"
+            "市场高速增长"
           ]
         },
         {
-          "title": "减肥药的供需博弈",
-          "summary": "价格下降和老年群体渗透推动市场增长",
+          "title": "减肥药供需格局分析",
+          "summary": "价格下降、老年人获资格将驱动2026年显著增长",
           "keyInsights": [
-            "供应链瓶颈逐步缓解，产能释放"
+            "渗透率提升"
           ]
         }
       ],
@@ -132,25 +119,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro设计或大变，折叠屏和AI集成用户反应冷淡",
+      "categorySummary": "iPhone 18传闻升温，新配色和相机升级成焦点。",
       "keyPoints": [
-        "iPhone 18 Pro灵动岛和材质可能调整",
-        "苹果计划推出首款折叠屏设备",
-        "Android 17即将发布"
+        "WWDC临近，iPhone 18系列传闻增多",
+        "iPhone 18 Pro将推出酒红、紫色和棕色新配色",
+        "相机配置将有重大更新"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro最新泄露预示重大设计变化",
-          "summary": "灵动岛和机身材料可能调整",
+          "title": "iPhone 18传闻汇总",
+          "summary": "5大泄露消息涉及新配色到Face ID升级",
           "keyInsights": [
-            "苹果开始探索差异化设计语言"
+            "产品周期加速"
           ]
         },
         {
-          "title": "CNET调查：用户对折叠屏和AI集成不感冒",
-          "summary": "消费者换机欲望低，创新遭遇瓶颈",
+          "title": "iPhone 18颜色和相机泄露",
+          "summary": "韩国媒体ETNews披露新配色和相机信息",
           "keyInsights": [
-            "硬件创新边际效益递减"
+            "供应链信息泄露"
           ]
         }
       ],
@@ -159,25 +146,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏市场竞争白热化，工作室面临双重压力",
+      "categorySummary": "AAA游戏主导地位削弱，独立游戏获更多市场空间。",
       "keyPoints": [
-        "2026年将有36款AAA大作发售",
-        "老牌工作室面临成本和玩家期待双重压力",
-        "Xbox持续将游戏带入Switch 2"
+        "56% PC游戏收入流向20名之外的游戏",
+        "停止杀死游戏运动持续获得关注",
+        "Xbox、索尼、任天堂继续推进玩家安全合作"
       ],
       "news": [
         {
-          "title": "36款即将发售的AAA大作",
-          "summary": "游戏市场供给过剩，竞争加剧",
+          "title": "AAA游戏主导地位正在削弱",
+          "summary": "Newzoo数据显示大部分收入流向榜外作品",
           "keyInsights": [
-            "游戏工业化时代来临，小团队生存艰难"
+            "市场分散化"
           ]
         },
         {
-          "title": "AAA游戏工作室必须做出调整",
-          "summary": "贝恩报告揭示行业结构性挑战",
+          "title": "停止杀死游戏运动",
+          "summary": "玩家权益运动持续影响行业",
           "keyInsights": [
-            "从规模扩张转向精品化运营"
+            "行业反思"
           ]
         }
       ],
@@ -186,25 +173,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源春季发电创纪录，绿色氢能成为储能新方向",
+      "categorySummary": "可再生能源创新高，太阳能即将超越煤炭成为主要能源。",
       "keyPoints": [
         "今年春季可再生能源发电量创历史新高",
-        "风能和太阳能成为最廉价能源形式",
-        "绿色氢能+电池储能组合成为新趋势"
+        "太阳能预计2026年超越煤炭成为德克萨斯州主要发电来源",
+        "绿氢储能技术持续发展"
       ],
       "news": [
         {
-          "title": "今年春季可再生能源创下纪录",
-          "summary": "风能和太阳能发电量创历史新高",
+          "title": "可再生能源发电量创历史新高",
+          "summary": "今年春季是可再生能源创纪录的季节",
           "keyInsights": [
-            "清洁能源渗透率持续提升"
+            "清洁能源加速"
           ]
         },
         {
-          "title": "绿色氢能与电池储能系统",
-          "summary": "南澳示范项目验证氢能储能可行性",
+          "title": "���克萨斯州太阳能将超越煤炭",
+          "summary": "EIA预测2026年太阳能成为主要发电来源",
           "keyInsights": [
-            "间歇性可再生能源+储能将成标配"
+            "能源转型里程碑"
+          ]
+        },
+        {
+          "title": "中国风电企业欧洲扩张",
+          "summary": "明阳智能正在欧洲寻找市场机会",
+          "keyInsights": [
+            "中国新能源出海"
           ]
         }
       ],
