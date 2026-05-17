@@ -1,35 +1,35 @@
 {
-  "date": "2026-05-16",
-  "overallSummary": "AI行业巨头加速整合，微软与OpenAI重组催生新格局；新能源领域迎来转折点，太阳能即将超越煤炭成为德克萨斯州主要能源。",
+  "date": "2026-05-18",
+  "overallSummary": "AI巨头微软、谷歌、OpenAI、Anthropic联合组建AI安全组织与智能体标准联盟；英伟达发布Blackwell Ultra与Vera Rubin新一代AI芯片；电动车购买意愿回升至25%。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI行业进入深度整合期，科技巨头通过合作与竞争重塑市场格局。",
+      "categorySummary": "AI行业头部企业加速整合，微软与OpenAI重组为Anthropic等竞争对手创造合作空间。",
       "keyPoints": [
-        "微软-OpenAI协议重写为Anthropic和Google打开合作大门",
-        "AI巨头联合成立前沿模型论坛推动AI安全标准",
-        "OpenAI、Anthropic和Google联手打造F/ai创业加速器"
+        "微软与OpenAI重组为Anthropic、Google打开合作大门",
+        "四大AI巨头成立前沿模型论坛共推AI安全标准",
+        "Agentic AI联盟成立，由Linux Foundation支持制定开源标准"
       ],
       "news": [
         {
-          "title": "微软与OpenAI的重组为Anthropic和Google打开了大门",
-          "summary": "微软-OpenAI协议重写，行业竞争格局生变",
+          "title": "微软与OpenAI合��重组为Anthropic等公司打开了大门",
+          "summary": "微软-OpenAI战略调整重塑AI竞争格局",
           "keyInsights": [
-            "协议重写释放更多竞争空间"
+            "微软与OpenAI关系调整释放竞争空间"
           ]
         },
         {
-          "title": "AI巨头联合成立AI安全伙伴关系",
-          "summary": "Anthropic、Google、Microsoft和OpenAI成立前沿模型论坛",
+          "title": "Anthropic、谷歌、微软和OpenAI为AI安全成立联合组织",
+          "summary": "四大AI企业组建前沿模型论坛",
           "keyInsights": [
-            "AI安全成为行业共识"
+            "行业联合安全框架建立"
           ]
         },
         {
-          "title": "OpenAI、Anthropic和Google联手打造AI创业加速器",
-          "summary": "多家AI领导者参与F/ai巴黎创业加速器项目",
+          "title": "四大AI巨头联手组建Agentic AI联盟",
+          "summary": "Linux Foundation支持下制定AI智能体开源标准",
           "keyInsights": [
-            "AI生态建设加速"
+            "AI智能体标准化进程启动"
           ]
         }
       ],
@@ -37,26 +37,60 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车行业面临洗牌，特斯拉FSD国际化进程加速。",
+      "name": "商业财经",
+      "categorySummary": "全球市场波动加剧，韩国股市从历史高位回落，G7财长警告霍尔木兹海峡关闭风险。",
       "keyPoints": [
-        "比亚迪董事长警告：中国电动汽车进入淘汰阶段",
-        "特斯拉FSD V14.3.2统一Robotaxi与乘用车模型",
-        "特斯拉FSD v14 Lite（HW3）开始推向国际市场"
+        "KOSPI从历史高位回落，大型科技股跌幅超6%",
+        "G7财长会议警告霍尔木兹海峡长期关闭经济后果",
+        "中美经济关系持续影响全球市场"
       ],
       "news": [
         {
-          "title": "比亚迪董事长警告中国电动汽车行业",
-          "summary": "中国电动车行业进入弱势玩家淘汰阶段，利润下降19%",
+          "title": "韩国综合股价指数从历史高位回落",
+          "summary": "KOSPI大型科技股遭抛售跌幅超6%",
           "keyInsights": [
-            "行业整合信号"
+            "科技股短期承压"
           ]
         },
         {
-          "title": "特斯拉FSD V14.3.2更新",
-          "summary": "统一Robotaxi与客户车辆FSD模型，改进召唤功能",
+          "title": "G7财长警告霍尔木兹海峡关闭影响",
+          "summary": "七国集团财长召开会议讨论经济风险",
           "keyInsights": [
-            "FSD技术收敛"
+            "地缘政治风险升温"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "电动车市场信心回升，特斯拉FSD v14成为最具突破性的L2级辅助驾驶系统。",
+      "keyPoints": [
+        "电动车购买意愿升至25%，同比增长1%扭转跌势",
+        "特斯拉FSD v14为目前最令人印象深刻的L2系统",
+        "Zoox扩张美国城市业务，特斯拉加码德国投资"
+      ],
+      "news": [
+        {
+          "title": "电动汽车购买意愿回升至25%",
+          "summary": "JD Power数据显示电动购车意愿创2026年新高",
+          "keyInsights": [
+            "电动车市场信心恢复"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14版本测试评价",
+          "summary": "FSD 14为渐进式改进但令人惊叹",
+          "keyInsights": [
+            "L2级自动驾驶持续进化"
+          ]
+        },
+        {
+          "title": "特斯拉FSD 14.3.3春季更新发布",
+          "summary": "新增智能召唤与自动驾驶统计数据功能",
+          "keyInsights": [
+            "特斯拉持续迭代辅助驾驶"
           ]
         }
       ],
@@ -65,25 +99,32 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片市场持续扩张，NVIDIA新一代产品路线图清晰。",
+      "categorySummary": "英伟达发布Blackwell Ultra与Vera Rubin芯片，数据中心AI芯片将占行业收入50%。",
       "keyPoints": [
-        "NVIDIA发布Blackwell Ultra和Vera Rubin AI芯片",
-        "AI芯片到2026年将贡献约一半行业收入",
-        "NVIDIA扩展Blackwell驱动服务器，新增AI和机器人能力"
+        "英伟达发布Blackwell Ultra与Vera Rubin AI芯片",
+        "数据中心AI芯片将占2026年行业收入约50%",
+        "化合物半导体市场CAGR 14%，2031年将达52亿美元"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
-          "summary": "Blackwell Ultra将于晚些时候发货，Rubin为下一代GPU",
+          "title": "Nvidia宣布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "黄仁勋发布新一代GPU系列",
           "keyInsights": [
-            "芯片迭代加速"
+            "AI芯片竞争升级"
+          ]
+        },
+        {
+          "title": "NVIDIA扩展Blackwell系列服务器",
+          "summary": "新增AI和机器人技术功能",
+          "keyInsights": [
+            "AI基础设施持续扩张"
           ]
         },
         {
           "title": "2026年全球半导体行业展望",
-          "summary": "AI芯片数据中心敞口大，预计贡献行业收入50%",
+          "summary": "德勤预测AI芯片驱动行业增长",
           "keyInsights": [
-            "AI驱动增长"
+            "AI芯片成核心增长引擎"
           ]
         }
       ],
@@ -92,25 +133,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，生物制药创新持续突破。",
+      "categorySummary": "GLP-1减肥药市场蓬勃发展，2026年市场规模预计大幅增长。",
       "keyPoints": [
-        "GLP-1减肥药市场预计从138亿美元增至488亿美元",
-        "基因疗法重要里程碑不断涌现",
-        "FDA突破性疗法认定覆盖罕见癌症"
+        "GLP-1减肥药市场预计2030年达488亿美元",
+        "诺和诺德��礼来主导市场，竞争加剧",
+        "2026年GLP-1市场规模将大幅增长"
       ],
       "news": [
         {
-          "title": "GLP-1激动剂减肥药物市场预测",
-          "summary": "2024年138.4亿美元增至2030年488.4亿美元",
+          "title": "GLP-1激动剂减肥药物市场规模报告",
+          "summary": "市场规模将从138亿增至488亿美元",
           "keyInsights": [
-            "市场高速增长"
+            "减肥药市场高速增长"
           ]
         },
         {
-          "title": "减肥药供需格局分析",
-          "summary": "价格下降、老年人获资格将驱动2026年显著增长",
+          "title": "减肥药供需格局预测",
+          "summary": "JPMorgan预测2026年市场规模大幅增长",
           "keyInsights": [
-            "渗透率提升"
+            "价格下降与老年群体覆盖扩大"
+          ]
+        },
+        {
+          "title": "基因疗法与肿瘤学领域突破",
+          "summary": "FDA授予罕见癌症突破性疗法认定",
+          "keyInsights": [
+            "创新疗法持续获批"
           ]
         }
       ],
@@ -119,25 +167,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻升温，新配色和相机升级成焦点。",
+      "categorySummary": "iPhone 18 Pro设计曝光，新配色与摄像头升级成为焦点。",
       "keyPoints": [
-        "WWDC临近，iPhone 18系列传闻增多",
-        "iPhone 18 Pro将推出酒红、紫色和棕色新配色",
-        "相机配置将有重大更新"
+        "iPhone 18 Pro灵动岛设计将迎重大变化",
+        "新配色与摄像头规格泄露",
+        "机身材质或有调整"
       ],
       "news": [
         {
-          "title": "iPhone 18传闻汇总",
-          "summary": "5大泄露消息涉及新配色到Face ID升级",
+          "title": "iPhone 18 Pro传言：5大泄露消息",
+          "summary": "灵动岛、配色、摄像头成关注焦点",
           "keyInsights": [
-            "产品周期加速"
+            "Pro机型差异化设计"
           ]
         },
         {
-          "title": "iPhone 18颜色和相机泄露",
-          "summary": "韩国媒体ETNews披露新配色和相机信息",
+          "title": "苹果iPhone 18 Pro最新泄露预示重大设计变化",
+          "summary": "标志性灵动岛挖孔或迎全新外观",
           "keyInsights": [
-            "供应链信息泄露"
+            "设计语言重大更新"
           ]
         }
       ],
@@ -146,25 +194,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏主导地位削弱，独立游戏获更多市场空间。",
+      "categorySummary": "AAA游戏主导地位削弱，微软、索尼、任天堂联合发布玩家安全承诺。",
       "keyPoints": [
-        "56% PC游戏收入流向20名之外的游戏",
-        "停止杀死游戏运动持续获得关注",
-        "Xbox、索尼、任天堂继续推进玩家安全合作"
+        "56%的PC游戏收入来自Top 20以外游戏",
+        "AAA游戏面临市场地位削弱挑战",
+        "三大主机厂商联合提升玩家安全体验"
       ],
       "news": [
         {
           "title": "AAA游戏主导地位正在削弱",
-          "summary": "Newzoo数据显示大部分收入流向榜外作品",
+          "summary": "Newzoo数据显示独立游戏收入占比提升",
           "keyInsights": [
-            "市场分散化"
+            "游戏市场去中心化"
           ]
         },
         {
-          "title": "停止杀死游戏运动",
-          "summary": "玩家权益运动持续影响行业",
+          "title": "微软、索尼、任天堂联合安全声明",
+          "summary": "三大厂商共同提升游戏平台安全体验",
           "keyInsights": [
-            "行业反思"
+            "行业安全标准统一"
           ]
         }
       ],
@@ -173,32 +221,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源创新高，太阳能即将超越煤炭成为主要能源。",
+      "categorySummary": "可再生能源创纪录发展，绿氢与储能技术成为新兴方向。",
       "keyPoints": [
-        "今年春季可再生能源发电量创历史新高",
-        "太阳能预计2026年超越煤炭成为德克萨斯州主要发电来源",
-        "绿氢储能技术持续发展"
+        "今年春季成为可再生能源创纪录季节",
+        "韩国海上风电招标收到3.6GW投标容量",
+        "氢气储存成为电池储能绿色替代方案"
       ],
       "news": [
         {
-          "title": "可再生能源发电量创历史新高",
-          "summary": "今年春季是可再生能源创纪录的季节",
+          "title": "可再生能源创纪录季节",
+          "summary": "今年春季清洁能源发展取得历史性突破",
           "keyInsights": [
-            "清洁能源加速"
+            " renewables growth accelerating"
           ]
         },
         {
-          "title": "���克萨斯州太阳能将超越煤炭",
-          "summary": "EIA预测2026年太阳能成为主要发电来源",
+          "title": "氢能储存成为绿色替代方案",
+          "summary": "太阳能制氢技术持续发展",
           "keyInsights": [
-            "能源转型里程碑"
+            "绿氢储能潜力显现"
           ]
         },
         {
-          "title": "中国风电企业欧洲扩张",
-          "summary": "明阳智能正在欧洲寻找市场机会",
+          "title": "韩国海上风电招标",
+          "summary": "3.6GW投标容量显示市场热情",
           "keyInsights": [
-            "中国新能源出海"
+            "亚洲海上风电加速"
           ]
         }
       ],
