@@ -1,38 +1,35 @@
 {
-  "date": "2026-05-20",
-  "overallSummary": "AI行业竞争格局重塑，微软与OpenAI重组为竞争对手创造机遇；英伟达发布Blackwell Ultra芯片推动AI算力升级；可再生能源创纪录增长成为能源转型里程碑。",
+  "date": "2026-05-21",
+  "overallSummary": "AI领域巨头联手成立安全工作组深化合作，半导体技术持续突破，英伟达发布新一代AI芯片，可再生能源发电创历史新高。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI行业整合加速，科技巨头形成新的竞合关系",
+      "categorySummary": "AI企业通过数据驱动商业决策，科技巨头深化投资布局。",
       "keyPoints": [
-        "微软与OpenAI重组条款为Anthropic和Google创造发展空间",
-        "四大AI公司联合成立AI安全组织Frontier Model Forum",
-        "AI软件正在改变企业决策流程"
+        "微软、谷歌、OpenAI、Anthropic联手成立AI安全工作组",
+        "AI通过数据分析辅助商业决策，简化决策流程",
+        "科技巨头通过投资深化AI布局"
       ],
       "news": [
         {
-          "title": "微软与OpenAI合作重组为Anthropic和Google打开大门",
-          "summary": "微软与OpenAI关系调整，400亿美元支持条款重新谈判",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立智能体工作组",
+          "summary": "四大AI公司联合成立AI安全工作组，前沿模型论坛启动",
           "keyInsights": [
-            "Anthropic获Google投资支持",
-            "AI行业竞争格局面临重塑"
-          ]
-        },
-        {
-          "title": "四大AI公司成立Frontier Model Forum安全组织",
-          "summary": "Anthropic、谷歌、微软和OpenAI联合成立AI安全组织",
-          "keyInsights": [
-            "建立行业安全标准",
-            "促进AI负责任发展"
+            "行业头部企业联合制定AI安全标准"
           ]
         },
         {
           "title": "人工智能将如何改变企业",
-          "summary": "AI软件通过数据综合分析优化企业决策流程",
+          "summary": "AI软件获取数据并呈现行动方案，简化商业决策",
           "keyInsights": [
-            "AI赋能商业决策",
-            "提升运营效率"
+            "AI辅助决策成为企业数字化转型关键"
+          ]
+        },
+        {
+          "title": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+          "summary": "微软持有OpenAI约27%股份，谷歌持有Anthropic约14%",
+          "keyInsights": [
+            "科技巨头通过资本绑定AI初创公司"
           ]
         }
       ],
@@ -40,147 +37,26 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达新一代AI芯片发布，算力竞争进入新阶段",
-      "keyPoints": [
-        "英伟达Blackwell Ultra和Rubin芯片正式发布",
-        "出口限制下英伟达将推中国特供版芯片",
-        "AI工厂时代对算力需求激增"
-      ],
-      "news": [
-        {
-          "title": "英伟达发布Blackwell Ultra与Vera Rubin AI芯片",
-          "summary": "英伟达推出下一代AI芯片，2026年晚些时候出货",
-          "keyInsights": [
-            "Blackwell Ultra专为AI工厂设计",
-            "Rubin为下一代GPU架构"
-          ]
-        },
-        {
-          "title": "深入解析NVIDIA Blackwell Ultra：驱动AI工厂时代的芯片",
-          "summary": "Blackwell Ultra在AI加速领域实现重大性能飞跃",
-          "keyInsights": [
-            "支持万亿参数模型训练",
-            "NVLink高速互联优化扩展"
-          ]
-        },
-        {
-          "title": "英伟达在美方出口限制后将在中国推出更廉价的Blackwell AI芯片",
-          "summary": "英伟达为中国市场定制低成本Blackwell方案",
-          "keyInsights": [
-            "规避出口限制",
-            "抢占中国市场"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
-      "name": "环保能源",
-      "categorySummary": "可再生能源迎来历史性增长期，清洁能源转型加速",
-      "keyPoints": [
-        "太阳能和风能发电量创历史新高",
-        "可再生能源成为最便宜的能源形式",
-        "绿色氢能与电池储能技术持续发展"
-      ],
-      "news": [
-        {
-          "title": "能源革命势不可挡：太阳能和风能创纪录",
-          "summary": "清洁能源投资激增，能源转型趋势明显",
-          "keyInsights": [
-            "可再生能源成本优势凸显",
-            "全球清洁能源投资加速"
-          ]
-        },
-        {
-          "title": "可再生能源迎来创纪录的春季",
-          "summary": "今年春季可再生能源发电量创历史新高",
-          "keyInsights": [
-            "风能和太阳能贡献增加",
-            "清洁能源技术成熟"
-          ]
-        },
-        {
-          "title": "电力的未来是风能和太阳能，新报告称加拿大落后了",
-          "summary": "报告显示风能和太阳能为最便宜能源，加拿大需加快转型",
-          "keyInsights": [
-            "可再生能源经济性优势",
-            "加拿大清洁能源占比不足9%"
-          ]
-        },
-        {
-          "title": "氢能储能：电池的绿色替代方案",
-          "summary": "氢气储存成为有前景的储能替代方案",
-          "keyInsights": [
-            "氢气可通过太阳能生产",
-            "副产物仅为水，环保无污染"
-          ]
-        }
-      ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临挑战，小型化游戏开发成为趋势",
-      "keyPoints": [
-        "AAA游戏高开发成本导致质量下滑",
-        "游戏行业向更小规模、更高质量转型",
-        "Xbox、任天堂、索尼联合推进游戏安全承诺"
-      ],
-      "news": [
-        {
-          "title": "前Nexon CEO认为：AAA游戏产业正在走向衰落",
-          "summary": "2024-2025年AAA游戏质量令人失望，产业面临危机",
-          "keyInsights": [
-            "开发成本过高",
-            "游戏质量与投入不成正比"
-          ]
-        },
-        {
-          "title": "AAA游戏终于证明游戏应该更小而非更大",
-          "summary": "游戏开发正朝小规模、高质量方向发展",
-          "keyInsights": [
-            "控制开发成本",
-            "提升创新和质量"
-          ]
-        },
-        {
-          "title": "Xbox联合任天堂和索尼更新安全游戏承诺",
-          "summary": "三大主机厂商更新游戏安全合作原则",
-          "keyInsights": [
-            "改善玩家安全体验",
-            "行业合作规范发展"
-          ]
-        }
-      ],
-      "id": "entertainment",
-      "icon": "🎮"
-    },
-    {
       "name": "商业财经",
-      "categorySummary": "全球市场在利率压力下波动，英国燃油税政策调整",
+      "categorySummary": "全球市场关注美股动态，利率环境维持低位。",
       "keyPoints": [
-        "美国股市在利率上升压力下下跌",
-        "英国财政大臣准备取消计划中的燃油税上调",
-        "IMF敦促英国坚持经济政策"
+        "全球市场关注美国股市和货币动态",
+        "大额定期存单利率达0.63%",
+        "华尔街日报提供最新财经和股票市场新闻"
       ],
       "news": [
         {
-          "title": "国际商务、世界新闻与全球股票市场分析",
-          "summary": "美国股市受利率上升压力影响下跌",
+          "title": "金融与市场",
+          "summary": "道琼斯指数、标普500指数最新动态",
           "keyInsights": [
-            "利率上升影响市场",
-            "全球市场波动加剧"
+            "美国主要股指持续受关注"
           ]
         },
         {
-          "title": "财政大臣雷切尔·里斯准备取消计划中的燃油税上调",
-          "summary": "英国应对生活成本的财政政策措施",
+          "title": "美国商业新闻",
+          "summary": "定期存单利率0.63%，���业信贷银行净利润下滑",
           "keyInsights": [
-            "减轻居民负担",
-            "刺激消费增长"
+            "金融产品利率维持低位"
           ]
         }
       ],
@@ -189,35 +65,32 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动汽车市场竞争加剧，中国市场进入淘汰赛阶段",
+      "categorySummary": "特斯拉FSD持续迭代，电动汽车充电设施建设加速。",
       "keyPoints": [
-        "比亚迪警告中国电动车行业进入淘汰赛",
-        "特斯拉FSD V14.3.3更新发布",
-        "Stellantis电动汽车接入特斯拉充电网络"
+        "特斯拉FSD v14是L2级驾驶辅助的重大突破",
+        "现代召回54,337辆伊兰特混动车型",
+        "电动汽车充电站建设持续推进"
       ],
       "news": [
         {
-          "title": "比亚迪董事长警告中国电动车行业进入淘汰赛",
-          "summary": "比亚迪利润下降19%，弱势玩家将被淘汰",
+          "title": "特斯拉FSD新闻和统计数据",
+          "summary": "特斯拉2026年春季软件更新，全新自动驾驶应用",
           "keyInsights": [
-            "价格战加剧",
-            "行业整合加速"
+            "FSD系统持续迭代升级"
           ]
         },
         {
-          "title": "特斯拉 FSD 新闻、软件更新、发布说明和统计数据",
-          "summary": "特斯拉发布FSD V14.3.3春季更新",
+          "title": "现代召回伊兰特混动车型",
+          "summary": "现代召回54,337辆伊兰特混动，因动力控制单元火灾风险",
           "keyInsights": [
-            "FSD功能持续迭代",
-            "自动驾驶能力提升"
+            "动力系统安全隐患引发大规模召回"
           ]
         },
         {
-          "title": "Stellantis电动汽车现在可接入特斯拉充电网络",
-          "summary": "Stellantis与特斯拉达成充电网络���作",
+          "title": "梅赛德斯-AMG GT四门轿跑纯电版",
+          "summary": "搭载1169马力纯电版AMG GT四门轿跑发布",
           "keyInsights": [
-            "充电基础设施共享",
-            "扩大用户覆盖范围"
+            "高性能纯电轿车市场持续扩大"
           ]
         }
       ],
@@ -225,28 +98,67 @@
       "icon": "🚗"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药物市场高速增长，银屑病关节炎治疗有新进展",
+      "name": "半导体芯片",
+      "categorySummary": "AI芯片成为行业增长核心驱动力���",
       "keyPoints": [
-        "GLP-1药物市场规模预计2035年达1327.9亿美元",
-        "UCB公司Bimzelx在头对头试验中优于AbbVie的Skyrizi",
-        "抗体药物偶联物领域有新进展"
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+        "数据中心AI芯片预计贡献约一半行业营收",
+        "英伟达为中国市场推出更便宜的AI芯片"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场规模到2035年将达到1327.9亿美元",
-          "summary": "GLP-1市场复合年增长率达9.63%",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "Blackwell Ultra今年发货，Vera Rubin为下一代GPU",
           "keyInsights": [
-            "减肥药物需求旺盛",
-            "诺和诺德和礼来主导市场"
+            "英伟达加速AI芯片迭代"
           ]
         },
         {
-          "title": "UCB公布Bimzelx在银屑病关节炎头对头试验中战胜Skyrizi的结果",
-          "summary": "Bimzelx在49%患者中实现疾病活动度降低，对照组38%",
+          "title": "2026年全球半导体行业展望",
+          "summary": "AI芯片占数据中心营收约一半，市场风险敞口较大",
           "keyInsights": [
-            "头对头试验显示优效性",
-            "自身免疫疾病治疗进展"
+            "AI芯片驱动半导体行业增长"
+          ]
+        },
+        {
+          "title": "NVIDIA Blackwell专为超大规模AI推理",
+          "summary": "Blackwell架构成为AI革命主导力量",
+          "keyInsights": [
+            "AI推理芯片需求激增"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场规模预计大幅增长。",
+      "keyPoints": [
+        "GLP-1激动剂市场从138亿美元增至488亿美元",
+        "抗体药物偶联物取得重大进展",
+        "2026年GLP-1市场规模因价格下降等因素大幅增长"
+      ],
+      "news": [
+        {
+          "title": "GLP-1受体激动剂减肥药市场规模",
+          "summary": "2024年市场规模138.4亿美元，预计2030年达488.4亿",
+          "keyInsights": [
+            "减肥药市场高速增长"
+          ]
+        },
+        {
+          "title": "减肥药市场供需格局演变",
+          "summary": "2026年因价格下降、老年人用药等因素市场大幅增长",
+          "keyInsights": [
+            "价格下降推动药物可及性提升"
+          ]
+        },
+        {
+          "title": "今日生物制药简报",
+          "summary": "抗体药物偶联物重大进展，早期HER2阳性乳腺癌治疗突破",
+          "keyInsights": [
+            "ADC药物研发持续突破"
           ]
         }
       ],
@@ -255,40 +167,98 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列传闻曝光，屏下Face ID和AI功能成为焦点",
+      "categorySummary": "iPhone 18 Pro配置曝光，移动AI功能成为焦点。",
       "keyPoints": [
-        "iPhone 18 Pro可能配备屏下Face ID",
-        "iOS 27将添���AI写作工具和更智能的快捷指令",
-        "iPhone 18预计将有咖啡色、紫色和勃艮第红三种新配色"
+        "iPhone 18 Pro预计电池续航大幅提升，支持常亮显示",
+        "iOS 27将加入AI写作工具和更智能的快捷指令",
+        "OnePlus Ace 6 Ultra配备创纪录电池容量"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro 传闻汇总：5 大最重磅泄密可信度评级",
-          "summary": "iPhone 18 Pro将配备屏下Face ID等多种升级",
+          "title": "iPhone 18 Pro传闻汇总",
+          "summary": "5大泄露信息：新配色、Face ID升级、电池续航提升",
           "keyInsights": [
-            "屏下技术应用",
-            "Pro系列独家功能"
+            "iPhone 18 Pro多项升级值得期待"
           ]
         },
         {
-          "title": "iOS 27据传将添加AI写作工具、更智能的快捷指令和动态壁纸",
-          "summary": "iOS系统将全面融入AI功能",
+          "title": "iPhone 18传闻与发布日期",
+          "summary": "iPhone 18 Pro/Pro Max 9月发布，首款折叠屏设备计划中",
           "keyInsights": [
-            "AI写作辅助",
-            "系统级AI集成"
+            "苹果将推出折叠屏设备"
           ]
         },
         {
-          "title": "iPhone 18：我们对苹果下一代旗舰手机的了解",
-          "summary": "iPhone 18可能推出三种新颜色：咖啡色、紫色和勃艮第红",
+          "title": "iOS 27最新资讯",
+          "summary": "AI写作工具、更智能快捷指令、动态壁纸",
           "keyInsights": [
-            "新配色方案",
-            "设计创新"
+            "苹果全面拥抱AI功能"
           ]
         }
       ],
       "id": "smartphone",
       "icon": "📱"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "AAA游戏开发面临挑战，安全游戏成为行业共识。",
+      "keyPoints": [
+        "AAA游戏开发成本高企，游戏需做得更小",
+        "微软、索尼、任天堂联合承诺更安全游戏",
+        "PC游戏市场因AAA产业变化获机遇"
+      ],
+      "news": [
+        {
+          "title": "3A游戏需做得更小而非更大",
+          "summary": "游戏开发成本增加，开发时间超预期，创新受限",
+          "keyInsights": [
+            "游戏行业追求精简高效开发模式"
+          ]
+        },
+        {
+          "title": "微软、索尼、任天堂联合声明",
+          "summary": "三大平台合作改善玩家安全，共同发布安全原则",
+          "keyInsights": [
+            "游戏安全成为行业共同责任"
+          ]
+        }
+      ],
+      "id": "entertainment",
+      "icon": "🎮"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "可再生能源发电创历史新高，绿色氢能技术受关注。",
+      "keyPoints": [
+        "2026年春季可再生能源发电量创历史新高",
+        "全球太阳能发电增长31%，超越煤炭",
+        "绿色氢能成为脱碳关键技术创新"
+      ],
+      "news": [
+        {
+          "title": "可再生能源发电创历史新高",
+          "summary": "今年春季风能、太阳能发电创纪录增长",
+          "keyInsights": [
+            "清洁能源发展持续加速"
+          ]
+        },
+        {
+          "title": "全球太阳能和风能发电增长31%",
+          "summary": "可再生能源发电增速超电力需求增速",
+          "keyInsights": [
+            "新能源超越传统能源趋势明显"
+          ]
+        },
+        {
+          "title": "绿色氢能和电池储能系统",
+          "summary": "新南威尔士州启动2.5吉瓦风能和太阳能招标",
+          "keyInsights": [
+            "大规模储能项目持续推进"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
     }
   ]
 }
