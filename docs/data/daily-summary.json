@@ -1,116 +1,78 @@
 {
-  "date": "2026-05-22",
-  "overallSummary": "AI行业巨头加速重组合作，微软OpenAI调整格局为Anthropic和Google打开发展空间；英伟达发布新一代AI芯片持续领跑；可再生能源领域传来喜讯，全球风能和太阳能发电量4月首超天然气。",
+  "date": "2026-05-23",
+  "overallSummary": "AI行业迎重磅整合，微软OpenAI重组催生新联盟；Nvidia发布新一代AI芯片抢占算力高地；可再生能源发电量创历史新高，GLP-1减肥药市场持续爆发。",
   "categories": [
     {
-      "name": "AI行业动态",
-      "categorySummary": "AI行业格局重塑，科技巨头加速竞合与标准化建设",
+      "name": "AI行业",
+      "categorySummary": "科技巨头加速竞合，AI代理标准化联盟正式成立。",
       "keyPoints": [
-        "微软与OpenAI重组为Anthropic和Google带来新机遇",
-        "AI代理联盟成立，由Linux基金会支持创建开源标准",
-        "谷歌向Anthropic投资20亿美元开发Claude 2竞品"
+        "微软OpenAI重组为Anthropic和Google让出竞争空间",
+        "四大AI公司联手成立Agentic AI联盟，制定开源代理标准",
+        "Google向Anthropic追加20亿美元投资"
       ],
       "news": [
         {
-          "title": "微软与OpenAI的重组��Anthropic和Google打开了大门",
-          "summary": "微软OpenAI协议重写为Anthropic和Google带来战略机遇",
+          "title": "微软OpenAI重组为Anthropic和谷歌打开大门",
+          "summary": "微软与OpenAI关系调整，竞争格局重新洗牌。",
           "keyInsights": [
-            "微软战略调整释放竞争空间"
+            "Anthropic获更多市场机会"
           ]
         },
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手组建AI代理联盟",
-          "summary": "四大巨头联合Linux基金会推动AI代理开源标准",
+          "title": "四大AI公司成立Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI、Anthropic联合成立AI代理标准联盟。",
           "keyInsights": [
-            "行业标准化进程加速"
-          ]
-        },
-        {
-          "title": "谷歌与Anthropic战略合作",
-          "summary": "谷歌投资20亿美元推进Claude 2开发",
-          "keyInsights": [
-            "AI竞争格局多元化"
+            "Linux基金会支持，行业标准化加速"
           ]
         }
-      ],
-      "id": "ai_industry",
-      "icon": "🧠"
+      ]
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达持续领跑AI芯片市场，新产品线密集发布",
+      "name": "半导体",
+      "categorySummary": "Nvidia发布Blackwell Ultra和Rubin，AI芯片军备竞赛持续。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin双系列AI芯片",
-        "Blackwell Ultra将于今年晚些时候出货",
-        "英伟达为中国市场定制更便宜的Blackwell芯片"
+        "Nvidia发布Blackwell Ultra和Vera Rubin下一代GPU",
+        "AI芯片将占2026年半导体营收约50%",
+        "Nvidia计划为中国市场推出特供廉价Blackwell芯片"
       ],
       "news": [
         {
-          "title": "英伟达宣布推出Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Nvidia发布Blackwell Ultra今年出货，Vera Rubin为下一代GPU",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "黄仁勋发布新一代AI芯片系列，年内发货。",
           "keyInsights": [
-            "AI算力持续升级"
+            "算力密度再获突破"
           ]
         },
         {
-          "title": "英伟达将为中国推出更便宜的Blackwell AI芯片",
-          "summary": "出口限制背景下英伟达调整中国区产品策略",
+          "title": "2026年全球半导体行业展望",
+          "summary": "AI芯片驱动行业，数据中心业务贡献半壁营收。",
           "keyInsights": [
-            "市场适应策略"
+            "芯片市场高度依赖AI"
           ]
         }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD V14发布，电动汽车智能化持续推进",
-      "keyPoints": [
-        "特斯拉FSD V14发布，春季软件更新推出",
-        "FSD V14为目前最优秀的L2级驾驶辅助系统",
-        "中国电动车市场保持快速发展"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD新闻、软件更新、发行说明",
-          "summary": "特斯拉发布2026年春季更新，全新自动驾驶应用",
-          "keyInsights": [
-            "智能驾驶持续迭代"
-          ]
-        },
-        {
-          "title": "我体验了特斯拉最新FSD V14版",
-          "summary": "FSD V14是渐进式改进，当前最令人印象深刻的L2级系统",
-          "keyInsights": [
-            "L2级自动驾驶领先水平"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
+      ]
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场高速增长，减肥药领域前景广阔",
+      "categorySummary": "GLP-1��肥药市场高速扩张，中国市场争夺加剧。",
       "keyPoints": [
-        "GLP-1药物市场规模预计2035年突破1327.9亿美元",
-        "2026年市场规模约605亿美元，复合增长率9.63%",
-        "诺和诺德和礼来主导肥胖治疗药物市场"
+        "GLP-1减肥药市场预计2030年达488亿美元",
+        "2026年因价格下降和医保覆盖扩大将显著增长",
+        "Anthropic在AI+药物研发领域加速布局"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场规模预计到2035年将突破1327.9亿美元",
-          "summary": "GLP-1药物市场从605亿美元增至1327.9亿美元",
+          "title": "GLP-1受体激动剂市场规模报告",
+          "summary": "2024年138亿美元增至2030年488亿美元，CAGR超23%。",
           "keyInsights": [
-            "减肥药市场爆发式增长"
+            "司美格鲁肽和替尔泊肽领跑"
           ]
         },
         {
-          "title": "GLP-1受体激动剂与肥胖市场分析",
-          "summary": "诺和诺德和礼来主导全球GLP-1市场",
+          "title": "2026年减肥药物供需演变",
+          "summary": "价格下降和老年群体覆盖推动市场爆发。",
           "keyInsights": [
-            "双寡头格局"
+            "市场渗透率将大幅提升"
           ]
         }
       ],
@@ -118,80 +80,19 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro泄露信息曝光，新功能和配置引关注",
-      "keyPoints": [
-        "iPhone 18 Pro或将有新配色和Face ID升级",
-        "确认电池续航更大，常亮显示功能",
-        "市场关注是否跳过iPhone 17"
-      ],
-      "news": [
-        {
-          "title": "iPhone 18 Pro 传闻汇总：5个最可能实现的泄露",
-          "summary": "iPhone 18 Pro新配色、Face ID升级等五大爆料",
-          "keyInsights": [
-            "迭代创新可期"
-          ]
-        },
-        {
-          "title": "iPhone 18 Pro Max泄露曝光",
-          "summary": "确认电池续航更大，常亮显示确认",
-          "keyInsights": [
-            "续航能力提升"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
-    },
-    {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临困境，行业增长放缓",
-      "keyPoints": [
-        "前Nexon CEO认为AAA游戏产业正在衰落",
-        "2024-2025年多款AAA游戏表现令人失望",
-        "游戏产业勉强实现1%增长，老牌工作室被迫转型"
-      ],
-      "news": [
-        {
-          "title": "前Nexon CEO认为AAA游戏产业正在衰落",
-          "summary": "2024-2025年AAA游戏从失望到糟糕，产业危机显现",
-          "keyInsights": [
-            "质量危机蔓延"
-          ]
-        },
-        {
-          "title": "AAA游戏工作室必须转型",
-          "summary": "贝恩报告指出老牌工作室面临生存压力",
-          "keyInsights": [
-            "转型压力巨大"
-          ]
-        }
-      ],
-      "id": "entertainment",
-      "icon": "🎮"
-    },
-    {
       "name": "环保能源",
-      "categorySummary": "可再生能源里程碑，太阳能和风能首超天然气发电",
+      "categorySummary": "风光发电量创纪录，绿色氢能成为储能新方向。",
       "keyPoints": [
-        "4月全球风能和太阳能发电量首次超过天然气",
-        "全球太阳能发电增长31%，可再生能源超越煤炭",
-        "绿色氢能和电池储能技术快速发展"
+        "今年春季可再生能源发电量创历史新高",
+        "太阳能-绿色氢能系统成为储能技术新方向",
+        "清洁能源投资持续升温"
       ],
       "news": [
         {
-          "title": "全球太阳能发电增长31% 可再生能源超越煤炭",
-          "summary": "今年上半年全球太阳能和风能增速超电力需求增长",
+          "title": "可再生能源发电量创纪录",
+          "summary": "风能和太阳能发电量创历史峰值。",
           "keyInsights": [
-            "清洁能源加速替代"
-          ]
-        },
-        {
-          "title": "清洁能源新闻",
-          "summary": "4月全球风能和太阳能发电量首超天然气",
-          "keyInsights": [
-            "能源转型里程碑"
+            "清洁能源替代加速"
           ]
         }
       ],
@@ -199,24 +100,64 @@
       "icon": "🌿"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "市场整体平淡，墨西哥通胀高于预期引发关注",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD v14增量升级，2026春季更新即将推送。",
       "keyPoints": [
-        "墨西哥通胀高于预期，利率会议即将召开",
-        "全球市场缺乏明确方向",
-        "投资者观望情绪浓厚"
+        "特斯拉FSD v14为L2级别增量改进",
+        "2026年春季软件更新包含全新自动驾驶应用",
+        "EV行业 Rivian、Lucid等竞争持续"
       ],
       "news": [
         {
-          "title": "市场动态",
-          "summary": "墨西哥通胀数据偏高，利率政策面临调整压力",
+          "title": "特斯拉FSD v14测试结果",
+          "summary": "被形容为令人震撼的L2级自动驾驶增量升级。",
           "keyInsights": [
-            "拉美市场波动"
+            "辅助驾驶能力稳步提升"
           ]
         }
       ],
-      "id": "business_finance",
-      "icon": "📊"
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "AAA游戏产业陷入困境，工作室面临生存危机。",
+      "keyPoints": [
+        "前Nexon CEO称AAA游戏产业正在消亡",
+        "2024-2025年AAA游戏口碑普遍下滑",
+        "Xbox确认下一代主机计划"
+      ],
+      "news": [
+        {
+          "title": "AAA游戏产业走向消亡",
+          "summary": "行业增长停滞1%，大量AAA游戏令人失望。",
+          "keyInsights": [
+            "行业急需转型"
+          ]
+        }
+      ],
+      "id": "entertainment",
+      "icon": "🎮"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18传闻曝光，折叠屏和可变光圈成亮点。",
+      "keyPoints": [
+        "iPhone 18 Pro将首次配备折叠屏设计",
+        "可变光圈摄像头成为新泄露焦点",
+        "政府被曝利用推送通知监视用户"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18传闻：折叠屏和摄像头升级",
+          "summary": "苹果迄今最具野心产品线，9月发布。",
+          "keyInsights": [
+            "折叠屏首次亮相"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
     }
   ]
 }
