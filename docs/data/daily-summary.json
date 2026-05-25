@@ -1,35 +1,35 @@
 {
-  "date": "2026年5月25日星期一",
-  "overallSummary": "AI领域巨头联盟频现，微软、英伟达与Anthropic达成战略合作，科技巨头加速布局AI代理标准；汽车电动化持续推进，Stellantis宣布600亿欧元电动化计划。",
+  "date": "2026-05-26",
+  "overallSummary": "AI领域重磅合作频出，巨头联盟推动智能体标准；中国电动汽车全球扩张加速；GLP-1减肥药市场预测突破1800亿美元。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI战略联盟，产业格局重塑",
+      "categorySummary": "科技巨头加速AI生态整合，战略联盟与标准制定成为竞争焦点。",
       "keyPoints": [
-        "微软、英伟达与Anthropic达成战略合作，Claude将扩展至Azure",
-        "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
-        "AI正在变革企业决策流程，软件可评估潜在后果并优化决策"
+        "微软、NVIDIA与Anthropic达成战略合作",
+        "Agentic AI联盟成立，聚焦智能体开源标准",
+        "AI软件将重塑企业决策流程"
       ],
       "news": [
         {
-          "title": "微软、英伟达和Anthropic宣布战略合作",
-          "summary": "三方达成战略合作，Anthropic将在Azure扩展Claude，NVIDIA和Microsoft将投资Anthropic",
+          "title": "微软、英伟达与Anthropic战略合作",
+          "summary": "Anthropic Claude将扩展至Azure，NVIDIA与微软联合投资。",
           "keyInsights": [
-            "AI基础模型竞争进入生态绑定阶段"
+            "AI安全与商业化并重"
           ]
         },
         {
-          "title": "科技巨头联手成立Agentic AI联盟",
-          "summary": "微软、谷歌、OpenAI和Anthropic联合成立由Linux基金会支持的AI代理开源标准组织",
+          "title": "Agentic AI联盟成立",
+          "summary": "微软、谷歌、OpenAI、Anthropic联手Linux基金会制定开源标准。",
           "keyInsights": [
-            "开源标准争夺成为AI竞争新焦点"
+            "智能体互操作性标准加速"
           ]
         },
         {
-          "title": "谷歌CEO谈毕业生与AI未来",
-          "summary": "皮查伊表示质疑AI的毕业生将塑造AI未来并承受后果",
+          "title": "AI将改变企业决策",
+          "summary": "AI软件可综合数据提供行动方案，优化业务流程决策。",
           "keyInsights": [
-            "AI伦理与责任讨论向教育领域延伸"
+            "人机协同决策成趋势"
           ]
         }
       ],
@@ -38,32 +38,32 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "传统车企加速电动化，特斯拉FSD持续迭代",
+      "categorySummary": "中国车企全面崛起，电动汽车全球竞争格局重塑。",
       "keyPoints": [
-        "Stellantis发布600亿欧元FaSTLAne 2030计划，推29款BEV",
-        "欧洲投资2000亿欧元发展电动汽车",
-        "特斯拉FSD v14发布，AI可将电池寿命延长23%"
+        "比亚迪、小米、奇瑞销量激增",
+        "中国电动车全球主导地位确立",
+        "特斯拉面临多品牌竞争压力"
       ],
       "news": [
         {
-          "title": "Stellantis发布600亿欧元电动化计划",
-          "summary": "FaSTLAne 2030计划推出29款BEV、15款PHEV/REEV，2027年推出STLA One平台",
+          "title": "比亚迪、小米、奇瑞全球需求激增",
+          "summary": "先进技术融入车型，全球销量持续攀升。",
           "keyInsights": [
-            "传统车企电动化转型进入加速期"
+            "中国品牌技术溢价提升"
           ]
         },
         {
-          "title": "特斯拉FSD v14测试报告",
-          "summary": "FSD v14为L2级别增量改进，是迄今最令人印象深刻的版本",
+          "title": "中国电动汽车占据主导",
+          "summary": "从比亚迪到小米，中国车企全方位领跑。",
           "keyInsights": [
-            "自动驾驶技术持续迭代但仍未突破L2瓶颈"
+            "全球市场格局重构中"
           ]
         },
         {
-          "title": "AI延长电动汽车电池寿命",
-          "summary": "查尔莫斯研究显示人工智能可将电动汽车电池寿命延长23%",
+          "title": "特斯拉竞争对手销量增长",
+          "summary": "比亚迪、吉利、小米4月交付量上升。",
           "keyInsights": [
-            "AI赋能电池管理成为新突破口"
+            "新车型驱动增长"
           ]
         }
       ],
@@ -72,25 +72,32 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布新一代AI芯片，地缘政治影响芯片供应",
+      "categorySummary": "AI芯片驱动行业增长，代工竞争格局生变。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Rubin AI芯片",
-        "美国出口限制后Nvidia将面向中国推出更便宜的Blackwell芯片",
-        "谷歌新TPU与GPU竞争加剧"
+        "AI芯片预计贡献2026年行业收入50%",
+        "台积电、英特尔、三星竞逐1.4nm制程",
+        "英特尔挑战三星代工第二地位"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Rubin芯片",
-          "summary": "黄仁勋公布Blackwell Ultra系列将于今年晚些时候出货，同时展示Rubin下一代GPU",
+          "title": "2026年AI芯片驱动半导体增长",
+          "summary": "数据中心AI芯片将贡献约一半行业收入。",
           "keyInsights": [
-            "AI芯片性能竞赛持续升级"
+            "AI需求主导市场"
           ]
         },
         {
-          "title": "Nvidia面向���国推更便宜Blackwell芯片",
-          "summary": "在美国出口限制之后，Nvidia将面向中国推出更便宜的Blackwell AI芯片",
+          "title": "前沿代工厂1.4nm路线图",
+          "summary": "台积电、英特尔、三星公布先进制程规划。",
           "keyInsights": [
-            "出口管制催生定制化芯片市场"
+            "先进制程竞争白热化"
+          ]
+        },
+        {
+          "title": "英特尔挑战三星代工业务",
+          "summary": "苹果、英伟达部分订单转移至英特尔。",
+          "keyInsights": [
+            "台积电溢出效应显现"
           ]
         }
       ],
@@ -99,25 +106,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场高速增长，创新药物研发持续推进",
+      "categorySummary": "GLP-1减肥药市场爆发式增长，肿瘤学持续突破。",
       "keyPoints": [
-        "GLP-1药物市场将从2026年605亿美元增长至2035年1327.9亿美元",
-        "Parabilis Medicines提交美国IPO申请",
-        "Cytiva推出下一代Biacore 8系列系统加速药物发现"
+        "GLP-1市场2034年预计达1800亿美元",
+        "ASCO 2026聚焦精准肿瘤学",
+        "诺和诺德与礼来主导竞争"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场规模预测",
-          "summary": "市场规模预计从2026年605亿美元增至2035年1327.9亿美元，复合年增长率9.63%",
+          "title": "GLP-1市场爆发式增长",
+          "summary": "减肥药市场规模将从138亿增至488亿美元。",
           "keyInsights": [
-            "代谢疾病药物市场进入爆发期"
+            "代谢疾病治疗成新蓝海"
           ]
         },
         {
-          "title": "Parabilis Medicines提交IPO申请",
-          "summary": "生物制药公司Parabilis Medicines提交美国IPO申请",
+          "title": "ASCO 2026肿瘤学突破",
+          "summary": "精准肿瘤学与下一代癌症疗法成焦点。",
           "keyInsights": [
-            "生物医药IPO市场逐步回暖"
+            "个体化治疗加速"
+          ]
+        },
+        {
+          "title": "GLP-1市场未来展望",
+          "summary": "诺和诺德与礼来主导全球竞争格局。",
+          "keyInsights": [
+            "双寡头垄断形成"
           ]
         }
       ],
@@ -126,25 +140,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列传闻密集，苹果产品线迎来重大更新",
+      "categorySummary": "iPhone 18 Pro即将发布，屏下技术或成亮点。",
       "keyPoints": [
-        "iPhone 18 Pro泄露预示重大设计变化，灵动岛可能改版",
-        "iPhone 18可能首次推出折叠屏版本",
-        "亚马逊否认AI手机传闻"
+        "iPhone 18 Pro有望采用屏下Face ID",
+        "新配色包括咖啡色、紫色、勃艮第红",
+        "苹果迎近年来最大幅度升级"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro 5大泄露消息",
-          "summary": "涵盖新配色、Face ID升级、可变光圈摄像头等重大变化",
+          "title": "iPhone 18 Pro规格曝光",
+          "summary": "屏下Face ID技术，新配色方案。",
           "keyInsights": [
-            "苹果创新周期缩短，产品迭代加速"
-          ]
-        },
-        {
-          "title": "iPhone 18或首次推出折叠屏",
-          "summary": "iPhone 18阵容可能包括折叠屏首次亮相",
-          "keyInsights": [
-            "折叠屏从安卓独享进入苹果时代"
+            "全面屏设计突破"
           ]
         }
       ],
@@ -153,25 +160,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临挑战，独立游戏崛起",
+      "categorySummary": "游戏安全标准推进，电竞赛事体系完善。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏行业正在衰落",
-        "56%的PC游戏收入来自榜单前20名之外",
-        "Xbox与任天堂合作更新安全游戏承诺"
+        "Xbox、索尼、任天堂共推安全游戏承诺",
+        "CS Major赛事规模扩至32支队伍",
+        "电竞选手收入排行持续更新"
       ],
       "news": [
         {
-          "title": "AAA游戏主导地位削弱",
-          "summary": "Newzoo报告显示56%的PC游戏收入流向榜单前20以外",
+          "title": "安全游戏承诺更新",
+          "summary": "三大主机平台联合提升游戏安全标准。",
           "keyInsights": [
-            "游戏市场去中心化趋势明显"
+            "行业自律加速"
           ]
         },
         {
-          "title": "前Nexon CEO论AAA游戏衰落",
-          "summary": "金正柱表示AAA游戏开发成本高企，玩家期待上升，行业需彻底改革",
+          "title": "CS Major锦标赛",
+          "summary": "2025年起赛事扩军至32支队伍。",
           "keyInsights": [
-            "大厂模式面临成本与质量双重挑战"
+            "电竞生态规范化"
           ]
         }
       ],
@@ -180,25 +187,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源持续突破，储能技术多元化发展",
+      "categorySummary": "可再生能源创新纪录，氢储能成为新方向。",
       "keyPoints": [
-        "今年春季可再生能源创下纪录",
-        "绿色氢能和电池储能系统成为投资热点",
-        "氢能储能作为绿色替代方案受关注"
+        "2026年春季可再生能源创历史新高",
+        "绿色氢能与电池储能技术并行",
+        "太阳能和风能扩张加速"
       ],
       "news": [
         {
-          "title": "可再生能源创下纪录",
-          "summary": "今年春季风能和太阳能等可再生能源发电量创历史新高",
+          "title": "可再生能源创纪录季节",
+          "summary": "太阳能和风能扩张创新高。",
           "keyInsights": [
-            "清洁能源渗透率持续提升"
+            "清洁能源替代加速"
           ]
         },
         {
-          "title": "氢能储能成为电池替代方案",
-          "summary": "氢气储存解决方案成为有前景的替代方案，从太阳能产生氢气，发电只产生水",
+          "title": "氢能储能突破",
+          "summary": "绿色氢气作为电池替代方案受关注。",
           "keyInsights": [
-            "长时储能技术路线竞争加剧"
+            "长时储能解决路径"
           ]
         }
       ],
