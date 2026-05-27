@@ -1,28 +1,35 @@
 {
-  "date": "2026-05-27",
-  "overallSummary": "AI行业形成代理式AI联盟新格局，半导体领域英伟达发布新一代AI芯片，电动汽车市场迎来法拉利首款纯电车型，行业竞争加剧。",
+  "date": "2026年5月28日星期四",
+  "overallSummary": "AI领域科技巨头加速整合，Nvidia发布新一代AI芯片；生物医药GLP-1市场规模预计爆发；iPhone 18与特斯拉FSD v14成焦点。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI联盟布局，代理式AI成竞争焦点。",
+      "categorySummary": "科技巨头加速AI生态整合，成立开源Agentic AI联盟推动代理标准化。",
       "keyPoints": [
-        "微软与OpenAI重组为Anthropic和谷歌创造合作机会",
-        "四大科技公司组建代理式AI联盟",
-        "AI软件正在改变企业决策和业务流程"
+        "Microsoft、Google、OpenAI、Anthropic联手成立Agentic AI联盟",
+        "AI软件辅助企业优化决策，判断潜在后果",
+        "Anthropic深化与Google的AI芯片合作"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手组建代理式AI联盟",
-          "summary": "四大AI巨头首次联合，��同推动代理式AI生态建设。",
+          "title": "科技巨头成立Agentic AI联盟",
+          "summary": "四大AI公司联手Linux Foundation创建开源标准",
           "keyInsights": [
-            "AI行业从竞争走向竞合"
+            "推动AI代理互操作性标准"
           ]
         },
         {
-          "title": "微软-OpenAI重组为Anthropic和谷歌打开合作之门",
-          "summary": "微软与OpenAI协议重写，为其他AI公司创造市场空间。",
+          "title": "微软与OpenAI重组为Anthropic和Google打开大门",
+          "summary": "AI芯片合作格局重塑",
           "keyInsights": [
-            "AI市场格局正在重塑"
+            "竞争转向合作"
+          ]
+        },
+        {
+          "title": "AI改变企业决策方式",
+          "summary": "AI软件综合数据呈现行动方案",
+          "keyInsights": [
+            "辅助商业决策智能化"
           ]
         }
       ],
@@ -30,53 +37,26 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Rubin芯片，AI算力竞争持续升温。",
-      "keyPoints": [
-        "英伟达Blackwell Ultra将于今年晚些时候出货",
-        "下一代Vera Rubin GPU首次亮相",
-        "AI推动芯片短缺，长鑫存储吸引投资者关注"
-      ],
-      "news": [
-        {
-          "title": "英伟达宣布推出Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "黄仁勋公布新一代AI芯片路线图，Blackwell Ultra即将出货。",
-          "keyInsights": [
-            "AI芯片进入迭代加速期"
-          ]
-        },
-        {
-          "title": "AI推动芯片短缺，长鑫存储引发投资者兴趣",
-          "summary": "DRAM利润飙升，中国芯片自力更生趋势明显。",
-          "keyInsights": [
-            "中国半导体自主化进程加快"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "法拉利发布首款纯电车型，中国EV市场进入淘汰赛阶段。",
+      "categorySummary": "特斯拉FSD v14发布，固态电池领域有大动作。",
       "keyPoints": [
-        "法拉利Luce发布，首款全电动量产车",
-        "比亚迪董事长警告中国EV行业进入淘汰赛",
-        "特斯拉FSD v14推出，性能显著提升"
+        "特斯拉FSD v14是L2级增量改进",
+        "固态电池制造商ProLogium 38亿美元上市",
+        "特斯拉JD Power评分867分领跑"
       ],
       "news": [
         {
-          "title": "法拉利发布首款全电动量产车Luce",
-          "summary": "马拉内洛品牌正式迈入纯电时代。",
+          "title": "特斯拉FSD v14更新发布",
+          "summary": "春季软件更新带来全新自动驾驶体验",
           "keyInsights": [
-            "超豪华品牌全面电动化"
+            "最令人印象深刻的L2级改进"
           ]
         },
         {
-          "title": "比亚迪董事长警告：EV行业进入淘汰赛阶段",
-          "summary": "中国EV利润下降19%，弱势企业将被淘汰。",
+          "title": "ProLogium 38亿美元上市",
+          "summary": "固态电池制造商重大交易",
           "keyInsights": [
-            "中国EV市场整合加速"
+            "电池技术商业化加速"
           ]
         }
       ],
@@ -84,19 +64,51 @@
       "icon": "🚗"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，2035年将超1300亿美元。",
+      "name": "半导体芯���",
+      "categorySummary": "Nvidia发布Blackwell Ultra与Vera Rubin下一代GPU。",
       "keyPoints": [
-        "GLP-1药物市场年复合增长率达9.63%",
-        "诺和诺德和礼来主导肥胖治疗市场",
-        "肿瘤和罕见病领域临床数据积极"
+        "Blackwell Ultra即将发货",
+        "Vera Rubin为下一代GPU",
+        "AI存储芯片突破万亿美元市场"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场规模预计到2035年达1327.9亿美元",
-          "summary": "从605亿美元增长至1328亿美元，市场爆发在即。",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
+          "summary": "CEO黄仁勋透露新一代AI芯片",
           "keyInsights": [
-            "代谢疾病治疗成为医药增长引擎"
+            "AI算力持续突破"
+          ]
+        },
+        {
+          "title": "长鑫存储引发投资者关注",
+          "summary": "DRAM利润飙升推动中国芯片自给",
+          "keyInsights": [
+            "AI推动供应短缺"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场将达1800亿美元，ASCO大会聚焦精准肿瘤学。",
+      "keyPoints": [
+        "GLP-1市场2034年预计1800亿美元",
+        "ASCO大会展示精准肿瘤学突破",
+        "药价下降推动市场增长"
+      ],
+      "news": [
+        {
+          "title": "GLP-1市场预测",
+          "summary": "晨星报告：1800亿美元市场规模",
+          "keyInsights": [
+            "诺和诺德、礼来主导竞争"
+          ]
+        },
+        {
+          "title": "2026 ASCO大会前瞻",
+          "summary": "精准肿瘤学��下一代癌症疗法",
+          "keyInsights": [
+            "肿瘤治疗重大进展"
           ]
         }
       ],
@@ -104,39 +116,46 @@
       "icon": "🧬"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "全球市场关注财报季，杜邦股价跟随油价波动。",
+      "name": "智能手机",
+      "categorySummary": "iPhone 18传闻满天飞，芯片短缺或推高手机价格14%。",
       "keyPoints": [
-        "杜邦股价追随油价走势",
-        "6个月定期存单利率达0.63%",
-        "中国新市场股价承压下跌"
+        "iPhone 18或新增咖啡、紫色、酒红配色",
+        "Pro机型电池续航大幅提升",
+        "芯片短缺冲击市场"
       ],
       "news": [
         {
-          "title": "农业信贷净利润下滑，新任CEO已任命",
-          "summary": "农业领域信贷机构面临业绩压力。",
+          "title": "iPhone 18传闻汇总",
+          "summary": "苹果迄今最大胆产品线",
           "keyInsights": [
-            "农业金融面临调整"
+            "配色与续航为亮点"
+          ]
+        },
+        {
+          "title": "2026年智能手机价格将涨14%",
+          "summary": "芯片短缺冲击3万亿美元市场",
+          "keyInsights": [
+            "AI存储芯片需求激增"
           ]
         }
       ],
-      "id": "business_finance",
-      "icon": "📊"
+      "id": "smartphone",
+      "icon": "📱"
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业遭受质疑，独立游戏崛起呼声高涨。",
+      "categorySummary": "AAA游戏产业面临生存危机，多方呼吁转型。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏产业正在消亡",
-        "开发成本膨胀导致创新受限",
-        "Xbox、任天堂、索尼更新安全游戏承诺"
+        "前Nexon CEO认为AAA游戏产业消亡",
+        "2024-2025年大量AAA游戏令人失望",
+        "Xbox、任天堂、索尼共推安全游戏承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏产业正在消亡引热议",
-          "summary": "高成本长周期模式引发行业反思。",
+          "title": "AAA级游戏产业危机",
+          "summary": "贝恩报告：工作室亟需转型",
           "keyInsights": [
-            "游戏产业面临商业模式转型"
+            "高投入模式难以为继"
           ]
         }
       ],
@@ -145,43 +164,30 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "哥伦比亚新增1.8GW清洁能源，绿氢储能受关注。",
+      "categorySummary": "绿色氢能受关注，谷歌签署大型太阳能购电协议。",
       "keyPoints": [
-        "哥伦比亚备用容量拍卖获得1.8GW太阳能和风能",
-        "美国能源部拨款625万美元用于风力涡轮机研究",
-        "绿氢与电池储能集成优化成为趋势"
+        "Enlight与谷歌签200兆瓦太阳能PPA",
+        "绿色氢能成为电池储能替代方案",
+        "RWE获1.1吉瓦风电项目"
       ],
       "news": [
         {
-          "title": "氢能储能成为电池的绿色替代方案",
-          "summary": "氢气从太阳能中产生，发电仅产生水。",
+          "title": "谷歌购电协议",
+          "summary": "俄克拉荷马州200兆瓦太阳能",
           "keyInsights": [
-            "储能技术多元化发展"
+            "企业可再生能源采购增长"
+          ]
+        },
+        {
+          "title": "绿色氢能储能趋势",
+          "summary": "氢气从太阳能产生仅用水发电",
+          "keyInsights": [
+            "低碳能源转型关键"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18传闻升温，多项升级泄露。",
-      "keyPoints": [
-        "iPhone 17系列细节曝光",
-        "iPhone 18 Pro可能升级Face ID",
-        "新配色和屏幕技术成关注焦点"
-      ],
-      "news": [
-        {
-          "title": "iPhone 18传闻：目前已知的一切",
-          "summary": "距发布还有六个月，传闻已铺天盖地。",
-          "keyInsights": [
-            "苹果产品周期持续吸引关注"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
     }
   ]
 }
