@@ -1,66 +1,56 @@
 {
-  "date": "2026年5月30日",
-  "overallSummary": "AI领域竞争白热化，Anthropic估值达9650亿美元超越OpenAI；美国信用卡违约率创2011年来新高，债务危机引发关注；GLP-1减肥药市场预计激增至1328亿美元。",
+  "date": "2026-05-31",
+  "overallSummary": "AI巨头组建代理式AI联盟制定开源标准，Alphabet再加投100亿美元给Anthropic；Nvidia发布Blackwell Ultra和Vera Rubin芯片；美国可再生能源发电创纪录。",
   "categories": [
     {
       "name": "AI行业",
-      "categorySummary": "Anthropic估值飙升至9650亿美元超越OpenAI，与Google深化芯片合作，科技巨头AI格局重塑。",
+      "categorySummary": "科技巨头加速AI基础设施布局，代理式AI标准化进程启动。",
       "keyPoints": [
-        "Anthropic估值9650亿美元超越OpenAI",
-        "微软OpenAI合作重组，OpenAI获27%股份",
-        "Anthropic与Google深化AI芯片合作"
+        "微软、谷歌、OpenAI、Anthropic组建代理式AI联盟，Linux基金会支持制定开源标准",
+        "Alphabet计划向Anthropic再投资100亿美元，总额可能达400亿美元",
+        "OpenAI、Anthropic、谷歌、Meta、微软、Sequoia联手打造AI创业加速器"
       ],
       "news": [
         {
-          "title": "Anthropic估值飙升至9650亿美元",
-          "summary": "Anthropic在AI竞赛中超越OpenAI，估值达9650亿美元",
+          "title": "巨头组建代理式AI联盟",
+          "summary": "微软、谷歌、OpenAI和Anthropic联手成立Linux基金会支持的组织，将制定AI代理开源标准。",
           "keyInsights": [
-            "AI竞争格局生变，Anthropic成新领头羊"
+            "AI代理标准化进入实质推进阶段",
+            "开源标准将影响行业竞争格局"
           ]
         },
         {
-          "title": "微软与OpenAI合作重塑",
-          "summary": "微软-OpenAI重组为Anthropic和Google打开合作大门",
+          "title": "Alphabet加大对Anthropic投资",
+          "summary": "Alphabet计划向Anthropic追加投资100亿美元，总额上限或达400亿美元，谷歌股价小幅上涨。",
           "keyInsights": [
-            "AI联盟格局重新洗牌"
+            "大模型投资军备竞赛持续",
+            "Anthropic估值大幅提升"
           ]
         }
       ]
     },
     {
-      "name": "商业财经",
-      "categorySummary": "美国信用卡债务创1.25万亿美元新高，违约率升至2011年来最高，消费信贷风险上升。",
-      "keyPoints": [
-        "美国信用卡债务达1.25万亿美元创纪录",
-        "违约率升至2011年以来最高",
-        "西方汽车巨头与中国新秀合作求存"
-      ],
-      "news": [
-        {
-          "title": "美国信用卡债务创纪录",
-          "summary": "美国信用卡债务达1.25万亿美元，违约率创2011年来最高",
-          "keyInsights": [
-            "消费信贷风险上升，政策制定者密切关注"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "通用充电网络超25万桩，索尼本田取消Afeela项目，特斯拉FSD面临监管与用户信任双重挑战。",
+      "categorySummary": "电动车基础设施扩张与自动驾驶监管收紧并行。",
       "keyPoints": [
-        "通用在北美拥有超25万个公共充电桩",
-        "索尼、本田取消Afeela EV项目",
-        "特斯拉FSD v14.2.2重大升级但面临监管质疑"
+        "通用电动车可使用超25万个公共充电桩",
+        "特斯拉FSD V14.3.2统一机器人出租车与客户车辆模型",
+        "NHTSA对特斯拉FSD展开多项安全调查"
       ],
       "news": [
         {
-          "title": "特斯拉FSD新问题",
-          "summary": "FSD改进带来风险：司机可能在完全自动驾驶前注意力涣散",
+          "title": "特斯拉FSD面临监管审查",
+          "summary": "NHTSA对特斯拉FSD展开多项调查，安全倡导者担忧技术名称误导消费者。",
           "keyInsights": [
-            "自动驾驶安全性与用户注意力管理成焦点"
+            "FSD尚未实现真正自动驾驶",
+            "驾驶员分心风险上升"
+          ]
+        },
+        {
+          "title": "通用扩大充电网络",
+          "summary": "通用电动车车主可在北美使用超25万个公共充电桩，系Pilot Flying J、EVgo等投资成果。",
+          "keyInsights": [
+            "充电基础设施整合加速"
           ]
         }
       ],
@@ -69,18 +59,18 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片，继续领跑AI芯片市场。",
+      "categorySummary": "AI芯片迭代加速，中国寻求绕过制裁的芯片设计新路径。",
       "keyPoints": [
-        "Nvidia发布Blackwell Ultra和Vera Rubin",
-        "Blackwell Ultra将于今年晚些时候出货",
-        "为中国开发B30A芯片"
+        "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+        "中国科技巨头探索新芯片设计方法应对美国制裁",
+        "Blackwell Ultra定位AI工厂时代"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
-          "summary": "黄仁勋发布Blackwell Ultra和下一代GPU Vera Rubin",
+          "title": "Nvidia发布Blackwell Ultra和Rubin芯片",
+          "summary": "黄仁勋发布Blackwell Ultra系列将于今年晚些时候发货，同时还有下一代GPU Vera Rubin。",
           "keyInsights": [
-            "Nvidia持续领跑AI芯片赛道"
+            "AI芯片性能竞赛持续升级"
           ]
         }
       ],
@@ -89,18 +79,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场预计从605亿美元激增至1328亿美元，行业持续高速增长。",
+      "categorySummary": "AI加速药物发现，GLP-1市场持续爆发。",
       "keyPoints": [
-        "GLP-1药物市场预计达1328亿美元",
-        "2024年市场规模138亿美元",
-        "复合年增长率9.63%"
+        "Biohub发布开源AI蛋白质设计模型，专注癌症和免疫靶点",
+        "Kivo推出药物开发合规代理式AI平台",
+        "GLP-1受体激动剂市场2030年代初或破千亿美元"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场规模将达1328亿美元",
-          "summary": "GLP-1药物市场从605亿美元增至1328亿美元",
+          "title": "AI蛋白质设计模型开源",
+          "summary": "Biohub发布开源AI蛋白质设计模型，初期专注于癌症和免疫靶点的早期药物发现。",
           "keyInsights": [
-            "减肥药市场进入高速增长期"
+            "AI降低药物发现门槛"
+          ]
+        },
+        {
+          "title": "GLP-1市场展望",
+          "summary": "分析师预计GLP-1激动剂市场规模2030年代初将突破1000亿美元，占抗肥胖药物大部分份额。",
+          "keyInsights": [
+            "代谢疾病药物黄金时代开启"
           ]
         }
       ],
@@ -109,18 +106,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果为削减成本将降级iPhone 18配置，供应链策略调整。",
+      "categorySummary": "iPhone 18 Pro设计变革传言升温。",
       "keyPoints": [
-        "苹果为削减成本将降低iPhone 18配置",
-        "iPhone 18 Pro/Pro Max预计9月发布",
-        "可能新增咖啡、紫色、勃艮第红配色"
+        "iPhone 18 Pro可能对Dynamic Island进行全新外观改变",
+        "iPhone 18 Pro和Pro Max预计2026年9月发布",
+        "iPhone Fold或将同步推出"
       ],
       "news": [
         {
-          "title": "苹果降级iPhone 18配置",
-          "summary": "泄密者称苹果为削减成本将降低iPhone 18配置",
+          "title": "iPhone 18 Pro泄露预示重大设计变革",
+          "summary": "iPhone 18 Pro的Dynamic Island挖孔设计可能迎来全新外观改变，5大泄露消息可信度不一。",
           "keyInsights": [
-            "苹果面临成本压力，产品策略调整"
+            "苹果持续迭代工业设计"
           ]
         }
       ],
@@ -129,18 +126,19 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业陷入停滞，增长仅1%，前Nexon CEO认为AAA游戏正在衰落。",
+      "categorySummary": "AAA游戏增长停滞，独立游戏崛起。",
       "keyPoints": [
         "AAA游戏行业勉强实现1%增长",
-        "前Nexon CEO认为AAA游戏正在衰落",
-        "任天堂、索尼、微软承诺打造更安全游戏环境"
+        "56%的PC游戏收入来自排名前20以外的游戏",
+        "Xbox Series X重大更新"
       ],
       "news": [
         {
-          "title": "AAA游戏行业陷入停滞",
-          "summary": "游戏行业增长停滞，前Nexon CEO认为AAA游戏正衰落",
+          "title": "AAA游戏主导地位削弱",
+          "summary": "Newzoo数据显示大部分PC游戏收入流向排名前20以外的游戏，AAA游戏霸主地位不保。",
           "keyInsights": [
-            "AAA游戏面临质量与商业化双重挑战"
+            "游戏行业收入分散化趋势明显",
+            "独立游戏创作力释放"
           ]
         }
       ],
@@ -149,18 +147,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源成为电力未来趋势，风能和太阳能快速发展，加拿大在清洁能源转型中落后。",
+      "categorySummary": "可再生能源发电创新高，储能技术路线竞争激烈。",
       "keyPoints": [
-        "电力未来是风能和太阳能",
-        "可再生能源马拉松创下新纪录",
-        "绿色氢能成为低碳转型关键"
+        "美国2025年太阳能和风能发电创纪录，可为超7900万家庭供电",
+        "维多利亚州划定五个陆上可再生能源区",
+        "绿色氢能vs电池储能竞争加剧"
       ],
       "news": [
         {
-          "title": "电力未来是风能和太阳能",
-          "summary": "新报告显示电力未来属于风能和太阳能，加拿大转型落后",
+          "title": "美国清洁能源创纪录",
+          "summary": "美国2025年太阳能和风能发电创历史新高，足以为超过7900万个普通家庭供电。",
           "keyInsights": [
-            "全球清洁能源转型加速"
+            "能源转型加速进行"
+          ]
+        },
+        {
+          "title": "维多利亚州设立可再生能源区",
+          "summary": "维多利亚州划定五个陆上可再生能源区用于太阳能、风能和储���，并设立海上风电沿海区域。",
+          "keyInsights": [
+            "区域能源规划精细化"
           ]
         }
       ],
