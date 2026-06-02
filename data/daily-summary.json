@@ -1,73 +1,82 @@
 {
-  "date": "2026-06-02",
-  "overallSummary": "AI行业巨头组建Agentic AI联盟推动开源标准，苹果iPhone 18系列曝光；辉瑞与信达生物达成105亿美元肿瘤学合作；可再生能源春季发电创新纪录。",
+  "date": "2026-06-03",
+  "overallSummary": "AI行业巨头联合成立Agentic AI联盟推动标准化，GLP-1市场预计2035年达1900亿美元，电动汽车行业面临价格战与淘汰赛。",
   "categories": [
     {
-      "name": "AI行业",
-      "categorySummary": "科技巨头联手推动AI智能体开源标准，但AI就业影响仍存争议。",
+      "name": "AI行业动态",
+      "categorySummary": "科技巨头联手建立AI智能体开源标准，重塑行业格局",
       "keyPoints": [
-        "Microsoft、Google、OpenAI和Anthropic组建Agentic AI联盟，由Linux基金会支持",
-        "微软与OpenAI合作调整，为Anthropic和谷歌打开大门",
-        "Bill Gurley认为AI就业担忧与历史科技变革相似"
+        "微软、谷歌、OpenAI、Anthropic成立Agentic AI联盟",
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+        "AI软件正在重塑企业决策流程"
       ],
       "news": [
         {
-          "title": "科技巨头组建Agentic AI联盟",
-          "summary": "四家AI巨头联合制定AI智能体开源标准",
+          "title": "巨头联手成立Agentic AI联盟",
+          "summary": "四大AI公司联合Linux基金会制定智能体开源标准",
           "keyInsights": [
-            "Linux基金会支持",
-            "推动行业标准化"
+            "AI智能体标准化的重要里程碑"
           ]
         },
         {
-          "title": "Anthropic扩大Google AI芯片合作",
-          "summary": "Anthropic与Google深化AI芯片领域合作",
+          "title": "微软OpenAI协议重写",
+          "summary": "战略调整为中国AI企业创造机会",
           "keyInsights": [
-            "芯片合作深化",
-            "算力布局加速"
-          ]
-        },
-        {
-          "title": "AI改变企业决策流程",
-          "summary": "AI软件综合分析数据，呈现行动方案简化决策",
-          "keyInsights": [
-            "业务流程自动化",
-            "智能决策支持"
+            "Anthropic和Google获益"
           ]
         }
-      ]
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1市场高速增长，跨国合作频繁",
+      "keyPoints": [
+        "GLP-1市场2035年预计达1900亿美元",
+        "辉瑞与信达生物105亿美元肿瘤合作",
+        "口服疗法和扩大覆盖推动增长"
+      ],
+      "news": [
+        {
+          "title": "GLP-1市场翻倍增长",
+          "summary": "从2025年至2035年市场将增长一倍以上",
+          "keyInsights": [
+            "口服疗法成新增长点"
+          ]
+        },
+        {
+          "title": "辉瑞信达生物合作",
+          "summary": "105亿美元全球肿瘤学合作涉及12个早期项目",
+          "keyInsights": [
+            "史上最大规模癌症合作之一"
+          ]
+        }
+      ],
+      "id": "biopharma",
+      "icon": "🧬"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动车充电基础设施扩展，特斯拉FSD持续迭代，中国电动车行业面临洗牌。",
+      "categorySummary": "电动车行业进入淘汰赛，特斯拉FSD持续迭代",
       "keyPoints": [
-        "通用汽车电动车用户可接入北美超25万个公共充电桩",
-        "比亚迪董事长警告中国电动车行业进入淘汰阶段",
-        "特斯拉FSD v14为最令人印象深刻的L2级系统"
+        "比亚迪警告中国电动车进入淘汰赛阶段",
+        "特斯拉FSD v14是最大幅度L2级改进",
+        "斯泰兰蒂斯接入特斯拉充电网络"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14测试报告",
-          "summary": "特斯拉全自动驾驶v14增量改进",
+          "title": "比亚迪警告价格战",
+          "summary": "中国电动车利润下降19%，弱势玩家面临淘汰",
           "keyInsights": [
-            "L2级自动驾驶进步",
-            "2026春季软件更新"
+            "行业整合加速"
           ]
         },
         {
-          "title": "中国电动车行业洗牌",
-          "summary": "比亚迪董事长称行业进入弱势企业淘汰阶段",
+          "title": "特斯拉FSD v14测试",
+          "summary": "增量改进但仍为最令人印象深刻的L2系统",
           "keyInsights": [
-            "利润下降19%",
-            "市场整合加速"
-          ]
-        },
-        {
-          "title": "GM扩大充电网络接入",
-          "summary": "通用汽车用户可接入超25万公共充电桩",
-          "keyInsights": [
-            "基础设施完善",
-            "充电便利提升"
+            "自动驾驶逐步成熟"
           ]
         }
       ],
@@ -76,35 +85,18 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布新一代AI芯片，华为探索绕开制裁新技术，AI芯片贡献半数行业收入。",
+      "categorySummary": "AI芯片军备竞赛持续，新一代产品密集发布",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "华为宣传新型芯片制造技术绕过美国限制",
-        "AI芯片预计贡献2026年行业收入约一半"
+        "Nvidia发布Blackwell Ultra和Vera Rubin",
+        "Blackwell专为超大规模AI推理设计",
+        "芯片性能持续突破极限"
       ],
       "news": [
         {
-          "title": "英伟达Blackwell Ultra发布",
-          "summary": "英伟达新一代AI芯片驱动AI工厂时代",
+          "title": "Nvidia AI芯片升级",
+          "summary": "Blackwell Ultra和Vera Rubin开启新纪元",
           "keyInsights": [
-            "AI推理能力提升",
-            "超大规模部署"
-          ]
-        },
-        {
-          "title": "2026半导体行业展望",
-          "summary": "AI芯片高度依赖数据中心市场",
-          "keyInsights": [
-            "收入占比约50%",
-            "市场集中度高"
-          ]
-        },
-        {
-          "title": "华为新型芯片技术",
-          "summary": "华为宣传绕开美国限制的芯片制造技术",
-          "keyInsights": [
-            "技术突破",
-            "供应链自主"
+            "AI工厂时代加速到来"
           ]
         }
       ],
@@ -112,65 +104,19 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "跨国肿瘤学合作金额创新高，GLP-1减肥药市场持续扩张，肺癌双抗疗法显示生存获益。",
-      "keyPoints": [
-        "辉瑞与信达生物达成105亿美元全球肿瘤学合作",
-        "康方生物VEGF/PD-1双抗提升肺癌患者生存期",
-        "GLP-1减肥药市场规模预计显著增长"
-      ],
-      "news": [
-        {
-          "title": "辉瑞信达105亿美元合作",
-          "summary": "共同开发12个早期肿瘤项目",
-          "keyInsights": [
-            " oncology领域最大合作",
-            "全球化布局"
-          ]
-        },
-        {
-          "title": "康方生物双抗肺癌数据",
-          "summary": "VEGF/PD-1双抗提升肺癌患者生存期",
-          "keyInsights": [
-            "临床数据积极",
-            "合作伙伴Summit关注"
-          ]
-        },
-        {
-          "title": "GLP-1市场增长预测",
-          "summary": "2026年市场规模因价格下降和准入扩大显著增长",
-          "keyInsights": [
-            "老年人获准使用",
-            "价格因素影响"
-          ]
-        }
-      ],
-      "id": "biopharma",
-      "icon": "🧬"
-    },
-    {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列分阶段发布策略曝光，Pro机型预计9月先行，折叠屏iPhone可能亮相。",
+      "categorySummary": "iPhone 18即将发布，新配色成为焦点",
       "keyPoints": [
-        "iPhone 18 Pro及折叠屏机型预计2026年9月上市",
-        "标准版iPhone 18可能推迟发布",
-        "iPhone 18 Pro电池续航确认提升"
+        "iPhone 18 Pro将推出深樱桃色新配色",
+        "Cosmic Orange配色可能退场",
+        "5G部署延期后继续推进"
       ],
       "news": [
         {
-          "title": "iPhone 18系列传闻",
-          "summary": "分阶段发布策略，Pro机型先行",
+          "title": "iPhone 18 Pro配色曝光",
+          "summary": "深樱桃色有望成新热门颜色",
           "keyInsights": [
-            "折叠屏可能发布",
-            "发布时间分化"
-          ]
-        },
-        {
-          "title": "iPhone 18 Pro五大升级",
-          "summary": "5大泄露消息可靠性评级分析",
-          "keyInsights": [
-            "新配色",
-            "Face ID升级"
+            "苹果持续深耕配色策略"
           ]
         }
       ],
@@ -179,35 +125,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "前Nexon CEO认为3A游戏行业正在消亡，Xbox与索尼任天堂共同推进安全游戏承诺。",
+      "categorySummary": "AAA游戏品质引质疑，业界呼吁转型",
       "keyPoints": [
-        "前Nexon CEO认为3A游戏开发模式面临严峻挑战",
-        "高开发成本和漫长周期难以维持",
-        "Xbox与任天堂、索尼共同更新安全游戏承诺"
+        "AAA游戏2024-2025年发布令人失望",
+        "前Nexon CEO公开批评AAA模式",
+        "游戏主机厂商更新安全游戏原则"
       ],
       "news": [
         {
-          "title": "AAA游戏行业衰退论",
-          "summary": "前Nexon CEO认为3A游戏行业正在消亡",
+          "title": "AAA游戏产业衰落",
+          "summary": "业界反思：大作投入与品质不成正比",
           "keyInsights": [
-            "开发成本过高",
-            "玩家口味变化"
-          ]
-        },
-        {
-          "title": "Xbox安全游戏承诺更新",
-          "summary": "微软与任天堂索尼共同推进玩家安全",
-          "keyInsights": [
-            "三平台合作",
-            "行业自律"
-          ]
-        },
-        {
-          "title": "AA级游戏或成趋势",
-          "summary": "发行商或转向2A级中等规模游戏",
-          "keyInsights": [
-            "成本控制",
-            "差异化竞争"
+            "中等规模游戏或成新趋势"
           ]
         }
       ],
@@ -216,40 +145,50 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "春季可再生能源发电创新纪录，绿色氢能和电池储能成为发展重点。",
+      "categorySummary": "可再生能源成本优势确立，绿色氢能储能受关注",
       "keyPoints": [
-        "今年春季可再生能源发电创历史新高",
-        "绿色氢能成为电池储能的替代方案",
-        "氢气储存从太阳能生产，发电仅产生水"
+        "太阳能和风能成本已低于化石燃料",
+        "清洁能源投资创历史新高",
+        "绿色氢能储能解决方案快速发展"
       ],
       "news": [
         {
-          "title": "春季可再生能源纪录",
-          "summary": "风能和太阳能发电创历史新高",
+          "title": "可再生能源不再'替代'",
+          "summary": "太阳能和风能正式成为主流能源",
           "keyInsights": [
-            "清洁能源增长",
-            "季节性突破"
+            "能源转型里程碑"
           ]
         },
         {
-          "title": "氢能储能发展",
-          "summary": "绿色氢能作为电池储能替代方案",
+          "title": "绿色氢能储能",
+          "summary": "氢-液体混合技术推动储能创新",
           "keyInsights": [
-            "可再生能源存储",
-            "环保技术"
-          ]
-        },
-        {
-          "title": "太阳能推广困境",
-          "summary": "怀俄明州牧场主希望太阳能降成本",
-          "keyInsights": [
-            "公用事业阻力",
-            "推广障碍"
+            "间歇性可再生能源的关键配套"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "全球市场持续波动，政策影响加深",
+      "keyPoints": [
+        "WSJ报道航空业5万美元安全修复方案争议",
+        "全球股市面临多重不确定性",
+        "国际商务环境复杂化"
+      ],
+      "news": [
+        {
+          "title": "航空业安全方案争议",
+          "summary": "5万美元安全修复方案分化行业与政府",
+          "keyInsights": [
+            "安全投入与成本的博弈"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
