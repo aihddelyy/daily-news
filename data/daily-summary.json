@@ -1,60 +1,67 @@
 {
-  "date": "2026-06-04",
-  "overallSummary": "AI行业巨头联合成立联盟推动行业标准，电动车和清洁能源市场持续增长，GLP-1药物市场预计翻倍扩大。",
+  "date": "2026-06-05",
+  "overallSummary": "AI领域四大巨头联合成立前沿模型论坛和Agentic AI联盟，推动行业标准化；生物医药GLP-1市场预计翻倍增长至1900亿美元；可再生能源持续创纪录增长。",
   "categories": [
     {
-      "name": "AI行业",
-      "categorySummary": "科技巨头加速联盟化，AI行业竞争格局重塑。",
+      "name": "AI行业动态",
+      "categorySummary": "科技巨头加速AI治理协作，OpenAI合作伙伴关系重构，行业标准化成为焦点。",
       "keyPoints": [
-        "谷歌、微软、OpenAI、Anthropic联合成立Frontier Model Forum",
-        "四大巨头联手成立Agentic AI联盟，制定开源智能体标准",
-        "微软与OpenAI重组为竞争对手创造市场空间"
+        "Google、Microsoft、OpenAI、Anthropic联合成立前沿模型论坛",
+        "微软-OpenAI合作调整，Anthropic和Google获合作机会",
+        "四大公司联手组建Agentic AI联盟，制定AI代理开源标准"
       ],
       "news": [
         {
-          "title": "Frontier Model Forum成立公告",
-          "summary": "谷歌、微软、OpenAI、Anthropic联合成立前沿模型论坛。",
+          "title": "前沿模型��坛成立",
+          "summary": "四大AI公司联合成立前沿模型论坛，致力于AI安全研究和最佳实践",
           "keyInsights": [
-            "推动负责任AI发展的行业协作平台"
+            "行业联合治理模式形成",
+            "AI安全成为核心议题"
           ]
         },
         {
           "title": "Agentic AI联盟成立",
-          "summary": "四大AI巨头联手成立Agentic联盟，由Linux基金会支持。",
+          "summary": "四大公司联手组建Agentic AI联盟，由Linux基金会支持制定开源标准",
           "keyInsights": [
-            "为AI智能体制定开源标准"
+            "AI代理标准化启动",
+            "开源生态建设加速"
           ]
         },
         {
-          "title": "微软与OpenAI重组影响",
-          "summary": "微软与OpenAI重组为Anthropic和Google打开市场大门。",
+          "title": "Microsoft-OpenAI合作重写",
+          "summary": "微软与OpenAI合作模式调整，为其他AI公司敞开合作大门",
           "keyInsights": [
-            "企业级AI应用和云计算领域竞争加剧"
+            "AI竞争格局重塑",
+            "合作模式多元化"
           ]
         }
-      ]
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续迭代，电动车市场订单激增。",
+      "categorySummary": "电动车市场持续扩张，特斯拉FSD软件更新加速自动驾驶迭代。",
       "keyPoints": [
-        "特斯拉FSD v14.2.1版本发布，性能显著提升",
-        "Orange EV获600辆电动卡车历史最大订单",
-        "马自达降价CX-70加入加拿大ZEV补贴"
+        "Orange EV获600辆电动码头卡车订单，同比增长272%",
+        "特斯拉FSD v14.2.1发布",
+        "2026年春季软件更新带来全新自动驾驶应用"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14测试",
-          "summary": "特斯拉FSD v14为最令人印象深刻的L2级辅助系统。",
+          "title": "Orange EV订单创纪录",
+          "summary": "Orange EV获得历史最大订单600辆电动码头卡车",
           "keyInsights": [
-            "增量改进，春季将推自动驾驶新应用"
+            "电动商用车需求强劲",
+            "工业运输电动化加速"
           ]
         },
         {
-          "title": "Orange EV获600辆订单",
-          "summary": "Orange EV获史上最大电动场站卡车订单，增幅272%。",
+          "title": "特斯拉FSD v14.2.1发布",
+          "summary": "特斯拉发布FSD 14.2.1版本，2026年春季更新启动",
           "keyInsights": [
-            "电动商用车市场需求强劲"
+            "自动驾驶技术持续迭代",
+            "用户体验优化成为重点"
           ]
         }
       ],
@@ -63,25 +70,27 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达Blackwell架构发布，AI芯片竞争升级。",
+      "categorySummary": "英伟达Blackwell架构引领AI芯片革新，数据中心AI芯片市场占比攀升。",
       "keyPoints": [
         "英伟达发布Blackwell AI芯片架构",
-        "Blackwell为超大规模AI推理而生",
-        "英伟达将面向中国推出特供版Blackwell"
+        "2026年数据中心AI芯片将贡献约50%行业营收",
+        "Blackwell Ultra配备96GB显存"
       ],
       "news": [
         {
-          "title": "英伟达Blackwell发布",
-          "summary": "英伟达发布Blackwell AI平台，或将成为行业颠覆者。",
+          "title": "NVIDIA Blackwell发布",
+          "summary": "英伟达发布Blackwell架构，大幅提升AI模型构建能力",
           "keyInsights": [
-            "显著提升先进AI模型构建能力"
+            "AI推理性能大幅提升",
+            "超大规模AI部署成为可能"
           ]
         },
         {
-          "title": "英伟达中国特供芯片",
-          "summary": "在美国出口限制后，英伟达将推出更便宜的中国版Blackwell。",
+          "title": "2026年半导体行业展望",
+          "summary": "德勤预测数据中心AI芯片将贡献约半数营收",
           "keyInsights": [
-            "规避出口管制的市场策略"
+            "AI芯片需求持续爆发",
+            "行业集中度提升"
           ]
         }
       ],
@@ -90,25 +99,27 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场高速扩张，大额合作频现。",
+      "categorySummary": "GLP-1药物市场爆发式增长，��瘤学领域达成百亿美元级合作。",
       "keyPoints": [
-        "GLP-1市场2035年预计达1900亿美元",
+        "GLP-1药物市场2035年预计达1900亿美元",
         "辉瑞与信达生物达成105亿美元肿瘤学合作",
-        "口服治疗和扩大覆盖将推动市场增长"
+        "司美格鲁肽2023年销售额达138亿美元"
       ],
       "news": [
         {
-          "title": "GLP-1市场规模预测",
-          "summary": "GLP-1药物市场2035年或达1900亿美元，较2025年翻倍。",
+          "title": "GLP-1市场翻倍增长",
+          "summary": "GLP-1药物全球市场2035年将达1900亿美元，是2025年两倍多",
           "keyInsights": [
-            "复合年增长率保持高位"
+            "减重药市场爆发",
+            "口服治疗和覆盖范围扩展推动增长"
           ]
         },
         {
-          "title": "辉瑞信达合作",
-          "summary": "辉瑞与信达生物105亿美元合作，开发12个早期癌症项目。",
+          "title": "辉瑞信达105亿美元合作",
+          "summary": "辉瑞和信达生物共同开发12个早期癌症项目",
           "keyInsights": [
-            "肿瘤治疗领域大额并购合作"
+            "中美药企合作深化",
+            "肿瘤药物研发加速"
           ]
         }
       ],
@@ -117,25 +128,19 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻涌现，内存供应导致出货量下滑。",
+      "categorySummary": "iPhone 18系列新配色曝光，5G部署持续推进。",
       "keyPoints": [
-        "iPhone 18 Pro机模曝光，新配色Dark Cherry",
-        "2026年智能手机出货量预计跌至13年最低",
-        "Google宣布6月推出7项Android新功能"
+        "iPhone 18 Pro将推出深樱桃色新配色",
+        "5G部署预计在两周延迟后继续",
+        "移动技术创新持续推进"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro传闻",
-          "summary": "iPhone 18 Pro传闻：5大泄露信息含新颜色和Face ID升级。",
+          "title": "iPhone 18 Pro新配色",
+          "summary": "iPhone 18 Pro将推出深樱桃色，宇宙橙被撤下",
           "keyInsights": [
-            "距发布仍有数月，配件已曝光"
-          ]
-        },
-        {
-          "title": "智能手机出货量预警",
-          "summary": "内存供应问题导致2026年出货量跌至13年最低。",
-          "keyInsights": [
-            "供应链压力持续影响市场"
+            "苹果配色策略���整",
+            "Pro机型差异化明显"
           ]
         }
       ],
@@ -144,18 +149,27 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临危机，主机平台安全标准更新。",
+      "categorySummary": "AAA游戏行业面临质量危机，Xbox联手索尼任天堂推动游戏安全。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏产业正在消亡",
-        "AAA游戏行业裁员潮、工作室关闭持续",
-        "Xbox与任天堂索尼更新安全游戏承诺"
+        "前Nexon CEO认为AAA游戏行业正在消亡",
+        "Xbox更新安全游戏承诺",
+        "2024-2025年AAA游戏质量令人失望"
       ],
       "news": [
         {
-          "title": "AAA游戏产业危机",
-          "summary": "前Nexon CEO称AAA游戏产业正在消亡，2024-2025年大量失望作品。",
+          "title": "AAA游戏行业危机",
+          "summary": "业界大佬认为AAA游戏质量下滑严重，行业面临挑战",
           "keyInsights": [
-            "行业增长仅1%，面临转型压力"
+            "游戏开发成本与质量矛盾",
+            "玩家信任度下降"
+          ]
+        },
+        {
+          "title": "Xbox安全游戏承诺更新",
+          "summary": "Xbox与任天堂、索尼合作更新安全游戏承诺",
+          "keyInsights": [
+            "游戏平台安全标准统一",
+            "跨平台协作加深"
           ]
         }
       ],
@@ -164,50 +178,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "清洁能源投资持续增长，储氢技术受关注。",
+      "categorySummary": "可再生能源持续创纪录，绿色氢能与储能技术成为新兴方向。",
       "keyPoints": [
-        "太阳能和风能投资创纪录",
-        "氢能储能作为绿色替代方案受关注",
-        "风电开发向偏远环境敏感区域推进"
+        "2026年春季可再生能源创纪录增长",
+        "绿色氢能作为电池储能替代方案崛起",
+        "清洁能源投资持续增长"
       ],
       "news": [
         {
-          "title": "能源革命持续",
-          "summary": "太阳能和风能创纪录增长，清洁能源转型加速。",
+          "title": "���再生能源创纪录",
+          "summary": "2026年春季太阳能和风能发电创历史新高",
           "keyInsights": [
-            "可再生能源投资持续攀升"
+            "清洁能源转型加速",
+            "储能技术需求迫切"
           ]
         },
         {
-          "title": "氢能储能发展",
-          "summary": "氢气储存解决方案作为电池绿色替代方案兴起。",
+          "title": "氢能储能解决方案",
+          "summary": "氢能储存作为绿色电池替代方案快速发展",
           "keyInsights": [
-            "太阳能制氢技术路径"
+            "氢能技术成熟度提升",
+            "多能源储能体系形成"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "国际贸昜摩擦持续，新兴市场AI发展受关注。",
-      "keyPoints": [
-        "欧盟反对美国新关税措施",
-        "俄罗斯Sberbank向全球南方国家推广AI模型",
-        "农业信贷银行净利润下滑"
-      ],
-      "news": [
-        {
-          "title": "欧盟贸易立场",
-          "summary": "欧盟贸易委员会主席表示美国新关税不可接受。",
-          "keyInsights": [
-            "跨大西洋贸易关系紧张"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
     }
   ]
 }
