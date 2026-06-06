@@ -1,38 +1,30 @@
 {
-  "date": "2026-06-05",
-  "overallSummary": "AI领域四大巨头联合成立前沿模型论坛和Agentic AI联盟，推动行业标准化；生物医药GLP-1市场预计翻倍增长至1900亿美元；可再生能源持续创纪录增长。",
+  "date": "2026-06-07",
+  "overallSummary": "AI行业迎来重大标准化进展，科技巨头联合成立Agentic AI联盟；同时清洁能源转型加速，太阳能首次超越风能成为美国最大清洁能源来源。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI治理协作，OpenAI合作伙伴关系重构，行业标准化成为焦点。",
+      "categorySummary": "科技巨头联合成立AI智能体开源标准联盟，谷歌大幅追加对Anthropic投资。",
       "keyPoints": [
-        "Google、Microsoft、OpenAI、Anthropic联合成立前沿模型论坛",
-        "微软-OpenAI合作调整，Anthropic和Google获合作机会",
-        "四大公司联手组建Agentic AI联盟，制定AI代理开源标准"
+        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
+        "联盟由Linux基金会支持，制定AI智能体开源标准",
+        "Alphabet计划向Anthropic投资100-500亿美元"
       ],
       "news": [
         {
-          "title": "前沿模型��坛成立",
-          "summary": "四大AI公司联合成立前沿模型论坛，致力于AI安全研究和最佳实践",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI���盟",
+          "summary": "四大AI巨头联合成立Agentic AI联盟，由Linux基金会支持，制定AI智能体开源标准。",
           "keyInsights": [
-            "行业联合治理模式形成",
-            "AI安全成为核心议题"
+            "AI行业标准化进程加速",
+            "开源标准将降低行业进入壁垒"
           ]
         },
         {
-          "title": "Agentic AI联盟成立",
-          "summary": "四大公司联手组建Agentic AI联盟，由Linux基金会支持制定开源标准",
+          "title": "谷歌将增加对Anthropic的投资",
+          "summary": "Alphabet计划向Anthropic额外投资100亿美元，并可能追加至400亿美元。",
           "keyInsights": [
-            "AI代理标准化启动",
-            "开源生态建设加速"
-          ]
-        },
-        {
-          "title": "Microsoft-OpenAI合作重写",
-          "summary": "微软与OpenAI合作模式调整，为其他AI公司敞开合作大门",
-          "keyInsights": [
-            "AI竞争格局重塑",
-            "合作模式多元化"
+            "AI投资规模持续扩大",
+            "科技巨头竞争加剧"
           ]
         }
       ],
@@ -41,27 +33,19 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动车市场持续扩张，特斯拉FSD软件更新加速自动驾驶迭代。",
+      "categorySummary": "特斯拉FSD v14版本发布，智能驾驶辅助系统持续迭代升级。",
       "keyPoints": [
-        "Orange EV获600辆电动码头卡车订单，同比增长272%",
-        "特斯拉FSD v14.2.1发布",
-        "2026年春季软件更新带来全新自动驾驶应用"
+        "特斯拉FSD v14是其最令人印象深刻的L2级辅助系统",
+        "特斯拉重新启用激进的\"Mad Max\"驾驶模式",
+        "春季软件更新推出全新自动驾驶应用"
       ],
       "news": [
         {
-          "title": "Orange EV订单创纪录",
-          "summary": "Orange EV获得历史最大订单600辆电动码头卡车",
+          "title": "特斯拉FSD v14版本测试报告",
+          "summary": "特斯拉FSD v14是高级驾驶辅助系统的渐进式改进，也是最令人印象深刻的L2级版本。",
           "keyInsights": [
-            "电动商用车需求强劲",
-            "工业运输电动化加速"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14.2.1发布",
-          "summary": "特斯拉发布FSD 14.2.1版本，2026年春季更新启动",
-          "keyInsights": [
-            "自动驾驶技术持续迭代",
-            "用户体验优化成为重点"
+            "L2级自动驾驶能力持续提升",
+            "用户评价整体积极"
           ]
         }
       ],
@@ -70,27 +54,19 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达Blackwell架构引领AI芯片革新，数据中心AI芯片市场占比攀升。",
+      "categorySummary": "英伟达发布Blackwell Ultra和Rubin AI芯片，持续领跑AI算力领域。",
       "keyPoints": [
-        "英伟达发布Blackwell AI芯片架构",
-        "2026年数据中心AI芯片将贡献约50%行业营收",
-        "Blackwell Ultra配备96GB显存"
+        "英伟达推出Blackwell Ultra芯片",
+        "Rubin AI芯片正式发布",
+        "芯片专为极致规模AI推理设计"
       ],
       "news": [
         {
-          "title": "NVIDIA Blackwell发布",
-          "summary": "英伟达发布Blackwell架构，大幅提升AI模型构建能力",
+          "title": "英伟达宣布推出Blackwell Ultra和Rubin AI芯片",
+          "summary": "英伟达发布新一代AI芯片，持续强化在AI算力市场的领先地位。",
           "keyInsights": [
-            "AI推理性能大幅提升",
-            "超大规模AI部署成为可能"
-          ]
-        },
-        {
-          "title": "2026年半导体行业展望",
-          "summary": "德勤预测数据中心AI芯片将贡献约半数营收",
-          "keyInsights": [
-            "AI芯片需求持续爆发",
-            "行业集中度提升"
+            "AI芯片竞争进入新阶段",
+            "推理能力成为重点方向"
           ]
         }
       ],
@@ -99,27 +75,19 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场爆发式增长，��瘤学领域达成百亿美元级合作。",
+      "categorySummary": "GLP-1药物市场预计到2035年翻番至1900亿美元，减肥药市场持续扩张。",
       "keyPoints": [
-        "GLP-1药物市场2035年预计达1900亿美元",
-        "辉瑞与信达生物达成105亿美元肿瘤学合作",
+        "GLP-1市场预计2035年达1900亿美元",
+        "口服治疗和扩大覆盖将推动增长",
         "司美格鲁肽2023年销售额达138亿美元"
       ],
       "news": [
         {
-          "title": "GLP-1市场翻倍增长",
-          "summary": "GLP-1药物全球市场2035年将达1900亿美元，是2025年两倍多",
+          "title": "GLP-1市场预计到2035年将翻番至1900亿美元",
+          "summary": "全球GLP-1药物市场预计从2025年至2035年增长一倍以上，达1900亿美元。",
           "keyInsights": [
-            "减重药市场爆发",
-            "口服治疗和覆盖范围扩展推动增长"
-          ]
-        },
-        {
-          "title": "辉瑞信达105亿美元合作",
-          "summary": "辉瑞和信达生物共同开发12个早期癌症项目",
-          "keyInsights": [
-            "中美药企合作深化",
-            "肿瘤药物研发加速"
+            "代谢类药物市场潜力巨大",
+            "口服制剂将成为新增长点"
           ]
         }
       ],
@@ -128,19 +96,19 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列新配色曝光，5G部署持续推进。",
+      "categorySummary": "iPhone 18传闻持续升温，首批手机壳曝光，配色信息泄露。",
       "keyPoints": [
-        "iPhone 18 Pro将推出深樱桃色新配色",
-        "5G部署预计在两周延迟后继续",
-        "移动技术创新持续推进"
+        "iPhone 18 Pro配色泄露，Dark Cherry或成新热门",
+        "首批手机壳曝光，可能与iPhone 17 Pro不兼容",
+        "iPhone 18系列预计今年发布"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro新配色",
-          "summary": "iPhone 18 Pro将推出深樱桃色，宇宙橙被撤下",
+          "title": "首批iPhone 18 Pro手机壳曝光",
+          "summary": "iPhone 18 Pro和Pro Max手机壳曝光，尺寸可能与前代不兼容。",
           "keyInsights": [
-            "苹果配色策略���整",
-            "Pro机型差异化明显"
+            "设计可能有重大变化",
+            "上市前数月已进入配件准备阶段"
           ]
         }
       ],
@@ -149,27 +117,19 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临质量危机，Xbox联手索尼任天堂推动游戏安全。",
+      "categorySummary": "业界反思AAA游戏行业衰落，Xbox与索尼、任天堂联合更新游戏安全承诺。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏行业正在消亡",
-        "Xbox更新安全游戏承诺",
-        "2024-2025年AAA游戏质量令人失望"
+        "前Nexon CEO认为AAA游戏行业正在衰落",
+        "2024-2025年多款AAA游戏表现令人失望",
+        "Xbox联合索尼、任天堂更新游戏安全承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏行业危机",
-          "summary": "业界大佬认为AAA游戏质量下滑严重，行业面临挑战",
+          "title": "前Nexon CEO认为AAA游戏行业正在衰落",
+          "summary": "业界资深人士指出，近年AAA游戏质量参差不齐，行业面临信任危机。",
           "keyInsights": [
-            "游戏开发成本与质量矛盾",
-            "玩家信任度下降"
-          ]
-        },
-        {
-          "title": "Xbox安全游戏承诺更新",
-          "summary": "Xbox与任天堂、索尼合作更新安全游戏承诺",
-          "keyInsights": [
-            "游戏平台安全标准统一",
-            "跨平台协作加深"
+            "大型游戏开发模式受质疑",
+            "��量与投入不成正比"
           ]
         }
       ],
@@ -178,27 +138,19 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源持续创纪录，绿色氢能与储能技术成为新兴方向。",
+      "categorySummary": "太阳能首次超越风能，成为美国最大清洁能源来源，清洁能源投资持续增长。",
       "keyPoints": [
-        "2026年春季可再生能源创纪录增长",
-        "绿色氢能作为电池储能替代方案崛起",
-        "清洁能源投资持续增长"
+        "2026年Q1太阳能发电量首次超越风能",
+        "太阳能成为美国最大清洁能源来源",
+        "氢能储能作为季节性储存方案受关注"
       ],
       "news": [
         {
-          "title": "���再生能源创纪录",
-          "summary": "2026年春季太阳能和风能发电创历史新高",
+          "title": "太阳能超越风能成为美国最大清洁能源来源",
+          "summary": "2026年第一季度，公用事业规模太阳能发电量超过风力发电量。",
           "keyInsights": [
-            "清洁能源转型加速",
-            "储能技术需求迫切"
-          ]
-        },
-        {
-          "title": "氢能储能解决方案",
-          "summary": "氢能储存作为绿色电池替代方案快速发展",
-          "keyInsights": [
-            "氢能技术成熟度提升",
-            "多能源储能体系形成"
+            "清洁能源结构发生历史性转变",
+            "光伏技术成本优势显现"
           ]
         }
       ],
