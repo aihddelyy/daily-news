@@ -1,30 +1,28 @@
 {
-  "date": "2026-06-07",
-  "overallSummary": "AI行业迎来重大标准化进展，科技巨头联合成立Agentic AI联盟；同时清洁能源转型加速，太阳能首次超越风能成为美国最大清洁能源来源。",
+  "date": "2026-06-08",
+  "overallSummary": "英伟达发布Blackwell Ultra AI芯片开启AI推理新时代；AAA游戏产业面临转型压力；太阳能首次超越风能成为美国最大清洁能源来源。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头联合成立AI智能体开源标准联盟，谷歌大幅追加对Anthropic投资。",
+      "categorySummary": "微软与OpenAI合作关系调整，为Anthropic和Google带来机遇；科技巨头AI战略布局持续深化。",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
-        "联盟由Linux基金会支持，制定AI智能体开源标准",
-        "Alphabet计划向Anthropic投资100-500亿美元"
+        "微软持有OpenAI 27%股份",
+        "微软-OpenAI重组为竞争对手打开大门",
+        "AI从概念到实际落地仍需时间验证"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI���盟",
-          "summary": "四大AI巨头联合成立Agentic AI联盟，由Linux基金会支持，制定AI智能体开源标准。",
+          "title": "微软-OpenAI重组为Anthropic和Google打开大门",
+          "summary": "微软与OpenAI合作调��，Anthropic和Google获得市场机遇",
           "keyInsights": [
-            "AI行业标准化进程加速",
-            "开源标准将降低行业进入壁垒"
+            "AI云服务市场竞争格局生变"
           ]
         },
         {
-          "title": "谷歌将增加对Anthropic的投资",
-          "summary": "Alphabet计划向Anthropic额外投资100亿美元，并可能追加至400亿美元。",
+          "title": "AI需要多长时间才能发挥其潜力",
+          "summary": "WSJ分析AI技术从潜力到实际应用的演进周期",
           "keyInsights": [
-            "AI投资规模持续扩大",
-            "科技巨头竞争加剧"
+            "AI落地时间表待验证"
           ]
         }
       ],
@@ -32,20 +30,46 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD v14版本发布，智能驾驶辅助系统持续迭代升级。",
+      "name": "商业财经",
+      "categorySummary": "全球市场波动延续，中国市场承压，存款利率维持低位。",
       "keyPoints": [
-        "特斯拉FSD v14是其最令人印象深刻的L2级辅助系统",
-        "特斯拉重新启用激进的\"Mad Max\"驾驶模式",
-        "春季软件更新推出全新自动驾驶应用"
+        "大型6个月定期存单利率仅0.63%",
+        "农业信贷银行净利润下滑，任命新CEO",
+        "中国新市场股价下跌"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14版本测试报告",
-          "summary": "特斯拉FSD v14是高级驾驶辅助系统的渐进式改进，也是最令人印象深刻的L2级版本。",
+          "title": "美国商业新闻",
+          "summary": "存单利率低迷，农信银行利润下滑，中国市场走弱",
           "keyInsights": [
-            "L2级自动驾驶能力持续提升",
-            "用户评价整体积极"
+            "全球金融环境趋紧"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD持续迭代，电动汽车行业通过电池技术进步稳步前行。",
+      "keyPoints": [
+        "特斯拉FSD v14为最令人印象深刻的L2辅助系统",
+        "电动汽车通过电池化学提升稳步推进",
+        "自动驾驶技术持续迭代但仍未达完全自动化"
+      ],
+      "news": [
+        {
+          "title": "特斯拉FSD v14测试",
+          "summary": "FSD v14是增量改进，号称最令人印象深刻的L2系统",
+          "keyInsights": [
+            "FSD技术稳步提升"
+          ]
+        },
+        {
+          "title": "EV报告：电池技术稳步推进",
+          "summary": "电动汽车通过电池化学、耐用性和二次利用储能提升",
+          "keyInsights": [
+            "电池技术是EV进步关键"
           ]
         }
       ],
@@ -54,19 +78,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Rubin AI芯片，持续领跑AI算力领域。",
+      "categorySummary": "英伟达Blackwell Ultra芯片发布，AI推理时代正式开启，机构上调评级。",
       "keyPoints": [
-        "英伟达推出Blackwell Ultra芯片",
-        "Rubin AI芯片正式发布",
-        "芯片专为极致规模AI推理设计"
+        "英伟达发布Blackwell Ultra AI芯片",
+        "黄仁勋称将开启AI推理时代",
+        "Blackwell架构和CUDA维持增长势头"
       ],
       "news": [
         {
-          "title": "英伟达宣布推出Blackwell Ultra和Rubin AI芯片",
-          "summary": "英伟达发布新一代AI芯片，持续强化在AI算力市场的领先地位。",
+          "title": "英伟达推出Blackwell Ultra AI芯片",
+          "summary": "英伟达发布Blackwell Ultra，迎接AI推理时代",
           "keyInsights": [
-            "AI芯片竞争进入新阶段",
-            "推理能力成为重点方向"
+            "AI推理成为新增长点"
+          ]
+        },
+        {
+          "title": "英伟达评级上调",
+          "summary": "Blackwell、AI推理和CUDA保持增长势头不变",
+          "keyInsights": [
+            "AI基础设施需求持续旺盛"
           ]
         }
       ],
@@ -75,19 +105,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场预计到2035年翻番至1900亿美元，减肥药市场持续扩张。",
+      "categorySummary": "GLP-1减肥药市场爆发式增长，司美格鲁肽成美国最畅销药物。",
       "keyPoints": [
-        "GLP-1市场预计2035年达1900亿美元",
-        "口服治疗和扩大覆盖将推动增长",
-        "司美格鲁肽2023年销售额达138亿美元"
+        "GLP-1市场2035年预计达1900亿美元，是2025年的两倍多",
+        "司美格鲁肽2023年销售额达138亿美元",
+        "口服治疗和扩大覆盖推动市场增长"
       ],
       "news": [
         {
-          "title": "GLP-1市场预计到2035年将翻番至1900亿美元",
-          "summary": "全球GLP-1药物市场预计从2025年至2035年增长一倍以上，达1900亿美元。",
+          "title": "GLP-1市场预计到2035年翻番至1900亿美元",
+          "summary": "GLP-1减肥药市场高速增长，摩根士丹利预测翻两倍",
           "keyInsights": [
-            "代谢类药物市场潜力巨大",
-            "口服制剂将成为新增长点"
+            "减肥药赛道持续火热"
+          ]
+        },
+        {
+          "title": "GLP-1减肥药物崛起",
+          "summary": "司美格鲁肽成美国最畅销药物，超1亿肥胖成年人市场",
+          "keyInsights": [
+            "肥胖治疗药物需求庞大"
           ]
         }
       ],
@@ -96,19 +132,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻持续升温，首批手机壳曝光，配色信息泄露。",
+      "categorySummary": "iPhone 18传闻曝光，iPhone 17已发布；智能手机需求因地缘和供应链问题持续恶化。",
       "keyPoints": [
-        "iPhone 18 Pro配色泄露，Dark Cherry或成新热门",
-        "首批手机壳曝光，可能与iPhone 17 Pro不兼容",
-        "iPhone 18系列预计今年发布"
+        "iPhone 18 Pro新配色Dark Cherry取代Cosmic Orange",
+        "iPhone 17于2025年9月已发布",
+        "IDC预计智能手机需求将进一步恶化"
       ],
       "news": [
         {
-          "title": "首批iPhone 18 Pro手机壳曝光",
-          "summary": "iPhone 18 Pro和Pro Max手机壳曝光，尺寸可能与前代不兼容。",
+          "title": "iPhone 18最新消息",
+          "summary": "iPhone 18 Pro新配色曝光，库比蒂诺预计推出新产品阵容",
           "keyInsights": [
-            "设计可能有重大变化",
-            "上市前数月已进入配件准备阶段"
+            "苹果持续迭代产品线"
+          ]
+        },
+        {
+          "title": "智能手机需求恶化",
+          "summary": "美伊战争和内存短缺导致成本上升，需求下降",
+          "keyInsights": [
+            "地缘政治影响科技供应链"
           ]
         }
       ],
@@ -117,19 +159,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "业界反思AAA游戏行业衰落，Xbox与索尼、任天堂联合更新游戏安全承诺。",
+      "categorySummary": "AAA游戏产业面临信任危机，PC玩家可能从中获益；主机厂商加强安全游戏合作。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏行业正在衰落",
-        "2024-2025年多款AAA游戏表现令人失望",
-        "Xbox联合索尼、任天堂更新游戏安全承诺"
+        "前Nexon CEO认为AAA游戏产业正在衰落",
+        "2024-2025年大量AAA作品令人失望",
+        "Xbox、索尼、任天堂更新安全游戏承诺"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏行业正在衰落",
-          "summary": "业界资深人士指出，近年AAA游戏质量参差不齐，行业面临信任危机。",
+          "title": "前Nexon CEO认为AAA游戏产业正在衰落",
+          "summary": "大量AAA作品从失望到糟糕，产业面临信任危机",
           "keyInsights": [
-            "大型游戏开发模式受质疑",
-            "��量与投入不成正比"
+            "游戏产业质量下滑严重"
+          ]
+        },
+        {
+          "title": "微软、索尼、任天堂更新安全游戏承诺",
+          "summary": "三大主机厂商合作改善玩家安全",
+          "keyInsights": [
+            "行业社会责任意识提升"
           ]
         }
       ],
@@ -138,19 +186,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "太阳能首次超越风能，成为美国最大清洁能源来源，清洁能源投资持续增长。",
+      "categorySummary": "太阳能首次超越风能成为美国最大清洁能源来源，绿氢和储能技术持续发展。",
       "keyPoints": [
-        "2026年Q1太阳能发电量首次超越风能",
-        "太阳能成为美国最大清洁能源来源",
-        "氢能储能作为季节性储存方案受关注"
+        "2026年Q1公用事业规模太阳能超越风能",
+        "氢气储存成为有前景的绿色电池替代方案",
+        "GES推出氢-液体混合电池技术"
       ],
       "news": [
         {
-          "title": "太阳能超越风能成为美国最大清洁能源来源",
-          "summary": "2026年第一季度，公用事业规模太阳能发电量超过风力发电量。",
+          "title": "太阳能超越风能成为美国清洁能源主力",
+          "summary": "2026年Q1太阳能成为美国最大清洁能源来源",
           "keyInsights": [
-            "清洁能源结构发生历史性转变",
-            "光伏技术成本优势显现"
+            "清洁能源格局重塑"
+          ]
+        },
+        {
+          "title": "氢能储能：绿色电池替代方案",
+          "summary": "氢气储存解决方案从太阳能发电，仅产生水",
+          "keyInsights": [
+            "氢储能技术前景广阔"
           ]
         }
       ],
