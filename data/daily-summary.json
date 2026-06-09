@@ -1,37 +1,48 @@
 {
-  "date": "2026年6月9日星期二",
-  "overallSummary": "AI领域微软-OpenAI重组引发行业格局变动，四大AI巨头联合成立Agentic联盟；电动汽车行业面临洗牌，特斯拉FSD即将升级，比亚迪利润暴跌19%警示中国车企淘汰赛；GLP-1药物市场预计2035年达1329亿美元规模。",
+  "date": "2026-06-10",
+  "overallSummary": "AI领域巨头联手组建代理式AI联盟推动开源标准，全球股市下挫纳斯达克跌3%，特斯拉FSD持续迭代升级。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI巨头格局重塑，开源标准成新战场",
+      "categorySummary": "四大AI巨头组建代理式AI联盟，科技巨头竞争格局重塑。",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic联合成立Agentic AI联盟",
-        "微软-OpenAI重组为Anthropic和Google创造机会",
-        "AI代理开源标准由Linux基金会支持推进"
+        "微软、谷歌、OpenAI和Anthropic组建Agentic AI联盟",
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+        "AI代理开源标准将由Linux Foundation支持制定"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic联盟",
-          "summary": "四大AI巨头联合组建Agentic AI联盟，由Linux基金会支持，为AI代理创建开源标准",
+          "title": "Microsoft, Google, OpenAI and Anthropic Form Agentic AI Alliance",
+          "summary": "四大AI公司联手组建代理式AI联盟，Linux Foundation支持制定开源标准。",
           "keyInsights": [
-            "AI代理标准化进入实质推进阶段",
-            "开源标准或重塑行业竞争格局"
+            "将创建AI代理开源标准",
+            "联盟由Linux Foundation支持",
+            "重塑AI行业竞争格局"
           ]
         },
         {
-          "title": "微软-OpenAI重组为Anthropic和Google打开大门",
-          "summary": "微软持有OpenAI 27%股份的格局出现松动，谷歌已投资Anthropic",
+          "title": "Microsoft-OpenAI Restructuring Opens Doors for Anthropic and Google",
+          "summary": "微软与OpenAI协议修订为Anthropic和Google带来机遇。",
           "keyInsights": [
-            "AI投资版图重新分配",
-            "多极竞争格局初现"
+            "微软OpenAI关系出现调整",
+            "竞争对手获得发展空间",
+            "AI行业竞争态势改变"
           ]
         },
         {
-          "title": "人工智能将如何变革企业",
-          "summary": "AI软件综合数据呈现行动方案，助力业务流程决策",
+          "title": "Siri AI's Secret Weapon: Always by Your Side",
+          "summary": "Siri展现全天候AI辅助能力，强调持续陪伴特性。",
           "keyInsights": [
-            "AI辅助决策成企业数字化核心"
+            "AI助手全天候服务理念",
+            "强调Siri的即时可用性"
+          ]
+        },
+        {
+          "title": "Tesla FSD v14: Most Impressive L2 System Yet",
+          "summary": "特斯拉FSD v14是渐进式改进，目前最令人印象深刻的L2级ADAS。",
+          "keyInsights": [
+            "L2级自动驾驶重大突破",
+            "代表当前技术前沿"
           ]
         }
       ],
@@ -39,60 +50,30 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD加速迭代，中国EV行业进入淘汰赛",
-      "keyPoints": [
-        "特斯拉FSD v14测试优秀，下月将发布重大升级",
-        "比亚迪利润暴跌19%，中国EV行业进入弱势淘汰阶段",
-        "斯特兰蒂斯电动车可接入特斯拉超级充电网络"
-      ],
-      "news": [
-        {
-          "title": "特斯拉准备下个月发布重大全自动驾驶���级",
-          "summary": "全新FSD采用更大规模AI模型，承诺更智能精准的驾驶决策",
-          "keyInsights": [
-            "端到端AI模型成自动驾驶主攻方向"
-          ]
-        },
-        {
-          "title": "比亚迪董事长警告中国EV行业进入淘汰阶段",
-          "summary": "中国EV行业利润下降19%，弱势企业面临出清",
-          "keyInsights": [
-            "中国EV价格战加剧，行业整合加速"
-          ]
-        },
-        {
-          "title": "我测试了特斯拉最新FSD v14",
-          "summary": "FSD v14是增量改进，也是最令人印象深刻的L2级辅助系统",
-          "keyInsights": [
-            "L2自动驾驶能力持续提升"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "商业财经",
-      "categorySummary": "美股反弹，地缘风险影响全球市场",
+      "categorySummary": "全球市场波动加剧，纳斯达克重挫3%，芯片股反弹未能延续。",
       "keyPoints": [
-        "标普500指数收高，芯片股卷土重来",
-        "伊朗停止对以色列袭击，市场风险情绪改善",
-        "野村拖累东京下跌2.6%，美国财政部将出售390亿美元"
+        "纳斯达克指数下跌3%",
+        "芯片股反弹未能延续",
+        "法兴银行净利润下滑，任命新CEO"
       ],
       "news": [
         {
-          "title": "国际商务与世界股市分析",
-          "summary": "S&P 500上涨，芯片股反弹，伊朗停止对以色列袭击",
+          "title": "Stock Market Plunge, Nasdaq Falls 3%",
+          "summary": "股市暴跌，纳斯达克指数下跌3%，芯片股反弹未能延续。",
           "keyInsights": [
-            "地缘风险暂缓支撑风险资产"
+            "科技股调整压力显著",
+            "芯片行业复苏受阻",
+            "投资者情绪谨慎"
           ]
         },
         {
-          "title": "美国商业新闻 - WSJ",
-          "summary": "BP推动欧洲上涨，中国新兴市场股价下跌",
+          "title": "Societe Generale Q1 Results",
+          "summary": "法兴银行净利润下滑，任命新任首席执行官。",
           "keyInsights": [
-            "能源板块受宠，新兴市场承压"
+            "净利润明显下滑",
+            "管理层重大调整",
+            "反映行业挑战"
           ]
         }
       ],
@@ -100,26 +81,59 @@
       "icon": "📊"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达Blackwell Ultra开启AI推理时代",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD系统持续迭代，Robotaxi与民用车辆模型实现统一。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra AI芯片",
-        "AI推理时代正式到来",
-        "Blackwell、AI推理和CUDA维持增长态势"
+        "特斯拉FSD V14.3.2统一Robotaxi与民用车辆模型",
+        "特斯拉推送FSD 14.3.3版本",
+        "优化召唤功能并新增菜单"
       ],
       "news": [
         {
-          "title": "Nvidia推出Blackwell Ultra AI芯片",
-          "summary": "黄仁勋宣布下一代Blackwell Ultra芯片，开启AI推理时代",
+          "title": "Tesla FSD V14.3.2 Unifies Robotaxi and Consumer Vehicle Models",
+          "summary": "FSD V14.3.2统一Robotaxi与民用车辆的FSD模型，优化召唤功能。",
           "keyInsights": [
-            "AI推理芯片成新增长极"
+            "统一不同应用场景模型",
+            "优化召唤功能",
+            "��增用户交互菜单"
           ]
         },
         {
-          "title": "英伟达Blackwell、AI推理和CUDA维持增长",
-          "summary": "Seeking Alpha上调评级，看好英伟达长期增长故事",
+          "title": "Tesla FSD 14.3.3 Update Now Rolling Out",
+          "summary": "特斯拉已开始推送FSD 14.3.3版本，用户反馈有明显改进。",
           "keyInsights": [
-            "AI芯片需求持续强劲"
+            "系统智能化水平提升",
+            "推动自动驾驶技术发展"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "英伟达发布Blackwell Ultra和Rubin AI芯片，新一代GPU即将面市。",
+      "keyPoints": [
+        "英伟达发布Blackwell Ultra和Rubin AI芯片",
+        "Blackwell Ultra将于今年晚些时候发货",
+        "Blackwell专为极致规模AI推理而生"
+      ],
+      "news": [
+        {
+          "title": "Nvidia Unveils Blackwell Ultra and Vera Rubin AI Chips",
+          "summary": "英伟达CEO黄仁勋透露Blackwell Ultra今年发货，发布下一代GPU Vera Rubin。",
+          "keyInsights": [
+            "Blackwell Ultra今年发货",
+            "Vera Rubin代表下一代架构",
+            "AI计算能力再提升"
+          ]
+        },
+        {
+          "title": "NVIDIA Blackwell: Built for Hyperscale AI Inference",
+          "summary": "Blackwell架构专为极致规模AI推理而生，引领AI革命。",
+          "keyInsights": [
+            "面向大规模推理优化",
+            "支持AI工厂时代需求"
           ]
         }
       ],
@@ -128,32 +142,37 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场十年翻倍，信达生物与辉瑞达成百亿美元交易",
+      "categorySummary": "GLP-1减肥药市场高速增长，2034年规模预计达1800亿美元。",
       "keyPoints": [
-        "GLP-1药物市场规模2026年605亿增至2035年1329亿美元",
-        "信达生物与辉���达成105亿美元癌症药物合作",
-        "诺和诺德和礼来准备推出新型GLP-1制剂"
+        "GLP-1疗法市场2034年将达1800亿美元",
+        "司美格鲁肽以138亿美元成为美国最畅销药物",
+        "诺和诺德和礼来将推出新注射和口服制剂"
       ],
       "news": [
         {
-          "title": "信达生物与辉瑞达成105亿美元癌症药物交易",
-          "summary": "中国生物技术产业蓬勃发展，与美国药企大额合作",
+          "title": "Future of GLP-1 in Obesity Drug Market",
+          "summary": "GLP-1疗法市场到2034年将达到1800亿美元规模，探讨新兴趋势和竞争格局。",
           "keyInsights": [
-            "中国创新药企国际化加速"
+            "市场规模将大幅扩张",
+            "新兴治疗方式涌现",
+            "竞争格局持续演变"
           ]
         },
         {
-          "title": "GLP-1药物市场规模预计2035年达1329亿美元",
-          "summary": "复合年增长率9.63%，注射剂和口服制剂双线推进",
+          "title": "Rise of GLP-1 Weight Loss Drugs and Consumer Health",
+          "summary": "司美格鲁肽2023年以138亿美元成为美国最畅销药物，美国超1亿肥胖成年人。",
           "keyInsights": [
-            "减重药市场进入高速增长期"
+            "销售额显著增长",
+            "肥胖治疗需求攀升",
+            "推动研发投入"
           ]
         },
         {
-          "title": "GLP-1激动剂与肥胖市场概述",
-          "summary": "诺和诺德和礼来准备推出新注射剂和口服制剂",
+          "title": "GLP-1 Receptor Agonists and Obesity Market Overview",
+          "summary": "GLP-1市场显著增长，诺和诺德和礼来即将推出新注射制剂和口服制剂。",
           "keyInsights": [
-            "口服GLP-1将扩大患者覆盖"
+            "两大药企领先",
+            "口服制剂成新增长��"
           ]
         }
       ],
@@ -162,25 +181,36 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "需求疲软，iPhone 18保护壳泄露",
+      "categorySummary": "iPhone 18系列配置逐渐曝光，iPhone 17主打性价比旗舰定位。",
       "keyPoints": [
-        "IDC预计智能手机需求将进一步恶化",
-        "美伊战争及内存短缺推高成本",
-        "iPhone 18 Pro手机壳曝光，可能不兼容iPhone 17 Pro"
+        "iPhone 18最新泄露信息包括功能和配色",
+        "iPhone 18 Pro手机壳曝光，可能不兼容iPhone 17 Pro",
+        "iPhone 17是苹果最具性价比的旗舰iPhone"
       ],
       "news": [
         {
-          "title": "最新手机新闻与分析 - PCMag",
-          "summary": "IDC称美伊战争及内存短缺正在推高成本，需求恶化",
+          "title": "iPhone 18 News: Latest Leaks and Rumors",
+          "summary": "iPhone 18最新泄露信息和传闻中的功能、配色方案曝光。",
           "keyInsights": [
-            "地缘冲突冲击消费电子供应链"
+            "产品线新变化",
+            "配色方案受关注",
+            "距正式发布尚有数月"
           ]
         },
         {
-          "title": "iPhone 18 Pro首批手机壳曝光",
-          "summary": "iPhone 18 Pro保护壳可能不兼容iPhone 17 Pro",
+          "title": "First iPhone 18 Pro and Pro Max Cases Leaked",
+          "summary": "首批iPhone 18 Pro手机壳曝光，可能不适用于iPhone 17 Pro。",
           "keyInsights": [
-            "机型设计变更，配件需重新采购"
+            "与前代尺寸可能有差异",
+            "设计细节引发猜测"
+          ]
+        },
+        {
+          "title": "iPhone 17: Everything We Know",
+          "summary": "iPhone 17是苹果最具性价比的旗舰iPhone，与iPhone Air、Pro系列同期销售。",
+          "keyInsights": [
+            "定位性价比旗舰",
+            "已于2025年9月发布"
           ]
         }
       ],
@@ -189,32 +219,37 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临衰退，主机三强更新安全承诺",
+      "categorySummary": "AAA游戏行业面临挑战，业界大佬观点引发讨论。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏行业走向衰落",
-        "2024-2025年AAA作品普遍令人失望",
-        "Xbox、任天堂、索尼更新安全游戏承诺"
+        "前Nexon CEO认为AAA游戏行业正在消亡",
+        "AAA游戏产业崩溃对PC玩家可能有利",
+        "索尼、任天堂、微软继续合作提升玩家安全"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏行业正在走向衰落",
-          "summary": "曾代表品质的AAA如今频繁翻车，行业信心受挫",
+          "title": "Ex-Nexon CEO Says AAA Game Industry Is Dying",
+          "summary": "前Nexon CEO认为2024年和2025年AAA游戏发行数量令人失望，AAA游戏行业正在消亡。",
           "keyInsights": [
-            "3A游戏开发成本与质量矛盾加剧"
+            "AAA游戏表现令人失望",
+            "引发行业反思",
+            "游戏开发模式受质疑"
           ]
         },
         {
-          "title": "AAA游戏产业崩塌对PC玩家而言是好消息",
-          "summary": "传统AAA衰退或为独立游戏和PC生态带来机遇",
+          "title": "AAA Game Industry Collapse Could Be Good News for PC Players",
+          "summary": "AAA游戏产业崩溃可能对PC玩家是好消息，PC平台优势显现。",
           "keyInsights": [
-            "游戏产业格局或向多元化转型"
+            "大型公司策略调整",
+            "PC游戏平台优势",
+            "玩家选择多元化"
           ]
         },
         {
-          "title": "Xbox携手任天堂和索尼���新安全游戏承诺",
-          "summary": "三大主机厂商持续推进游戏安全原则",
+          "title": "Latest Progress on Our Commitment to Safer Gaming",
+          "summary": "任天堂、索尼和微软继续合作，在平台上提升玩家安全体验。",
           "keyInsights": [
-            "行业自律机制不断完善"
+            "三大厂商加强合作",
+            "跨平台安全标准建立"
           ]
         }
       ],
@@ -223,25 +258,38 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "清洁能源逆势增长，绿色氢能成储能新方向",
+      "categorySummary": "清洁能源逆势增长，传统能源支持增加，氢能储能成为新兴方向。",
       "keyPoints": [
-        "风电、太阳能和电池在逆境中持续增长",
-        "氢气储存成为电池的绿色替代方案",
-        "可再生能源持续扩大规模"
+        "风电、太阳能和电池逆势增长",
+        "特朗普向煤炭行业提供7亿美元支持",
+        "氢气储存解决方案成为绿色替代方案"
       ],
       "news": [
         {
-          "title": "清洁能源这一年：风电、太阳能和电池逆势增长",
-          "summary": "2023年全球以惊人速度增加可再生能源，助地球摆脱化石燃料",
+          "title": "Year of Clean Energy: Wind, Solar and Batteries Grow Despite Challenges",
+          "summary": "清洁能源之年：风电、太阳能和电池逆势增长。",
           "keyInsights": [
-            "清洁能源增长具有韧性"
+            "清洁能源持续扩张",
+            "电池储能技术进步",
+            "发展前景乐观"
           ]
         },
         {
-          "title": "氢能储存：电池的绿色替代方案",
-          "summary": "氢气可从太阳能生产，发电仅产生水作为副产品",
+          "title": "Trump Announces $700M Support for Coal Industry",
+          "summary": "特朗普宣布向陷入困境的煤炭行业提供7亿美元新支持。",
           "keyInsights": [
-            "绿氢储能技术路径日渐清晰"
+            "联邦政府增加支持",
+            "与清洁能源趋势对比",
+            "能源政策引发关注"
+          ]
+        },
+        {
+          "title": "Hydrogen Energy Storage: Green Alternative to Batteries",
+          "summary": "氢气储存解决方案成为有前景的替代方案，GES新一代电池基于混合氢液技术。",
+          "keyInsights": [
+            "氢气可从太阳能生产",
+            "只需水即可发电",
+            "混合氢液技术突破"
           ]
         }
       ],
