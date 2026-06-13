@@ -1,42 +1,38 @@
 {
-  "date": "2026-06-13",
-  "overallSummary": "AI巨头加速联盟化布局，微软OpenAI重组开竞争新局；清洁能源迎来历史性节点，风光发电首超天然气。",
+  "date": "2026-06-14",
+  "overallSummary": "AI行业头部企业加速整合，Microsoft-OpenAI重组与Agentic AI联盟成立标志生态竞争进入新阶段；Tesla FSD跨州自动驾驶完成里程碑；Nvidia发布Blackwell Ultra芯片强化AI算力布局。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI领域呈现联盟化趋势，头部企业从竞争走向标准共建。",
+      "categorySummary": "AI行业加速整合，头部企业通过联盟与重组重塑竞争格局，聚焦AI安全与代理标准。",
       "keyPoints": [
-        "四大AI巨头联手组建Agentic AI联盟，制定AI代理开源标准",
-        "Frontier Model Forum成立，强化行业自律与协作",
-        "微软OpenAI协议重组，Anthropic和Google迎来机遇窗口"
+        "Microsoft-OpenAI重组打破独家合作格局",
+        "四大巨头成立Agentic AI联盟制定开源标准",
+        "Frontier Model Forum持续推进AI安全协作"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手组建Agentic AI联盟",
-          "summary": "Linux Foundation支持，制定AI代理开源标准",
+          "title": "四大巨头成立Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI、Anthropic联手，由Linux基金会支持，为AI代理创建开源标准。",
           "keyInsights": [
-            "行业从竞争转向标准共建"
+            "AI代理标准化竞争开启",
+            "开源生态或成主流"
           ]
         },
         {
-          "title": "Frontier Model Forum成立",
-          "summary": "Google、Microsoft、OpenAI和Anthropic联合成立",
+          "title": "Microsoft-OpenAI改写协议",
+          "summary": "重组为Anthropic和Google打开合作大门，打破原有独家关系。",
           "keyInsights": [
-            "推动负责任AI发展"
+            "AI联盟格局重塑",
+            "云服务竞争加剧"
           ]
         },
         {
-          "title": "微软OpenAI重组为Anthropic和Google打开大门",
-          "summary": "AI行业格局重塑，竞争更多元化",
+          "title": "Frontier Model Forum推进AI安全",
+          "summary": "Google、Microsoft、OpenAI、Anthropic联合推进AI安全研究与负责任开发。",
           "keyInsights": [
-            "企业客户将获更多选择"
-          ]
-        },
-        {
-          "title": "人工智能将如何变革企业",
-          "summary": "AI辅助数据决策，优化商业判断",
-          "keyInsights": [
-            "决策智能化加速"
+            "行业自律机制成形",
+            "安全标准制定进行中"
           ]
         }
       ],
@@ -45,25 +41,26 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续迭代，AI赋能电动车电池技术突破。",
+      "categorySummary": "特斯拉FSD实现跨州自动驾驶里程碑，电动车技术持续突破。",
       "keyPoints": [
-        "特斯拉FSD v14.3.3推送，用户反馈更智能",
-        "AI可将电池寿命延长23%",
-        "中国电动车欧洲市场扩张"
+        "特斯拉FSD v14实现首次跨州自动驾驶",
+        "累计10,000英里无干预行驶",
+        "小鹏X9续航测试拔得头筹"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14.3.3版本发布",
-          "summary": "增量更新，早期用户反映更智能",
+          "title": "特斯拉FSD跨州自动驾驶里程碑",
+          "summary": "首次跨州自动驾驶完成，超过10,000英里全程使用FSD且无任何干预。",
           "keyInsights": [
-            "L2级ADAS持续进化"
+            "L2辅助驾驶能力显著提升",
+            "自动驾驶实用化进程加快"
           ]
         },
         {
-          "title": "AI可将电动汽车电池寿命延长23%",
-          "summary": "查尔姆斯大学研究显示",
+          "title": "小鹏X9续航测试领先",
+          "summary": "小鹏X9在El Prix续航和充电测试中拔得头筹。",
           "keyInsights": [
-            "AI优化电池管理"
+            "中国电动车技术竞争力增强"
           ]
         }
       ],
@@ -72,25 +69,19 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布新一代AI芯片，驱动AI工厂时代。",
+      "categorySummary": "Nvidia发布Blackwell Ultra与Vera Rubin芯片，AI算力军备竞赛持续升级。",
       "keyPoints": [
-        "Blackwell Ultra将于今年晚些时候出货",
-        "Vera Rubin下一代GPU发布",
-        "Blackwell专为超大规模AI推理设计"
+        "Blackwell Ultra将于2026年下半年出货",
+        "Vera Rubin为下一代GPU架构",
+        "AI推理芯片需求持续爆发"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "黄仁勋发布两款重磅芯片",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
+          "summary": "黄仁勋发布Blackwell Ultra芯片系列及Vera Rubin下一代GPU。",
           "keyInsights": [
-            "AI算力持续攀升"
-          ]
-        },
-        {
-          "title": "NVIDIA Blackwell：专为超大规模AI推理而生",
-          "summary": "AI革命的主导力量",
-          "keyInsights": [
-            "推理芯片成新战场"
+            "AI芯片性能持续翻倍",
+            "超大规模AI推理成主战场"
           ]
         }
       ],
@@ -99,25 +90,26 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场持续扩张，多款新药有望未来五年上市。",
+      "categorySummary": "GLP-1减肥药市场持续扩张，礼来新药早期数据积极。",
       "keyPoints": [
-        "GLP-1市场规模预计2026年显著增长",
-        "未来5年13种新药可能进入市场",
-        "诺和诺德CEO对市场前景乐观"
+        "GLP-1市场预计2034年达1800亿美元",
+        "礼来23亿美元Ajax药物早期疗效良好",
+        "2026年减肥药准入扩大"
       ],
       "news": [
         {
-          "title": "GLP-1市场供需展望",
-          "summary": "价格下降、准入扩大推动增长",
+          "title": "GLP-1市场预测1800亿美元",
+          "summary": "GLP-1疗法市场到2034年预计达1800亿美元，诺和诺德和礼来推出新制剂。",
           "keyInsights": [
-            "市场快速扩张"
+            "减肥药成医药最大增长赛道",
+            "口服制剂将改变竞争格局"
           ]
         },
         {
-          "title": "诺和诺德CEO接受采访",
-          "summary": "表达对大型制药公司前景信心",
+          "title": "礼来Ajax药物早期数据积极",
+          "summary": "礼来23亿美元JAK2抑制剂早期数据显示“从一开始”就能起效，安全性良好。",
           "keyInsights": [
-            "行业龙头持续看好"
+            "创新靶点竞争开启"
           ]
         }
       ],
@@ -126,25 +118,19 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻涌现，折叠屏设备或于9月亮相。",
+      "categorySummary": "苹果产品线持续演进，iPhone 18与折叠屏新机传闻升温。",
       "keyPoints": [
-        "iPhone 18 Pro电池续航将提升",
-        "折叠屏设备传闻9月发布",
-        "Galaxy S26 Ultra降价促销"
+        "iPhone 18 Pro系列预计2026年9月发布",
+        "折叠屏设备或命名为iPhone Fold/Ultra",
+        "5G部署稳步推进"
       ],
       "news": [
         {
-          "title": "iPhone 18最新传闻汇总",
-          "summary": "Pro机型预计9月上市，含折叠屏",
+          "title": "iPhone 18系列前瞻",
+          "summary": "Pro和Pro Max预计9月发布，折叠屏设备有望首次亮相。",
           "keyInsights": [
-            "苹果产品线重大更新"
-          ]
-        },
-        {
-          "title": "Galaxy S26 Ultra特惠500美元",
-          "summary": "Mint Mobile独家优惠",
-          "keyInsights": [
-            "Android旗舰促销战"
+            "苹果折叠屏终于要来",
+            "产品线进一步分层"
           ]
         }
       ],
@@ -153,18 +139,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临挑战，主机厂商联合推动安全游戏。",
+      "categorySummary": "AAA游戏产业面临挑战，主机厂商联合推进安全游戏��诺。",
       "keyPoints": [
-        "AAA游戏行业评价两极分化",
-        "Xbox��任天堂、索尼更新安全游戏承诺",
-        "PC游戏市场逆势增长"
+        "AAA游戏质量争议持续",
+        "Xbox、索尼、任天堂联合承诺安全游戏",
+        "PC游戏市场或迎来机遇"
       ],
       "news": [
         {
-          "title": "主机三巨头更新更安全游戏承诺",
-          "summary": "Xbox、索尼、任天堂联合声明",
+          "title": "三大主机厂联合安全游戏承诺",
+          "summary": "Xbox、PlayStation和任天堂共同承诺打造更安全的游戏环境。",
           "keyInsights": [
-            "行业自律升级"
+            "行业社会责任强化"
           ]
         }
       ],
@@ -173,25 +159,18 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "清洁能源取得历史性突破，风光发电首超天然气。",
+      "categorySummary": "太阳能与氢能成为清洁能源转型核心，储能技术持续突破。",
       "keyPoints": [
-        "风能和太阳能发电量首次超过天然气",
-        "氢能储能成为电池替代方案",
-        "欧洲2000亿欧元投资电动汽车"
+        "太阳能装机成本持续下降",
+        "绿色氢能作为储能替代方案兴起",
+        "电网转型加速推进"
       ],
       "news": [
         {
-          "title": "风能和太阳能发电量首次超过天然气",
-          "summary": "Ember数据：清洁能源里程碑",
+          "title": "氢能存储获关注",
+          "summary": "氢能存储成为电池的绿色替代方案，由太阳能产生，发电过程仅产生水。",
           "keyInsights": [
-            "能源转型加速"
-          ]
-        },
-        {
-          "title": "氢能储能方案兴起",
-          "summary": "绿色氢气存储技术突破",
-          "keyInsights": [
-            "储能多元化"
+            "长时储能技术路线明确"
           ]
         }
       ],
@@ -200,25 +179,19 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "全球市场关注经济政策走向与企业财报。",
+      "categorySummary": "全球市场情绪回暖，SpaceX首秀大涨，美伊协议进展积极。",
       "keyPoints": [
-        "美联储政策动向影响全球资本流动",
-        "大额定期存单利率达0.63%",
-        "新兴中国市场动态持续受关注"
+        "股市整体收涨",
+        "SpaceX上市首日大涨",
+        "美伊协���接近达成"
       ],
       "news": [
         {
-          "title": "大额6个月定期存单利率达0.63%",
-          "summary": "储蓄产品收益率",
+          "title": "全球市场收涨",
+          "summary": "股市收涨，SpaceX首秀大涨，美伊协议接近达成，市场风险偏好回升。",
           "keyInsights": [
-            "利率环境"
-          ]
-        },
-        {
-          "title": "农业信贷银行净利润下滑",
-          "summary": "新任首席执行官获任命",
-          "keyInsights": [
-            "行业调整中"
+            "地缘政治紧张缓解",
+            "科技股情绪改善"
           ]
         }
       ],
