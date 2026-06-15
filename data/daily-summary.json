@@ -1,38 +1,35 @@
 {
-  "date": "2026-06-15",
-  "overallSummary": "AI行业巨头联合成立代理式AI联盟，半导体领域Nvidia发布新一代芯片，GLP-1药物市场规模预计翻倍增长。",
+  "date": "2026-06-16",
+  "overallSummary": "AI行业巨头加速联盟整合，微软OpenAI重组开放竞争；SpaceX股价飙升35%，新能源与半导体领域持续突破。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "四大AI巨头组建代理式AI联盟，AI商业应用持续深化。",
+      "categorySummary": "AI巨头加速整合，前沿模型论坛与Agentic AI联盟相继成立，行业安全标准成焦点。",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic组建代理式AI联盟",
-        "微软-OpenAI重组为竞争对手打开机会之门",
-        "AI软件正成为企业决策优化的核心工具"
+        "Anthropic、Google、Microsoft、OpenAI成立前沿模型论坛",
+        "微软OpenAI重组打破排他性，利好Anthropic和Google",
+        "四大巨头联手成立Agentic AI联盟，创建开源标准"
       ],
       "news": [
         {
-          "title": "四大科技巨头联手成立代理式AI联盟",
-          "summary": "微软、谷歌、OpenAI和Anthropic联合组建代理式AI联��，由Linux基金会支持，旨在创建AI代理开源标准。",
+          "title": "前沿模型论坛成立",
+          "summary": "四大AI公司联合成立行业机构，聚焦AI安全与负责任发展",
           "keyInsights": [
-            "行业标准化趋势加速",
-            "开源生态建设成竞争焦点"
+            "行业自律机制加速形成"
           ]
         },
         {
-          "title": "微软与OpenAI合作调整",
-          "summary": "微软与OpenAI的合作重组为Anthropic和谷歌带来新机会。",
+          "title": "微软OpenAI重组",
+          "summary": "合作协议调整，为竞争对手创造商业机会",
           "keyInsights": [
-            "AI竞争格局重塑",
-            "多极化发展态势明显"
+            "排他性模式松动，市场竞争加剧"
           ]
         },
         {
-          "title": "AI改变企业决策流程",
-          "summary": "AI软件能获取数据并呈现综合行动方案，帮助判断后果并优化商业决策。",
+          "title": "Agentic AI联盟",
+          "summary": "四大公司联手成立联盟，由Linux Foundation支持创建开源标准",
           "keyInsights": [
-            "AI辅助决策成主流",
-            "企业智能化转型加速"
+            "AI代理标准化进程启动"
           ]
         }
       ],
@@ -40,28 +37,87 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "全球芯片销售额同比增长显著，Nvidia发布新一代AI芯片。",
+      "name": "商业财经",
+      "categorySummary": "地缘政治缓和提振市场，SpaceX IPO预期持续发酵，科技股领涨。",
       "keyPoints": [
-        "4月全球芯片销售额同比增长93.9%",
-        "Nvidia发布Blackwell Ultra和Vera Rubin芯片",
-        "2026年全球半导体销售额预计突破1.5万亿美元"
+        "伊朗协议预期推动美国股指期货大涨",
+        "SpaceX股价两日累计上涨35%",
+        "日经指数飙升5%"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "黄仁勋发布Blackwell Ultra系列芯片及Vera Rubin新一代GPU。",
+          "title": "美股期货大涨",
+          "summary": "地缘政治缓和预期提振市场风险情绪",
           "keyInsights": [
-            "AI芯片���争升级",
-            "算力需求持续爆发"
+            "风险资产配置回升"
           ]
         },
         {
-          "title": "全球半导体市场强劲增长",
-          "summary": "4月全球芯片销售额环比增长11%，同比增长93.9%。",
+          "title": "SpaceX IPO热潮",
+          "summary": "连续两日涨近20%，累计涨幅35%，IPO预期持续",
           "keyInsights": [
-            "行业景气度持续",
-            "AI驱动需求激增"
+            "太空经济投资热情高涨"
+          ]
+        },
+        {
+          "title": "Fox收购Roku",
+          "summary": "流媒体整合加速，行业格局重塑",
+          "keyInsights": [
+            "内容分发赛道整合加速"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "电动车续航充电技术突破，特斯拉FSD逼近L4级，AI赋能电池管理。",
+      "keyPoints": [
+        "小鹏X9续航401英里，充电仅需13分钟",
+        "特斯拉FSD v14接近L4级自动驾驶",
+        "AI技术可将电池寿命延长23%"
+      ],
+      "news": [
+        {
+          "title": "小鹏X9实测最佳",
+          "summary": "续航超WLTP标准11.4%，充电速度创测试纪录",
+          "keyInsights": [
+            "中国电动车技术竞争力提升"
+          ]
+        },
+        {
+          "title": "特斯拉FSD进化",
+          "summary": "v14.3.3版本接近L4级无人驾驶体验",
+          "keyInsights": [
+            "自动驾驶商业化临近"
+          ]
+        },
+        {
+          "title": "AI延长电池寿命",
+          "summary": "研究表明AI可将EV电池寿命延长23%",
+          "keyInsights": [
+            "AI赋能新能源汽车全生命周期"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "英伟达加速迭代，Blackwell Ultra即将出货，Rubin路线图明确。",
+      "keyPoints": [
+        "英伟达发布Blackwell Ultra和Vera Rubin芯片",
+        "Blackwell Ultra将于年内发货",
+        "AI工厂时代芯片架构持续演进"
+      ],
+      "news": [
+        {
+          "title": "NVIDIA芯片更新",
+          "summary": "Blackwell Ultra年内发货，Rubin下一代GPU规划明确",
+          "keyInsights": [
+            "AI算力军备竞赛持续"
           ]
         }
       ],
@@ -70,33 +126,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场规模预计翻倍，制药巨头保持乐观。",
+      "categorySummary": "GLP-1市场爆发增长，减肥药赛道扩张，Biotech面临整合压力。",
       "keyPoints": [
-        "GLP-1市场规模预计2035年达1900亿美元",
-        "诺和诺德掌门人对大型药企持乐观态度",
-        "口服治疗和扩大覆盖推动市场增长"
+        "GLP-1市场2035年预计达1900亿美元",
+        "口服疗法和保险覆盖扩大市场",
+        "Neumora Therapeutics裁员35%"
       ],
       "news": [
         {
-          "title": "GLP-1市场规模预计翻倍至1900亿美元",
-          "summary": "GLP-1药物全球市场规模将从2025年水平增长一倍以上。",
+          "title": "GLP-1市场爆发",
+          "summary": "市场规模将较2025年翻番，达1900亿美元",
           "keyInsights": [
-            "减重药市场持续扩张",
-            "口服制剂成新增长点"
+            "代谢药物赛道持续高景气"
           ]
         },
         {
-          "title": "Novo Nordisk掌门人表达乐观态度",
-          "summary": "杜斯特达尔表示对大型制药企业始终持乐观态度。",
+          "title": "Neumora裁员",
+          "summary": "核心资产临床失败后宣布裁员35%",
           "keyInsights": [
-            "代谢药物赛道持续被看好"
-          ]
-        },
-        {
-          "title": "GLP-1供需状况分析",
-          "summary": "价格下降、老年人获益及新批准将推动2026年市场规模大幅增长。",
-          "keyInsights": [
-            "政策利好助力市场渗透"
+            "Biotech淘汰赛加剧"
           ]
         }
       ],
@@ -105,32 +153,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻涌现，AI手机成新方向。",
+      "categorySummary": "iPhone 18系列传言升温，Pro机型与折叠屏预计9月同步发布。",
       "keyPoints": [
-        "iPhone 18 Pro机型最新泄露确认更大电池",
-        "苹果9月预计发布折叠设备",
-        "OpenAI探索AI智能体手机"
+        "iPhone 18 Pro预计9月发布",
+        "折叠屏iPhone同步登场",
+        "标准版可能推迟上市"
       ],
       "news": [
         {
-          "title": "iPhone 18最新泄露信息汇总",
-          "summary": "苹果预计推出全新产品线，Pro和Pro Max机型9月上市。",
+          "title": "iPhone 18传言",
+          "summary": "Pro机型与折叠屏预计9月发布，标准版延后",
           "keyInsights": [
-            "苹果产品线战略调整"
-          ]
-        },
-        {
-          "title": "iPhone折叠设备预计亮相",
-          "summary": "传闻已久的折叠设备将首次亮相，或称iPhone Fold。",
-          "keyInsights": [
-            "折叠屏成手机新战场"
-          ]
-        },
-        {
-          "title": "OpenAI探索AI手机",
-          "summary": "OpenAI可能开发AI智能体手机，迈向集成化移动体验。",
-          "keyInsights": [
-            "AI原生设备概念兴起"
+            "苹果产品线重大更新年"
           ]
         }
       ],
@@ -139,25 +173,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临挑战，三大主机厂商联合关注玩家安全。",
+      "categorySummary": "3A游戏产业面临成本危机，行业呼吁变革；游戏安全承诺持续推进。",
       "keyPoints": [
-        "AAA游戏行业面临被取代的讨论",
-        "索尼、微软、任天堂联合发布玩家安全承诺更新",
-        "游戏行业安全合作机制持续完善"
+        "3A游戏开发成本达2-3亿美元",
+        "独立游戏崛起抢占市场",
+        "Xbox、索尼、任天堂推进游戏安全承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏产业讨论升温",
-          "summary": "业界讨论AAA游戏是否正在消亡或被取代。",
+          "title": "3A游戏困境",
+          "summary": "高成本长周期导致发行商风险加剧",
           "keyInsights": [
-            "游戏行业转型压力增大"
-          ]
-        },
-        {
-          "title": "三大主机厂商联合声明",
-          "summary": "索尼、微软和任天堂发布联合声明，更新玩家安全承诺进展。",
-          "keyInsights": [
-            "行业自律机制持续强化"
+            "产业格局向多元化转型"
           ]
         }
       ],
@@ -166,57 +193,30 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "太阳能发电创新高，绿色氢能储能方案受关注。",
+      "categorySummary": "太阳能、风能装机量创纪录，绿氢与储能技术持续突破。",
       "keyPoints": [
-        "太阳能发电在美国创下新里程碑",
-        "绿色氢能成为储能关键要素",
-        "混合氢-液体技术储能方案推进"
+        "2025年太阳能风能新增装机创纪录",
+        "美国太阳能发电创新高",
+        "氢能-液体混合储能技术���展"
       ],
       "news": [
         {
-          "title": "太阳能发电创新高",
-          "summary": "太阳能发电在美国创下新里程碑，尽管政策倾向煤炭。",
+          "title": "新能源装机爆发",
+          "summary": "2025年太阳能和风能新增装机量创历史新高",
           "keyInsights": [
-            "清洁能源韧性强劲"
+            "能源转型加速推进"
           ]
         },
         {
-          "title": "绿色氢能储能解决方案",
-          "summary": "绿色氢能通过电解法制备，成为低碳转型关键要素。",
+          "title": "美国太阳能创新高",
+          "summary": "尽管政策支持煤炭，太阳能仍创新里程碑",
           "keyInsights": [
-            "氢储能技术商业化加速"
+            "市场力量超越政策周期"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "EV行业持续发展，特斯拉FSD持续迭代。",
-      "keyPoints": [
-        "宝马M概念车Neue Klasse亮相全电动设计",
-        "小鹏X9在续航和充电测试中夺冠",
-        "特斯拉FSD持续更新迭代"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD最新动态",
-          "summary": "特斯拉全自动驾驶软件持续更新，14.2.1.25版本发布。",
-          "keyInsights": [
-            "自动驾驶技术稳步推进"
-          ]
-        },
-        {
-          "title": "EV行业最新资讯",
-          "summary": "涵盖特斯拉、Rivian、Lucid及中国电动车市场动态。",
-          "keyInsights": [
-            "EV市场竞争加剧"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
     }
   ]
 }
