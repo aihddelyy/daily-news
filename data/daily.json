@@ -1,8 +1,8 @@
 {
   "date": {
-    "date": "2026-06-19",
-    "display": "2026年6月19日星期五",
-    "timestamp": "2026-06-18T22:54:03.138Z"
+    "date": "2026-06-20",
+    "display": "2026年6月20日星期六",
+    "timestamp": "2026-06-19T22:01:03.306Z"
   },
   "categories": [
     {
@@ -11,48 +11,48 @@
       "icon": "🧠",
       "items": [
         {
-          "title": "AI新闻 | 最新资讯 | 洞见：赋能AI驱动的业务增长",
-          "summary": "![图片 1](https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News-White-1.png) * [分类](https://www.artificialintelligence-news.com/categories/)",
+          "title": "人工智能 - 最新AI新闻与分析 - WSJ.com",
+          "summary": "**图片7：黑客如何找到进入美国家庭客厅的后门**",
           "content": "",
-          "source": "Artificialintelligence-news",
-          "url": "https://www.artificialintelligence-news.com",
+          "source": "Wsj",
+          "url": "https://www.wsj.com/tech/ai",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/brain0/400/250"
         },
         {
-          "title": "AI 商业 | 最新新闻与动态 - BBC",
-          "summary": "![图片27](https://static.files.bbci.co.uk/bbcdotcom/web/20260609-143108-fe43574f32-web-3.9.0-5/grey-placeholder.png)![图片28：西兰花](https://ichef.bbci.co.uk/news/480/cpsprodpb/b70b/live/7bf4c...)",
+          "title": "AI新闻 | 最新资讯 | 推动AI驱动业务增长的洞察",
+          "summary": "[![图片 1](https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News-White-1.png)](https://www.artificialintelligence-news.com/) • [分类](https://www.artificialintelligence-news.com/c",
           "content": "",
-          "source": "Bbc",
-          "url": "https://www.bbc.com/news/topics/cd1904ree0nt",
+          "source": "Artificialintelligence-news",
+          "url": "https://www.artificialintelligence-news.com",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/brain1/400/250"
         },
         {
-          "title": "人工智能 - AI新闻 - 路透社",
-          "summary": "*   [世界](https://www.reuters.com/world/)。 [浏览世界](https://www.reuters.com/world/)。 *   [非洲](https://www.reuters.com/world/africa/)。 *   [美洲](https://www.reuters.com/world/americ...",
+          "title": "AI Business：为全球AI社区传递资讯、提供教育、构建连接",
+          "summary": "图5：光标图标",
           "content": "",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence",
+          "source": "Aibusiness",
+          "url": "https://aibusiness.com",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/brain2/400/250"
         },
         {
-          "title": "Anthropic、谷歌、微软和OpenAI联合成立前沿模型论坛",
-          "summary": "前沿模型论坛：促进负责任AI发展的新合作。Anthropic、Google、Microsoft和OpenAI共同发起成立前沿模型论坛这一行业机构，致力于确保安全且负责任的前沿模型开发。",
+          "title": "谷歌与微软联手抗衡Anthropic和OpenAI",
+          "summary": "[](https://www.theinformation.com/deep-research). [](https://www.theinformation.com/)Pro 菜单。\n\n-   [关于 Pro](https://www.theinformation.com/pro)。\n-   [2026年下一个 GPs](https://www.theinformation.c...",
           "content": "",
-          "source": "Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum",
+          "source": "Theinformation",
+          "url": "https://www.theinformation.com/newsletters/applied-ai/google-microsoft-team-beat-back-anthropic-openai",
           "time": "今日",
           "tag": "OpenAI",
           "image": "https://picsum.photos/seed/brain3/400/250"
         },
         {
-          "title": "# Microsoft与OpenAI的重组为Anthropic和Google打开了大门\n\n**作者：David Ramel**\n\n**发布于：The New Stack**\n\n---\n\n微软与OpenAI的合作关系正经历重大调整，此举可能为 Anthropic 和 Google 等竞争对手创造新的机遇。\n\n据《华尔街日报》本周报道，微软已同意向OpenAI投资约130亿美元，并将获得OpenAI盈利分成的大部分权益。然而，这笔交易还涉及一个关键条款：OpenAI承诺，若在2025年1月前完成重组，将为微软提供更多控制权。\n\n这一变化的核心在于，OpenAI正在推进从非营利组织向营利性公益公司（PBC）的转型。作为重组的一部分，OpenAI将赋予微软更多股份和利润分享权。但更重要的是，分析人士指出，此举可能为Anthropic��Claude和Google的Gemini等AI产品创造更大的市场空间。\n\n据Business Insider报道，OpenAI重组后可能将某些技术授权给微软，从而削弱两家公司在AI领域的直接竞争关系。这种“竞合”模式可能会重新定义AI行业的竞争格局。\n\n对于Anthropic和Google而言，这意味着它们可能获得更多喘息空间，在微软和OpenAI调整合作关系期间，争夺企业客户和开发者资源。\n\n目前，Microsoft、OpenAI、Anthropic和Google均未就此置评。\n\n---\n\n*原文链接：[Microsoft-OpenAI rewrite opens the door for Anthropic and Google](https://thenewstack.io/microsoft-openai-rewrite-opens-the-door-for-anthropic-and-google/)*",
-          "summary": "**分类标签：** AI Strategy / Cloud Services / Large Language Models\n\n**作者：** Adrian Bridgwater\n\n**标题：** Microsoft-OpenAI 改写协议为 Anthropic 和 Google 打开大门 - The New Stack",
+          "title": "# 微软与OpenAI的重新调整为Anthropic和Google打开了大门\n\n**The New Stack**\n\n这一转变可能重塑AI领域的竞争格局。随着微软与OpenAI之间关系的演变，其他AI公司正在寻求机会填补空缺。\n\n据悉，微软近期对其AI战略进行了重大调整，这与OpenAI的合作模式正在发生变化。这一转变不仅影响了两家公司之间的合作，也为其他AI竞争者创造了新的可能性。\n\nAnthropic和Google作为AI领域的主要参与者，正在密切关注这一局势发展。业内分析师认为，这些公司可能会利用这一机会扩大其市场份额，特别是在企业AI应用方面。\n\n业内人士指出，微软与OpenAI的合作调整可能涉及技术共享、定价策略以及市场定位等多个层面。这种变化将不可避免地影响整个AI行业的竞争态势。\n\n对于企业客户而言，这可能意味着更多的选择和更灵活的AI解决方案。各公司正在评估这一变化对其现有AI基础设施和未来规划的影响。",
+          "summary": "**类别：** AI战略 / 云服务 / 大语言模型\n\n**作者：** Adrian Bridgwater\n\n**标题：** Microsoft-OpenAI 重组为 Anthropic 和 Google 敞开大门 - The New Stack",
           "content": "",
           "source": "Thenewstack",
           "url": "https://thenewstack.io/openai-microsoft-partnership-restructured",
@@ -61,11 +61,11 @@
           "image": "https://picsum.photos/seed/brain4/400/250"
         },
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联合成立Agentic...",
-          "summary": "据报道，微软、谷歌、OpenAI和Anthropic联手组建Agentic AI联盟——该组织由Linux基金会支持，将为AI智能体制定开源标准…",
+          "title": "微软持有OpenAI 27%的股份，谷歌投资Anthropic | George Draco 发表话题 | LinkedIn",
+          "summary": "[查看更多评论](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdrakoglougeorge_microsoft-owns-27-of-openai-chatgpt-activity-745512838304426...",
           "content": "",
-          "source": "Tomshardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-google-openai-and-anthropic-join-forces-to-form-agentic-ai-alliance-according-to-report-organization-backed-by-the-linux-foundation-is-set-to-create-open-source-standards-for-ai-agents",
+          "source": "Linkedin",
+          "url": "https://www.linkedin.com/posts/drakoglougeorge_microsoft-owns-27-of-openai-chatgpt-activity-7455128383044263936-sKj3",
           "time": "今日",
           "tag": "OpenAI",
           "image": "https://picsum.photos/seed/brain5/400/250"
@@ -78,7 +78,7 @@
       "icon": "📊",
       "items": [
         {
-          "title": "全球市场头条 | 突发股市新闻 | 路透",
+          "title": "全球市场头条 | 突发股市新闻 | 路透社",
           "summary": "*   [世界](https://www.reuters.com/world/)。## [浏览世界](https://www.reuters.com/world/)。*   [商业](https://www.reuters.com/business/)。## [浏览商业](https://www.reuters.com/business...",
           "content": "",
           "source": "Reuters",
@@ -88,28 +88,28 @@
           "image": "https://picsum.photos/seed/biz0/400/250"
         },
         {
-          "title": "BBC商业 | 经济、科技、人工智能、工作、个人理财、市场……",
-          "summary": "订阅商界世界",
-          "content": "",
-          "source": "Bbc",
-          "url": "https://www.bbc.com/business",
-          "time": "今日",
-          "tag": "市场",
-          "image": "https://picsum.photos/seed/biz1/400/250"
-        },
-        {
           "title": "国际商务、世界新闻与全球股票市场分析",
-          "summary": "股指期货上涨，华尔街试图从美联储引发的抛售中反弹；英特尔领涨芯片股",
+          "summary": "[市场](https://www.cnbc.com/markets/)。* [美国市场](https://www.cnbc.com/us-markets/)。* [货币](https://www.cnbc.com/currencies/)。* [债券](https://www.cnbc.com/bonds/)。[商业]...",
           "content": "",
           "source": "Cnbc",
           "url": "https://www.cnbc.com/world",
           "time": "今日",
           "tag": "市场",
+          "image": "https://picsum.photos/seed/biz1/400/250"
+        },
+        {
+          "title": "BBC商业频道 | 经济、科技、人工智能、工作、个人理财、市场……",
+          "summary": "[![](https://static.files.bbci.co.uk/bbcdotcom/web/20260609-143108-fe43574f32-web-3.9.0-5/grey-placeholder.png)![订阅商业世界](https://ichef.bbci.co.uk/images/ic/raw/p0jq6tfl.jpg.webp)...",
+          "content": "",
+          "source": "Bbc",
+          "url": "https://www.bbc.com/business",
+          "time": "今日",
+          "tag": "市场",
           "image": "https://picsum.photos/seed/biz2/400/250"
         },
         {
-          "title": "财经 - WSJ.com",
-          "summary": "图4：SpaceX IPO最大赢家的投资指南",
+          "title": "商业",
+          "summary": "突发新闻及商业独家分析，涵盖科技、媒体和财报最新资讯。",
           "content": "",
           "source": "Wsj",
           "url": "https://www.wsj.com/business",
@@ -118,23 +118,23 @@
           "image": "https://picsum.photos/seed/biz3/400/250"
         },
         {
-          "title": "市场指数 - 华尔街日报 - WSJ.com",
-          "summary": "股票 市场数据 报价 公司列表 市场 股票 A-Z 0-9 A",
-          "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/market-data/quotes/company-list",
-          "time": "今日",
-          "tag": "市场",
-          "image": "https://picsum.photos/seed/biz4/400/250"
-        },
-        {
-          "title": "商业交易与并购 - 最新新闻及分析",
-          "summary": "最新消息 · 创建支票本的公司正在收购一家支付处理商 · EQT同意以123.6亿美元收购Intertek集团 · 欧洲最大银行...",
+          "title": "商业交易、并购",
+          "summary": "突发新闻及独家商业分析，涵盖科技、媒体及财报最新资讯……",
           "content": "",
           "source": "Wsj",
           "url": "https://www.wsj.com/business/deals",
           "time": "今日",
           "tag": "资讯",
+          "image": "https://picsum.photos/seed/biz4/400/250"
+        },
+        {
+          "title": "市场指数 - The Wall Street Journal",
+          "summary": "- [股票](https://www.wsj.com/market-data/quotes/company-list#)\n- [0-9](https://www.wsj.com/market-data/quotes/company-list/markets/stocks/a-z/0-9)\n- [A](https://www.wsj.com/market-data/quote...",
+          "content": "",
+          "source": "Wsj",
+          "url": "https://www.wsj.com/market-data/quotes/company-list",
+          "time": "今日",
+          "tag": "市场",
           "image": "https://picsum.photos/seed/biz5/400/250"
         }
       ]
@@ -146,7 +146,7 @@
       "items": [
         {
           "title": "EV | 电动汽车行业最新资讯",
-          "summary": "突发电动汽车新闻、特斯拉最新动态、Rivian、Lucid及中国电动汽车市场报道。每日更新电动汽车及自动驾驶最新资讯。",
+          "summary": "电动汽车重磅新闻、Tesla最新动态、Rivian、Lucid及中国电动汽车市场报道。每日更新电动汽车及自动驾驶相关资讯。",
           "content": "",
           "source": "Eletric-vehicles",
           "url": "https://eletric-vehicles.com",
@@ -155,28 +155,28 @@
           "image": "https://picsum.photos/seed/auto0/400/250"
         },
         {
-          "title": "EV报道 - 电动汽车行业新闻与洞察",
-          "summary": "日产推出搭载第三代e-POWER的全新Kicks · JLR拓展动力总成灵活性，瞄准北美市场增长 · 法雷奥推出48V双速电驱动桥用于...",
+          "title": "电动汽车 - 汽车新闻",
+          "summary": "汽车新闻提供电动汽车（EV）领域的最新新闻和报道。比亚迪将在欧洲销售7座唐电动SUV。",
+          "content": "",
+          "source": "Autonews",
+          "url": "https://www.autonews.com/ev",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/auto1/400/250"
+        },
+        {
+          "title": "EV报告 - 电动汽车行业新闻与洞察",
+          "summary": "EV Report是一个致力于全球电动汽车行业的数字平台。我们的使命是向读者传递最新资讯并与他们保持互动……",
           "content": "",
           "source": "Theevreport",
           "url": "https://theevreport.com",
           "time": "今日",
           "tag": "电动",
-          "image": "https://picsum.photos/seed/auto1/400/250"
-        },
-        {
-          "title": "EV Magazine：电动汽车新闻之家",
-          "summary": "电池与充电：欧洲为何投资2000亿欧元发展电动汽车\n\n查尔姆斯大学研究表明人工智能可将电动汽车电池寿命延长23%\n\n捷豹Type 01原型电动汽车...",
-          "content": "",
-          "source": "Evmagazine",
-          "url": "https://evmagazine.com",
-          "time": "今日",
-          "tag": "电动",
           "image": "https://picsum.photos/seed/auto2/400/250"
         },
         {
-          "title": "实测：特斯拉FSD正在演变为事实上的无人驾驶出租车 - 福布斯",
-          "summary": "特斯拉最新版本的FSD，即v14.3.3版本（或如果你使用的是最新版本则为v14.3.4），感觉比之前的版本更像L4级别的自动驾驶ADAS……",
+          "title": "评测：特斯拉FSD正在演变成事实上的自动驾驶出租车 - Forbes",
+          "summary": "特斯拉最新版本的FSD，v14.3.3（如果你用的是最新版本的话则是v14.3.4），感觉比之前的版本更像是四级自动驾驶ADAS……",
           "content": "",
           "source": "Forbes",
           "url": "https://www.forbes.com/sites/brookecrothers/2026/06/14/tesla-fsd-is-evolving-into-a-de-facto-robotaxi",
@@ -185,8 +185,8 @@
           "image": "https://picsum.photos/seed/auto3/400/250"
         },
         {
-          "title": "我测试了特斯拉最新“令人惊叹”的全自动驾驶FSD v14 | Electrek",
-          "summary": "特斯拉FSD v14是这家汽车制造商高级驾驶辅助系统（ADAS）的增量改进，也是目前最令人印象深刻的L2级别系统……",
+          "title": "我测试了特斯拉最新的“令人惊叹”全自动驾驶FSD v14 | Electrek",
+          "summary": "简而言之，特斯拉FSD v14是这家汽车制造商高级驾驶辅助系统（ADAS）的一次增量改进，也是最令人印象深刻的L2级...",
           "content": "",
           "source": "Electrek",
           "url": "https://electrek.co/2025/12/16/tesla-full-self-driving-v14-review",
@@ -195,11 +195,11 @@
           "image": "https://picsum.photos/seed/auto4/400/250"
         },
         {
-          "title": "完全自动驾驶（监督版）v14 试用 | Tesla 支持",
-          "summary": "体验最新的全自动驾驶（监督版）v14功能，包括速度配置和到达选项，以及免费试用...",
+          "title": "Tesla Autopilot - 维基百科",
+          "summary": "截至2026年2月，客户可以订阅名为“全自动驾驶（监督版）”（FSD）的可选L2级别套餐，该套餐增加了半自主导航功能...",
           "content": "",
-          "source": "Tesla",
-          "url": "https://www.tesla.com/support/fsd/v14-trial",
+          "source": "En",
+          "url": "https://en.wikipedia.org/wiki/Tesla_Autopilot",
           "time": "今日",
           "tag": "Tesla",
           "image": "https://picsum.photos/seed/auto5/400/250"
@@ -213,7 +213,7 @@
       "items": [
         {
           "title": "半导体最新新闻 | SIA",
-          "summary": "（链接：https://www.semiconductors.org/news-events/latest-news）\n\n- ![图片1：Facebook](https://www.semiconductors.org/wp-content/uploads/2018/08/facebook.png)",
+          "summary": "**链接：** https://www.semiconductors.org/news-events/latest-news\n\n- Facebook 图片链接\n\n- ...",
           "content": "",
           "source": "Semiconductors",
           "url": "https://www.semiconductors.org/news-events/latest-news",
@@ -222,8 +222,8 @@
           "image": "https://picsum.photos/seed/chip0/400/250"
         },
         {
-          "title": "新闻存档 - 康奈尔大学CHIPS + Science计划",
-          "summary": "多家总部位于纽约的科技公司在NY THRIVE创新券的支持下，正在加速推进下一代半导体制造。",
+          "title": "新闻存档 - 康奈尔大学 CHIPS + Science",
+          "summary": "纽约州北部的美国国家科学基金会（NSF）能源存储引擎项目由宾厄姆顿大学牵头，康奈尔大学作为技术转化的核心合作伙伴，已获得4500万美元的续期资金支持...",
           "content": "",
           "source": "Chips",
           "url": "https://chips.cornell.edu/news",
@@ -233,7 +233,7 @@
         },
         {
           "title": "半导体新闻与行业动态 - EE Times",
-          "summary": "值得全球电子行业信赖的新闻。功耗敏感型设计工程师信赖的新闻来源。电子采购与供应链新闻。新闻、技术及趋势...",
+          "summary": "值得信赖的全球电子行业新闻。注重功耗的设计工程师信赖的新闻来源。电子采购与供应链资讯。新闻、技术与趋势...",
           "content": "",
           "source": "Eetimes",
           "url": "https://www.eetimes.com/tag/semiconductors",
@@ -242,8 +242,8 @@
           "image": "https://picsum.photos/seed/chip2/400/250"
         },
         {
-          "title": "NVIDIA的惊人突破：Blackwell AI芯片、机器人、AGI、世界模型及更多！",
-          "summary": "**NVIDIA令人惊叹的突破：Blackwell AI芯片、机器人、AGI、世界模型等！**\n\nMatthew Berman\n615000位订阅者\n3547个赞\n200791次观看\n2024年3月19日\n\nNVIDIA举办了GTC年度大会并宣布...",
+          "title": "**NVIDIA震撼发布：Blackwell AI芯片、机器人、AGI、世界模型等重磅突破！**",
+          "summary": "英伟达的惊人突破：Blackwell AI芯片、机器人、AGI、世界模型等！\n马修·伯曼\n615,000 位订阅者\n3,547 个赞\n200,791 次观看\n2024年3月19日\n\n英伟达举办了GTC年度大会并宣布...",
           "content": "",
           "source": "Youtube",
           "url": "https://www.youtube.com/watch?v=y4qUEBlgU_w",
@@ -252,8 +252,8 @@
           "image": "https://picsum.photos/seed/chip3/400/250"
         },
         {
-          "title": "NVIDIA Blackwell：为超大规模AI推理而生",
-          "summary": "# NVIDIA Blackwell：为极致规模AI推理而生\n\n动画展示NVIDIA Blackwell系统的纵向扩展与横向扩展。NVIDIA Blackwell架构是AI革命的主导力量……",
+          "title": "NVIDIA Blackwell：专为超大规模AI推理而生",
+          "summary": "NVIDIA Blackwell：为极致规模AI推理而生。动画展示NVIDIA Blackwell系统的垂直扩展和水平扩展。NVIDIA Blackwell架构是AI革命的领军者...",
           "content": "",
           "source": "Blogs",
           "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference",
@@ -262,8 +262,8 @@
           "image": "https://picsum.photos/seed/chip4/400/250"
         },
         {
-          "title": "# NVIDIA Blackwell Ultra 内部解析：驱动 AI 工厂时代的芯片\n\n**探索 GB300 如何重新定义 AI 计算的边界**\n\n在科技行业，人工智能的飞速发展不断推动着算力的极限。随着 AI 模型变得日益复杂，数据中心需要更强大的处理器来满足训练和推理的需求。NVIDIA Blackwell Ultra 架构应运而生，代表了 GPU 计算领域的重大飞跃。\n\n## 架构革新\n\nBlackwell Ultra 是 NVIDIA Hopper 架构的继任者，在多个关键领域实现了突破性进展。该架构采用全新的设计理念，专门针对大规模 AI 工作负载进行优化。核心改进包括：\n\n- 增强的 Transformer 引擎，支持更广泛的 AI 模型类型\n- 更高的内存带宽和容量，解决 AI 工作负载的瓶颈问题\n- 优化的互连技术，实现 GPU 间的高速通信\n\n## 核心硬件规格\n\nGB300 作为 Blackwell Ultra 架构的旗舰产品，带来了显著的规格提升。虽然具体数字可能因配置而异，但相比前代产品，其 AI 算力提升明显。新一代芯片采用先进的制程工艺，在保持能效的同时大幅提升了性能密度。\n\n## AI 工厂时代的意义\n\nNVIDIA 将配备 Blackwell Ultra 的数据中心称为\"AI 工厂\"。这些设施不仅处理传统的数据计算任务，更是专门为训练和运行大规模 AI 模型而设计。Blackwell Ultra 的架构优化使其能够高效处理以下工作负载：\n\n- 大语言模型训练与微调\n- 实时 AI 推理服务\n- 生成式 AI 应用\n- 科学计算与模拟\n\n## 技术亮点\n\nBlackwell Ultra 架构引入了几项关键技术创新，使其成为 AI 计算的理想选择：\n\n**多实例 GPU (MIG) 增强：** 新一代 MIG 技术允许将单个 GPU 划分为多个独立实例，每个实例都可运行不同的 AI 任务，最大化资源利用率。\n\n**第三代 RT 核心：** 虽然主要面向 AI 计算，但新增的光线追踪核心仍为需要图形处理的专业应用提供支持。\n\n**NVLink 4.0：** 更高速的 GPU 互联技术，确保在多 GPU 配置中实现近乎无损的数据传输。\n\n## 市场影响与前景\n\n随着企业对 AI 应用���需求持续增长，Blackwell Ultra 有望成为下一代 AI 基础设施的核心组件。数据中心运营商、云服务提供商和研究机构都在积极评估这一新架构的部署方案。\n\nNVIDIA 通过持续迭代 GPU 架构，展现了其在 AI 计算领域的坚定承诺。Blackwell Ultra 不仅是一款芯片，更是 NVIDIA 对 AI 未来愿景的具体体现，预示着 AI 工厂时代的全面到来。",
-          "summary": "[相关资源](https://developer.nvidia.com/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era#main-content-end)。[讨论 (1)](https://developer.nvidia.com/blog/inside-nvidi...",
+          "title": "深入解析NVIDIA Blackwell Ultra：驱动AI工厂时代的芯片",
+          "summary": "[相关资源](https://developer.nvidia.com/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era#main-content-end)\n\n[讨论 (1)](https://developer.nvidia.com/blog/inside-nvidi...)",
           "content": "",
           "source": "Developer",
           "url": "https://developer.nvidia.com/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era",
@@ -279,38 +279,38 @@
       "icon": "🧬",
       "items": [
         {
-          "title": "BioSpace：生物技术、制药和临床研究新闻",
-          "summary": "运动员在赛道上奔跑的矢量插图",
+          "title": "新闻 | BioPharm International",
+          "summary": "最新临床数据凸显内分泌、代谢和罕见疾病药物研发领域的进展，MBX Biosciences、甘李药业传来积极消息...",
           "content": "",
-          "source": "Biospace",
-          "url": "https://www.biospace.com",
+          "source": "Biopharminternational",
+          "url": "https://www.biopharminternational.com/news",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/bio0/400/250"
         },
         {
-          "title": "BioPharma Dive：生物科技与制药行业新闻",
-          "summary": "纽约市纳斯达克 MarketSite 大楼外观。",
+          "title": "BioSpace：生物技术、制药和临床研究新闻",
+          "summary": "矢量插画：运动员在跑道上奔跑",
           "content": "",
-          "source": "Biopharmadive",
-          "url": "https://www.biopharmadive.com",
+          "source": "Biospace",
+          "url": "https://www.biospace.com",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/bio1/400/250"
         },
         {
-          "title": "药物发现新闻、开发和诊断文章 | DDN 杂志",
-          "summary": "* [癌症研究](https://www.drugdiscoverynews.com/category/science/cancer)\n* [新闻](https://www.drugdiscoverynews.com/type/news)\n* [内容](https://www.drugdiscoverynews.com/multimedia-re...)",
+          "title": "BioPharma Dive：生物技术与制药行业新闻",
+          "summary": "[图片说明：纽约市纳斯达克MarketSite大厦外观]",
           "content": "",
-          "source": "Drugdiscoverynews",
-          "url": "https://www.drugdiscoverynews.com",
+          "source": "Biopharmadive",
+          "url": "https://www.biopharmadive.com",
           "time": "今日",
-          "tag": "药物",
+          "tag": "资讯",
           "image": "https://picsum.photos/seed/bio2/400/250"
         },
         {
-          "title": "GLP-1市场预计到2035年将翻番至1900亿美元",
-          "summary": "全球GLP-1药物市场到2035年可能达到1900亿美元，是2025年水平的两倍多。口服治疗和扩大覆盖范围由...",
+          "title": "# GLP-1市场预计到2035年将翻一番以上，达到1900亿美元\n\n全球GLP-1受体激动剂市场正在经历爆发式增长，预计到2035年市场规模将突破1900亿美元。这一增长主要由肥胖症和糖尿病治疗需求的激增所驱动。\n\n诺和诺德（Novo Nordisk）和礼来（Eli Lilly）作为该领域的两大主导企业，将继续凭借其明星产品——Wegovy和Mounjaro——占据市场主导地位。随着更多适应症的获批以及生产能力的扩大，这一市场将持续扩张。\n\n分析师指出，GLP-1药物从最初的糖尿病治疗扩展到肥胖症、心血管疾病甚至阿尔茨海默病预防等领域，正在重塑整个医药行业的格局。",
+          "summary": "到2035年，GLP-1药物的全球市场规模可能达到1900亿美元，较2025年水平增长一倍以上。口服治疗药物和扩大保险覆盖范围等因素推动了这一增长。",
           "content": "",
           "source": "Morganstanley",
           "url": "https://www.morganstanley.com/insights/articles/glp1-weight-loss-market-may-double-190-billion-2035",
@@ -319,23 +319,23 @@
           "image": "https://picsum.photos/seed/bio3/400/250"
         },
         {
-          "title": "市场概述：GLP-1受体激动剂与肥胖市场 - Ozmosi",
-          "summary": "了解GLP-1受体激动剂市场的最新趋势和预测，重点关注诺和诺德和礼来公司的肥胖治疗产品。",
+          "title": "GLP-1减重药物的崛起与消费者健康 - 普华永道",
+          "summary": "2023年，司美格鲁肽（Semaglutide）成为美国最畅销的药物，销售额达到138亿美元。美国有超过1亿肥胖成年人，且近...",
+          "content": "",
+          "source": "Pwc",
+          "url": "https://www.pwc.com/us/en/industries/consumer-markets/library/glp-1-weight-loss.html",
+          "time": "今日",
+          "tag": "药物",
+          "image": "https://picsum.photos/seed/bio4/400/250"
+        },
+        {
+          "title": "市场概览：GLP-1受体激动剂与肥胖市场 - Ozmosi",
+          "summary": "探索GLP-1受体激动剂市场的最新趋势和预测，重点关注诺和诺德和礼来的肥胖治疗药物。",
           "content": "",
           "source": "Ozmosi",
           "url": "https://www.ozmosi.com/market-overview-glp-1-agonists-and-the-obesity-market",
           "time": "今日",
           "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio4/400/250"
-        },
-        {
-          "title": "GLP-1药物：礼来、诺和诺德、辉瑞布局新型减肥药 - CNBC",
-          "summary": "各大制药公司正押注他们能够打入目前由诺和诺德（Novo Nordisk）和礼来（Eli Lilly）主导的减肥药市场。",
-          "content": "",
-          "source": "Cnbc",
-          "url": "https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html",
-          "time": "今日",
-          "tag": "药物",
           "image": "https://picsum.photos/seed/bio5/400/250"
         }
       ]
@@ -346,61 +346,61 @@
       "icon": "📱",
       "items": [
         {
-          "title": "移动科技 - TechNewsWorld",
-          "summary": "紧跟最新移动技术动态，包括智能手机、可穿戴设备、应用程序，以及正在塑造未来互联生活的无线创新技术....",
+          "title": "最新手机/平板电脑/移动科技新闻与存档 | Techtimes.com",
+          "summary": "2026年4月6日 - 手机/平板电脑/移动科技 · 新款iPhone 18 Pro曝光：发布日期、规格、功能、颜色及2026年展望 · iPhone 18 Pro发布日期、功能、A20 Pro芯片、可变光圈...",
           "content": "",
-          "source": "Technewsworld",
-          "url": "https://www.technewsworld.com/section/mobile-tech",
+          "source": "Techtimes",
+          "url": "https://www.techtimes.com/smartphone",
           "time": "今日",
           "tag": "手机",
           "image": "https://picsum.photos/seed/phone0/400/250"
         },
         {
-          "title": "移动技术 - CNBC",
-          "summary": "最新科技新闻，涵盖移动行业的平板电脑、智能手机、新产品、创新无线产品及专题报道......",
+          "title": "移动技术",
+          "summary": "Fossibot的最新力作将设计缩小了一些。......Ulefone旗下子品牌RugOne推出了一款名为Xsnap 7 Pro的坚固型智能手机，它可以在机身内部拆卸出一个运动相机......",
           "content": "",
-          "source": "Cnbc",
-          "url": "https://www.cnbc.com/mobile",
+          "source": "Newatlas",
+          "url": "https://newatlas.com/mobile-technology",
           "time": "今日",
           "tag": "手机",
           "image": "https://picsum.photos/seed/phone1/400/250"
         },
         {
-          "title": "手机新闻：最新智能手机动态、评测与技巧",
-          "summary": "5G推广预计将在两周延迟后继续进行。图片：香港立法会附近，逃犯条例修订案抗议者浏览智能手机。",
+          "title": "最新手机新闻与评测 | PCMag",
+          "summary": "1个月前 - 自特朗普移动（Trump Mobile）宣布推出特朗普品牌智能手机以来，几乎已过去一年……在最近的一次采访中，亚马逊的帕诺斯·帕奈（Panos Panay）不愿确认或否认有关即将推出的设备的任何具体计划……",
           "content": "",
-          "source": "Nbcnews",
-          "url": "https://www.nbcnews.com/tech/mobile",
+          "source": "Pcmag",
+          "url": "https://www.pcmag.com/news/categories/mobile-phones",
           "time": "今日",
           "tag": "手机",
           "image": "https://picsum.photos/seed/phone2/400/250"
         },
         {
-          "title": "苹果 iPhone 17 和 iPhone 18 传闻、爆料及更多",
-          "summary": "# Apple iPhone 17 和 iPhone 18 传闻、泄密信息及更多资讯\n\nApple的iPhone 17将于明年发布，iPhone 18将于2026年推出。Apple粉丝们正在为这款产品的亮相做准备...",
+          "title": "iPhone 17",
+          "summary": "- [iPhone 18](https://www.macrumors.com/roundup/iphone-18/)\n- [iPhone 17](https://www.macrumors.com/roundup/iphone-17/)",
           "content": "",
-          "source": "Applescoop",
-          "url": "https://applescoop.org/story/apple-iphone-17-and-iphone-18-and-foldable-iphone-rumors-leaks-features-design-and-more",
+          "source": "Macrumors",
+          "url": "https://www.macrumors.com/roundup/iphone-17",
           "time": "今日",
           "tag": "iPhone",
           "image": "https://picsum.photos/seed/phone3/400/250"
         },
         {
-          "title": "iPhone 18 传闻汇总：所有泄露信息曝光 - Apple头条",
-          "summary": "# iPhone 18 谣言：所有泄露信息汇总\n\niPhone 18 的谣言正在传播，因为苹果粉丝们期待着预计在 **2026 年秋季**推出的重大升级。什么是 i...",
+          "title": "iPhone 18 Pro 谣言汇总：5大最重磅泄露可信度评级——从新配色到Face ID升级 | TechRadar",
+          "summary": "在下方使用您的邮箱注册，即可立即获得会员功能、通讯订阅和独家会员专属福利。 iPhone 17 Pro 的正面和背面。iPhone 18 Pro 和 iPhone 18 Pro Max 可能...",
           "content": "",
-          "source": "Appleheadlines",
-          "url": "https://www.appleheadlines.com/iphone-18-rumors",
+          "source": "Techradar",
+          "url": "https://www.techradar.com/phones/iphone/iphone-18-pro-rumor-roundup-5-of-the-biggest-leaks-rated-in-terms-of-likelihood-from-new-colors-to-face-id-upgrades",
           "time": "今日",
           "tag": "iPhone",
           "image": "https://picsum.photos/seed/phone4/400/250"
         },
         {
-          "title": "史上最薄的 iPhone？最新 iPhone 17 传闻：功能、泄密信息及更多",
-          "summary": "有史以来最薄的iPhone？最新iPhone 17传闻：功能、泄露信息及更多\n\n* 据传Apple的iPhone 17 Air可能是迄今为止最薄的iPhone——仅6毫米厚。iPhone 17 Air（也被称为...）",
+          "title": "新报告泄露iPhone 18 Pro功能，包括屏下Face ID",
+          "summary": "iPhone 18 Pro 功能在新报告中泄露，包括屏下面容 ID...",
           "content": "",
-          "source": "Applescoop",
-          "url": "https://applescoop.org/story/thinnest-iphone-ever-latest-apple-iphone-17-rumors-features-leaks-and-more",
+          "source": "Reddit",
+          "url": "https://www.reddit.com/r/apple/comments/1po7unf/iphone_18_pro_features_leaked_in_new_report",
           "time": "今日",
           "tag": "iPhone",
           "image": "https://picsum.photos/seed/phone5/400/250"
@@ -413,8 +413,8 @@
       "icon": "🎮",
       "items": [
         {
-          "title": "**人们认为AAA游戏停滞不前：这份报告证明了这一点**",
-          "summary": "人们认为AAA游戏陷入停滞：这份报告证明了这一点\n\nBellular News\n\n534000 订阅者\n6426 点赞\n142554 浏览量\n2026年2月3日\n\n使用Odoo免费无限发送和接收发票与账单，终身免费：...",
+          "title": "人们认为AAA游戏停滞不前：这份报告证实了这一点",
+          "summary": "人们认为AAA游戏停滞不前：这份报告证明了这一点\n\nBellular News\n\n534000 位订阅者\n\n6426 个赞\n\n142554 次观看\n\n2026年2月3日\n\n免费终身使用Odoo发送和接收无限量发票和账单：...",
           "content": "",
           "source": "Youtube",
           "url": "https://www.youtube.com/watch?v=qpmnc1BRu5Y",
@@ -423,18 +423,18 @@
           "image": "https://picsum.photos/seed/game0/400/250"
         },
         {
-          "title": "3A游戏新闻 | TheGamer",
-          "summary": "TheGamer 的新闻专业团队始终紧跟 3A 游戏领域的脉搏，为您带来所有新旧及即将推出游戏的公告、日期和详细信息。爱德华·肯威在前...",
+          "title": "对游戏产业的反思：AAA级游戏的衰落",
+          "summary": "# 关于游戏行业的思考：3A大作的衰落\n\n作者：Ted Tahquechi | Medium\n\n如今，你时常会看到这样的头条新闻：某款3A游戏大作销量未达预期，某个知名游戏工作室宣布大规模裁员，或者某家游戏发行商在季度财报中表现不佳。这些现象都指向同一个令人担忧的趋势——3A游戏模式正在走向衰落。\n\n让我先澄清一下什么是3A游戏。简单来说，3A游戏指的是那些投入了大量资金、人力和时间资源开发的高成",
           "content": "",
-          "source": "Thegamer",
-          "url": "https://www.thegamer.com/aaa-games/news",
+          "source": "Medium",
+          "url": "https://medium.com/@nedskee/reflections-on-the-game-industry-the-decline-of-the-aaa-title-54f0784042c5",
           "time": "今日",
           "tag": "游戏",
           "image": "https://picsum.photos/seed/game1/400/250"
         },
         {
-          "title": "前Nexon CEO认为AAA游戏行业正在消亡",
-          "summary": "AAA曾经代表着质量，意味着一款游戏理所当然地优秀，然而2024年和2025年大量令人失望的AAA级游戏发布——从令人失望到彻底糟糕，...",
+          "title": "前Nexon CEO认为AAA游戏行业正在走向衰落",
+          "summary": "曾几何时，AAA代表着品质，意味着游戏天然就是优秀的。但2024年和2025年发布的众多令人失望的AAA级游戏——从仅仅是令人失望，到彻头彻尾的糟糕，t...",
           "content": "",
           "source": "80",
           "url": "https://80.lv/articles/aaa-game-industry-is-dying-ex-nexon-ceo-believes",
@@ -443,8 +443,8 @@
           "image": "https://picsum.photos/seed/game2/400/250"
         },
         {
-          "title": "**打造更安全的游戏体验：我们共同承诺的最新进展 - XBOX Wire**",
-          "summary": "任天堂、索尼互动娱乐和微软继续合作，在我们的平台上提升玩家安全体验......",
+          "title": "**打造更安全游戏环境：我们共同承诺的最新进展**\n\n— XBOX Wire",
+          "summary": "任天堂（Nintendo）、索尼互动娱乐（Sony Interactive Entertainment）和微软（Microsoft）继续携手合作，致力于在我们各平台上提升玩家安全体验……",
           "content": "",
           "source": "News",
           "url": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony",
@@ -453,23 +453,23 @@
           "image": "https://picsum.photos/seed/game3/400/250"
         },
         {
-          "title": "r/xbox - 我们共同致力于更安全游戏承诺的最新进展",
-          "summary": "索尼游戏支持跨平台，而任天堂游戏保持独占，所以没有任何平台可以与其进行跨平台联机。然而，任天堂从未阻止过",
-          "content": "",
-          "source": "Reddit",
-          "url": "https://www.reddit.com/r/xbox/comments/1qcsozu/an_update_to_our_shared_commitment_to_safer_gaming",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/game4/400/250"
-        },
-        {
-          "title": "新增功能：Xbox 系统更新",
-          "summary": "下面的列表包含最新的Xbox操作系统(OS)版本号、已添加或更新的功能，以及我们目前正在处理的已知问题...",
+          "title": "Xbox 系统更新：最新动态",
+          "summary": "以下列表包含最新的 Xbox 操作系统 (OS) 版本号、已添加或更新的功能，以及我们目前已知的问题...",
           "content": "",
           "source": "Support",
           "url": "https://support.xbox.com/en-US/help/hardware-network/settings-updates/whats-new-xbox-one-system-updates",
           "time": "今日",
           "tag": "资讯",
+          "image": "https://picsum.photos/seed/game4/400/250"
+        },
+        {
+          "title": "任天堂终于修复Switch一大问题，Xbox却加大投入力度",
+          "summary": "... Nintendo Switch更新实际上修复了eShop 8:46 - Xbox加大独占游戏力度 12:10 - 新的索尼专利展示了不同的方式...",
+          "content": "",
+          "source": "Youtube",
+          "url": "https://www.youtube.com/watch?v=q9BxF6oLylM",
+          "time": "今日",
+          "tag": "任天堂",
           "image": "https://picsum.photos/seed/game5/400/250"
         }
       ]
@@ -480,61 +480,61 @@
       "icon": "🌿",
       "items": [
         {
-          "title": "可再生能源现在：全球可再生能源新闻与趋势",
-          "summary": "![箭头图片](https://renewablesnow.com/_next/static/media/arrow_white.38b1705a.svg). [板块 ![箭头图片](https://renewablesnow.com/_next/static/media/btnArrow_white.47f34874.svg)](https...)",
+          "title": "太阳能超越风力成为美国清洁电力结构主力 | Energy Intelligence",
+          "summary": "EI Cupcake Icon 2.png\n\n# 太阳能超越风能成为美国清洁能源主力\n\n公用事业级太阳能发电在2026年第一季度超越风能，成为美国最大的清洁能源来源，据...",
           "content": "",
-          "source": "Renewablesnow",
-          "url": "https://renewablesnow.com",
+          "source": "Energyintel",
+          "url": "https://www.energyintel.com/0000019e-93b7-d3c4-a7be-dbf7f20e0000",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "光伏",
           "image": "https://picsum.photos/seed/green0/400/250"
         },
         {
-          "title": "可再生能源世界",
-          "summary": "- 电网\n- 配电\n- 电网现代化",
+          "title": "可再生能源",
+          "summary": "# 可再生能源 - Fast Company\n\n# 可再生能源\n\n**原因如下**\n\n各组织声称，美国军方对新风电场的国家安全审查延误正在影响超过100个项目。海上风电……",
           "content": "",
-          "source": "Renewableenergyworld",
-          "url": "https://www.renewableenergyworld.com",
+          "source": "Fastcompany",
+          "url": "https://www.fastcompany.com/section/renewable-energy",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/green1/400/250"
         },
         {
-          "title": "清洁能源革命比你想象的更宏大",
-          "summary": "事实上，美国绝大多数的风力和太阳能电力——超过85%——来自大型设施。几乎所有的风力发电都来自公用事业规模的设施……",
+          "title": "可再生能源世界",
+          "summary": "* [电网](https://www.renewableenergyworld.com/power-grid/)\n* [配电](https://www.renewableenergyworld.com/power-grid/distribution/)\n* [电网现代化](https://www.renewableene...)",
           "content": "",
-          "source": "Cleanenergygrid",
-          "url": "https://www.cleanenergygrid.org/the-clean-energy-revolution-is-bigger-than-you-think",
+          "source": "Renewableenergyworld",
+          "url": "https://www.renewableenergyworld.com",
           "time": "今日",
           "tag": "资讯",
           "image": "https://picsum.photos/seed/green2/400/250"
         },
         {
-          "title": "绿色氢能与电池储能系统（项目重新分类为已完成）——HyResource",
-          "summary": "该项目包含一个位于博利瓦尔（南澳大利亚州阿德莱德）的示范规模氢气生产和电池储能系统，为氢气运输提供概念验证...",
+          "title": "绿色氢能电池储能解决方案 | HIS Energy",
+          "summary": "## 绿色氢能电池储能\n\n绿色氢能是我们向低碳或零碳能源替代方案转型的关键要素。绿色氢能通过电解生产...",
           "content": "",
-          "source": "Research",
-          "url": "https://research.csiro.au/hyresource/green-hydrogen-and-battery-energy-storage-system",
+          "source": "His-energy",
+          "url": "https://his-energy.com/green-hydrogen",
           "time": "今日",
           "tag": "氢能",
           "image": "https://picsum.photos/seed/green3/400/250"
         },
         {
-          "title": "面向稳定绿色氢能的混合能源储存系统设计",
-          "summary": "本研究介绍了一种基于混合整数线性规划（MILP）的混合储能系统设计框架，整合了光伏系统、锂离子电池和碱性...",
+          "title": "首页 - GES",
+          "summary": "## 可持续发展与创新\n\n通过我们的绿色和可持续能源存储系统，我们构建可再生能源的未来。GES 新一代电池基于混合氢液技术……",
           "content": "",
-          "source": "Sciencedirect",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0306261925004957",
+          "source": "Greenenergystorage",
+          "url": "https://www.greenenergystorage.eu",
           "time": "今日",
-          "tag": "氢能",
+          "tag": "资讯",
           "image": "https://picsum.photos/seed/green4/400/250"
         },
         {
-          "title": "**集成电池与氢能储能提升电网节能与绿色氢能利用研究**",
-          "summary": "需要许可才能重复使用MDPI发表的文章的全部或部分内容，包括图表。专题论文代表了最具前沿性的研究，具有产生高影响力的重大潜力...",
+          "title": "绿色氢能与电池储能系统（项目重新分类为已完成）– HyResource",
+          "summary": "本项目包括一个位于博利弗（澳大利亚南澳州阿德莱德）的示范规模氢气生产与电池储能系统，并为氢气运输提供概念验证。",
           "content": "",
-          "source": "Mdpi",
-          "url": "https://www.mdpi.com/2076-3417/14/17/7631",
+          "source": "Research",
+          "url": "https://research.csiro.au/hyresource/green-hydrogen-and-battery-energy-storage-system",
           "time": "今日",
           "tag": "氢能",
           "image": "https://picsum.photos/seed/green5/400/250"
@@ -542,7 +542,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-06-18T22:54:03.138Z",
+  "generatedAt": "2026-06-19T22:01:03.306Z",
   "version": "3.0.0",
   "source": "tavily"
 }
