@@ -1,37 +1,42 @@
 {
-  "date": "2026-06-25",
-  "overallSummary": "AI行业加速整合，巨头联手成立代理式AI联盟；英伟达发布Blackwell Ultra芯片开启AI推理时代；太阳能超越风能成为美国最大清洁能源来源。",
+  "date": "2026-06-26",
+  "overallSummary": "AI行业巨头加速合纵连横，NVIDIA Blackwell Ultra芯片推动AI工厂时代；GLP-1药物市场前景广阔，AAA游戏行业面临转型压力。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI领域竞合，微软-OpenAI关系重塑，代理式AI联盟成立。",
+      "categorySummary": "AI行业巨头加速整合，跨公司合作成为主旋律",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
-        "微软-OpenAI协议重写为竞争对手打开合作大门",
-        "AI正深度渗透医疗和药物研发领域"
+        "四大AI公司成立前沿模型论坛和Agentic AI联盟",
+        "微软与OpenAI重组为行业合作打开新窗口",
+        "AI正深度融入企业决策流程"
       ],
       "news": [
         {
-          "title": "科技巨头联合成立代理式AI联盟",
-          "summary": "Linux基金会支持的AI代理开源标准联盟成立",
+          "title": "Anthropic、谷歌、微软和OpenAI成立前沿模型论坛",
+          "summary": "四大AI巨头联合成立前沿模型论坛，聚焦AI安��与责任",
           "keyInsights": [
-            "微软、谷歌、OpenAI、Anthropic罕见联手",
-            "将为AI代理制定开源标准"
+            "推动AI行业安全标准"
           ]
         },
         {
-          "title": "微软OpenAI重写协议",
-          "summary": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+          "title": "微软、OpenAI重组为Anthropic和Google打开合作大门",
+          "summary": "微软与OpenAI协议调整，为更多AI公司合作创造可能",
           "keyInsights": [
-            "竞争格局重塑",
-            "Anthropic获谷歌支持"
+            "AI行业竞争格局正在重塑"
           ]
         },
         {
-          "title": "AI辅助全科医生诊疗",
-          "summary": "AI正被用于帮助全科医生进行诊疗和行政管理工作",
+          "title": "Agentic AI联盟成立",
+          "summary": "由Linux基金会支持，为AI智能体制定开源标准",
           "keyInsights": [
-            "AI落地医疗场景加速"
+            "AI智能体标准化进程启动"
+          ]
+        },
+        {
+          "title": "AI将改变企业决策",
+          "summary": "AI软件综合数据呈现行动方案，简化商业决策",
+          "keyInsights": [
+            "企业AI应用进入实用化阶段"
           ]
         }
       ],
@@ -39,114 +44,33 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra，宣告AI推理时代到来。",
-      "keyPoints": [
-        "英伟达Blackwell Ultra AI芯片正式发布",
-        "Vera Rubin下一代GPU即将推出",
-        "AI芯片竞争进入推理时代"
-      ],
-      "news": [
-        {
-          "title": "Nvidia发布Blackwell Ultra AI芯片",
-          "summary": "英伟达发布Blackwell Ultra，迎接AI推理时代",
-          "keyInsights": [
-            "黄仁勋宣布今年晚些时候出货",
-            "基于Blackwell架构双芯片设计"
-          ]
-        },
-        {
-          "title": "NVIDIA Blackwell Ultra深入���析",
-          "summary": "驱动AI工厂时代的芯片技术详解",
-          "keyInsights": [
-            "面向AI推理优化",
-            "性能大幅提升"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉FSD向L4级自动驾驶演进，EV市场持续扩张。",
-      "keyPoints": [
-        "特斯拉Model 3位居2026美国制造指数榜首",
-        "全球EV销量达1700万辆，占新车20%以上",
-        "特斯拉FSD v14.3.3演进为事实上的Robotaxi"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD正演进成Robotaxi",
-          "summary": "FSD v14.3.3感觉更像是4级无人驾驶辅助系统",
-          "keyInsights": [
-            "FSD接近L4级别",
-            "驾驶体验显著提升"
-          ]
-        },
-        {
-          "title": "2025年全球电动汽车市场",
-          "summary": "2024年EV销量增加300万辆，总量达1700万辆",
-          "keyInsights": [
-            "EV占新车销量超20%",
-            "市场持续高速增长"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
-      "name": "生物医药",
-      "categorySummary": "GLP-1药物市场爆发式增长，AI驱动药物研发加速。",
-      "keyPoints": [
-        "GLP-1市场预计2035年达1900亿美元",
-        "第三个抗纤维化项目进入临床开发",
-        "AI配对药物初创Remepy帕金森病IIa期测试获通过"
-      ],
-      "news": [
-        {
-          "title": "GLP-1市场预计翻番至1900亿美元",
-          "summary": "到2035年GLP-1药物市场规模可能达到1900亿美元",
-          "keyInsights": [
-            "是2025年水平的两倍多",
-            "口服治疗扩大覆盖"
-          ]
-        },
-        {
-          "title": "AI驱动药物发现突破",
-          "summary": "Remepy帕金森病IIa期测试获通过",
-          "keyInsights": [
-            "AI加速新药研发",
-            "纤维化靶向生物制剂受关注"
-          ]
-        }
-      ],
-      "id": "biopharma",
-      "icon": "🧬"
-    },
-    {
       "name": "商业财经",
-      "categorySummary": "高通、Agility等重大并购交易推进，半导体和机器人领域整合加速。",
+      "categorySummary": "全球并购市场活跃，大宗交易频现",
       "keyPoints": [
-        "高通以39亿美元收购AI软件公司Modular",
-        "人形机器人制造商Agility通过SPAC上市",
-        "全球市场持续关注科技和AI领域投资"
+        "德国默克110亿美元收购Bio-Techne",
+        "大众汽车84亿美元出售Everllence股权",
+        "沃尔玛完成两年来最大交易"
       ],
       "news": [
         {
-          "title": "高通收购Modular",
-          "summary": "高通将以39亿美元股票交易收购AI软件公司Modular",
+          "title": "德国默克以110亿美元收购Bio-Techne",
+          "summary": "默克收购Bio-Techne以强化实验室工具业务",
           "keyInsights": [
-            "芯片厂商加码AI软件",
-            "垂直整合加速"
+            "生命科学领域整合加速"
           ]
         },
         {
-          "title": "Agility将通过SPAC上市",
-          "summary": "人形机器人制造商Agility将通过25亿美元SPAC交易上市",
+          "title": "大众汽车出售Everllence多数股权",
+          "summary": "大众以84亿美元出售Everllence多数股权",
           "keyInsights": [
-            "人形机器人赛道持续火热"
+            "汽车行业资产优化持续"
+          ]
+        },
+        {
+          "title": "沃尔玛完成两年来最大交易",
+          "summary": "沃尔玛收购广告技术公司",
+          "keyInsights": [
+            "零售巨头加码广告业务"
           ]
         }
       ],
@@ -154,49 +78,121 @@
       "icon": "📊"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "太阳能历史性超越风能，成为美国最大清洁能源来源。",
+      "name": "汽车出行",
+      "categorySummary": "电动车行业分化，特斯拉FSD持续进化",
       "keyPoints": [
-        "2026年Q1太阳能超越风能成美国最大清洁能源",
-        "欧盟禁止高风险供应商逆变器融资",
-        "绿色氢能储能方案受关注"
+        "特斯拉Model 3登顶美国制造指数榜首",
+        "日产搁置逍客电动版开发计划",
+        "特斯拉FSD v14实现增量改进"
       ],
       "news": [
         {
-          "title": "太阳能超越风能成为美国清洁能源主力",
-          "summary": "公用事业规模太阳能发电在2026年Q1超越风能",
+          "title": "特斯拉Model 3登顶美国制造指数",
+          "summary": "Model 3在Cars.com评选中夺冠",
           "keyInsights": [
-            "清洁能源格局重塑",
-            "太阳能成本优势显现"
-          ]
-        }
-      ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18系列即将发布，iPhone 17 Pro变色问题引发关注。",
-      "keyPoints": [
-        "iPhone 18 Pro预计三个月后发布",
-        "iPhone 17 Pro变色翻车事件影响后续设计",
-        "苹果面临品控挑战"
-      ],
-      "news": [
-        {
-          "title": "等待iPhone 18 Pro的12个理由",
-          "summary": "距离苹果下一代高端智能手机系列发布仅三个月",
-          "keyInsights": [
-            "iPhone 18 Pro即将发布",
-            "娱乐功能变化有限"
+            "美国本土化生产获认可"
           ]
         },
         {
-          "title": "iPhone 17 Pro变色问题",
-          "summary": "iPhone 17 Pro变色翻车事件威胁iPhone 18 Pro",
+          "title": "日产搁置逍客电动版开发",
+          "summary": "电动车市场压力导致日产调整产品策略",
           "keyInsights": [
-            "品控问题持续",
-            "苹果未吸取教训"
+            "部分车企电动化步伐放缓"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14测试",
+          "summary": "特斯拉FSD v14成为最令人印象深刻的L2级系统",
+          "keyInsights": [
+            "自动驾驶技术持续演进"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "NVIDIA Blackwell Ultra发布，AI算力进入新纪元",
+      "keyPoints": [
+        "Blackwell Ultra集成2080亿晶体管",
+        "AI训练性能提升2.5倍，推理性能提升4倍",
+        "AI工厂时代正式开启"
+      ],
+      "news": [
+        {
+          "title": "NVIDIA Blackwell Ultra发布",
+          "summary": "基于台积电4NP工艺，AI性能大幅提升",
+          "keyInsights": [
+            "全球AI算力竞争加剧"
+          ]
+        },
+        {
+          "title": "NVIDIA发布Blackwell Ultra和Vera Rubin",
+          "summary": "黄仁勋发布下一代AI芯片系列",
+          "keyInsights": [
+            "产品线持续迭代"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1药物市场爆发式增长可期",
+      "keyPoints": [
+        "GLP-1市场2035年预计达1900亿美元",
+        "口服制剂和保险覆盖扩大推动增长",
+        "诺和诺德和礼来积极布局新制剂"
+      ],
+      "news": [
+        {
+          "title": "GLP-1市场预计2035年翻番至1900亿美元",
+          "summary": "口服制剂和保险覆盖扩大将驱动市场增长",
+          "keyInsights": [
+            "减重药市场进入黄金期"
+          ]
+        },
+        {
+          "title": "GLP-1市场将达2000亿美元",
+          "summary": "全球肠促胰岛素市场同步增长",
+          "keyInsights": [
+            "代谢疾病用药需求强劲"
+          ]
+        },
+        {
+          "title": "第三个抗纤维化项目进入临床",
+          "summary": "生物制药公司抗纤维化研究取得进展",
+          "keyInsights": [
+            "纤维化治疗领域受到关注"
+          ]
+        }
+      ],
+      "id": "biopharma",
+      "icon": "🧬"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "iPhone 18系列即将发布，配置升级成焦点",
+      "keyPoints": [
+        "iPhone 18 Pro五大泄露内容曝光",
+        "新配色和Face ID升级是主要看点",
+        "距发布仅剩三个月"
+      ],
+      "news": [
+        {
+          "title": "iPhone 18传闻汇总",
+          "summary": "iPhone 18 Pro五大泄露内容可信度评级",
+          "keyInsights": [
+            "苹果旗舰即将更新"
+          ]
+        },
+        {
+          "title": "等待iPhone 18 Pro的12个理由",
+          "summary": "分析师列出下一代高端机型值得期待的升级",
+          "keyInsights": [
+            "迭代升级为主旋律"
           ]
         }
       ],
@@ -205,32 +201,64 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临困境，Epic CEO警告海啸来袭。",
+      "categorySummary": "AAA游戏行业面临信任危机",
       "keyPoints": [
-        "Epic CEO称AAA游戏行业正经历海啸",
-        "前Nexon CEO认为AAA游戏行业正在衰落",
-        "任天堂、索尼、微软继续推进游戏安全承诺"
+        "玩家普遍认为AAA游戏停滞不前",
+        "Epic CEO认同行业困境分析",
+        "Xbox、索尼、任天堂推进安全游戏承诺"
       ],
       "news": [
         {
-          "title": "Epic CEO谈AAA游戏困境",
-          "summary": "\"许多人感觉就像海啸正在席卷AAA游戏行业\"",
+          "title": "前Nexon CEO认为AAA游戏行业衰落",
+          "summary": "2024-2025年令人失望的AAA游戏发行数量激增",
           "keyInsights": [
-            "行业危机感强烈",
-            "2024-2025年多款AAA游戏令人失望"
+            "游戏产业面临质量危机"
           ]
         },
         {
-          "title": "前Nexon CEO观点",
-          "summary": "曾几何时AAA代表品质，如今大量AAA游戏令人失望",
+          "title": "三大主机厂商更新安全游戏承诺",
+          "summary": "Xbox、索尼、任天堂共同推进更安全游戏承诺",
           "keyInsights": [
-            "行业标准下降",
-            "玩家信心受挫"
+            "行业社会责任意识提升"
           ]
         }
       ],
       "id": "entertainment",
       "icon": "🎮"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "可再生能源持续突破，氢能储能受关注",
+      "keyPoints": [
+        "可再生能源领域创下新纪录",
+        "氢能储能成为电池的替代方案",
+        "CIP完成罗马尼亚392兆瓦风电项目"
+      ],
+      "news": [
+        {
+          "title": "可再生能源领域创下新纪录",
+          "summary": "清洁能源转型持续推进",
+          "keyInsights": [
+            "再生能源发展势头强劲"
+          ]
+        },
+        {
+          "title": "氢能储能：电池的绿色替代方案",
+          "summary": "氢能储存技术受关注，可持续能源存储新选择",
+          "keyInsights": [
+            "储能技术多元化发展"
+          ]
+        },
+        {
+          "title": "CIP完成罗马尼亚风电项目财务结算",
+          "summary": "392兆瓦佩斯特拉二期陆上风电项目落地",
+          "keyInsights": [
+            "欧洲风电项目稳步推进"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
     }
   ]
 }
