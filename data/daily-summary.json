@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-27",
-  "overallSummary": "AI行业Microsoft-OpenAI协议重组开放竞争格局，NVIDIA发布Blackwell Ultra芯片驱动AI算力升级；GLP-1药物市场2035年预计达1900亿美元，新能源装机创历史纪录。",
+  "date": "2026-06-28",
+  "overallSummary": "AI行业巨头联手组建代理式AI联盟推动开源标准；Nvidia发布Blackwell Ultra芯片；GLP-1药物市场规模预计翻倍至1900亿美元。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "Microsoft-OpenAI协议重组打破独家绑定，巨头联盟推动AI代理开源标准。",
+      "categorySummary": "科技巨头加速AI生态整合，代理式AI成为新竞争焦点。",
       "keyPoints": [
-        "Microsoft-OpenAI协议修订为Anthropic/Google企业市场开放机会",
-        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic"
+        "微软、谷歌、OpenAI、Anthropic组建代理式AI联盟",
+        "微软与OpenAI协议重写，云服务格局生变",
+        "AI驱动企业决策与商业流程优化"
       ],
       "news": [
         {
-          "title": "Microsoft-OpenAI改写协议为Anthropic和Google打开大门",
-          "summary": "新协议调整收入分成优先权条款，第三方合作空间扩大",
+          "title": "巨头联手组建代理式AI联盟",
+          "summary": "微软、谷歌、OpenAI、Anthropic联手成立代理式AI联盟��由Linux基金会支持。",
           "keyInsights": [
-            "企业客户将有更多AI供应商选择，不再绑定Microsoft-OpenAI生态"
+            "开源标准制定将重塑AI代理生态"
           ]
         },
         {
-          "title": "Agentic AI联盟成立",
-          "summary": "Linux Foundation支持，四巨头联合制定AI代理开源标准",
+          "title": "微软与OpenAI协议重写",
+          "summary": "微软持有OpenAI 27%股份，协议重写为Anthropic和Google打开合作大门。",
           "keyInsights": [
-            "AI代理标准化进程加速，巨头间竞争合作并存"
+            "AI投资格局多元化"
           ]
         }
       ],
@@ -30,26 +30,46 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "NVIDIA Blackwell Ultra正式发布，算力与内存带宽双双突破。",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD迈向L4级自动驾驶，太阳能汽车技术取得突破。",
       "keyPoints": [
-        "Blackwell Ultra集成2080亿晶体管，FP8性能提升5倍",
-        "HBM3e内存带宽达8TB/s，双die设计",
-        "NVIDIA将为中国市场推出特供廉价Blackwell芯片"
+        "特斯拉FSD v14接近L4级无人驾驶",
+        "Aptera太阳能汽车日发电4.42千瓦时",
+        "中国电动车市场竞争加剧"
       ],
       "news": [
         {
-          "title": "NVIDIA Blackwell Ultra：驱动AI工厂时代的芯片",
-          "summary": "基于台积电4NP工艺，专为大模型训练和推理优化",
+          "title": "特斯拉FSD接近L4级自动驾驶",
+          "summary": "特斯拉FSD v14.3.3/4更像L4级无人驾驶ADAS，机器人出租车功能成型。",
           "keyInsights": [
-            "NVLink 5.0互联构建强大计算集群，支撑万亿参数模型"
+            "自动驾驶商业化进程加速"
           ]
         },
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Blackwell Ultra今年稍晚出货，Rubin为下一代GPU",
+          "title": "Aptera太阳能发电突破",
+          "summary": "Aptera验证车日太阳能发电超4千瓦时，峰值可行驶44英里。",
           "keyInsights": [
-            "出口限制后中国特供版芯片预计降价推出"
+            "太阳能汽车商业可行性提升"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "Nvidia新一代AI���片发布，算力竞争持续升级。",
+      "keyPoints": [
+        "Nvidia发布Blackwell Ultra和Vera Rubin芯片",
+        "Blackwell Ultra专为AI工厂时代设计",
+        "GPU架构持续迭代赋能大模型训练"
+      ],
+      "news": [
+        {
+          "title": "Nvidia发布Blackwell Ultra",
+          "summary": "Blackwell Ultra和Rubin GPU发布，CEO黄仁勋披露芯片路线图。",
+          "keyInsights": [
+            "AI算力需求持续高速增长"
           ]
         }
       ],
@@ -58,25 +78,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发式增长，AI辅助药物研发取得突破。",
+      "categorySummary": "GLP-1减肥药物市场爆发式增长，AI加速药物研发。",
       "keyPoints": [
-        "GLP-1市场2035年预计达1900亿美元，较2025年翻倍",
-        "Semaglutide成2023年美国最畅销药，销售额138亿美元",
-        "Remepy AI驱动帕金森病药物IIa期测试成功"
+        "GLP-1市场2035年预计达1900亿美元",
+        "口服GLP-1药物成新增长点",
+        "AI驱动帕金森病药物研发突破"
       ],
       "news": [
         {
-          "title": "GLP-1市场预计到2035年将增长一倍以上",
-          "summary": "口服药物和保险覆盖扩大推动市场高速增长",
+          "title": "GLP-1市场将翻两倍",
+          "summary": "GLP-1药物市场预计从2025年水平增至1900亿美元，增速超预期。",
           "keyInsights": [
-            "减重药市场潜力巨大，多个适应症正在拓展"
+            "减肥药市场进入黄金期"
           ]
         },
         {
-          "title": "GLP-1减肥药物的崛起",
-          "summary": "超1亿美国肥胖成年人推动需求激增",
+          "title": "Remepy帕金森病AI药物IIa期成功",
+          "summary": "AI驱动药物Remepy帕金森病IIa期测试取得成功。",
           "keyInsights": [
-            "消费者健康市场面临重塑，制药巨头加码布局"
+            "AI药物发现进入临床验证阶段"
           ]
         }
       ],
@@ -84,80 +104,19 @@
       "icon": "🧬"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "比亚迪预警行业淘汰赛，特斯拉FSD逼近L4级别自动驾驶。",
-      "keyPoints": [
-        "比亚迪董事长警告中国EV行业进入弱势企业淘汰阶段",
-        "特斯拉FSD v14接近L4无人驾驶水平",
-        "Aptera太阳能汽车日发电超4kWh"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD正在演变为事实上的无人驾驶出租车",
-          "summary": "v14.3.3/4版本更像L4无人驾驶ADAS系统",
-          "keyInsights": [
-            "FSD获公共道路使用批准在即，自动驾驶商业化加速"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14测试",
-          "summary": "最令人印象深刻的2级ADAS系统增量改进",
-          "keyInsights": [
-            "FSD技术持续迭代，与Waymo等L4玩家差距收窄"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
-      "name": "环保能源",
-      "categorySummary": "2025年可再生能源新增装机创历史新高，储氢技术研究深入。",
-      "keyPoints": [
-        "2025年太阳能和风电新增装机创历史纪录",
-        "电池与绿氢储能系统集成优化研究推进",
-        "绿氢示范项目在南澳落地"
-      ],
-      "news": [
-        {
-          "title": "可再生能源创下纪录",
-          "summary": "今年春天风能和太阳能表现创历史新高",
-          "keyInsights": [
-            "清洁能源转型势不可挡，装机量持续突破"
-          ]
-        },
-        {
-          "title": "储能系统与绿氢系统综��优化",
-          "summary": "多目标优化框架支持未来电网韧性",
-          "keyInsights": [
-            "储能与氢能互补提升电网灵活性"
-          ]
-        }
-      ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏口碑危机，任天堂Switch修复eShop问题。",
+      "categorySummary": "3A游戏面临创新困境，行业转型呼声高涨。",
       "keyPoints": [
-        "玩家认为AAA游戏陷入停滞，多款游戏令人失望",
-        "前Nexon CEO认为AAA产业正在消亡",
-        "Xbox加注独占游戏，任天堂修复Switch重大问题"
+        "玩家认为3A游戏陷入停滞",
+        "前Nexon CEO预言3A游戏产业消亡",
+        "Epic CEO认同行业困境"
       ],
       "news": [
         {
-          "title": "AAA游戏产业面临质疑",
-          "summary": "2024-2025年大量AAA游戏质量堪忧",
+          "title": "3A游戏产业争议",
+          "summary": "前Nexon CEO称3A游戏正走向消亡，2024-2025年大量失望发布证实困境。",
           "keyInsights": [
-            "游戏行业面临品质和创新双重挑战"
-          ]
-        },
-        {
-          "title": "任天堂修复Switch重大问题",
-          "summary": "eShop问题终于解决，Xbox加倍押注独占",
-          "keyInsights": [
-            "平台体验优化与内容策略竞争加剧"
+            "游戏行业面临创新瓶颈"
           ]
         }
       ],
@@ -165,44 +124,24 @@
       "icon": "🎮"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18发布在即，多项泄露信息确认。",
+      "name": "环保能源",
+      "categorySummary": "可再生能源装机容量创新纪录，氢能储能技术受关注。",
       "keyPoints": [
-        "iPhone 18 Pro/Pro Max预计9月9日发布",
-        "Pro机型9月18日上市销售",
-        "标准版机型分批发布策略确认"
+        "2025年太阳能和风能新增装机创纪录",
+        "氢能储能系统示范项目推进",
+        "绿色氢气与电池集成技术突破"
       ],
       "news": [
         {
-          "title": "iPhone 18传闻：发布时间、泄露信息",
-          "summary": "苹果预计今年晚些时候推出新iPhone系列",
+          "title": "能源革命势不可挡",
+          "summary": "2025年太阳能和风电新增装机容量创历史新高纪录。",
           "keyInsights": [
-            "苹果下一代旗舰即将面世，市场期待度高"
+            "清洁能源转型加速"
           ]
         }
       ],
-      "id": "smartphone",
-      "icon": "📱"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "全球市场关注以色列与黎巴嫩框架协议，油价动态受关注。",
-      "keyPoints": [
-        "鲁比奥称以色列与黎巴嫩达成框架协议",
-        "180美元薪资和巴基斯坦调解角色影响全球市场",
-        "美伊和平协议预期影响油价"
-      ],
-      "news": [
-        {
-          "title": "全球市场动态",
-          "summary": "地缘政治进展影响能源市场走向",
-          "keyInsights": [
-            "国际局势变化带动金融市场波动"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
+      "id": "clean_energy",
+      "icon": "🌿"
     }
   ]
 }
