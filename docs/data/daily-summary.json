@@ -1,60 +1,89 @@
 {
-  "date": "2026-06-29",
-  "overallSummary": "AI行业重大变革，微软与OpenAI重组为Anthropic和Google打开竞争大门，四大巨头联手组建Agentic AI联盟；特斯拉FSD逼近L4级别无人驾驶，GLP-1药物市场预计翻倍至1900亿美元。",
+  "date": "2026-06-30",
+  "overallSummary": "AI巨头联合成立Agentic AI联盟推动代理标准，GLP-1药物市场预计翻番至1900亿美元，太阳能超越风电成美国最大清洁能源来源。",
   "categories": [
     {
-      "name": "AI行业",
-      "categorySummary": "微软-OpenAI重组打破独家绑定，四大巨头成立开源Agentic AI联盟，AI行业竞争格局从寡头向多元化转变。",
+      "name": "AI行业动态",
+      "categorySummary": "科技巨头加速整合，AI代理标准化进程启动",
       "keyPoints": [
-        "微软放弃OpenAI独家云服务商角色，获得无投票权董事席位",
-        "微软、谷歌、OpenAI、Anthropic联手组建Agentic AI联盟，制定开源标准",
-        "Anthropic获Google追加20亿美元投资，Claude模型企业关注度上升"
+        "Anthropic、谷歌、微软、OpenAI成立前沿模型论坛",
+        "Agentic AI联盟由Linux Foundation支持创建开源标准",
+        "微软-OpenAI重组为竞争对手敞开合作大门"
       ],
       "news": [
         {
-          "title": "微软-OpenAI重组为Anthropic和Google打开大门",
-          "summary": "微软终止独家云服务提供商角色，放弃部分利润分享，AI行业竞争格局重塑。",
+          "title": "AI巨头联合成立Agentic AI联盟",
+          "summary": "Linux Foundation支持的AI代理开源标准组织成立",
           "keyInsights": [
-            "微软持有OpenAI 27%股份，与OpenAI深度绑定限制其灵活性"
+            "微软、谷歌、OpenAI和Anthropic联手推动行业标准化"
           ]
         },
         {
-          "title": "四大巨头联手组建Agentic AI联盟",
-          "summary": "微软、谷歌、OpenAI、Anthropic联合成立开源标准组织，Linux基金会支持。",
+          "title": "前沿模型论坛推进负责任AI",
+          "summary": "四大AI公司成立论坛确保安全开发",
           "keyInsights": [
-            "联盟将为AI智能体制定开源标准"
+            "行业自律机制成形，负责任AI成共识"
           ]
         },
         {
-          "title": "AI将改变企业决策流程",
-          "summary": "AI软件获取数据并呈现行动方案，帮助企业确定潜在后果，简化业务流程决策。",
+          "title": "微软OpenAI重组改变竞争格局",
+          "summary": "战略调整使Anthropic和Google获得机会",
           "keyInsights": [
-            "AI驱动的综合分析正成为企业决策核心工具"
+            "AI云计算服务竞争格局重塑"
           ]
         }
-      ]
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "地缘政治影响油价，市场关注美伊谈判",
+      "keyPoints": [
+        "美伊在卡塔尔举行新一轮会谈",
+        "美伊协议后油价再次突破70美元",
+        "全球市场关注中东局势发展"
+      ],
+      "news": [
+        {
+          "title": "美伊卡塔尔会谈",
+          "summary": "特朗普宣布美伊将举行新一轮谈判",
+          "keyInsights": [
+            "外交进展有望缓解地区紧张局势"
+          ]
+        },
+        {
+          "title": "油价突破70美元",
+          "summary": "美伊协议停止袭击推动油价回升",
+          "keyInsights": [
+            "地缘政治风险持续影响能源市场"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD持续进化，已接近L4级无人驾驶，充电效率提升推动电动车普及。",
+      "categorySummary": "太阳能汽车取得突破，特斯拉FSD持续迭代",
       "keyPoints": [
-        "特斯拉FSD v14.3.3/4接近第四级别无人驾驶",
-        "FSD正演变成事实上的无人驾驶出租车服务",
-        "特斯拉即将获得FSD公共道路使用批准"
+        "Aptera太阳能汽车日发电量超4千瓦时",
+        "特斯拉FSD v14为最强L2级系统",
+        "Lotus电动车7月登陆加拿大"
       ],
       "news": [
         {
-          "title": "特斯拉FSD正演变成无人驾驶出租车",
-          "summary": "最新FSD版本比之前更接近L4级无人驾驶高级驾驶辅助系统。",
+          "title": "Aptera太阳能发电新纪录",
+          "summary": "日发电4.42千瓦时可行驶44英里",
           "keyInsights": [
-            "FSD技术突破推动自动驾驶商业化进程"
+            "太阳能电动车技术持续突破"
           ]
         },
         {
-          "title": "特斯拉FSD v14测试：令人惊叹的改进",
-          "summary": "v14是特斯拉ADAS最令人印象深刻的2级系统，渐进式改进显著。",
+          "title": "特斯拉FSD v14实测",
+          "summary": "监督版FSD达最先进L2级别",
           "keyInsights": [
-            "FSD迭代速度加快，用户体验持续提升"
+            "特斯拉自动驾驶能力稳步提升"
           ]
         }
       ],
@@ -63,25 +92,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra芯片迎战AI推理时代，新兴市场成为AI芯片交易主题。",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin芯片",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra GPU，专为AI推理时代设计",
-        "Blackwell架构驱动AI工厂时代",
-        "新兴市场现已成为AI芯片交易主题"
+        "英伟达Blackwell Ultra即将出货",
+        "Vera Rubin成下一代GPU平台",
+        "AI芯片竞争持续升级"
       ],
       "news": [
         {
-          "title": "英伟达Blackwell Ultra AI芯片发布",
-          "summary": "专为AI推理时代打造的下一代芯片，NVIDIA CEO黄仁勋宣布。",
+          "title": "NVIDIA Blackwell Ultra发布",
+          "summary": "Blackwell Ultra即将出货Rubin接棒",
           "keyInsights": [
-            "AI推理需求推动芯片架构创新"
+            "英伟达加速AI芯片迭代周期"
           ]
         },
         {
-          "title": "NVIDIA Blackwell Ultra驱动AI��厂",
-          "summary": "基于Blackwell架构，配备双Retic技术，驱动AI工厂时代。",
+          "title": "Blackwell Ultra内部解析",
+          "summary": "驱动AI工厂时代的旗舰芯片",
           "keyInsights": [
-            "AI芯片向大规模AI计算中心倾斜"
+            "AI基础设施需求持续强劲"
           ]
         }
       ],
@@ -90,25 +119,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1药物市场爆发式增长，预计到2035年达到1900亿美元，较2025年翻一番以上。",
+      "categorySummary": "GLP-1药物市场高速增长，AI加速药物研发",
       "keyPoints": [
-        "GLP-1药物市场2035年预计达1900亿美元",
-        "口服治疗和扩大覆盖范围推动市场增长",
-        "诺和诺德和礼来主导市场格局"
+        "GLP-1市场2035年预计达1900亿美元",
+        "AI变革药物发现和制造流程",
+        "口服GLP-1和扩展覆盖推动增长"
       ],
       "news": [
         {
-          "title": "GLP-1市场预计翻一番至1900亿美元",
-          "summary": "全球GLP-1药物市场2035年达1900亿美元，是2025年水平的两倍多。",
+          "title": "GLP-1市场规模预测",
+          "summary": "2035年市场将翻番至1900亿美元",
           "keyInsights": [
-            "减重市场成为制药业新增长引擎"
+            "减肥药市场进入爆发期"
           ]
         },
         {
-          "title": "GLP-1关键统计数据与趋势",
-          "summary": "全球GLP-1药物市场2030年可能达到2000亿美元。",
+          "title": "AI驱动药物发现",
+          "summary": "AI技术变革研发和制造流程",
           "keyInsights": [
-            "市场竞争加剧，新玩家入局"
+            "AI在制药行业加速渗透"
           ]
         }
       ],
@@ -116,26 +145,60 @@
       "icon": "🧬"
     },
     {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临困境，前Nexon CEO和Epic CEO均认为行业正在衰落，传统工作室被迫调整。",
+      "name": "智能手机",
+      "categorySummary": "iPhone 18传闻配置曝光，折叠屏或成亮点",
       "keyPoints": [
-        "AAA游戏行业正经历衰退，多款游戏发布令人失望",
-        "贝恩公司报告指出工作室必须做出调整",
-        "Xbox、索尼、任天堂联合推进安全游戏承诺"
+        "iPhone 18或配备折叠屏和可变光圈",
+        "续航提升但价格可能上涨",
+        "5G部署持续推进"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏行业正在衰落",
-          "summary": "2024-2025年大量AAA游戏令人失望，从失望到彻底糟糕。",
+          "title": "iPhone 18泄露信息汇总",
+          "summary": "折叠屏可变光圈续航提升",
           "keyInsights": [
-            "高成本开发模式面临盈利挑战"
+            "苹果旗舰手机迎重大更新"
           ]
         },
         {
-          "title": "3A游戏工作室必须做出调整",
-          "summary": "贝恩公司报告指出老牌工作室无法忽视行业困境。",
+          "title": "iPhone 18发布日期",
+          "summary": "预计今年晚些时候发布",
           "keyInsights": [
-            "行业整合和转型成为必然"
+            "苹果持续推进产品迭代"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "AAA游戏行业面临挑战，三大平台加强安全合作",
+      "keyPoints": [
+        "AAA游戏行业停滞引发担忧",
+        "Xbox、任天堂、索尼更新安全游戏承诺",
+        "任天堂修复Switch重大问题"
+      ],
+      "news": [
+        {
+          "title": "AAA游戏行业衰退论",
+          "summary": "前Nexon CEO认为AAA游戏困境",
+          "keyInsights": [
+            "大型游戏工作室面临转型压力"
+          ]
+        },
+        {
+          "title": "三大平台安全游戏承诺",
+          "summary": "AI驱动内容审核家长控制增强",
+          "keyInsights": [
+            "行业协作提升玩家安全"
+          ]
+        },
+        {
+          "title": "任天堂修复Switch问题",
+          "summary": "Xbox同步发力游戏平台",
+          "keyInsights": [
+            "游戏主机竞争持续升温"
           ]
         }
       ],
@@ -144,25 +207,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "清洁能源逆势增长，风电、太阳能和电池储能在经济挑战中持续突破，绿氢应用加速。",
+      "categorySummary": "太阳能超越风电成主导，加拿大可再生能源落后",
       "keyPoints": [
-        "清洁能源之年：风电、太阳能和电池逆势增长",
-        "可再生能源马拉松再创新纪录",
-        "绿氢与电池储能系统集成研究取得进展"
+        "2026年Q1太阳能超越风电成最大清洁能源",
+        "可再生能源满足2025年全部新增电力需求",
+        "加拿大在风能和太阳能发展上落后"
       ],
       "news": [
         {
-          "title": "清洁能源之年：逆势增长",
-          "summary": "新型太阳能引领全球新增可再生能源增长。",
+          "title": "太阳能超越风电",
+          "summary": "2026年Q1大型太阳能成美国第一清洁能源",
           "keyInsights": [
-            "可再生能源抵御经济下行压力"
+            "清洁能源格局发生转变"
           ]
         },
         {
-          "title": "储能系统与绿色氢能集成优化",
-          "summary": "面向韧性可持续未来电网的多目标优化框架研究。",
+          "title": "可再生能源需求满足",
+          "summary": "2025年新增电力全部来自可再生能源",
           "keyInsights": [
-            "混合储能成为电网稳定性关键"
+            "清洁能源转型加速推进"
+          ]
+        },
+        {
+          "title": "加拿大可再生能源落后",
+          "summary": "新报告显示加拿大发展滞后",
+          "keyInsights": [
+            "各国清洁能源发展不均衡"
           ]
         }
       ],
