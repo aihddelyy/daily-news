@@ -1,83 +1,86 @@
 {
-  "date": "2026-07-02",
-  "overallSummary": "AI行业微软与OpenAI重组引格局变化，电动汽车法国销量达临界点，GLP-1药物市场2035年或破1900亿美元，太阳能成美国最大清洁能源来源。",
+  "date": "2026-07-03",
+  "overallSummary": "OpenAI与微软关系松动重塑AI竞争格局，科技巨头联盟化趋势加速；可再生能源在美国首超天然气。",
   "categories": [
     {
-      "name": "AI行业动态",
-      "categorySummary": "微软与OpenAI重组可能重塑AI竞争格局，巨头联手组建Agentic AI联盟。",
+      "name": "AI行业",
+      "categorySummary": "OpenAI战略调整打破原有格局，科技巨头走向竞合新模式。",
       "keyPoints": [
-        "微软与OpenAI重组为Anthropic和Google创造机会",
-        "微软持有OpenAI 27%股份",
-        "四大AI巨头联手组建Agentic AI联盟"
+        "OpenAI重新评估与微软云计算合作，寻求多元化发展",
+        "微软、谷歌、OpenAI、Anthropic联手成立代理式AI联盟",
+        "AI软件正在重塑企业决策流程"
       ],
       "news": [
         {
-          "title": "Microsoft与OpenAI的重组为Anthropic和Google打开了大门",
-          "summary": "微软与OpenAI重新谈���合作条款，可能为竞争对手创造发展空间。",
+          "title": "Microsoft-OpenAI重写格局为Anthropic和Google打开大门",
+          "summary": "OpenAI重新评估与微软合作，Anthropic和Google迎来机遇。",
           "keyInsights": [
-            "微软持有OpenAI 27%股份",
-            "Anthropic和Google正积极争取企业客户"
+            "竞争格局多元化",
+            "AI行业走向灵活生态"
           ]
         },
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手组建Agentic AI联盟",
-          "summary": "四大AI巨头联合推动Agentic AI发展。",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
+          "summary": "四大科技巨头联合组建代理式AI联盟。",
           "keyInsights": [
-            "行业竞争格局可能走向多元化"
+            "行业联盟化趋势"
           ]
         },
         {
-          "title": "人工智能将如何变革企业",
-          "summary": "AI软件综合数据呈现行动方案，简化业务决策流程。",
+          "title": "人工智能将如何改变企业",
+          "summary": "AI软件可获取数据并呈现综合行动方案，简化决策。",
           "keyInsights": [
-            "AI驱动决策智能化"
+            "AI赋能业务决策"
           ]
         }
-      ],
-      "id": "ai_industry",
-      "icon": "🧠"
+      ]
     },
     {
-      "name": "商业财经",
-      "categorySummary": "苹果供应商立讯精密港交所融资31亿美元，科技公司融资热潮持续。",
+      "name": "半导体",
+      "categorySummary": "Nvidia Blackwell系列持续迭代，AI芯片进入推理时代。",
       "keyPoints": [
-        "立讯精密港交所融资31亿美元",
-        "为香港今年最大规模上市交易",
-        "科技公司掀起融资热潮"
+        "Nvidia发布GB200 Blackwell AI芯片",
+        "Blackwell Ultra芯片面向AI推理时代",
+        "AI基础设施需求持续强劲"
       ],
       "news": [
         {
-          "title": "苹果供应商立讯精密试探港交所融资31亿美元",
-          "summary": "立讯精密计划港交所融资31亿美元，为香港今年以来最大规模上市交易。",
+          "title": "英伟达发布GB200 Blackwell AI芯片",
+          "summary": "黄仁勋宣布新一代AI芯片，强调需要更大GPU。",
           "keyInsights": [
-            "科技产业链融资活跃"
+            "AI芯片算力竞赛持续"
+          ]
+        },
+        {
+          "title": "Nvidia Blackwell Ultra AI芯片发布",
+          "summary": "迎接AI推理时代的新一代芯片。",
+          "keyInsights": [
+            "推理芯片成新战场"
           ]
         }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
+      ]
     },
     {
       "name": "汽车出行",
-      "categorySummary": "法国EV销量达临界点，特斯拉FSD v14获积极评价，太阳能汽车取得突破。",
+      "categorySummary": "特斯拉FSD接近L4级别，EV行业持续演进。",
       "keyPoints": [
-        "法国EV销量6月达30%临界点",
-        "特斯拉FSD v14是迄今最令人印象深刻的L2级系统",
-        "Aptera太阳能汽车每天发电超4千瓦时"
+        "Tesla FSD v14接近4级自动驾驶水平",
+        "匈牙利威胁打击EV电池产业",
+        "EV市场持续扩张"
       ],
       "news": [
         {
-          "title": "特斯拉最新FSD v14实测体验",
-          "summary": "FSD v14是特斯拉最令人印象深刻的L2级ADAS增量改进。",
+          "title": "Tesla FSD正在演变为事实上的Robotaxi",
+          "summary": "FSD v14.3.3更像4级无人驾驶ADAS而非辅助驾驶。",
           "keyInsights": [
-            "自动驾驶技术持续进化"
+            "自动驾驶逼近L4"
           ]
         },
         {
-          "title": "Aptera Motors太阳能发电每天超4千瓦时",
-          "summary": "验证车辆峰值发电4.42千瓦时，足够一天行驶44英里。",
+          "title": "特斯拉FSD v14测试",
+          "summary": "最令人印象深刻的2级ADAS系统。",
           "keyInsights": [
-            "太阳能汽车技术获突破"
+            "ADAS持续进化"
           ]
         }
       ],
@@ -85,54 +88,26 @@
       "icon": "🚗"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布GB200 Blackwell AI芯片，驱动AI工厂时代。",
-      "keyPoints": [
-        "英伟达发布GB200 Blackwell AI芯片",
-        "Blackwell Ultra专为极限规模AI推理而生",
-        "GPU需求持续增长"
-      ],
-      "news": [
-        {
-          "title": "英伟达发布GB200 Blackwell AI芯片",
-          "summary": "黄仁勋称需要更大的GPU，Blackwell系列将于今年晚些时候推出。",
-          "keyInsights": [
-            "AI芯片竞争加剧"
-          ]
-        },
-        {
-          "title": "NVIDIA Blackwell Ultra深度解析",
-          "summary": "Blackwell Ultra GPU以双核设计驱动AI工厂时代。",
-          "keyInsights": [
-            "芯片架构持续创新"
-          ]
-        }
-      ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
       "name": "生物医药",
-      "categorySummary": "GLP-1市场2035年或达1900亿美元，阿尔茨海默病研究持续推进。",
+      "categorySummary": "GLP-1药物市场高速增长，AI加速药物研发。",
       "keyPoints": [
         "GLP-1市场2035年预计达1900亿美元",
-        "卫材推进下一代阿尔茨海默病研究",
-        "FDA对痛风治疗药物NASP发出完整回复信"
+        "口服GLP-1药物和扩大覆盖推动增长",
+        "AI药物研发合作活跃"
       ],
       "news": [
         {
-          "title": "GLP-1市场预计翻一番至1900亿美元",
-          "summary": "全球GLP-1药物市场到2035年可能达1900亿美元，增长一倍以上。",
+          "title": "GLP-1市场预计到2035年将增长一倍以上",
+          "summary": "全球GLP-1药物市场可能达到1900亿美元。",
           "keyInsights": [
-            "减重药物市场爆发",
-            "Medicare覆盖扩大推动增长"
+            "减肥药市场爆发"
           ]
         },
         {
-          "title": "卫材强调下一代阿尔茨海默病研究",
-          "summary": "卫材推进阿尔茨海默病研究，Talawar Therapeutics获2.85亿美元融资。",
+          "title": "AI药物研发新闻综述",
+          "summary": "Thermo与Datavant合作改善临床试验数据流动。",
           "keyInsights": [
-            "神经退行性疾病研发持续升温"
+            "AI赋能临床研究"
           ]
         }
       ],
@@ -140,53 +115,53 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18传闻四起，苹果新品发布周期临近。",
+      "name": "环保能源",
+      "categorySummary": "可再生能源里程碑：风能和太阳能首超天然气。",
       "keyPoints": [
-        "iPhone 18或成自iPhone 4以来最大泄密事件",
-        "iPhone 17已于2025年9月发布",
-        "苹果新品周期持续推进"
+        "4月风能和太阳能发电量超过天然气",
+        "太阳能超越风能成为美国最大清洁能源",
+        "绿色氢能作为长期储能方案受关注"
       ],
       "news": [
         {
-          "title": "iPhone 18传闻：发布日期、泄露信息",
-          "summary": "苹果预计今年晚些时候推出全新iPhone系列。",
+          "title": "风能和太阳能发电量首超天然气",
+          "summary": "可再生能源再创首例，4月发电量超过天然气。",
           "keyInsights": [
-            "苹果持续推进产品迭代"
+            "清洁能源里程碑"
           ]
         },
         {
-          "title": "iPhone 18 Pro成最大泄密事件主角",
-          "summary": "iPhone 18 Pro泄密引发关注，但有重大区别。",
+          "title": "太阳能成为美国清洁电力新主力",
+          "summary": "公用事业规模太阳能成美国最大清洁能源来源。",
           "keyInsights": [
-            "产品保密面临挑战"
+            "光伏产业加速"
           ]
         }
       ],
-      "id": "smartphone",
-      "icon": "📱"
+      "id": "clean_energy",
+      "icon": "🌿"
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临困境，任天堂索尼微软联手提升玩家安全。",
+      "categorySummary": "AAA游戏面临创意瓶颈，开发商趋于保守。",
       "keyPoints": [
-        "玩家认为AAA游戏陷入停滞",
-        "Epic CEO称海啸正席卷AAA游戏行业",
-        "三大游戏巨头合作提升玩家安全"
+        "玩家普遍认为AAA游戏陷入停滞",
+        "前Nexon CEO认为AAA��业走向消亡",
+        "Epic CEO表示AAA业务正被浪潮席卷"
       ],
       "news": [
         {
-          "title": "AAA游戏产业正在消亡",
-          "summary": "前Nexon CEO认为AAA游戏正经历大量令人失望的发布。",
+          "title": "玩家认为AAA游戏陷入停滞",
+          "summary": "报告揭示同质化、创新放缓、过度保守等问题。",
           "keyInsights": [
-            "AAA游戏品质危机"
+            "游戏业创意危机"
           ]
         },
         {
-          "title": "任天堂、索尼、微软联手营造安全游戏环境",
-          "summary": "三大平台持续合作提升玩家安全体验。",
+          "title": "前Nexon CEO认为AAA游戏行业正在走向消亡",
+          "summary": "2024-2025年大量令人失望的AAA游戏发布。",
           "keyInsights": [
-            "行业安全标准统一"
+            "大厂信誉受损"
           ]
         }
       ],
@@ -194,31 +169,44 @@
       "icon": "🎮"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "太阳能超越风能成美国最大清洁能源来源，全球清洁能源转型加速。",
+      "name": "智能手机",
+      "categorySummary": "iPhone 18传言升温，折叠屏、摄像头升级成焦点。",
       "keyPoints": [
-        "太阳能超越风电成美国最大清洁能源来源",
-        "中国拥有全球近三分之一风力涡轮机",
-        "绿色氢能和储能技术持续发展"
+        "iPhone 18预计2026年9月发布",
+        "折叠屏手机、可变光圈摄像头成亮点",
+        "运行内存和续航预计提升"
       ],
       "news": [
         {
-          "title": "美国太阳能超越风能成最大清洁能源来源",
-          "summary": "公用事业规模太阳能2026年Q1超越风电，成为美国最大清洁能源。",
+          "title": "iPhone 18传言汇总",
+          "summary": "指向折叠屏、可变光圈摄像头、更大内存。",
           "keyInsights": [
-            "清洁能源结构转变"
-          ]
-        },
-        {
-          "title": "从太空看清洁能源崛起",
-          "summary": "中国建造超12万台风力涡轮机和150万英亩太阳能发电场。",
-          "keyInsights": [
-            "全球清洁能源规模爆发"
+            "苹果寻求突破"
           ]
         }
       ],
-      "id": "clean_energy",
-      "icon": "🌿"
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "最高法院给特朗普驱逐出境新工具，市场关注政策影响。",
+      "keyPoints": [
+        "最高法院否决限制出���公民权的行政命令",
+        "法院仍给特朗普新工具",
+        "市场等待政策信号"
+      ],
+      "news": [
+        {
+          "title": "最高法院给特朗普加速驱逐出境的新工具",
+          "summary": "否决限制出生公民权命令，但给驱逐新工具。",
+          "keyInsights": [
+            "移民政策争议持续"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
