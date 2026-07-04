@@ -1,28 +1,38 @@
 {
-  "date": "2026-07-04",
-  "overallSummary": "AI领域头部企业组建Agentic AI联盟，Nvidia Blackwell Ultra芯片推动AI推理时代；可再生能源持续强劲增长，太阳能超越风能成为美国最大清洁能源来源。",
+  "date": "2026-07-05",
+  "overallSummary": "AI行业巨头联合成立前沿模型论坛与Agentic AI联盟，推动负责任AI发展；全球市场稳健，GLP-1药物市场预计翻番至1900亿美元，太阳能风能新增装机容量创纪录。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速AI联盟化布局，企业级AI编程赛道竞争白热化。",
+      "categorySummary": "头部AI企业成立前沿模型论坛与Agentic AI联盟，聚焦安全负责任的AI开发与开源标准。",
       "keyPoints": [
-        "微软、谷歌、OpenAI与Anthropic组建Agentic AI联盟",
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-        "OpenAI重心从消费者市场转向企业市场，Codex表现突出"
+        "Anthropic、谷歌、微软、OpenAI联合成立前沿模型论坛",
+        "四大巨头联手成立Agentic AI联盟，由Linux基金会支持",
+        "AI软件正帮助企业简化决策流程"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic组建Agentic AI联盟",
-          "summary": "四大AI巨头联手组建Agentic AI联盟，产业联盟化趋势加速。",
+          "title": "Anthropic、谷��、微软和OpenAI联合成立前沿模型论坛",
+          "summary": "四大AI巨头成立前沿模型论坛，专注于安全负责任的前沿模型开发与部署。",
           "keyInsights": [
-            "AI行业从竞争走向协同，标准制定权争夺进入新阶段"
+            "行业协作新模式",
+            "AI安全成为共识"
           ]
         },
         {
-          "title": "微软和谷歌在AI编程领域挑战Anthropic和OpenAI",
-          "summary": "资金流向驱动OpenAI转型企业市场，Codex产品成核心。",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
+          "summary": "四大企业联合成立Agentic AI联盟，由Linux基金会支持，旨在为AI代理创建开源标准。",
           "keyInsights": [
-            "AI编程工具成企业市场新焦点"
+            "开源标准制定",
+            "AI代理生态布局"
+          ]
+        },
+        {
+          "title": "人工智能将如何改变企业",
+          "summary": "AI软件获取数据并呈现综合行动方案，帮助企业简化业务流程决策。",
+          "keyInsights": [
+            "AI辅助决策",
+            "企业数字化转型"
           ]
         }
       ],
@@ -30,46 +40,73 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "Nvidia Blackwell Ultra发布，AI推理芯片成为行业新主线。",
+      "name": "商业财经",
+      "categorySummary": "全球市场表现积极，欧元区基准指数触及52周高点，油价下跌缓解供应中断担忧。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra AI芯片，正式宣告AI推理时代到来",
-        "Blackwell架构持续驱动Nvidia增长势头，分析师上调评级",
-        "AI基础设施建设最大受益者地位进一步巩固"
+        "全球股市上涨，欧元区基准指数触及52周高点",
+        "油价下跌，供应中断担忧持续缓解",
+        "特斯拉仅销售三款新车型，聚焦自动驾驶和机器人"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra AI芯片，迎接AI推理时代",
-          "summary": "黄仁勋宣布Blackwell Ultra，AI推理时代芯片正式商用。",
+          "title": "国际商务、世界新闻与全球股票市场分析",
+          "summary": "全球股市上涨，欧元区基准指数触及52周高点，市场情绪积极。",
           "keyInsights": [
-            "芯片竞争重心从训练转向推理"
+            "欧洲市场走强",
+            "避险情绪降温"
           ]
         },
         {
-          "title": "Nvidia：Blackwell、AI推理和CUDA维持增长势头",
-          "summary": "分析师上��Nvidia评级，Blackwell架构为核心驱动力。",
+          "title": "油价下跌，供应中断担忧持续缓解",
+          "summary": "早盘油价下跌，中东供应中断担忧持续缓解，市场供需平衡改善。",
           "keyInsights": [
-            "AI基础设施投资持续增长"
+            "油价回落",
+            "供应担忧缓解"
+          ]
+        },
+        {
+          "title": "电动汽车制造商目前仅销售三款新车型",
+          "summary": "特斯拉CEO马斯克将战略重点放在自动驾驶汽车和机器人技术上。",
+          "keyInsights": [
+            "战略聚焦转型",
+            "技术驱动未来"
           ]
         }
       ],
-      "id": "semiconductor",
-      "icon": "💻"
+      "id": "business_finance",
+      "icon": "📊"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD v14推动自动驾驶接近L4水平，中国车企加速北美布局。",
+      "categorySummary": "特斯拉FSD v14展现L4级能力，中国车企进军加拿大市场试水美国。",
       "keyPoints": [
-        "特斯拉FSD v14接近L4级自动驾驶，监督式FSD试用版开放",
-        "中国车企涌向加拿大，试水进军美国市场",
-        "自动驾驶出租车愿景通过FSD迭代逐步接近现实"
+        "特斯拉FSD v14.3.3/4接近L4级无人驾驶体验",
+        "特斯拉FSD v14是迄今为止最令人印象深刻的L2级系统",
+        "中国车企纷纷进军加拿大作为进军美国市场的试水"
       ],
       "news": [
         {
-          "title": "特斯拉FSD正在演变为事实上的自动驾驶出租车",
-          "summary": "FSD v14.3.3体验接近L4，实时生成式AI能力显著提升。",
+          "title": "特斯拉FSD正在演变为事实上的自动���驶出租车",
+          "summary": "特斯拉FSD v14.3.3感觉比过去版本更接近L4级无人驾驶ADAS体验。",
           "keyInsights": [
-            "ADAS向L4演进的速度超预期"
+            "FSD重大突破",
+            "自动驾驶逼近商用"
+          ]
+        },
+        {
+          "title": "特斯拉最新的“令人惊叹”完全自动驾驶FSD v14",
+          "summary": "FSD v14是特斯拉ADAS系统的渐进式改进，也是最令人印象深刻的L2级版本。",
+          "keyInsights": [
+            "技术迭代加速",
+            "用户体验提升"
+          ]
+        },
+        {
+          "title": "中国车企纷纷进军加拿大",
+          "summary": "中国车企进军加拿大市场，作为进军美国市场的“试水”策略。",
+          "keyInsights": [
+            "出海新路径",
+            "北美市场布局"
           ]
         }
       ],
@@ -77,19 +114,73 @@
       "icon": "🚗"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1药物市场规模预计2025年达644亿美元，供给端限制逐步缓解。",
+      "name": "半导体芯片",
+      "categorySummary": "英伟达Blackwell系列持续引领AI芯片发展，AI推理时代正式开启。",
       "keyPoints": [
-        "GLP-1市场2025年预计达644亿美元，2033年将超1700亿美元",
-        "Orca Bio Tregzi获FDA批准，定价428000美元",
-        "价格下降与老年人获批将推动2026年GLP-1市场规模激增"
+        "英伟达发布Blackwell Ultra AI芯片",
+        "Blackwell架构、AI推理和CUDA支撑增长",
+        "英伟达仍是AI基础设施建设热潮最大受益者"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂���肥胖症市场持续扩张",
-          "summary": "诺和诺德、礼来主导市场，供给瓶颈随产能扩张逐步缓解。",
+          "title": "Nvidia：Blackwell、AI推理和CUDA继续支撑增长故事",
+          "summary": "英伟达Blackwell架构、AI推理���CUDA生态保持增长势头，评级上调。",
           "keyInsights": [
-            "减重药市场进入高速增长期"
+            "AI芯片龙头",
+            "持续增长动能"
+          ]
+        },
+        {
+          "title": "英伟达发布Blackwell Ultra AI芯片，迎接AI推理时代",
+          "summary": "黄仁勋宣布下一代Blackwell Ultra AI芯片，面向AI推理时代需求。",
+          "keyInsights": [
+            "推理芯片布局",
+            "算力升级"
+          ]
+        },
+        {
+          "title": "NVIDIA的惊人突破：Blackwell AI芯片、机器人、AGI",
+          "summary": "GTC大会宣布Blackwell AI芯片、机器人技术及AGI相关突破。",
+          "keyInsights": [
+            "生态扩张",
+            "AGI探索"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1药物市场爆发式增长，预计翻番至1900亿美元，内分泌和代谢药物研发进展积极。",
+      "keyPoints": [
+        "GLP-1药物市场预计翻番至1900亿美元",
+        "全球GLP-1药物市场2030年可能达到2000亿美元",
+        "内分泌、代谢和罕见病药物开发取得积极进展"
+      ],
+      "news": [
+        {
+          "title": "GLP-1市场预计翻番增长至1900亿美元",
+          "summary": "到2035年GLP-1药物市场可能达1900亿美元，是2025年水平的两倍多。",
+          "keyInsights": [
+            "市场爆发",
+            "口服疗法驱动"
+          ]
+        },
+        {
+          "title": "2026年关键GLP-1统计数据与趋势",
+          "summary": "全球GLP-1药物市场到2030年可能达到2000亿美元，肠促胰素市场同步增长。",
+          "keyInsights": [
+            "长期增长",
+            "市场扩容"
+          ]
+        },
+        {
+          "title": "生物制药新闻",
+          "summary": "MBX Biosciences、Gan & Lee等公司在内分泌、代谢和罕见病领域带来积极研发进展。",
+          "keyInsights": [
+            "研发突破",
+            "适应症拓展"
           ]
         }
       ],
@@ -98,18 +189,35 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18发布计划曝光，分批上市策略浮出水面。",
+      "categorySummary": "iPhone 18系列传闻持续，Pro版本配色方案或有重大调整。",
       "keyPoints": [
-        "iPhone 18 Pro/Pro Max预计2026年9月18日发售",
-        "苹果预计9月9日举行发布会，标准版晚于Pro机型",
-        "9项重大升级传言持续发酵"
+        "iPhone 18 Pro配色方案或有重大调整",
+        "苹果预计今年晚些时候推出全新iPhone系列",
+        "iPhone 18传闻包括发布日期和Pro版详情"
       ],
       "news": [
         {
-          "title": "iPhone 18 将采用分批发布方式",
-          "summary": "Pro机型率先发售，苹果调整产品上市节奏以优化供应链。",
+          "title": "最新 iPhone 18 Pro 爆料与传闻",
+          "summary": "iPhone 18 Pro最新泄露信息和传闻，发布会预计今年晚些时候。",
           "keyInsights": [
-            "分批发布或成苹果新常态"
+            "Pro版升级",
+            "年度更新"
+          ]
+        },
+        {
+          "title": "iPhone 18传闻：发布日期、泄露信息及更多",
+          "summary": "iPhone 18系列预计今年晚些时候发布，包括标准版和Pro版。",
+          "keyInsights": [
+            "产品线丰富",
+            "市场期待"
+          ]
+        },
+        {
+          "title": "变色iPhone 17 Pro的这场闹剧正在威胁着...",
+          "summary": "苹果为iPhone 18 Pro调整设计配色方案，明年推出大胆新颖配色。",
+          "keyInsights": [
+            "设计革新",
+            "差异化策略"
           ]
         }
       ],
@@ -118,25 +226,35 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "3A游戏行业陷入困境，开发者与玩家信心双降。",
+      "categorySummary": "AAA游戏行业面临困境，玩家和从业者均认为3A游戏停滞不前，行业急需变革。",
       "keyPoints": [
-        "前Nexon CEO公开宣称AAA游戏行业正在消亡",
-        "Epic CEO将行业困境比喻为海啸席卷",
-        "2024-2025年多款AAA游戏发布令人失望"
+        "玩家认为AAA游戏停滞不前，多款游戏令人失望",
+        "Epic CEO Sweeney称行业困境如海啸席卷",
+        "任天堂、索尼、微软继续合作提升玩家安全体验"
       ],
       "news": [
         {
-          "title": "人们认为3A游戏陷入停滞",
-          "summary": "行业报���印证玩家对AAA游戏质量下滑的普遍感知。",
+          "title": "人们认为AAA游戏停滞不前：这份报告证明了这一点",
+          "summary": "报告证实玩家普遍认为AAA游戏发展停滞，缺乏创新和品质。",
           "keyInsights": [
-            "3A模式可持续性受到根本质疑"
+            "行业瓶颈",
+            "玩家不满"
           ]
         },
         {
-          "title": "前Nexon CEO认为AAA游戏行业正在消亡",
-          "summary": "AAA从品质代名词沦为失望标签，行业亟需变革。",
+          "title": "前Nexon CEO认为AAA游戏行业正在衰落",
+          "summary": "曾几何时AAA代表品质，2024-2025年大量令人失��的AAA游戏发布。",
           "keyInsights": [
-            "高成本模式与玩家期待错位加剧"
+            "行业衰退",
+            "期望落差"
+          ]
+        },
+        {
+          "title": "Epic CEO Tim Sweeney诊断行业困境",
+          "summary": "Sweeney形容行业困境如海啸正席卷整个3A游戏行业。",
+          "keyInsights": [
+            "危机信号",
+            "行业洗牌"
           ]
         }
       ],
@@ -145,25 +263,35 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源装机容量创纪录，太阳能超越风能成为美国最大清洁能源。",
+      "categorySummary": "可再生能源势不可挡，2025年太阳能和风能新增装机容量创纪录，成本已低于化石燃料。",
       "keyPoints": [
-        "2026年Q1公共事业规模太阳能超越风能，成美国最大清洁能源",
-        "2025年太阳能和风能新增装机容量均创历史新高",
-        "绿氢成为长期储能关键解决方案"
+        "2025年太阳能和风能新增装机容量创纪录",
+        "太阳能和风能发电成本已低于化石燃料",
+        "绿色氢能与电池储能系统集成优化成为趋势"
       ],
       "news": [
         {
-          "title": "太阳能超越风能成为美国清洁能源主力",
-          "summary": "2026年Q1太阳能首次成为美国最大清洁电力来源。",
+          "title": "太阳能浪潮：可再生能源领域的好消息",
+          "summary": "全球太阳能蓬勃发展，去年可再生能源超过全球电力需求，增长由中国驱动。",
           "keyInsights": [
-            "清洁能源结构发生历史性转变"
+            "中国引领",
+            "需求超越"
           ]
         },
         {
-          "title": "绿氢成为长期储能的关键",
-          "summary": "全球脱碳驱动下，氢储能与电池储能协同构建新型电力系统。",
+          "title": "能源革命势不可挡：创纪录的太阳能和风能",
+          "summary": "2025年太阳能和风能新增装机容量创纪录，能源转型加速。",
           "keyInsights": [
-            "绿氢是解决可再��能源间歇性的关键"
+            "装机高峰",
+            "清洁主导"
+          ]
+        },
+        {
+          "title": "为什么太阳能和风能不再是替代能源",
+          "summary": "太阳能和风能发电成本低于化石燃料，不再被视为“替代”能源。",
+          "keyInsights": [
+            "成本优势",
+            "主导地位"
           ]
         }
       ],
