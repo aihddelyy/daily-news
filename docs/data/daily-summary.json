@@ -1,35 +1,35 @@
 {
-  "date": "2026-07-06",
-  "overallSummary": "AI行业巨头联手组建代理联盟，半导体和GLP-1药物市场持续扩张，清洁能源建设加速推进。",
+  "date": "2026-07-07",
+  "overallSummary": "AI领域四大巨头联合组建行业组织推动负责任AI发展；GLP-1减肥药市场预计2035年翻番至1900亿美元；清洁能源持续强劲增长，太阳能和风能装机容量创纪录。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头从竞争走向合作，AI代理标准统一化趋势明显",
+      "categorySummary": "头部AI企业组建行业联盟，AI技术发展进入协同治理新阶段",
       "keyPoints": [
-        "微软OpenAI协议重组，Anthropic和Google获合作机会",
-        "AI代理联盟成立，Linux基金会支持创建开源标准",
-        "快手可灵融资28亿美元，分拆AI视频部门上市"
+        "Anthropic、Google、Microsoft、OpenAI联合组建前沿模型论坛",
+        "四大巨头组建代理型AI联盟",
+        "公众对AI态度转向负面"
       ],
       "news": [
         {
-          "title": "微软OpenAI重组为Anthropic和Google敞开大门",
-          "summary": "微软与OpenAI修订合作协议，打破原有排他性安排",
+          "title": "前沿模型论坛：推动负责任AI发展的新合作",
+          "summary": "Anthropic、Google、Microsoft、OpenAI联合发起前沿模型论坛",
           "keyInsights": [
-            "战略重心转向开放合作生态"
+            "行业首个跨巨头安全协作组织"
           ]
         },
         {
-          "title": "AI代理联盟成立",
-          "summary": "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟",
+          "title": "微软、谷歌、OpenAI和Anthropic联手组建Agentic联盟",
+          "summary": "四大AI巨头联合组建代理型AI联盟",
           "keyInsights": [
-            "开源标准将统一AI代理规范"
+            "AI战略格局重新洗牌"
           ]
         },
         {
-          "title": "快手可灵融资28亿美元",
-          "summary": "快手分拆AI视频部门可灵，寻求独立上市",
+          "title": "人工智能 - WSJ最新动态",
+          "summary": "公众对AI态度转向负面，大规模失业警告声减弱",
           "keyInsights": [
-            "中国AI视频业务资本化加速"
+            "AI接受度面临社会信任考验"
           ]
         }
       ],
@@ -38,25 +38,25 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "全球贸易格局持续调整，汇率波动影响市场情绪",
+      "categorySummary": "全球并购活跃，贸易摩擦持续影响市场",
       "keyPoints": [
-        "贸易战话题升温，一战前德国经验成参照",
-        "日元汇率持续承压引发关注",
-        "联合利华CEO强调战略即牺牲"
+        "洛克希德·马丁35亿美元竞购Ultra Maritime",
+        "贸易战风险持续发酵",
+        "新兴市场股价波动"
       ],
       "news": [
         {
-          "title": "《如何赢得贸易战》书评",
-          "summary": "关税时代，一战前德国出口过剩与今日中国相似",
+          "title": "洛克希德·马丁竞购Ultra Maritime",
+          "summary": "交易价值35亿美元，防务行业整合加速",
           "keyInsights": [
-            "历史周期律为当前贸易政策提供镜鉴"
+            "防务板块并购潮"
           ]
         },
         {
-          "title": "BBC商业头条：日元还能跌多少",
-          "summary": "日元持续走弱，市场担忧情绪加剧",
+          "title": "《如何赢得贸易战》书评",
+          "summary": "关税时代，一战前德国出口模式与今日中国对比",
           "keyInsights": [
-            "亚洲���币竞争性贬值风险上升"
+            "历史视角审视贸易摩擦"
           ]
         }
       ],
@@ -65,25 +65,25 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "特斯拉FSD迈向高阶自动驾驶，AI赋能电池技术突破",
+      "categorySummary": "自动驾驶技术持续进化，电池技术获突破",
       "keyPoints": [
-        "特斯拉FSD v14接近Level 4能力",
-        "AI技术可将电池寿命延长23%",
-        "欧洲电动汽车领域投资达2000亿欧元"
+        "特斯拉FSD v14进化为类机器人出租车功能",
+        "AI可将电动汽车电池寿命延长23%",
+        "欧洲投资2000亿欧元发展电动汽车"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14演变为自动驾驶出租车",
-          "summary": "FSD v14.3.3/v14.3.4呈现Level 4级别能力",
+          "title": "特斯拉FSD v14实测",
+          "summary": "FSD v14更像L4级无人驾驶，系统持续进化",
           "keyInsights": [
-            "监督式自动驾驶向无人驾驶过渡加速"
+            "自动驾驶商业化临近"
           ]
         },
         {
-          "title": "AI可将电池寿命延长23%",
-          "summary": "瑞典查尔姆斯大学研究证明AI优化电池管理",
+          "title": "AI可将电动汽车电池寿命延长23%",
+          "summary": "查尔姆斯大学研究表明AI优化电池管理",
           "keyInsights": [
-            "智能电池管理成为EV竞争新焦点"
+            "AI赋能动力电池"
           ]
         }
       ],
@@ -92,25 +92,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达Blackwell系列引领AI推理时代，GPU需求持续强劲",
+      "categorySummary": "AI芯片竞争白热化，新一代产品密集发布",
       "keyPoints": [
-        "Blackwell Ultra芯片发布，瞄准AI推理市场",
-        "英伟达是AI基础设施建设的最大受益者",
-        "CUDA生态优势巩固市场地位"
+        "NVIDIA Blackwell Ultra发布，下半年发货",
+        "Vera Rubin芯片亮相",
+        "AI驱动计算新纪元开启"
       ],
       "news": [
         {
-          "title": "英伟达Blackwell Ultra AI芯片发���",
-          "summary": "黄仁勋宣布下一代AI推理芯片",
+          "title": "NVIDIA Blackwell平台发布",
+          "summary": "NVIDIA正式发布Blackwell平台，驱动万亿参���生成式AI",
           "keyInsights": [
-            "AI推理时代正式开启"
+            "AI基础设施升级"
           ]
         },
         {
-          "title": "英伟达维持AI芯片增长态势",
-          "summary": "Blackwell架构和CUDA生态支撑业绩",
+          "title": "英伟达Blackwell Ultra和Rubin芯片",
+          "summary": "黄仁勋展示Blackwell Ultra，Rubin芯片同步发布",
           "keyInsights": [
-            "AI芯片竞争壁垒持续强化"
+            "AI算力军备竞赛"
           ]
         }
       ],
@@ -119,25 +119,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1市场爆发式增长，脑机接口技术获突破",
+      "categorySummary": "GLP-1减肥药市场爆发式增长，AI加速药物研发",
       "keyPoints": [
-        "GLP-1市场规模2035年将达1900亿美元",
-        "Roche旗下Genentech在BCI技术取得成果",
-        "阿尔茨海默病下一代研究持续推进"
+        "GLP-1药物市场2030年预计达488.4亿美元",
+        "GLP-1市场2035年有望达1900亿美元",
+        "AI正在改变药物发现和制造"
       ],
       "news": [
         {
-          "title": "GLP-1市场2035年将翻番至1900亿美元",
-          "summary": "口服药物和Medicare覆盖扩大推动增长",
+          "title": "GLP-1市场翻番增长至1900亿美元",
+          "summary": "全球GLP-1药物市场2035年将达1900亿美元",
           "keyInsights": [
-            "代谢药物赛道进入黄金期"
+            "代谢疾病治疗黄金赛道"
           ]
         },
         {
-          "title": "BCI技术从科幻走向现实",
-          "summary": "Roche Genentech部门取得脑机接口突破",
+          "title": "GLP-1受体激动剂减肥药市场规模",
+          "summary": "2024年市场138.4亿美元，2030年预计488.4亿美元",
           "keyInsights": [
-            "神经科技商业化进程提速"
+            "减肥药市场规模预测"
           ]
         }
       ],
@@ -146,18 +146,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果新机传闻密集，Pro系列差异化竞争持续",
+      "categorySummary": "iPhone 18发布在即，设计创新成焦点",
       "keyPoints": [
-        "iPhone 18 Pro相机将迎重大升级",
-        "iPhone 17 Pro变色问题或影响下一代决策",
-        "苹果创新周期引发市场持续关注"
+        "iPhone 18 Pro系列预计2026年9月18日上市",
+        "iPhone 17 Pro配色方案遇挑战",
+        "5G部署持续推进"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro新爆料",
-          "summary": "最受欢迎相机将迎重大升级",
+          "title": "iPhone 18传言和泄露消息",
+          "summary": "iPhone 18将分批发布，Pro系列9月18日开售",
           "keyInsights": [
-            "影像是高端机型核心战场"
+            "苹果年度旗舰周期"
+          ]
+        },
+        {
+          "title": "iPhone 17 Pro配色问题",
+          "summary": "变色iPhone 17 Pro设计遇挫，影响果粉期待",
+          "keyInsights": [
+            "苹果设计决策争议"
           ]
         }
       ],
@@ -166,25 +173,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏面临转型压力，三大平台联合推进安全游戏",
+      "categorySummary": "AAA游戏行业面临挑战，安全承诺持续推进",
       "keyPoints": [
-        "AAA游戏工作室必须转型求生",
-        "Xbox、索尼、任天堂深化安全游戏合作",
-        "家长控制和举报系统持续优化"
+        "前Nexon CEO认为AAA游戏行业衰落",
+        "Epic CEO认同行业困境",
+        "Xbox与任天堂合作安全游戏承诺"
       ],
       "news": [
         {
-          "title": "AAA级游戏工作室必须转型",
-          "summary": "贝恩公司报告指出传统模式难以为继",
+          "title": "AAA游戏行业衰落",
+          "summary": "2024-2025年AAA作品质量普遍令人失望",
           "keyInsights": [
-            "游戏产业进入深度调整期"
+            "游戏业质量危机"
           ]
         },
         {
-          "title": "安全游戏承诺最新进展",
-          "summary": "三大平台联合更新家长控制和社区准则",
+          "title": "Xbox与任天堂合作安全游戏承诺",
+          "summary": "三大平台持续改善玩家安全",
           "keyInsights": [
-            "游戏行业社会责任标准提升"
+            "游戏安全行业标准"
           ]
         }
       ],
@@ -193,25 +200,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "中国清洁能源规模领跑全球，储能技术成为关键突破点",
+      "categorySummary": "可再生能源装机容量创纪录，储能技术多元化发展",
       "keyPoints": [
-        "中国风电涡轮机超12万台，占全球三分之一",
-        "绿色氢能与电池储能系统集成推进",
-        "风能和太阳能持续引领清洁能源转型"
+        "2025年太阳能和风能装机容量创纪录",
+        "绿色氢能成为长期储能关键",
+        "电池储能成本持续下降"
       ],
       "news": [
         {
-          "title": "从太空俯瞰清洁能源崛起",
-          "summary": "中国风电太阳能规模全球领先",
+          "title": "清洁能源持续增长",
+          "summary": "风能、太阳能和电池储能逆势增长",
           "keyInsights": [
-            "能源转型进入规模化发展阶段"
+            "能源转型加速"
           ]
         },
         {
-          "title": "绿色氢能与储能系统集成",
-          "summary": "氢-液体混合技术电池系列发布",
+          "title": "绿色氢能：长期储能关键",
+          "summary": "氢能适合季节性储能需求",
           "keyInsights": [
-            "多元化储能方案逐步成熟"
+            "储能技术多元化"
           ]
         }
       ],
