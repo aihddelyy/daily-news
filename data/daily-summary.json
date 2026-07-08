@@ -1,46 +1,69 @@
 {
-  "date": "2026-07-08",
-  "overallSummary": "AI行业巨头加速整合，微软OpenAI重组为竞争者创造机遇；清洁能源转型加速，太阳能超越风能成为美国最大清洁能源来源。",
+  "date": "2026-07-09",
+  "overallSummary": "AI巨头竞合加速，微软OpenAI联盟重组为Anthropic和Google打开大门；美伊局势升温，美军对伊朗发动新一轮打击；GLP-1减肥药市场2035年预计达1900亿美元。",
   "categories": [
     {
-      "name": "AI行业",
-      "categorySummary": "AI领域竞争格局重塑，巨头间合作与竞争并存。",
+      "name": "AI行业动态",
+      "categorySummary": "AI行业头部企业竞争与合作并行，多方联手成立Agentic AI联盟推进开源标准，同时AI在医疗领域的应用加速落地。",
       "keyPoints": [
-        "微软与OpenAI重组谈判中，Anthropic和Google或受益",
-        "微软、谷歌、OpenAI、Anthropic联合成立Agentic AI联盟",
-        "公众对AI态度转向负面，大规模失业警告减少"
+        "微软-OpenAI协议重组为Anthropic和Google合作打开大门",
+        "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟，制定AI代理开源标准",
+        "全科医生和制药公司加速采用AI技术"
       ],
       "news": [
         {
-          "title": "微软OpenAI重组为Anthropic和Google开辟道路",
-          "summary": "微软与OpenAI合作条���调整谈判中，为竞争对手创造新机遇。",
+          "title": "微软-OpenAI协议重写为Anthropic和Google打开大门",
+          "summary": "微软与OpenAI合作模式调整，为竞争对手提供合作空间。",
           "keyInsights": [
-            "多元化AI合作伙伴需求上升"
+            "AI行业竞争格局正在重塑"
           ]
         },
         {
-          "title": "AI联盟成立推动代理AI开源标准",
-          "summary": "四大科技巨头联合Linux基金会制定行业标准。",
+          "title": "四大AI巨头联手成立Agentic AI联盟",
+          "summary": "Linux Foundation支持下的AI代理开源标准组织成立。",
           "keyInsights": [
-            "开源生态建设加速"
+            "行业标准化意识增强"
+          ]
+        },
+        {
+          "title": "全科医生与制药公司转向AI",
+          "summary": "BBC报道全科医生采用AI减轻工作负担，制药公司用AI寻找新分子。",
+          "keyInsights": [
+            "AI医疗应用加速落地"
           ]
         }
-      ]
+      ],
+      "id": "ai_industry",
+      "icon": "🧠"
     },
     {
       "name": "商业财经",
-      "categorySummary": "地缘政治紧张持续，能源与汽车行业面临新变局。",
+      "categorySummary": "地缘政治风险升温，美国军方对伊朗发动新一轮打击，特朗普称伊停火协议已\"结束\"，全球市场面临不确定性。",
       "keyPoints": [
-        "美国在油轮遭袭后撤销伊朗石油销售授权",
-        "卡车初创公司欲挑战特斯拉",
-        "诺基亚布局AI数据中心供应"
+        "美军对伊朗发动新一轮打击",
+        "特朗普称伊朗停火协议已经\"结束\"",
+        "卡车初创公司欲挑战特斯拉"
       ],
       "news": [
         {
-          "title": "特朗普北约峰会重提格陵兰威胁",
-          "summary": "美国在北约峰会重申领土获取意图。",
+          "title": "美国军方对伊朗发动新一轮打击",
+          "summary": "特朗普表示\"不确��\"是否想要达成协议。",
           "keyInsights": [
-            "地缘政治风险持续"
+            "中东局势进一步升级"
+          ]
+        },
+        {
+          "title": "特朗普称伊朗停火协议已\"结束\"",
+          "summary": "最新一轮袭击后，特朗普对伊政策表态。",
+          "keyInsights": [
+            "地缘政治风险上升"
+          ]
+        },
+        {
+          "title": "卡车初创公司挑战特斯拉",
+          "summary": "WSJ独家报道一家卡车初创公司欲挑战特斯拉。",
+          "keyInsights": [
+            "电动卡车竞争加剧"
           ]
         }
       ],
@@ -49,18 +72,32 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动汽车渗透率显著提升，特斯拉FSD向自动驾驶进化。",
+      "categorySummary": "特斯拉FSD v14获评最令人印象深刻的L2系统，中国车企借道加拿大试探美国市场。",
       "keyPoints": [
-        "英国6月纯电市场份额达30%，创年度新高",
-        "特斯拉FSD v14向L4级别无人驾驶演进",
-        "中国车企将加拿大作为进入美国市场跳板"
+        "特斯拉FSD v14被评为最令人印象深刻的L2级ADAS",
+        "特斯拉FSD正演变成事实上的Robotaxi",
+        "中国车企涌向加拿大作为进入美国市场的\"试水\""
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14实测表现",
-          "summary": "FSD v14为最令人印象深刻的L2级辅助驾驶。",
+          "title": "特斯拉FSD v14测试：令人惊叹的改进",
+          "summary": "Electrek评测称v14是渐进式改进，也是最令人印象深刻的L2系统。",
           "keyInsights": [
-            "自动驾驶技术持续精进"
+            "FSD能力持续提升"
+          ]
+        },
+        {
+          "title": "特斯拉FSD正演变成Robotaxi",
+          "summary": "福布斯分析认为FSD更像4级无人驾驶ADAS。",
+          "keyInsights": [
+            "自动驾驶等级持续提升"
+          ]
+        },
+        {
+          "title": "中国车企涌向加拿大",
+          "summary": "中国车企将加拿大作为进军美国市场的\"试水\"之举。",
+          "keyInsights": [
+            "贸易壁垒催生绕道策略"
           ]
         }
       ],
@@ -69,18 +106,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片需求强劲，Nvidia新品驱动行业增长。",
+      "categorySummary": "Nvidia发布GB200 Blackwell AI芯片并推出Blackwell Ultra架构，AI芯片市场竞争持续升温。",
       "keyPoints": [
-        "Nvidia GTC大会发布Blackwell Ultra和Rubin芯片",
-        "AI芯片预计贡献2026年约半数行业营收",
-        "数据中心芯片成市场核心驱动力"
+        "Nvidia发布GB200 Blackwell AI芯片",
+        "Blackwell Ultra深度解析发布",
+        "分析师维持Nvidia增长前景评级上调"
       ],
       "news": [
         {
-          "title": "Nvidia Blackwell平台发布",
-          "summary": "Blackwell平台开启万亿参数生成式AI计算新纪元。",
+          "title": "Nvidia发布GB200 Blackwell AI芯片",
+          "summary": "黄仁勋宣布新型AI芯片，\"需要更大的GPU\"。",
           "keyInsights": [
-            "AI算力需求爆发"
+            "AI算力需求持续爆发"
+          ]
+        },
+        {
+          "title": "Blackwell Ultra驱动AI工厂时代",
+          "summary": "基于Blackwell架构的Ultra版本深度解析发布。",
+          "keyInsights": [
+            "芯片性能持续迭代"
           ]
         }
       ],
@@ -89,18 +133,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，2030年规模近5000亿美元。",
+      "categorySummary": "GLP-1减肥药市场高速增长，摩根士丹利预测2035年市场规模将翻倍至1900亿美元，生物类似药市场机遇与挑战并存。",
       "keyPoints": [
-        "GLP-1减肥药市场2030年将达4884亿美元",
-        "全球肠促胰岛素市场或达2000亿美元",
-        "生物类似药面临空白期挑战"
+        "GLP-1市场2035年预计达1900亿美元，是2025年的两倍多",
+        "口服药物和医保覆盖扩展将推动增长",
+        "生物类似药\"空白期\"带来机遇与挑战"
       ],
       "news": [
         {
-          "title": "GLP-1减肥药市场规模预测",
-          "summary": "2024年市场规模1384亿美元，CAGR超20%。",
+          "title": "GLP-1市场2035年将增长一倍以上",
+          "summary": "摩根士丹利预测市场规模达1900亿美元。",
           "keyInsights": [
-            "代谢药物赛道持续火热"
+            "减重药市场进入高速增长期"
+          ]
+        },
+        {
+          "title": "GLP-1减重药物下一步将何去何从",
+          "summary": "诺和诺德Wegovy和礼来Zepbound等药物市场展望。",
+          "keyInsights": [
+            "市场竞争格局持续演变"
+          ]
+        },
+        {
+          "title": "生物类似药开发商迎接美国市场下一阶段",
+          "summary": "FiercePharma分析生物类似药市场的机遇与挑战。",
+          "keyInsights": [
+            "生物类似药可及性面临挑战"
           ]
         }
       ],
@@ -109,18 +167,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18系列分阶段发布策略确认。",
+      "categorySummary": "iPhone 18 Pro大量泄露信息曝光，消费者面临等待还是入手iPhone 17 Pro的选择。",
       "keyPoints": [
-        "iPhone 18 Pro/Pro Max预计9月18日上市",
-        "苹果秋季发布会或于9月9日举行",
-        "标准版机型采用分阶段发布策略"
+        "iPhone 18 Pro泄露约630GB秘密信息",
+        "新机型的核心配置已基本确认",
+        "消费者纠结于等待或提前购买"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro泄密分析",
-          "summary": "Pro版本多项升级，是否值得等待成焦点。",
+          "title": "iPhone 18 Pro重大新泄露",
+          "summary": "630GB泄露信息证实iPhone 18 Pro配置。",
           "keyInsights": [
-            "苹果创新周期缩短"
+            "苹果新品保密性下降"
+          ]
+        },
+        {
+          "title": "iPhone 18 Pro爆料：值得等待还是买17 Pro",
+          "summary": "对比分析帮助消费者做决策。",
+          "keyInsights": [
+            "迭代升级幅度受关注"
           ]
         }
       ],
@@ -129,18 +194,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临困境，三大平台联手提升玩家安全。",
+      "categorySummary": "AAA游戏产业被指停滞不前，前Nexon CEO和Epic CEO均表达悲观看法，行业面临深刻挑战。",
       "keyPoints": [
-        "前Nexon CEO称AAA游戏行业正在消亡",
-        "Epic CEO形容行业困境如海啸来袭",
-        "Xbox、索尼、任天堂联合强化安全措施"
+        "玩家和业内人士普遍认为AAA游戏陷入停滞",
+        "Epic CEO斯维尼称\"海啸正席卷3A游戏行业\"",
+        "任天堂、索尼、微软继续合作推进游戏安全承诺"
       ],
       "news": [
         {
-          "title": "三大游戏平台共推安全游戏承诺",
-          "summary": "增强内容审核、改进举报工具、强化家长控制。",
+          "title": "AAA游戏产业正在走向衰落",
+          "summary": "前Nexon CEO表达对AAA游戏前景的悲观看法。",
           "keyInsights": [
-            "平台责任意识提升"
+            "大型游戏开发模式面临转型压力"
+          ]
+        },
+        {
+          "title": "Epic CEO称海啸正席卷3A游戏行业",
+          "summary": "斯维尼分析行业困境，形势严峻。",
+          "keyInsights": [
+            "行业急需变革"
           ]
         }
       ],
@@ -149,18 +221,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "清洁能源转型加速，太阳能成为美国最大清洁能源来源。",
+      "categorySummary": "可再生能源持续蓬勃发展，2025年光伏和风电新增装机容量创纪录，但联邦政府正逐步取消相关税收抵免。",
       "keyPoints": [
-        "2025年太阳能和风能装机容量创纪录",
-        "2026年Q1大规模太阳能超越风能成美国最大清洁能源",
-        "绿色氢能成为电池储能替代方案"
+        "2025年光伏和风电新增装机容量创纪录",
+        "可再生能源超过全球电力需求",
+        "联邦政府放弃风能和太阳能税收抵免"
       ],
       "news": [
         {
-          "title": "太阳能超越风能成为美国清洁能源主力",
-          "summary": "2026年Q1大规模太阳能发电量首次领先风能。",
+          "title": "2025年光伏和风电新增装机容量创纪录",
+          "summary": "能源革命势不可挡，可再生能源增长强劲。",
           "keyInsights": [
-            "能源结构深度调整"
+            "清洁能源转型加速"
+          ]
+        },
+        {
+          "title": "联邦政府放弃风能和太阳能税收抵免",
+          "summary": "清洁能源政策面临不确定性，但行业仍现希望。",
+          "keyInsights": [
+            "政策支持减弱但市场驱动增强"
+          ]
+        },
+        {
+          "title": "绿色氢能和电池储能改变电网",
+          "summary": "绿色氢气与电池技术将重塑电网结构。",
+          "keyInsights": [
+            "储能技术成��关键"
           ]
         }
       ],
