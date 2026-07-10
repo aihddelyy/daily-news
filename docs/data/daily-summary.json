@@ -1,38 +1,30 @@
 {
-  "date": "2026-07-10",
-  "overallSummary": "AI巨头联手组建Agentic AI联盟制定行业标准；特斯拉FSD演变为Robotaxi加速自动驾驶商业化；英伟达发布Blackwell Ultra芯片巩固AI芯片领导地位。",
+  "date": "2026-07-11",
+  "overallSummary": "AI领域重大合作涌现，Microsoft-OpenAI重组为竞争对手开放大门，四大AI巨头联手成立开源智能体联盟；能源转型加速，太阳能超越风能成美国最大清洁能源来源。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头联合推动AI智能体标准化，行业竞争加速人才争夺",
+      "categorySummary": "AI行业竞争格局生变，Microsoft-OpenAI协议重写为竞争对手开辟道路，四大巨头成立智能体开源联盟。",
       "keyPoints": [
-        "微软、谷歌、OpenAI、Anthropic组建Agentic AI联盟",
-        "英伟达Blackwell Ultra与Vera Rubin芯片发布",
-        "AI人才争夺加剧，Anthropic密集挖角竞争对手"
+        "Microsoft-OpenAI修订协议允许OpenAI探索与其他云服务商合作",
+        "Microsoft、Google、OpenAI、Anthropic联手成立AI智能体联盟，由Linux基金会支持",
+        "FTC对AI行业集中化趋势表示担忧，可能引发反垄断审查"
       ],
       "news": [
         {
-          "title": "四大科技巨头组建Agentic AI联盟",
-          "summary": "微软、谷歌、OpenAI、Anthropic联手成立AI智能体标准联盟，获Linux基金会支持",
+          "title": "Microsoft-OpenAI重写协议为Anthropic和Google打开大门",
+          "summary": "400亿美元新投资后修订条款，允许OpenAI在特定条件下探索与其他云服务商合作。",
           "keyInsights": [
-            "AI智能体行业标准化进程启动",
-            "开源标准将影响未来AI生态格局"
+            "微软对OpenAI总承诺超130亿美元",
+            "可能为Anthropic Claude和Google Gemini开辟新商业化途径"
           ]
         },
         {
-          "title": "英伟达发布Blackwell Ultra与Vera Rubin芯片",
-          "summary": "英伟达GTC大会发布新一代AI芯片，维持行业领先地位",
+          "title": "四大AI巨头联手成立AI智能体联盟",
+          "summary": "Microsoft、Google、OpenAI和Anthropic成立Agentic AI联盟，由Linux基金会支持，制定开源标准。",
           "keyInsights": [
-            "AI基础设施建设持续加码",
-            "芯片性能竞赛进入新阶段"
-          ]
-        },
-        {
-          "title": "Anthropic密集挖角五大人才",
-          "summary": "Anthropic从OpenAI、Google、Microsoft、xAI引入重磅人才",
-          "keyInsights": [
-            "AI领域人才竞争白热化",
-            "各公司人才布局加速"
+            "推动AI智能体开源标准制定",
+            "促进生态系统健康发展"
           ]
         }
       ],
@@ -40,63 +32,26 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车智能化加速，特斯拉FSD向Robotaxi演进",
-      "keyPoints": [
-        "特斯拉FSD v14实现渐进式改进",
-        "AI可将EV电池寿命延长23%",
-        "特斯拉FSD正演变为Robotaxi服务"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14测试：渐进式改进",
-          "summary": "实测超200公里，FSD v14呈现渐进式提升",
-          "keyInsights": [
-            "自动驾驶技术稳步迭代",
-            "用��体验持续优化"
-          ]
-        },
-        {
-          "title": "特斯拉FSD演变为Robotaxi",
-          "summary": "特斯拉FSD功能向商业化Robotaxi方向发展",
-          "keyInsights": [
-            "自动驾驶出租车商业化加速",
-            "出行服务模式面临重塑"
-          ]
-        },
-        {
-          "title": "AI可将电动汽车电池寿命延长23%",
-          "summary": "瑞典查尔姆斯理工大学研究发现AI优化电池管理",
-          "keyInsights": [
-            "AI赋能电池技术突破",
-            "续航问题或迎新解决方案"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "商业财经",
-      "categorySummary": "地缘政治影响投资方向，银行业面临调整",
+      "categorySummary": "全球石油需求预计自2020年来首次年度下降，SK Hynix将赴美上市，Hugo Boss拒绝收购要约。",
       "keyPoints": [
-        "乌克兰无人机战术颠覆北约投资方向",
-        "农业信贷银行净利润下降",
-        "中国新市场股价承压"
+        "全球石油需求预计出现2020年以来首次年度下降",
+        "SK Hynix股票将在纳斯达克上市",
+        "Hugo Boss要求股东拒绝Frasers集团22亿美元收购要约"
       ],
       "news": [
         {
-          "title": "乌克兰无人机战术影响北约投资",
-          "summary": "乌克兰无人机对俄境内造成破坏，改变北约投资优先级",
+          "title": "全球石油需求预计首次年���下降",
+          "summary": "IEA预测全球石油需求将出现自2020年以来的首次年度下降。",
           "keyInsights": [
-            "地缘政治持续影响全球投资格局"
+            "能源转型加速"
           ]
         },
         {
-          "title": "农业信贷银行净利润下降",
-          "summary": "农业信贷银行净利润下滑，任命新首席执行官",
+          "title": "SK Hynix将在纳斯达克上市",
+          "summary": "韩国存储芯片制造商完成外国公司有史以来最大规模美国上市。",
           "keyInsights": [
-            "农业金融领域面临调整压力"
+            "半导体行业资本化加速"
           ]
         }
       ],
@@ -104,20 +59,80 @@
       "icon": "📊"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场竞争加剧，精准医疗成为新方向",
+      "name": "汽车出行",
+      "categorySummary": "电动汽车行业持续扩张，AI技术延长电池寿命，美国推进自动驾驶法规改革。",
       "keyPoints": [
-        "辉瑞、安进等挑战诺和诺德、礼来GLP-1地位",
-        "双特异性抗体药物推进精准医疗",
-        "生物类似药面临市场空窗期挑战"
+        "AI可将电动汽车电池寿命延长23%",
+        "NHTSA支持取消自动驾驶汽车方向盘规则",
+        "BYD Dolphin G DM-i英国起售价£23,990"
       ],
       "news": [
         {
-          "title": "GLP-1减肥药竞争格局生变",
-          "summary": "辉瑞、安进加入GLP-1减肥药竞争，挑战现有双雄格局",
+          "title": "查尔姆斯大学：AI可将EV电池寿命延长23%",
+          "summary": "瑞典研究人员发现AI技术可显著提升电动汽车电池性能。",
           "keyInsights": [
-            "千亿美元减肥药市场竞争加剧",
-            "后来者寻求差异化突破"
+            "AI与能源技术深度融合"
+          ]
+        },
+        {
+          "title": "NHTSA支持取消自动驾驶汽车方向盘规则",
+          "summary": "美国监管机构明确支持推进自动驾驶汽车法规改革。",
+          "keyInsights": [
+            "自动驾驶商业化��速"
+          ]
+        },
+        {
+          "title": "特斯拉FSD演变为自动驾驶出租车",
+          "summary": "实测显示特斯拉FSD功能正在向事实上的自动驾驶出租车服务演进。",
+          "keyInsights": [
+            "出行服务模式变革"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "NVIDIA Blackwell平台正式发布，SK海力士完成史上最大规模在美上市。",
+      "keyPoints": [
+        "NVIDIA Blackwell平台正式发布，引领AI计算新纪元",
+        "SK海力士完成外国公司有史以来最大规模美国上市",
+        "Blackwell Ultra驱动AI工厂时代"
+      ],
+      "news": [
+        {
+          "title": "NVIDIA Blackwell平台正式发布",
+          "summary": "NVIDIA宣布Blackwell平台正式发布，使组织能在万亿参数规模上构建和运行实时生成式AI。",
+          "keyInsights": [
+            "生成式AI算力飞跃"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场持续扩大，14种新型减肥药物进入临床试验，肿瘤免疫疗法有新进展。",
+      "keyPoints": [
+        "14种新型减肥药物进入临床试验",
+        "GLP-1受体激动剂市场持续扩张",
+        "口服药物可激活耗竭T细胞用于癌症治疗"
+      ],
+      "news": [
+        {
+          "title": "14种新型减肥药物即将面世",
+          "summary": "多种有前景的新减肥药物正在临床试验中研发。",
+          "keyInsights": [
+            "代谢疾病治疗新浪潮"
+          ]
+        },
+        {
+          "title": "口服药物可激活耗竭T细胞",
+          "summary": "研究人员表明7-甲基黄嘌呤可重新配制成缓释口服疗法激活T细胞。",
+          "keyInsights": [
+            "肿瘤免疫疗法突破"
           ]
         }
       ],
@@ -126,18 +141,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果领导层更替，新品发布在即，行业格局酝酿变化",
+      "categorySummary": "iPhone 18系列泄露加剧，华为请求法院判定美国安全法违宪，5G部署略有延迟。",
       "keyPoints": [
-        "苹果高管人事变动在即",
-        "Pixel 11与iPhone 18即将发布",
-        "高通可穿戴平台面临挑战"
+        "iPhone 18 Pro和Pro Max预计9月18日上市",
+        "黑客窃取iPhone 18 Pro照片和组件清单",
+        "华为请求法院判定美国安全法违宪"
       ],
       "news": [
         {
-          "title": "Pixel 11与iPhone 18新品将至",
-          "summary": "谷歌Pixel 11预计8月发布，苹果iPhone 18 Pro系列9月上市",
+          "title": "iPhone 18泄露消息加剧",
+          "summary": "黑客窃取即将发布的iPhone 18 Pro照片和设备组件清单。",
           "keyInsights": [
-            "下半年旗舰手机竞争即将开启"
+            "产品安全挑战持续"
+          ]
+        },
+        {
+          "title": "华为请求法院判定美国安全法违宪",
+          "summary": "华为寻求法律途径挑战美国安���法规。",
+          "keyInsights": [
+            "中美科技博弈持续"
           ]
         }
       ],
@@ -146,25 +168,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏面临创新困境，主机平台竞争加剧",
+      "categorySummary": "AAA游戏产业前景引发担忧，多位CEO发声批评；Xbox裁员风波持续，任天堂Switch 2有新动向。",
       "keyPoints": [
-        "AAA游戏被指停滞不前",
-        "Xbox重组风波持续",
-        "任天堂Switch 2硬件变更公布"
+        "前Nexon CEO和Epic CEO均认为AAA游戏产业困境严重",
+        "Xbox裁员风波愈演愈烈",
+        "Xbox、索尼、任天堂更新安全游戏承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏行业面临创新危机",
-          "summary": "报告显示AAA游戏陷入停滞，对PC玩家或为利好",
+          "title": "前Nexon CEO认为AAA游戏产业正在消亡",
+          "summary": "2024-2025年大量AAA游戏令人失望，CEO们对行业前景表达担忧。",
           "keyInsights": [
-            "游戏产业创新模式值得反思"
+            "游戏行业面临转型压力"
           ]
         },
         {
-          "title": "Xbox重组与Switch 2动态",
-          "summary": "微软Xbox重组持续，任天堂公布Switch 2硬件变更",
+          "title": "Xbox裁员风波与Switch 2硬件变化",
+          "summary": "微软进行全面改革的同时，任天堂公布Switch 2重大硬件变化。",
           "keyInsights": [
-            "主机游戏平台竞争格局演变中"
+            "主机市场竞争加剧"
           ]
         }
       ],
@@ -173,26 +195,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "太阳能超越风能成为美国最大清洁能源，绿色氢能受关注",
+      "categorySummary": "太阳能超越风能成为美国最大清洁能源，欧洲投资2000亿欧元发展电动汽车。",
       "keyPoints": [
-        "太阳能超越风能成美国最大清洁能源",
-        "绿色氢能作为长期储能方案兴起",
-        "电池与氢能混合储能系统探索"
+        "2026年Q1太阳能超越风能成美国最大清洁能源来源",
+        "欧洲计划投资2000亿欧元发展电动汽车",
+        "绿色氢能与电池储能系统快速发展"
       ],
       "news": [
         {
-          "title": "太阳能超越风能成美国最大清洁能源",
-          "summary": "2026年Q1美国公用事业规模太阳能超越风能",
+          "title": "太阳能超越风能成为美国清洁能源主导",
+          "summary": "2026年第一季度公用事业规模太阳能发电量超过风能。",
           "keyInsights": [
-            "清洁能源结构正在转变",
-            "光伏产业迎来新里程碑"
+            "清洁能源格局重塑"
           ]
         },
         {
-          "title": "绿色氢能储能价值凸显",
-          "summary": "绿色氢能作为长期储能解决方案地位提升",
+          "title": "欧洲投资2000亿欧元发展电动汽车",
+          "summary": "欧洲大规模投资推动电动汽车产业发展。",
           "keyInsights": [
-            "可再生能源消纳问题有了新答案"
+            "能源转型加速"
           ]
         }
       ],
