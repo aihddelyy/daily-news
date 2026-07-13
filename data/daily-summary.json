@@ -1,29 +1,30 @@
 {
-  "date": "2026-07-13",
-  "overallSummary": "AI领域巨头联手成立Agentic AI联盟推动开源标准，特朗普威胁制裁伊朗震动金融市场，GLP-1减肥药市场预计翻倍增长。",
+  "date": "2026年7月14日",
+  "overallSummary": "AI巨头联合组建代理联盟推动行业标准化；美伊冲突持续推高油价，全球市场波动加剧。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "微软、谷歌、OpenAI、Anthropic联手成立Agentic AI联盟，Anthropic逆势挖角头部企业人才。",
+      "categorySummary": "科技巨头加速合纵连横，监管层面开始关注AI企业合作对竞争格局的影响。",
       "keyPoints": [
-        "四大AI巨头成立Agentic AI联盟，由Linux基金会支持",
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-        "Anthropic从OpenAI、Google、Microsoft和xAI挖来5位重磅人才"
+        "微软、谷歌、OpenAI、Anthropic联合组建AI代理联盟",
+        "美国参议员启动对AI企业合作关系的反垄断调查",
+        "微软与OpenAI关系重塑为竞争对手创造机会"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic AI联盟",
-          "summary": "联盟由Linux基金会支持，将为AI智能体创建开源标准",
+          "title": "AI代理联盟成立",
+          "summary": "四大AI巨头联手Linux基金会，制定开源AI代理���准",
           "keyInsights": [
-            "行业标准统一趋势加速",
-            "开源生态建设成为竞争焦点"
+            "加速AI代理技术标准化进程",
+            "开源生态或成博弈新焦点"
           ]
         },
         {
-          "title": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-          "summary": "科技巨头通过投资深化AI布局",
+          "title": "反垄断调查启动",
+          "summary": "Warren等参议员对谷歌微软与AI开发商合作展开调查",
           "keyInsights": [
-            "资本绑定成主流合作模式"
+            "担忧合作关系抑制市场竞争",
+            "可能影响未来并购与投资"
           ]
         }
       ],
@@ -32,33 +33,27 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "特朗普威胁制裁伊朗影响全球市场，德克萨斯挑战华尔街双头垄断，苹果指控OpenAI窃密。",
+      "categorySummary": "地缘政治风险推升能源价格，资本市场情绪趋于谨慎。",
       "keyPoints": [
-        "特朗普威胁\"摧毁\"伊朗，财政部制裁涉嫌资助者",
-        "德克萨斯州成立交易所挑战华尔街双头垄断",
-        "苹果指控OpenAI窃取商业机密"
+        "美伊霍尔木兹海峡对峙导致油价大涨",
+        "纳斯达克指数下跌，SK海力士受AI疑虑拖累",
+        "英特尔投资渐获回报"
       ],
       "news": [
         {
-          "title": "特朗普威胁摧毁伊朗，财政部制裁资助者",
-          "summary": "地缘政治风险升温影响全球市场情绪",
+          "title": "油价因中东局势飙升",
+          "summary": "特朗普誓言重启伊朗封锁，期货市场应声下跌",
           "keyInsights": [
-            "中东局势再度紧张",
-            "避险情绪可能升温"
+            "能源板块成避险方向",
+            "通胀压力或卷土重来"
           ]
         },
         {
-          "title": "华盛顿对英特尔的押注开始获得回报",
-          "summary": "英特尔获得政府支持，初见成效",
+          "title": "苹果指控OpenAI窃取商业机密",
+          "summary": "华盛顿对华尔街交易所双头垄断发起挑战",
           "keyInsights": [
-            "芯片国产化政策见效"
-          ]
-        },
-        {
-          "title": "德克萨斯州成立交易所挑战华尔街",
-          "summary": "IPO淘金热加剧，州际金融竞争升级",
-          "keyInsights": [
-            "金融中心格局或生变"
+            "AI知识产权纠纷升级",
+            "反垄断行动向金融领域延伸"
           ]
         }
       ],
@@ -67,32 +62,19 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "AI技术显著延长电池寿命，比亚迪进入英国市场，Rivian生产爬坡推进。",
+      "categorySummary": "中国车企加速全球化布局，自动驾驶技术持续迭代。",
       "keyPoints": [
-        "AI可将电动汽车电池寿命延长23%",
-        "BYD DOLPHIN G DM-i英国起售价£23,990",
-        "蔚来计划新开约80家多品牌门店"
+        "比亚迪插混车型登陆英国，起价约24万人民币",
+        "蔚来计划下半年开设约80家多品牌门店",
+        "特斯拉FSD向无人驾驶出租车形态演进"
       ],
       "news": [
         {
-          "title": "查尔默斯研究：AI可延长电池寿命23%",
-          "summary": "瑞典研究证明AI优化对电池循环寿命的显著提升",
+          "title": "中国电池新规将重塑行业",
+          "summary": " Rivian将推宠物摄像头和路线规划升级",
           "keyInsights": [
-            "AI赋能成电池技术突破方向"
-          ]
-        },
-        {
-          "title": "特斯拉FSD演变为事实上的自动驾驶出租车",
-          "summary": "FSD技术正在重塑出行服务格局",
-          "keyInsights": [
-            "自动驾驶商业化加速"
-          ]
-        },
-        {
-          "title": "Rivian R2生产爬坡持续推进",
-          "summary": "VIN编码已超2,820个，产能稳步提升",
-          "keyInsights": [
-            "入门级车型有���提振销量"
+            "中国法规变动影响全球供应链",
+            "智能化成差异化竞争关键"
           ]
         }
       ],
@@ -101,19 +83,19 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra与Rubin AI芯片，横向堆叠技术为AI提供更多内存。",
+      "categorySummary": "英伟达持续领跑AI芯片赛道，新一代架构全面亮相。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Rubin AI芯片",
-        "横向堆叠芯片技术为AI提供更多内存",
-        "AI工厂时代芯片需求激增"
+        "Blackwell Ultra和Vera Rubin双芯发布",
+        "GTC大会成为AI芯片行业风向标",
+        "算力军备竞赛仍在升级"
       ],
       "news": [
         {
-          "title": "NVIDIA Blackwell Ultra与Vera Rubin AI芯片发布",
-          "summary": "年度GTC大会发布新一代AI芯片",
+          "title": "英伟达GTC大会发布新芯片",
+          "summary": "Blackwell系列再添Ultra与Rubin两款重磅产品",
           "keyInsights": [
-            "算力军备竞赛持续",
-            "AI基础设施投入加码"
+            "CEO黄仁勋强调AI基础设施战略",
+            "算力需求未见顶"
           ]
         }
       ],
@@ -122,26 +104,19 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发式增长，FDA恢复公布拒绝函，生物仿制药市场面临挑战。",
+      "categorySummary": "GLP-1减肥���市场持续爆发，制药巨头加速布局。",
       "keyPoints": [
-        "GLP-1减肥药市场2024年达138亿美元，预计2030年增至488亿美元",
-        "14种新型减肥药物正在研发",
-        "FDA恢复公布制药企业拒绝函"
+        "2035年全球减肥药市场规模预计达1500亿美元",
+        "Ozempic、Wegovy、Mounjaro占据主要份额",
+        "GLP-1骨骼研究揭示真实世界匹配重要性"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂市场爆发式增长",
-          "summary": "复合年增长率18.5%，诺和诺德、礼来主导市场",
+          "title": "减肥药产业规模预测",
+          "summary": "四大药企垄断格局初成，中国市场潜力巨大",
           "keyInsights": [
-            "减重市场成新蓝海",
-            "竞争格��尚未固化"
-          ]
-        },
-        {
-          "title": "FDA恢复公布拒绝函，发布14封新CRL",
-          "summary": "监管透明度提升，行业规范化加强",
-          "keyInsights": [
-            "审批监管趋严"
+            "适应症扩展驱动增长",
+            "生物类似药竞争加剧"
           ]
         }
       ],
@@ -150,18 +125,19 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro配色曝光，苹果与安卓阵营持续推新，竞争激烈。",
+      "categorySummary": "iPhone产品周期临近更新，设计与定价传闻升温。",
       "keyPoints": [
-        "iPhone 18 Pro将推Cosmic Orange新配色",
-        "iPhone 17系列持续热销",
-        "Redmi Note 17系列即将发布"
+        "iPhone 18 Pro或涨价200美元",
+        "可变光圈相机模组确认",
+        "Dark Cherry新配色取代宇宙橙"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro配色与规格曝光",
-          "summary": "Cosmic Orange和Dark Cherry或成新热门配色",
+          "title": "苹果新掌门或将带来设计变革",
+          "summary": "John Ternus上任前市场期待大胆创新",
           "keyInsights": [
-            "苹果创新放缓但持续深耕高端"
+            "AI功能或成最大变量",
+            "涨价策略风险上升"
           ]
         }
       ],
@@ -170,25 +146,19 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏发展停滞引发担忧，Xbox关停风波持续，任天堂Switch 2硬件变更，索尼新掌机曝光。",
+      "categorySummary": "AAA游戏行业陷入困境，主机厂商联合推进安全承诺。",
       "keyPoints": [
-        "玩家认为AAA游戏发展停滞",
-        "Xbox重组风波持续，关停工作室引发争议",
-        "索尼预告新掌机，任天堂Switch 2硬件升级"
+        "AAA游戏停滞不���，Epic CEO形容为海啸",
+        "前Nexon CEO称AAA游戏行业正在消亡",
+        "Xbox、索尼、任天堂联合更新安全游戏承诺"
       ],
       "news": [
         {
-          "title": "Epic CEO称AAA游戏行业面临困境",
-          "summary": "行业变革浪潮正在席卷",
+          "title": "AAA游戏行业危机",
+          "summary": "大作口碑滑坡，玩家信心不足",
           "keyInsights": [
-            "游戏开发成本与回报失衡"
-          ]
-        },
-        {
-          "title": "Xbox关停风波与索尼新掌机",
-          "summary": "主机市场格局面临重塑",
-          "keyInsights": [
-            "掌机或成新增长点"
+            "开发成本与质量失衡",
+            "独立游戏或迎来机遇"
           ]
         }
       ],
@@ -197,18 +167,19 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "欧洲2000亿欧元投资电动汽车，纽约太阳能装机突破8吉瓦，绿色氢能成转型关键。",
+      "categorySummary": "清洁能源持续扩张，氢储能技术走向成熟。",
       "keyPoints": [
-        "欧洲投资2000亿欧元发展电动汽车",
-        "纽约分布式太阳能装机容量突破8吉瓦",
-        "绿色氢能电池储能技术持续发展"
+        "中国西北风电光伏基地建设提速",
+        "绿色氢能成为储能重要方向",
+        "核能与可再生能源并列优先发展"
       ],
       "news": [
         {
-          "title": "欧洲大规模投资电动汽车产业",
-          "summary": "清洁能源转型投资加码",
+          "title": "中国清洁能源扩张计划",
+          "summary": "国务院新规划将核能与可再生能列为优先",
           "keyInsights": [
-            "欧洲汽车电动化加速"
+            "能源转型加速",
+            "储能瓶颈待突破"
           ]
         }
       ],
