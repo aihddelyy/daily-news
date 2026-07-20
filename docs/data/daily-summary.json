@@ -1,28 +1,35 @@
 {
-  "date": "2026-07-20",
-  "overallSummary": "AI监管收紧与联盟化并行推进，科技巨头面临反垄断审视；电动车市场增速放缓但AI赋能电池技术突破；减肥药市场资本加速布局。",
+  "date": "2026-07-21",
+  "overallSummary": "监管机构加强对AI巨头反垄断审查，多家科技公司遭调查；英伟达发布新一代Blackwell Ultra和Rubin芯片；GLP-1减肥药市场规模预计翻倍增长。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI领域反垄断调查启动，巨头联盟化趋势加速。",
+      "categorySummary": "美国参议员和FTC加强对AI行业反垄断监管，多家头部AI企业成为调查目标。",
       "keyPoints": [
-        "美国参议员启动对科技巨头与AI公司合作关系的反垄断调查",
-        "微软与OpenAI重组为Anthropic和Google合作打开大门",
-        "四大AI巨头组建Agentic AI联盟"
+        "参议员就反垄断问题调查Google-Anthropic、Microsoft-OpenAI交易",
+        "微软同时与Anthropic、谷歌、OpenAI和xAI建立合作伙伴关系",
+        "FTC对微软、OpenAI、谷歌、亚马逊和Anthropic展开AI调查"
       ],
       "news": [
         {
-          "title": "沃伦、怀登启动对谷歌、微软与Anthropic、OpenAI合作关系的调查",
-          "summary": "担忧AI领域企业合作行为抑制竞争、规避反垄断法。",
+          "title": "参议员就反垄断担忧调查谷歌-Anthropic、微软-OpenAI交易",
+          "summary": "民主党参议员就AI领域大型交易的反垄断问题展开调查。",
           "keyInsights": [
-            "政府监管介入AI领域合作"
+            "监管层开始关注AI领域的市场集中度问题"
           ]
         },
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手组建Agentic AI联盟",
-          "summary": "四大AI巨头联合组建行业联盟。",
+          "title": "微软宣布与Anthropic、谷歌、OpenAI和xAI建立合作伙伴关系",
+          "summary": "微软与多家AI头部企业达成合作，覆盖多个AI领域。",
           "keyInsights": [
-            "AI产业联盟化趋势明显"
+            "微软构建多元化AI合作伙伴网络"
+          ]
+        },
+        {
+          "title": "FTC对五大AI公司展开调查",
+          "summary": "联邦贸易委员会针对微软、OpenAI、谷歌、亚马逊、Anthropic启动AI专项调查。",
+          "keyInsights": [
+            "美国监管机构对AI行业竞争状况进行全面评估"
           ]
         }
       ],
@@ -30,73 +37,26 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "并购与IPO活跃，地缘政治影响市场。",
-      "keyPoints": [
-        "PayPal收到530亿美元收购要约",
-        "AI芯片初创公司Etched谈判200亿美元估值",
-        "Netflix股价下跌，两名美国军人在约旦遇害"
-      ],
-      "news": [
-        {
-          "title": "PayPal董事会收到530亿美元收购要约",
-          "summary": "金融市场再现大型收购案。",
-          "keyInsights": [
-            "金融科技整合加速"
-          ]
-        },
-        {
-          "title": "AI芯片初创公司Etched正就200亿美元估值进行谈判",
-          "summary": "AI芯片赛道估值持续攀升。",
-          "keyInsights": [
-            "AI基础设施投资热潮"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "EV市场增速放缓，AI技术赋能电��续航。",
-      "keyPoints": [
-        "欧洲5月EV注册量下降0.7%，预测2026年市场份额为6.8%",
-        "AI可将电动汽车电池寿命延长23%",
-        "特斯拉FSD v14版本开放测试"
-      ],
-      "news": [
-        {
-          "title": "Rivian因颜色错误取消R2交付，蔚来首次关闭欧洲旗舰展厅",
-          "summary": "车企面临供应链与市场双重挑战。",
-          "keyInsights": [
-            "新能源车企运营承压"
-          ]
-        },
-        {
-          "title": "人工智能可将电动汽车电池寿命延长23%",
-          "summary": "查尔姆斯大学研究表明AI优化电池管理。",
-          "keyInsights": [
-            "AI赋能电池技术突破"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell新架构，芯片性能升级。",
+      "categorySummary": "英伟达发布Blackwell Ultra和下一代Vera Rubin芯片，AI芯片进入新一轮升级周期。",
       "keyPoints": [
-        "英伟达发布Blackwell GPU架构",
-        "横向堆叠芯片为AI提供更多内存",
-        "AI芯片竞争持续升级"
+        "英伟达Blackwell平台正式发布，全面投产",
+        "Blackwell Ultra系列将于今年晚些时候出货",
+        "下一代Vera Rubin GPU发布，性能大幅提升"
       ],
       "news": [
         {
-          "title": "NVIDIA Blackwell平台到来，赋能计算新纪元",
-          "summary": "Blackwell平台支持实时生成式AI处理万亿参数。",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "Jensen Huang发布Blackwell Ultra和Vera Rubin两款新一代AI芯片。",
           "keyInsights": [
-            "AI算力持续突破"
+            "英伟达加速AI芯片迭代节奏"
+          ]
+        },
+        {
+          "title": "NVIDIA Blackwell架构全面投产",
+          "summary": "Blackwell架构作为AI工厂引擎已实现大规模量产。",
+          "keyInsights": [
+            "生成式AI算力基础设施持续扩展"
           ]
         }
       ],
@@ -105,25 +65,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发，新药研发加速。",
+      "categorySummary": "GLP-1减肥药市场高速增长，诺华新药获FDA批准，GSK搁置部分研发项目。",
       "keyPoints": [
-        "GLP-1市场预计2026年达275亿美元，2030年488亿美元",
-        "新药CagriSema和retatrutide比Wegovy和Zepbound更强效",
-        "Thermo与Datavant联盟简化临床试验数据"
+        "GLP-1减肥药市场2026年预计达275亿美元，2030年增至488亿美元",
+        "诺华Fabhalta获FDA传统批准用于原发性疾病",
+        "GSK搁置20亿美元收购的咳嗽药物项目"
       ],
       "news": [
         {
-          "title": "新型GLP-1减肥药物即将问世——比Wegovy和Zepbound更强效",
-          "summary": "CagriSema和retatrutide靶向多种肠道激素。",
+          "title": "GLP-1受体激动剂减肥药物市场快速增长",
+          "summary": "市场规模将从2026年275亿美元增长至2030年488亿美元，CAGR 18.5%。",
           "keyInsights": [
-            "减肥药迭代升级"
+            "代谢类药物赛道持续高景气"
           ]
         },
         {
-          "title": "GLP-1受体激动剂减肥药物市场2025-2030年预测",
-          "summary": "复合年增长率18.5%。",
+          "title": "诺华新药Fabhalta获FDA批准",
+          "summary": "FDA授予诺华Fabhalta传统批准用于减缓原发性疾病进展。",
           "keyInsights": [
-            "减肥药赛道高成长"
+            "罕见病药物领域取得新进展"
+          ]
+        },
+        {
+          "title": "GSK搁置20亿美元咳嗽药物收购项目",
+          "summary": "GSK搁置高价收购的咳嗽药物Camlipixant。",
+          "keyInsights": [
+            "大型药企重新评估产品管线优先级"
           ]
         }
       ],
@@ -131,19 +98,60 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "市场跌至13年Q2最低，AI手机转型中。",
+      "name": "汽车出行",
+      "categorySummary": "电动汽车市场出现回暖迹象，特斯拉FSD v14持续迭代，中国品牌交付量创新高。",
       "keyPoints": [
-        "智能手机市场跌至13年来Q2最低水平",
-        "iPhone 18传言：折叠屏、可变光圈摄像头",
-        "AI内存战争淘汰平价机型"
+        "电动汽车注册量5月下降0.7%，但为8个月来最佳表现",
+        "特斯拉FSD v14进行200公里实测测试",
+        "Onvo L90交付量突破6万辆"
       ],
       "news": [
         {
-          "title": "iPhone 18：我们对苹果即将推出的手机所了解的一切",
-          "summary": "折叠屏、可变光���摄像头、更大内存。",
+          "title": "特斯拉FSD v14版本实测超200公里",
+          "summary": "特斯拉全自动驾驶监督版v14更新完成长距离实测。",
           "keyInsights": [
-            "苹果旗舰机重大升级"
+            "FSD技术持续迭代，用户体验优化中"
+          ]
+        },
+        {
+          "title": "Onvo L90交付量突破6万辆",
+          "summary": "中国电动车品牌Onvo加速焕新版车型交付节奏。",
+          "keyInsights": [
+            "中国新能源品牌交付能力持续提升"
+          ]
+        },
+        {
+          "title": "Rivian R1S碰撞安全测试通过",
+          "summary": "Rivian R1S在62mph碰撞测试中表现优异，毫发无损。",
+          "keyInsights": [
+            "电动车安全性能持续验证"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "智能手机",
+      "categorySummary": "三星Galaxy Z Fold 8采用钛金属设计，iPhone 18系列配置信息逐步曝光。",
+      "keyPoints": [
+        "三星Galaxy Z Fold 8采用钛金属显示屏框架",
+        "iPhone 18 Pro可能涨价200美元",
+        "iPhone 18传闻配备可变光圈摄像头"
+      ],
+      "news": [
+        {
+          "title": "三星Galaxy Z Fold 8采用钛金属设计",
+          "summary": "三星在折叠屏手机中用钛金属替换聚合物薄膜，实现首次显示屏堆叠升级。",
+          "keyInsights": [
+            "折叠屏手机材料升级趋势明显"
+          ]
+        },
+        {
+          "title": "iPhone 18 Pro配置与涨价传闻",
+          "summary": "iPhone 18 Pro或涨价200美元，配备全新可变光圈摄像头和电池续航提升。",
+          "keyInsights": [
+            "苹果下一代旗舰手机可能大幅升级但价格上调"
           ]
         }
       ],
@@ -152,18 +160,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临危机，行业寻求转型。",
+      "categorySummary": "AAA游戏行业面临挑战，多家游戏厂商寻求转型；Xbox发布主机重大更新。",
       "keyPoints": [
-        "Epic CEO Sweeney称AAA游戏产业正经历海啸般危机",
-        "Xbox与任天堂和索尼更新安全游戏承诺",
-        "名人驱动的游戏联盟签约六家AAA厂商"
+        "前Nexon CEO认��AAA游戏行业正在消亡",
+        "Epic CEO Tim Sweeney认同行业存在问题",
+        "Xbox发布新主机更新带来全面改进"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏产业正在消亡",
-          "summary": "2024-2025年AAA作品大失所望。",
+          "title": "AAA游戏行业面临生存危机",
+          "summary": "2024-2025年大量AAA游戏表现令人失望，前Nexon CEO发出行业预警。",
           "keyInsights": [
-            "游戏产业面临内容危机"
+            "游戏行业高成本模式遭遇挑战"
+          ]
+        },
+        {
+          "title": "Xbox发布重大主机更新",
+          "summary": "Xbox为其游戏主机推送重大更新，带来海量改动与优化。",
+          "keyInsights": [
+            "主机平台持续优化用户体验"
           ]
         }
       ],
@@ -171,26 +186,53 @@
       "icon": "🎮"
     },
     {
-      "name": "环保能源",
-      "categorySummary": "可再生能源超越电力需求，欧洲大规模投资。",
+      "name": "商业财经",
+      "categorySummary": "美股开局上涨，散户投资者转向新AI投资标的；ASML受益于AI芯片热潮。",
       "keyPoints": [
-        "可再生能源超越全球电力需求",
-        "欧洲投资2000亿欧元于电动汽车",
-        "绿色氢能作为储能解决方案备受关注"
+        "标普500和纳斯达克指数本周上涨",
+        "散户投资者抛弃科技七巨头，转投新AI宠儿",
+        "全球AI热潮推动ASML等芯片股上涨"
       ],
       "news": [
         {
-          "title": "风力和太阳能如何引领清洁能源的未来",
-          "summary": "美国最大风电项目建设中。",
+          "title": "散户投资者转向AI新标的",
+          "summary": "曾追随科技七巨头的散户投资者开始转投新兴AI概念股。",
           "keyInsights": [
-            "清洁能源加速替代"
+            "AI投资主线扩散，资金寻找新标的"
           ]
         },
         {
-          "title": "电池与充���：为什么欧洲投资2000亿欧元于电动汽车",
-          "summary": "欧洲加码电动化转型。",
+          "title": "全球AI热潮推动ASML上涨",
+          "summary": "AI芯片需求旺盛带动半导体设备供应商ASML业绩增长。",
           "keyInsights": [
-            "欧洲能源转型加速"
+            "AI产业链上游设备商持续受益"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "环保能源",
+      "categorySummary": "全球清洁能源持续增长，电池储能与氢能结合成为研究热点，中国风电规模领先。",
+      "keyPoints": [
+        "美国太阳能和风能发电容量已增长近三倍",
+        "中国风电项目规模占全球近三分之一",
+        "电池储能与氢能结合可实现低成本清洁能源转型"
+      ],
+      "news": [
+        {
+          "title": "清洁能源装机容量快速增长",
+          "summary": "2024年美国太阳能和风能发电容量增长近三倍，中国风电规模领先全球。",
+          "keyInsights": [
+            "全球清洁能源转型加速"
+          ]
+        },
+        {
+          "title": "电池与氢能储能结合研究",
+          "summary": "研究显示电池储能和氢燃料电池结合可低成本高可靠地实现100%清洁电网。",
+          "keyInsights": [
+            "混合储能技术路径获得验证"
           ]
         }
       ],
