@@ -1,62 +1,121 @@
 {
-  "date": "2026-07-21",
-  "overallSummary": "监管机构加强对AI巨头反垄断审查，多家科技公司遭调查；英伟达发布新一代Blackwell Ultra和Rubin芯片；GLP-1减肥药市场规模预计翻倍增长。",
+  "date": "2026年7月22日星期三",
+  "overallSummary": "AI领域竞争加剧，中国进展引发美国担忧并可能触发制裁；减肥药市场蓬勃发展，2030年预计近500亿美元；游戏产业面临重大调整。",
   "categories": [
     {
-      "name": "AI行业动态",
-      "categorySummary": "美国参议员和FTC加强对AI行业反垄断监管，多家头部AI企业成为调查目标。",
+      "name": "AI行业",
+      "categorySummary": "AI监管与竞争升级，美国对科技巨头展开反垄断调查，中国AI进展引发担忧。",
       "keyPoints": [
-        "参议员就反垄断问题调查Google-Anthropic、Microsoft-OpenAI交易",
-        "微软同时与Anthropic、谷歌、OpenAI和xAI建立合作伙伴关系",
-        "FTC对微软、OpenAI、谷歌、亚马逊和Anthropic展开AI调查"
+        "美国官员担忧中国AI进展",
+        "沃伦等对谷歌、微软展开反垄断调查",
+        "微软谷歌争相追赶AI编程工具"
       ],
       "news": [
         {
-          "title": "参议员就反垄断担忧调查谷歌-Anthropic、微软-OpenAI交易",
-          "summary": "民主党参议员就AI领域大型交易的反垄断问题展开调查。",
+          "title": "沃伦、威登对谷歌、微软展开调查",
+          "summary": "担忧AI合作抑制竞争、规���反垄断法",
           "keyInsights": [
-            "监管层开始关注AI领域的市场集中度问题"
+            "企业AI合作关系面临监管压力"
           ]
         },
         {
-          "title": "微软宣布与Anthropic、谷歌、OpenAI和xAI建立合作伙伴关系",
-          "summary": "微软与多家AI头部企业达成合作，覆盖多个AI领域。",
+          "title": "微软Google在AI编程领域已落后",
+          "summary": "编程工具成重要目标，需追赶Anthropic",
           "keyInsights": [
-            "微软构建多元化AI合作伙伴网络"
+            "AI编程工具成科技巨头新战场"
           ]
         },
         {
-          "title": "FTC对五大AI公司展开调查",
-          "summary": "联邦贸易委员会针对微软、OpenAI、谷歌、亚马逊、Anthropic启动AI专项调查。",
+          "title": "中国顶级AI活动展示实力",
+          "summary": "中国AI进展令美国官员担忧",
           "keyInsights": [
-            "美国监管机构对AI行业竞争状况进行全面评估"
+            "中美AI竞争加剧"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "美可能因AI模型窃取制裁中国，芯片股领涨全球市场，英国新首相上任。",
+      "keyPoints": [
+        "贝森特称美可能因AI模型窃取制裁中国",
+        "芯片股引领美国期货上涨",
+        "伯纳姆成为英国新首相"
+      ],
+      "news": [
+        {
+          "title": "波音CEO谈财务状况",
+          "summary": "波音高管讨论公司财务现状",
+          "keyInsights": [
+            "航空航天业面临挑战"
+          ]
+        },
+        {
+          "title": "西班牙夺得世界杯冠军",
+          "summary": "西班牙队获得世界杯冠军",
+          "keyInsights": [
+            "体育界重大事件"
           ]
         }
       ],
-      "id": "ai_industry",
-      "icon": "🧠"
+      "id": "business_finance",
+      "icon": "📊"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和下一代Vera Rubin芯片，AI芯片进入新一轮升级周期。",
+      "name": "汽车出行",
+      "categorySummary": "欧洲电动车销量飙升，特斯拉FSD持续迭代，OpenAI挖角小鹏AI负责人。",
       "keyPoints": [
-        "英伟达Blackwell平台正式发布，全面投产",
-        "Blackwell Ultra系列将于今年晚些时候出货",
-        "下一代Vera Rubin GPU发布，性能大幅提升"
+        "欧洲6月电动车销量飙升52%",
+        "OpenAI挖角小鹏AI基础设施负责人",
+        "特斯拉FSD v14更新发布"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "Jensen Huang发布Blackwell Ultra和Vera Rubin两款新一代AI芯片。",
+          "title": "欧洲6月电动车销量飙升52%",
+          "summary": "Model Y、Model 3引领欧洲市场",
           "keyInsights": [
-            "英伟达加速AI芯片迭代节奏"
+            "特斯拉主导欧洲电动车市场"
           ]
         },
         {
-          "title": "NVIDIA Blackwell架构全面投产",
-          "summary": "Blackwell架构作为AI工厂引擎已实现大规模量产。",
+          "title": "Rivian削减库存价格",
+          "summary": "2027款发布前Rivian降价促销",
           "keyInsights": [
-            "生成式AI算力基础设施持续扩展"
+            "电动车企价格战持续"
+          ]
+        },
+        {
+          "title": "特斯拉FSD v14实测",
+          "summary": "200公里测试体验令人震惊",
+          "keyInsights": [
+            "特斯拉自动驾驶持续进化"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "NVIDIA与日本合作推进AI与机器人技术，三星美国投资增至2650亿美元。",
+      "keyPoints": [
+        "NVIDIA与日本合作推进全栈AI",
+        "三星美国投资承诺提高至2650亿美元",
+        "NVIDIA发布RTX 5090显卡"
+      ],
+      "news": [
+        {
+          "title": "NVIDIA与日本合作",
+          "summary": "携手推动AI与机器人技术",
+          "keyInsights": [
+            "日本成为AI产业重要伙伴"
+          ]
+        },
+        {
+          "title": "NVIDIA RTX 5090发布",
+          "summary": "搭载光线追踪和DLSS 4.5",
+          "keyInsights": [
+            "消费级GPU性能再突破"
           ]
         }
       ],
@@ -65,32 +124,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场高速增长，诺华新药获FDA批准，GSK搁置部分研发项目。",
+      "categorySummary": "GLP-1减肥药市场爆发式增长，2030年预计达488亿美元，2034年或超1800亿美元。",
       "keyPoints": [
-        "GLP-1减肥药市场2026年预计达275亿美元，2030年增至488亿美元",
-        "诺华Fabhalta获FDA传统批准用于原发性疾病",
-        "GSK搁置20亿美元收购的咳嗽药物项目"
+        "GLP-1市场2024年估138亿美元",
+        "2030年预计增至488亿美元",
+        "2035年全球市场将达1500亿美元"
       ],
       "news": [
         {
-          "title": "GLP-1受体激动剂减肥药物市场快速增长",
-          "summary": "市场规模将从2026年275亿美元增长至2030年488亿美元，CAGR 18.5%。",
+          "title": "减肥药市场蓬勃发展",
+          "summary": "全球市场到2035年将突破1500亿美元",
           "keyInsights": [
-            "代谢类药物赛道持续高景气"
+            "代谢疾病治疗成为制药业焦点"
           ]
         },
         {
-          "title": "诺华新药Fabhalta获FDA批准",
-          "summary": "FDA授予诺华Fabhalta传统批准用于减缓原发性疾病进展。",
+          "title": "GLP-1市场未来展望",
+          "summary": "2034年规模预计达1800亿美元",
           "keyInsights": [
-            "罕见病药物领域取得新进展"
-          ]
-        },
-        {
-          "title": "GSK搁置20亿美元咳嗽药物收购项目",
-          "summary": "GSK搁置高价收购的咳嗽药物Camlipixant。",
-          "keyInsights": [
-            "大型药企重新评估产品管线优先级"
+            "减肥药革命持续进行"
           ]
         }
       ],
@@ -98,60 +150,26 @@
       "icon": "🧬"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车市场出现回暖迹象，特斯拉FSD v14持续迭代，中国品牌交付量创新高。",
-      "keyPoints": [
-        "电动汽车注册量5月下降0.7%，但为8个月来最佳表现",
-        "特斯拉FSD v14进行200公里实测测试",
-        "Onvo L90交付量突破6万辆"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14版本实测超200公里",
-          "summary": "特斯拉全自动驾驶监督版v14更新完成长距离实测。",
-          "keyInsights": [
-            "FSD技术持续迭代，用户体验优化中"
-          ]
-        },
-        {
-          "title": "Onvo L90交付量突破6万辆",
-          "summary": "中国电动车品牌Onvo加速焕新版车型交付节奏。",
-          "keyInsights": [
-            "中国新能源品牌交付能力持续提升"
-          ]
-        },
-        {
-          "title": "Rivian R1S碰撞安全测试通过",
-          "summary": "Rivian R1S在62mph碰撞测试中表现优异，毫发无损。",
-          "keyInsights": [
-            "电动车安全性能持续验证"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "智能手机",
-      "categorySummary": "三星Galaxy Z Fold 8采用钛金属设计，iPhone 18系列配置信息逐步曝光。",
+      "categorySummary": "iPhone 18传闻四起， Ultra版本或将亮相；小米18系列9月发布。",
       "keyPoints": [
-        "三星Galaxy Z Fold 8采用钛金属显示屏框架",
-        "iPhone 18 Pro可能涨价200美元",
-        "iPhone 18传闻配备可变光圈摄像头"
+        "iPhone 18或有Ultra可折叠版本",
+        "小米18系列预计9月发布",
+        "Oppo停止在欧美推出OnePlus新机"
       ],
       "news": [
         {
-          "title": "三星Galaxy Z Fold 8采用钛金属设计",
-          "summary": "三星在折叠屏手机中用钛金属替换聚合物薄膜，实现首次显示屏堆叠升级。",
+          "title": "iPhone 18传闻曝光",
+          "summary": "可折叠设计、可变光圈、续航提升",
           "keyInsights": [
-            "折叠屏手机材料升级趋势明显"
+            "苹果首款折叠屏手机或明年登场"
           ]
         },
         {
-          "title": "iPhone 18 Pro配置与涨价传闻",
-          "summary": "iPhone 18 Pro或涨价200美元，配备全新可变光圈摄像头和电池续航提升。",
+          "title": "小米18系列9月发布",
+          "summary": "不推出Ultra版本，共三款机型",
           "keyInsights": [
-            "苹果下一代旗舰手机可能大幅升级但价格上调"
+            "国产旗舰机持续发力"
           ]
         }
       ],
@@ -160,25 +178,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临挑战，多家游戏厂商寻求转型；Xbox发布主机重大更新。",
+      "categorySummary": "AAA游戏行业陷入困境， Epic CEO形容如海啸席卷；Xbox持续调整，任天堂修复Switch问题。",
       "keyPoints": [
-        "前Nexon CEO认��AAA游戏行业正在消亡",
-        "Epic CEO Tim Sweeney认同行业存在问题",
-        "Xbox发布新主机更新带来全面改进"
+        "Epic CEO称AAA游戏如海啸席卷",
+        "前Nexon CEO认为AAA游戏正消亡",
+        "Xbox任天堂合作推进游戏安全承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏行业面临生存危机",
-          "summary": "2024-2025年大量AAA游戏表现令人失望，前Nexon CEO发出行业预警。",
+          "title": "AAA游戏行业危机",
+          "summary": "大量2024-25年AAA游戏令人失望",
           "keyInsights": [
-            "游戏行业高成本模式遭遇挑战"
+            "游戏行业面临重大转型"
           ]
         },
         {
-          "title": "Xbox发布重大主机更新",
-          "summary": "Xbox为其游戏主机推送重大更新，带来海量改动与优化。",
+          "title": "任天堂修复Switch问题",
+          "summary": "突然推送更新解决重大问题",
           "keyInsights": [
-            "主机平台持续优化用户体验"
+            "Switch 2硬件变更持续公布"
           ]
         }
       ],
@@ -186,53 +204,26 @@
       "icon": "🎮"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "美股开局上涨，散户投资者转向新AI投资标的；ASML受益于AI芯片热潮。",
-      "keyPoints": [
-        "标普500和纳斯达克指数本周上涨",
-        "散户投资者抛弃科技七巨头，转投新AI宠儿",
-        "全球AI热潮推动ASML等芯片股上涨"
-      ],
-      "news": [
-        {
-          "title": "散户投资者转向AI新标的",
-          "summary": "曾追随科技七巨头的散户投资者开始转投新兴AI概念股。",
-          "keyInsights": [
-            "AI投资主线扩散，资金寻找新标的"
-          ]
-        },
-        {
-          "title": "全球AI热潮推动ASML上涨",
-          "summary": "AI芯片需求旺盛带动半导体设备供应商ASML业绩增长。",
-          "keyInsights": [
-            "AI产业链上游设备商持续受益"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "环保能源",
-      "categorySummary": "全球清洁能源持续增长，电池储能与氢能结合成为研究热点，中国风电规模领先。",
+      "categorySummary": "全球清洁能源快速发展，中国风力涡轮机超12万台，太阳能发电设施达150万英亩。",
       "keyPoints": [
-        "美国太阳能和风能发电容量已增长近三倍",
-        "中国风电项目规模占全球近三分之一",
-        "电池储能与氢能结合可实现低成本清洁能源转型"
+        "中国风力涡轮机超12万台",
+        "全球太阳能蓬勃发展",
+        "清洁能源超越电力需求"
       ],
       "news": [
         {
-          "title": "清洁能源装机容量快速增长",
-          "summary": "2024年美国太阳能和风能发电容量增长近三倍，中国风电规模领先全球。",
+          "title": "太空视角看清洁能源崛起",
+          "summary": "中国太阳能发电设施达150万英亩",
           "keyInsights": [
-            "全球清洁能源转型加速"
+            "清洁能源建设规模惊人"
           ]
         },
         {
-          "title": "电池与氢能储能结合研究",
-          "summary": "研究显示电池储能和氢燃料电池结合可低成本高可靠地实现100%清洁电网。",
+          "title": "风能太阳能引领未来",
+          "summary": "美国最大风电项目在建",
           "keyInsights": [
-            "混合储能技术路径获得验证"
+            "可再生能源成全球趋势"
           ]
         }
       ],
