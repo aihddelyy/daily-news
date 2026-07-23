@@ -1,35 +1,35 @@
 {
-  "date": "2026-07-23",
-  "overallSummary": "AI领域反垄断调查升温，科技巨头联手应对竞争；GLP-1减肥药市场持续供不应求，中东局势推升油价冲击全球经济。",
+  "date": "2026年7月24日",
+  "overallSummary": "AI行业监管收紧、巨头联盟频现；新能源与半导体持续高速增长；游戏业面临结构性挑战。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "监管层对AI领域企业合作关系的反垄断审查趋严，谷歌与微软联手反击初创公司竞争。",
+      "categorySummary": "AI领域监管趋严，巨头间合作与竞争格局深度调整。",
       "keyPoints": [
-        "沃伦等议员对谷歌、微软AI合作展开反垄断调查",
-        "微软、谷歌加速布局AI编程工具追赶Anthropic/OpenAI",
-        "日本利用AI应对劳动力短缺困境"
+        "美国参议员对科技巨头与AI开发商合作展开反垄断调查",
+        "微软与OpenAI协议重写，开放与其他AI公司合作通道",
+        "四大AI公司联合成立Agentic AI联盟，制定开源标准"
       ],
       "news": [
         {
-          "title": "沃伦、威登对谷歌、微软展开调查",
-          "summary": "���忧AI领域企业合作关系抑制竞争、规避反垄断法。",
+          "title": "参议员沃伦、怀登就AI合作关系展开调查",
+          "summary": "担忧AI企业合作抑制竞��、规避反垄断法",
           "keyInsights": [
-            "AI领域合作关系面临反垄断审查风险"
+            "大型AI公司间的垂直整合可能损害市场竞争"
           ]
         },
         {
-          "title": "谷歌与微软联手反击Anthropic和OpenAI",
-          "summary": "两大科技巨头合作对抗AI初创公司挑战。",
+          "title": "微软OpenAI协议重写为Anthropic和Google开辟道路",
+          "summary": "微软与OpenAI关系调整，行业格局生变",
           "keyInsights": [
-            "传统科技巨头通过合作对抗新兴AI公司"
+            "AI领域竞争格局从封闭走向开放"
           ]
         },
         {
-          "title": "微软和谷歌在AI编程方面姗姗来迟",
-          "summary": "编程工具成科技巨头必争之地，落后于Anthropic。",
+          "title": "四大AI公司联合成立Agentic AI联盟",
+          "summary": "微软、谷歌、OpenAI和Anthropic联手制定AI智能体开源标准",
           "keyInsights": [
-            "AI编程工具市场成新增长点"
+            "AI行业走向标准化与生态整合"
           ]
         }
       ],
@@ -37,60 +37,40 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "标普500小幅上扬但中东局势推升油价突破4美元，重大并购交易受阻。",
-      "keyPoints": [
-        "伊朗战争升级导致油价突破每加仑4美元",
-        "普洛斯187亿美元收购英国塞格鲁提价9.5%",
-        "多项重大交易因监管限制受阻"
-      ],
-      "news": [
-        {
-          "title": "国际商务、世界新闻与全球股市",
-          "summary": "标普500小幅上扬，交易员关注油价上涨。",
-          "keyInsights": [
-            "市场关注地缘政治对能源价格影响"
-          ]
-        },
-        {
-          "title": "商业交易、并购",
-          "summary": "普洛斯187亿美元收购塞格鲁，提高报价9.5%。",
-          "keyInsights": [
-            "工业地产整合加速"
-          ]
-        },
-        {
-          "title": "商业",
-          "summary": "14天限制令禁止完成810亿美元交易，十多州挑战。",
-          "keyInsights": [
-            "大型并购面临严格监管审查"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "特斯拉经历艰难2025年后销量回升，FSD持续迭代，Lucid沙特市场受挫。",
+      "categorySummary": "车企调整全球布局应对贸易壁垒，AI赋能电池技术突破。",
       "keyPoints": [
-        "特斯拉2025年艰难开局后销量正在恢复",
-        "Lucid删除庆祝沙特电动车销量社交帖文",
-        "OpenAI挖走小鹏汽车AI基础设施负责人"
+        "车企通过调整生产基地规避欧盟关税",
+        "特斯拉Optimus机器人进入量产阶段",
+        "AI技术显著延长电动车电池寿命"
       ],
       "news": [
         {
-          "title": "InsideEVs | 电动汽车新闻",
-          "summary": "全新电动揽胜GT避开过多数字屏幕大问题。",
+          "title": "福特放弃西班牙工厂助力吉利规避欧盟关税",
+          "summary": "车企战略转移，欧盟关税倒逼产业格局调整",
           "keyInsights": [
-            "豪华电动车设计趋向简约"
+            "贸易壁垒加速全球汽车产业链重构"
           ]
         },
         {
-          "title": "EV | 电动汽车行业最新资讯",
-          "summary": "Lucid删除庆祝4年沙特电动车销量5000辆帖子。",
+          "title": "特斯拉Optimus���器人今年开始生产",
+          "summary": "特斯拉人形机器人进入量产，向研究院发送首批产品",
           "keyInsights": [
-            "Lucid沙特市场拓展遇阻"
+            "AI机器人从研发走向商业化应用"
+          ]
+        },
+        {
+          "title": "小鹏考虑在欧洲推出混合动力车型",
+          "summary": "继欧盟关税后，小鹏调整欧洲产品线策略",
+          "keyInsights": [
+            "中国车企灵活应对海外市场政策变化"
+          ]
+        },
+        {
+          "title": "AI可将电动汽车电池寿命延长23%",
+          "summary": "瑞典查尔默斯大学研究证实AI优化电池性能",
+          "keyInsights": [
+            "AI技术成为电池管理突破关键"
           ]
         }
       ],
@@ -98,65 +78,46 @@
       "icon": "🚗"
     },
     {
-      "name": "半导体��片",
-      "categorySummary": "英伟达Blackwell架构和CUDA生态巩固AI基础设施领先地位。",
+      "name": "半导体芯片",
+      "categorySummary": "AI芯片竞争加剧，全球半导体市场复苏强劲。",
       "keyPoints": [
-        "英伟达Blackwell架构维持AI基础设施受益地位",
-        "CUDA软件生态系统根深蒂固形成护城河",
-        "Blackwell Ultra芯片密度和性能显著提升"
+        "英伟达Blackwell新型芯片性能大幅提升",
+        "全球半导体销售额环比大幅增长",
+        "美国CHIPS法案持续推动本土产能"
       ],
       "news": [
         {
-          "title": "Nvidia：Blackwell、AI推理与CUDA维持增长态势",
-          "summary": "英伟达仍是AI基础设施建设主要受益者。",
+          "title": "英伟达Blackwell芯片加码AI竞争",
+          "summary": "Blackwell GPU架构发布，提升AI芯片产品线性能",
           "keyInsights": [
-            "AI芯片竞争格局稳定"
+            "英伟达持续领跑AI芯片市场"
           ]
         },
         {
-          "title": "深入解析 NVIDIA Blackwell Ultra",
-          "summary": "Blackwell Ultra密集型NVFP4计算能力显著提升。",
+          "title": "全球半导体销售额环比增长11%",
+          "summary": "4月销售额强劲反弹，行业景气度回升",
           "keyInsights": [
-            "AI芯片性能持续突破"
+            "AI需求驱动半导体行业加速增长"
           ]
         }
-      ]
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发式增长但产能严重不足，多家药企竞逐市场份额。",
+      "categorySummary": "基因疗法与GLP-1药物研发持续推进，治疗领域有新突破。",
       "keyPoints": [
-        "GLP-1减肥药市场2026年预计达275亿美元",
-        "礼来替尔泊肽和诺和诺德司美格鲁肽持续主导",
-        "分析师预计供应紧张将持续至2027年"
+        "基因疗法VY1706在tau蛋白降低方面效果显著",
+        "GLP-1药物用于减肥的临床应用持续扩展",
+        "精准医学与AI融合成为行业趋势"
       ],
       "news": [
         {
-          "title": "GLP-1激动剂减肥药物市场",
-          "summary": "��场规模从138亿美元增至2030年488亿美元，复合增长18.5%。",
+          "title": "Voyager基因疗法VY1706数据发布",
+          "summary": "tau沉默疗法在大脑关键区域将tau蛋白降低75%",
           "keyInsights": [
-            "减肥药市场高成长赛道"
-          ]
-        },
-        {
-          "title": "2026年减肥药供需现状",
-          "summary": "产能扩张难追需求，分析师称前所未有需求海啸。",
-          "keyInsights": [
-            "供不应求格局延续"
-          ]
-        },
-        {
-          "title": "Summit与Akesoivonescimab临床数据",
-          "summary": "双特异性抗体在非小细胞肺癌3期试验显示潜力。",
-          "keyInsights": [
-            "肺癌治疗新进展"
-          ]
-        },
-        {
-          "title": "GSK搁置20亿美元收购",
-          "summary": "GSK放弃20亿美元咳嗽药物收购交易。",
-          "keyInsights": [
-            "大型药企并购收缩"
+            "神经退行性疾病基因治疗取得突破"
           ]
         }
       ],
@@ -164,53 +125,33 @@
       "icon": "🧬"
     },
     {
-      "name": "智能手机",
-      "categorySummary": "苹果掌门人更替在即，iPhone 18传闻聚焦折叠屏等重大升级。",
-      "keyPoints": [
-        "John Ternus将执掌苹果迎来大胆设计革新",
-        "iPhone 18预计推折叠屏、可变光圈摄像头",
-        "iPhone 17系列即将发布配色多样"
-      ],
-      "news": [
-        {
-          "title": "iPhone 18：我们对苹果即将推出的手机所知的一切",
-          "summary": "暗示折叠屏、可变光圈摄像头、电池续航提升。",
-          "keyInsights": [
-            "iPhone迎重大设计革新"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
-    },
-    {
       "name": "游戏娱乐",
-      "categorySummary": "3A游戏产业陷困境，多位CEO公开表达悲观，任天堂Switch 2硬件变更受关注。",
+      "categorySummary": "AAA游戏业面临商业困境，行业转型探索中。",
       "keyPoints": [
-        "Epic CEO Sweeney称AAA游戏面临海啸般冲击",
-        "Xbox重组风波持续，任天堂公布Switch 2重大变更",
-        "索尼、微软、任天堂联合更新安全游戏承诺"
+        "Epic CEO称AAA游戏业务如海啸横扫",
+        "Xbox、任天堂、索尼联合推动游戏安全承诺",
+        "大型游戏开始效仿好莱坞商业策略"
       ],
       "news": [
         {
-          "title": "玩家认为3A游戏陷入停滞",
-          "summary": "报告证实AAA游戏处于停滞状态。",
+          "title": "Epic CEO Sweeney诊断AAA游戏困境",
+          "summary": "行���面临严峻挑战，增长模式难以为继",
           "keyInsights": [
-            "游戏产业面临结构性挑战"
+            "AAA游戏高成本模式面临生存危机"
           ]
         },
         {
-          "title": "Epic CEO Tim Sweeney诊断行业困境",
-          "summary": "称AAA游戏行业面临海啸般冲击。",
+          "title": "Xbox与索尼任天堂合作安全游戏承诺",
+          "summary": "三大主机平台联合制定行业安全标准",
           "keyInsights": [
-            "游戏巨头对行业前景担忧"
+            "游戏行业加强内容安全与用户保护"
           ]
         },
         {
-          "title": "Xbox携手任天堂和索尼更新安全游戏承诺",
-          "summary": "三大主机平台联合更新安全游戏承诺。",
+          "title": "任天堂修复Switch重大问题",
+          "summary": "推送更新修复硬件缺陷，改善用户体验",
           "keyInsights": [
-            "跨平台安全标准统一"
+            "硬件质量问题得到及时响应"
           ]
         }
       ],
@@ -219,30 +160,50 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "中国���洁能源建设领跑全球，风电太阳能及绿色氢能储能技术加速发展。",
+      "categorySummary": "可再生能源主导新增电力供应，储能与氢能技术并行发展。",
       "keyPoints": [
-        "中国建造超12万台风力涡轮机占全球三分之一",
-        "中国大型太阳能发电设施面积达150万英亩",
-        "绿色氢能与电池储能技术持续发展"
+        "2025年可再生能源满足所有新增电力需求",
+        "欧洲投资2000亿欧元发展电动汽车",
+        "绿色氢能与电池储能技术持续突破"
       ],
       "news": [
         {
-          "title": "从太空看清洁能源的崛起",
-          "summary": "新分析显示中国清洁能源建设规模全球领先。",
+          "title": "风能和太阳能引领清洁能源未来",
+          "summary": "可再生能源满足全球新增电力需求，有效遏制碳排放",
           "keyInsights": [
-            "中国成全球清洁能源建设主力"
+            "清洁能源转型进入加速期"
           ]
         },
         {
-          "title": "绿色氢能电池储能解决方案",
-          "summary": "绿色氢能通过电解法制备成转型关键要素。",
+          "title": "欧洲2000亿欧元投资电动汽车",
+          "summary": "电池与充电基础设施成为发展重点",
           "keyInsights": [
-            "氢能储能技术受重视"
+            "欧洲清洁交通领域投资规模空前"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "水资源业务重组，全球市场普遍回调。",
+      "keyPoints": [
+        "达能水务业务股份出售给铂金Equity公司",
+        "中东局势紧张影响全球市场情绪",
+        "全球股市普遍回落"
+      ],
+      "news": [
+        {
+          "title": "达能出售水务业务半数股份",
+          "summary": "Perrier和San Pellegrino品牌业务重组",
+          "keyInsights": [
+            "跨国企业持续优化业务结构"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
