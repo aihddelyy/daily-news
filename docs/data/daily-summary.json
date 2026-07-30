@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-30",
-  "overallSummary": "AI领域投资热潮持续升温，科技巨头加速布局；全球芯片销售额同比激增93.9%，半导体行业强劲增长；新能源与游戏产业面临转型关键期。",
+  "date": "2026年7月31日",
+  "overallSummary": "AI行业合作格局重塑，微软OpenAI重组引监管关注；NVIDIA发布Blackwell Ultra芯片推动AI算力升级；GLP-1减肥药市场持续扩容。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "科技巨头加速布局AI领域，投资合作与竞争并存。",
+      "categorySummary": "科技巨头与AI开发商的深度绑定引发监管关注，合作格局正在重构。",
       "keyPoints": [
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-        "沃伦和怀登启动对AI开发商合作关系的国会调查",
-        "微软和谷歌正挑战Anthropic和OpenAI的AI编程模型"
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic形成双寡头格局",
+        "沃伦、怀登就科技巨头与AI开发商合作关系展开调查",
+        "美日、英加签署AI技术合作协议加速国际布局"
       ],
       "news": [
         {
-          "title": "沃伦和怀登启动对谷歌、微软与AI开发商合作关系的调查",
-          "summary": "调查涉及少数股权及云服务提供商大量投资",
+          "title": "Microsoft-OpenAI 改写为 Anthropic 和 Google 打开���大门",
+          "summary": "微软与OpenAI合作协议重新调整，为新的联盟格局铺路。",
           "keyInsights": [
-            "合作关系可能涉及人才和计算能力获取"
+            "OpenAI与微软关系调整释放竞争信号"
           ]
         },
         {
-          "title": "微软和谷歌挑战Anthropic和OpenAI的AI编程模型",
-          "summary": "编码工具成为Google和Microsoft追赶Anthropic和OpenAI的重要目标",
+          "title": "银行拟向Google支持的Anthropic数据中心提供150亿美元贷款",
+          "summary": "Google担保助力德克萨斯数据中心获16亿瓦容量融资。",
           "keyInsights": [
-            "AI编程工具市场热度持续攀升"
+            "AI基础设施投资进入百亿美元级"
           ]
         }
       ],
@@ -31,25 +31,25 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "汽车行业面临调整，企业财报表现分化。",
+      "categorySummary": "芯片股遭抛售，汽车零售表现亮眼，人才争夺战升温。",
       "keyPoints": [
-        "宝马最新裁员行动中裁员数千人",
-        "JetZero混合翼飞机获得30亿美元贷款承诺",
-        "通用动力Q2利润和收入均有所增长"
+        "投资者撤出芯片股，市场情绪转向谨慎",
+        "Carvana二手车市场创纪录盈利",
+        "华尔街与硅谷争夺顶尖毕业生"
       ],
       "news": [
         {
-          "title": "宝马将在最新打击德国汽车行业的行动中裁员数千人",
-          "summary": "德国汽车行业再受冲击",
+          "title": "投资者撤出芯片股",
+          "summary": "7月28日市场下午版，投资者撤离芯片板块。",
           "keyInsights": [
-            "欧洲汽车制造业持续承压"
+            "半导体板块短期承压"
           ]
         },
         {
-          "title": "JetZero混合翼飞机获30亿美元贷款",
-          "summary": "政府支持启动混合翼飞机生产",
+          "title": "火爆的二手车市场推动Carvana实现创纪录利润",
+          "summary": "二手车零售商销售额和利润双创新高。",
           "keyInsights": [
-            "航空创新获政府背书"
+            "二手车需求强劲复苏"
           ]
         }
       ],
@@ -58,23 +58,23 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动汽车市场竞争加剧，特斯拉FSD持续迭代。",
+      "categorySummary": "电动汽车续航能力持续突破，自动驾驶技术稳步迭代。",
       "keyPoints": [
-        "多家企业携全电动汽车阵容挑战爬山赛事",
-        "BMW iX3生产50,000辆，需求近翻倍",
-        "特斯拉FSD v14为L2级系统增量改进"
+        "Rivian R2实测253英里续航，EPA达330英里",
+        "Genesis首款性能车型亮相，售价71,495美元",
+        "特斯拉FSD v14/v14.3.3持续迭代升级"
       ],
       "news": [
         {
-          "title": "比亚迪腾势Z三电机版发布",
-          "summary": "高功率版本亮相爬山赛事",
+          "title": "Rivian R2 测试：70英里/小时行驶253英里",
+          "summary": "EPA续航330英里，电动SUV实测表现出色。",
           "keyInsights": [
-            "中国品牌电动车性能持续突破"
+            "电动车续航焦虑逐步缓解"
           ]
         },
         {
-          "title": "特斯拉FSD v14测试报告",
-          "summary": "量产消费级汽车中最令人印象深刻的L2级系统",
+          "title": "特斯拉FSD v14首次驾驶体验",
+          "summary": "FSD v14为目前量产车最令人印象深刻的L2级系统。",
           "keyInsights": [
             "自动驾驶辅助系统持续进化"
           ]
@@ -85,25 +85,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "全球芯片市场强劲增长，AI驱动技术迭代加速。",
+      "categorySummary": "NVIDIA Blackwell Ultra正式发布，AI算力进入新纪元。",
       "keyPoints": [
-        "4月全球芯片销售额同比增长93.9%",
-        "预计2026年全球半导体销售额超1.5万亿美元",
-        "NVIDIA Blackwell Ultra和下一代架构进展披露"
+        "NVIDIA发布Blackwell Ultra和Vera Rubin AI芯片",
+        "DGX Spark/Station两款AI PC可运行大型模型",
+        "推理成本和能耗降低高达25倍"
       ],
       "news": [
         {
-          "title": "4月全球芯片销售额同比增长93.9%",
-          "summary": "2026年全球年度销售额预计超1.5万亿美元",
+          "title": "NVIDIA发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "新型AI PC能运行Llama、DeepSeek等大模型。",
           "keyInsights": [
-            "AI需求持��推动芯片行业爆发"
+            "AI计算走向普惠化"
           ]
         },
         {
-          "title": "NVIDIA准备下一代GPU架构Blackwell-Next",
-          "summary": "路线图包括Rubin、Rubin Ultra和Feynman",
+          "title": "NVIDIA Blackwell平台正式发布",
+          "summary": "全新GPU助力万亿参数AI模型，降低25倍能耗。",
           "keyInsights": [
-            "GPU技术迭代周期持续缩短"
+            "算力瓶颈持续突破"
           ]
         }
       ],
@@ -112,25 +112,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "减肥药市场持续扩张，重大并购案涌现。",
+      "categorySummary": "GLP-1减肥药赛道持续火热，市场规模剑指千亿美元。",
       "keyPoints": [
-        "Argenx斥资22亿美元收购Forte获取差异化免疫药物",
-        "Retatrutide在GLP-1类药物中减重效果最显著",
-        "摩根士丹利指出GLP-1激增超出预期"
+        "GLP-1药物市场预计2035年达1327.9亿美元",
+        "Retatrutide减重效果最显著但副作用最多",
+        "argenx收购CD122靶点药物扩充管线"
       ],
       "news": [
         {
-          "title": "Argenx 22亿美元收购Forte",
-          "summary": "获得CD122蛋白靶点候选药物",
+          "title": "14种减肥新药即将问世",
+          "summary": "Retatrutide在GLP-1类药物中减重效果最佳。",
           "keyInsights": [
-            "免疫药物领域并购加速"
+            "减肥药研发竞争白热化"
           ]
         },
         {
-          "title": "新型减肥药Retatrutide最新动态",
-          "summary": "减重效果最显著但副作用最多",
+          "title": "GLP-1药物市场规模预计达1327.9亿美元",
+          "summary": "2035年市场规模较当前大幅增长。",
           "keyInsights": [
-            "减肥药疗效与安全性平衡待解"
+            "代谢药物赛道成医药新风口"
           ]
         }
       ],
@@ -139,25 +139,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "存储芯片涨价压缩利润，高端旗舰持续升级。",
+      "categorySummary": "折叠屏技术瓶颈取得突破，柔性屏耐用性大幅提升。",
       "keyPoints": [
-        "DRAM和NAND价格持续上涨压缩预算机型利润",
-        "制��商被迫削减低端机型功能配置",
-        "iPhone 18传言电池容量超5000mAh"
+        "新型铰链支撑结构解决折叠痕迹难题",
+        "像素补偿技术延长折叠屏寿命一倍",
+        "耐用性问题逐步解决推动市场扩张"
       ],
       "news": [
         {
-          "title": "存储芯片涨价影响智能手机市场",
-          "summary": "高低端机型差距持续拉大",
+          "title": "新型柔性屏技术解决折叠痕迹难题",
+          "summary": "通过更换铰链支撑和像素补偿，折叠屏寿命翻倍。",
           "keyInsights": [
-            "成本压力加速市场分层"
-          ]
-        },
-        {
-          "title": "iPhone 18传言：电池容量或超5000mAh",
-          "summary": "灵动岛缩小，RAM配置传言",
-          "keyInsights": [
-            "苹果持续推进硬件升级"
+            "折叠屏进入实用化阶段"
           ]
         }
       ],
@@ -166,25 +159,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "独立游戏挑战AAA模式，行业面临变革压力。",
+      "categorySummary": "3A大作刷新销售记录，游戏品质成为核心竞争力。",
       "keyPoints": [
-        "Palworld和Manor Lords证明独立游戏也能创造轰动",
-        "Epic CEO警告AAA游戏业务面临海啸般变化",
-        "Xbox、任天堂和索尼更新安全游戏承诺"
+        "某3A大作发售首日销量破千万",
+        "极致画面表现推动销售爆发",
+        "单机游戏市场持续火热"
       ],
       "news": [
         {
-          "title": "Epic CEO警告AAA游戏业务面临海啸",
-          "summary": "行业困境诊断引发关注",
+          "title": "某3A大作发售首日销量破千万",
+          "summary": "刷新单机游戏销售记录，画面沉浸感成关键。",
           "keyInsights": [
-            "游戏产业商业模型正在重构"
-          ]
-        },
-        {
-          "title": "AAA级游戏工作室必须求变",
-          "summary": "独立游戏以非AAA预算创造轰动效应",
-          "keyInsights": [
-            "游戏开发门槛和商业模式正在改变"
+            "高品质游戏市场号召力惊人"
           ]
         }
       ],
@@ -193,25 +179,18 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "太阳能超越风电，清洁能源结构持续优化。",
+      "categorySummary": "海上风电单机容量突破新里程碑，清洁能源装备升级。",
       "keyPoints": [
-        "公用事业规模太阳能超越风能成为最大清洁能源来源",
-        "EDPR上半年经常性利润增长33%",
-        "储能系统组合优化方案逐步成型"
+        "海上风机单机容量突破25MW",
+        "超大型风机���利并网发电",
+        "清洁能源装备进入新纪元"
       ],
       "news": [
         {
-          "title": "太阳能超越风电成为美国清洁能源最大来源",
-          "summary": "公用事业规模太阳能领先",
+          "title": "海上风电单机容量突破 25MW",
+          "summary": "超大型海上风机并网，清洁能源装备升级。",
           "keyInsights": [
-            "清洁能源结构正在转变"
-          ]
-        },
-        {
-          "title": "EDPR上半年经常性利润增长33%",
-          "summary": "美国业务驱动增长",
-          "keyInsights": [
-            "可再生能源盈利能力持续改善"
+            "海上风电大型化趋势加速"
           ]
         }
       ],
