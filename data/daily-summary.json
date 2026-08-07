@@ -1,35 +1,28 @@
 {
-  "date": "2026年8月6日",
-  "overallSummary": "监管层面FTC对AI巨头合作展开调查引发关注；半导体行业全球销售额同比增长近94%持续强劲；消费电子领域iPhone 18与折叠屏手机成为焦点。",
+  "date": "2026-08-07",
+  "overallSummary": "AI领域合作与竞争格局持续演变，半导体行业强劲增长93.9%，电动汽车和AAA游戏行业面临挑战。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "FTC对科技巨头AI投资展开反垄断调查，同时OpenAI调整安全实践以符合欧盟AI法案。",
+      "categorySummary": "AI领域巨头通过股权投资深度绑定，微软修订协议为竞争对手敞开大门。",
       "keyPoints": [
-        "FTC调查微软、谷歌、亚马逊与OpenAI/Anthropic的数十亿美元投资",
-        "微软扩大战略合作，联手Anthropic、谷歌、OpenAI和xAI",
-        "OpenAI调整安全实践以符合欧盟AI法案GPAI准则"
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+        "微软与OpenAI修订协议，允许Anthropic等竞争对手进入",
+        "沃伦、威登对科技巨头与AI开发商合作关系展开调查"
       ],
       "news": [
         {
-          "title": "FTC对微��、谷歌和亚马逊与OpenAI及Anthropic的合作关系展开调查",
-          "summary": "FTC命令微软、OpenAI、Alphabet、亚马逊和Anthropic提供近期投资信息",
+          "title": "微软与OpenAI修订协议为Anthropic和Google敞开大门",
+          "summary": "微软与OpenAI重新调整合作协议，为Anthropic和Google等竞争对手合作铺平道路。",
           "keyInsights": [
-            "科技巨头AI投资面临反垄断审查"
+            "AI行业从封闭合作走向开放竞争"
           ]
         },
         {
-          "title": "微软宣布与Anthropic、谷歌、OpenAI和xAI建立合作伙伴关系",
-          "summary": "CDAO与五大AI公司建立合作以增强AI能力",
+          "title": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+          "summary": "AI领域最大合作建立在竞争恐惧之上而非共同愿景。",
           "keyInsights": [
-            "微软深化AI战略合作布局"
-          ]
-        },
-        {
-          "title": "OpenAI调整安全实践以符合欧盟AI法案的GPAI准则",
-          "summary": "OpenAI主动调整安全措施以满足欧盟监管要求",
-          "keyInsights": [
-            "AI企业积极应对监管合规"
+            "科技巨头通过资本绑定AI开发商"
           ]
         }
       ],
@@ -37,87 +30,46 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "全球芯片销售额同比增长93.9%延续高增长态势，英伟达发布Blackwell Ultra和Vera Rubin新品。",
+      "name": "商业财经",
+      "categorySummary": "AI热潮正在重塑全球股市格局，市场动荡为华尔街带来丰厚利润。",
       "keyPoints": [
-        "4月全球芯片销售额同比增长93.9%，预计2026年超1.5万亿美元",
-        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "半导体行业向垂直整合和\"循环融资\"模式转变"
+        "动荡市场和大规模股票发行为华尔街带来丰厚利润",
+        "AI热潮正在重塑全球股市格局",
+        "阿联酋退出欧佩克引发关注"
       ],
       "news": [
         {
-          "title": "4月全球芯片销售额同比增��93.9%",
-          "summary": "SIA数据显示全球芯片销售额强劲增长",
+          "title": "为什么人工智能热潮正在重塑全球股市格局",
+          "summary": "AI热潮正在深刻改变全球股票市场的投资逻辑和格局。",
           "keyInsights": [
-            "半导体行业维持高景气度"
-          ]
-        },
-        {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "英伟达推出DGX Spark和DGX Station AI专用电脑",
-          "keyInsights": [
-            "英伟达持续巩固AI芯片领先地位"
+            "AI成为股市核心驱动力"
           ]
         }
       ],
-      "id": "semiconductor",
-      "icon": "💻"
-    },
-    {
-      "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro配置曝光可能涨价，存储芯片涨价挤压低端市场，三星折叠屏现故障。",
-      "keyPoints": [
-        "iPhone 18 Pro传闻：可能涨价200美元、配备全新可变光圈摄像头",
-        "存储芯片涨价迫使入门级手机削减功能配置",
-        "三星2000美元折叠手机出现故障问题"
-      ],
-      "news": [
-        {
-          "title": "iPhone 18 Pro曝光：值得等待还是现在买17 Pro？",
-          "summary": "iPhone 18 Pro可能涨价200美元、配A20芯片和缩小灵动岛",
-          "keyInsights": [
-            "苹果Pro机型定价预计上调"
-          ]
-        },
-        {
-          "title": "三星售价2000美元的新款折叠手机部分已出现故障",
-          "summary": "三星高端折叠屏设备出现质量问题",
-          "keyInsights": [
-            "折叠屏技术成熟度仍待验证"
-          ]
-        },
-        {
-          "title": "DRAM和NAND闪存价格上涨正在挤压入门级智能手机市场",
-          "summary": "芯片涨价导致低端手机被迫减配",
-          "keyInsights": [
-            "成本压力加剧中低端手机竞争"
-          ]
-        }
-      ],
-      "id": "smartphone",
-      "icon": "📱"
+      "id": "business_finance",
+      "icon": "📊"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "Lucid季度亏损翻倍，特斯拉FSD v14接近Robotaxi水平，日产发布全新概念电动车。",
+      "categorySummary": "Lucid阿联酋营收暴跌96%，特斯拉FSD进化为无人驾驶出租车。",
       "keyPoints": [
-        "Lucid亏损几乎翻倍达10亿美元，CEO面临压力",
-        "特斯拉FSD v14被评测为最令人印象深刻的L2级系统",
-        "日产与Eifelland合作推出Relax概念电动车"
+        "Lucid阿联酋营收暴跌96%��3200万美元",
+        "特斯拉FSD v14发布，CEO称其具有感知能力",
+        "特斯拉FSD正演变为事实上的无人驾驶出租车"
       ],
       "news": [
         {
-          "title": "Lucid亏损几乎翻倍达到10亿美元",
-          "summary": "Lucid CEO面临严峻挑战，财务状况恶化",
+          "title": "实测：特斯拉FSD正演变为事实上的无人驾驶出租车",
+          "summary": "特斯拉FSD v14.3.3持续进化，正在向无人驾驶出租车形态演进。",
           "keyInsights": [
-            "豪华电动车厂商持续亏损"
+            "自动驾驶技术商业化加速"
           ]
         },
         {
-          "title": "测试报告：特斯拉FSD正在演变为实际意义上的Robotaxi",
-          "summary": "特斯拉FSD v14.3.3测试表现接近完全自动驾驶",
+          "title": "Lucid在阿联酋的营收在第二季度暴跌96%",
+          "summary": "Lucid阿联酋市场季度营收从高点暴跌至3200万美元。",
           "keyInsights": [
-            "FSD技术接近Robotaxi商业化临界点"
+            "电动汽车初创企业面临市场困境"
           ]
         }
       ],
@@ -125,26 +77,53 @@
       "icon": "🚗"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场规模预计2035年达1327.9亿美元，Retatrutide减重效果最显著但副作用最多。",
+      "name": "半导体芯片",
+      "categorySummary": "全球芯片销售同比增长93.9%，AI芯片成为行业焦点。",
       "keyPoints": [
-        "GLP-1药物市场预计2035年达1327.9亿美元，CAGR 9.63%",
-        "Retatrutide是减重效果最显著的GLP-1药物但副作用最多",
-        "Claris Bio获1.18亿美元融资开发眼科药物"
+        "4月全球芯片销售额同比增长93.9%",
+        "预计2026年全球半导体年销售额突破1.5万亿美元",
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片"
       ],
       "news": [
         {
-          "title": "GLP-1药物市场预计到2035年规模将达1327.9亿美元",
-          "summary": "从529.5亿美元增长至1327.9亿美元",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "英伟达发布新款AI芯片，可运行Llama和DeepSeek等大型模型。",
           "keyInsights": [
-            "减重药市场进入高速增长期"
+            "AI芯片性能持续突破"
           ]
         },
         {
-          "title": "14种新型减肥药物：Retatrutide最新消息",
-          "summary": "Retatrutide减重效果最好但副作用最多",
+          "title": "4月份全球芯片销售额同比增长93.9%",
+          "summary": "SIA数据显示半导体行业保持强劲增长势头。",
           "keyInsights": [
-            "疗效与安全性平衡成研发关键"
+            "AI驱动芯片需求激增"
+          ]
+        }
+      ],
+      "id": "semiconductor",
+      "icon": "💻"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药物竞争加剧，罕见病药物政策支持加强。",
+      "keyPoints": [
+        "礼来、诺和诺德、辉瑞竞相开发新型GLP-1减肥药",
+        "口服GLP-1药物有望2029年上市",
+        "GSK为应对专利悬崖准备2.5亿美元成本削减"
+      ],
+      "news": [
+        {
+          "title": "GLP-1类药物：礼来、诺和诺德、辉瑞竞相开发新型减肥药",
+          "summary": "Structure和AstraZeneca公布口服GLP-1中期数据。",
+          "keyInsights": [
+            "口服GLP-1药物赛道竞争激烈"
+          ]
+        },
+        {
+          "title": "GSK为应对专利悬崖准备2.5亿美元成本削减计划",
+          "summary": "GSK未透露裁员规模，旨在消化即将到来的专利损失。",
+          "keyInsights": [
+            "大型药企面临专利到期压力"
           ]
         }
       ],
@@ -152,33 +131,46 @@
       "icon": "🧬"
     },
     {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临生存危机，Epic CEO警告\"海啸\"来袭，任天堂Switch 2新品持续发布。",
+      "name": "智能手机",
+      "categorySummary": "存储芯片涨价挤压低端市场，iPhone 18传闻配置升级。",
       "keyPoints": [
-        "Epic CEO警告AAA游戏行业面临\"海啸般\"的衰退",
-        "AAA游戏效仿好莱坞大片套路但面临困境",
-        "任天堂Switch 2特别版游戏和喷射战士新作发布"
+        "DRAM和NAND闪存价格上涨挤压预算型手机",
+        "iPhone 18 Pro可能采用统一背面设计",
+        "iPhone 18标准版或升级至12GB RAM"
       ],
       "news": [
         {
-          "title": "Epic公司CEO称AAA游戏行业正经历海啸般的大潮",
-          "summary": "蒂姆·斯维尼对行业困境发出严厉警告",
+          "title": "iPhone 18：我们对苹果即将推出的手机知道些什么",
+          "summary": "灵动岛缩小传言，内存或与iPhone 17 Pro相同。",
           "keyInsights": [
-            "大厂游戏开发模式面临根本性挑战"
+            "苹果持续优化旗舰机型配置"
+          ]
+        }
+      ],
+      "id": "smartphone",
+      "icon": "📱"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "AAA游戏产业面临严重衰退，已损失25000个工作岗位。",
+      "keyPoints": [
+        "AAA游戏产业自2023年至今损失25000个工作岗位",
+        "Epic CEO称行业正经历海啸般的危机",
+        "Xbox、任天堂、索尼承诺打造安全游戏体验"
+      ],
+      "news": [
+        {
+          "title": "Epic首席执行官诊断行业困境：海啸正席卷AAA游戏行业",
+          "summary": "Tim Sweeney称这是危机四伏的时代，也是充满机遇的时代。",
+          "keyInsights": [
+            "游戏行业正经历结构性变革"
           ]
         },
         {
-          "title": "为什么3A游戏开发公司正在衰落而独立游戏正在崛起",
-          "summary": "高成本长周期模式难以为继",
+          "title": "AAA游戏产业崩溃对PC玩家而言是好消息",
+          "summary": "大量令人失望的AAA游戏发布导致行业裁员潮。",
           "keyInsights": [
-            "独立游戏成行业新增长点"
-          ]
-        },
-        {
-          "title": "Nintendo Switch 2 特别版和喷射战士Raiders发布",
-          "summary": "异度神剑2特别版建议零售价69.99美元",
-          "keyInsights": [
-            "任天堂游戏阵容持续扩充"
+            "行业寒冬或带来精品化转型"
           ]
         }
       ],
@@ -187,50 +179,23 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "风能和太阳能已从替代能源转变为主流，绿氢与电池储能技术推动电网转型。",
+      "categorySummary": "太阳能和风能不再是替代能源，绿色氢能成为转型关键。",
       "keyPoints": [
-        "风能和太阳能已不再是\"替代能源\"而成为主流",
-        "绿氢成为长期储能的理想选择",
-        "锂离子电池储能为能源转型核心"
+        "可再生能源不再被视为替代能源",
+        "2025年可再生能源满足所有新增电力需求",
+        "绿色氢能与电池储能项目持续发展"
       ],
       "news": [
         {
           "title": "为什么太阳能和风能不再是替代能源",
-          "summary": "可再生能源进入主流应用阶段",
+          "summary": "可再生能源成为主流能源选择，反映广泛采用趋势。",
           "keyInsights": [
-            "清洁能源完成从替代到主流的转变"
-          ]
-        },
-        {
-          "title": "绿色氢能与电池将如何改变电网",
-          "summary": "绿氢解决长期储能，电池应对短期调峰",
-          "keyInsights": [
-            "多技术协同构建新型电力系统"
+            "全球能源转型加速"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "乌克兰对俄经济战持续，全球市场波动，美国农业信贷银行净利润下降。",
-      "keyPoints": [
-        "乌克兰调整战略目标，转向打击俄罗斯经济",
-        "全球市场面临地缘政治和经济不确定性",
-        "农业信贷银行净利润下降，新任CEO获任命"
-      ],
-      "news": [
-        {
-          "title": "乌克兰瞄准俄罗斯经济",
-          "summary": "乌克兰调整战略重心至经济领域",
-          "keyInsights": [
-            "俄乌冲突进入经济博弈新阶段"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
     }
   ]
 }
