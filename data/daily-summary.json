@@ -1,35 +1,35 @@
 {
-  "date": "2026-08-28",
-  "overallSummary": "AI领域竞争白热化，Anthropic年化收入飙至650亿美元；英伟达发布Blackwell Ultra芯片驱动AI算力升级；GLP-1减肥药市场预计2035年达1900亿美元。",
+  "date": "2026-08-29",
+  "overallSummary": "AI领域科技巨头投资格局深化，半导体行业Q2销售环比增35.1%；GLP-1减肥药市场持续扩张，iPhone 18涨价传闻升温。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI企业竞争与监管并行",
+      "categorySummary": "科技巨头与AI开发商资本绑定深化，监管层开始关注利益冲突。",
       "keyPoints": [
-        "Anthropic年化收入飙升至650亿美元",
-        "沃伦、怀登对谷歌微软AI合作展开反垄断调查",
-        "企业级agentic AI应用加速落地"
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+        "国会议员沃伦、怀登对科技巨头与AI开发商合作关系展开调查",
+        "微软、谷歌、OpenAI、Anthropic联手成立开源工具工作组"
       ],
       "news": [
         {
-          "title": "Anthropic年化收入飙升至650亿美元",
-          "summary": "AI初创公司收入增长强劲",
+          "title": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+          "summary": "修订后协议增强大规模AI平台建设与运营的可预测性。",
           "keyInsights": [
-            "AI行业商业化加���"
+            "科技巨头通过股权投资深化AI生态绑定"
           ]
         },
         {
-          "title": "沃伦、怀登对谷歌微软AI合作展开调查",
-          "summary": "担忧AI合作关系抑制竞争",
+          "title": "沃伦、怀登就谷歌、微软与AI开发商合作关系展开调查",
+          "summary": "CSP通过少数股权换取AI开发者人才和算力访问权。",
           "keyInsights": [
-            "监管机构关注AI市场集中度"
+            "监管层面开始审视AI领域资本合作模式"
           ]
         },
         {
-          "title": "微软持有OpenAI 27%股份 谷歌投资Anthropic",
-          "summary": "AI领域最大合作建立在竞争恐惧之上",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立工作组",
+          "summary": "首要目标开发MCP等三个开源工具。",
           "keyInsights": [
-            "大厂通过投资布局AI竞争"
+            "头部AI企业协同推进行业标准"
           ]
         }
       ],
@@ -37,33 +37,80 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "AI芯片迭代加速",
+      "name": "商业财经",
+      "categorySummary": "美联储主席讲话推升加息预期，中国新兴市场股价承压。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "Michael Robins接任SIA负责人",
-        "芯片行业竞争加剧"
+        "Warsh讲话提振加息预期，收益率上升",
+        "南方木材市场崩溃冲击林业经济",
+        "中国新兴市场股价下跌"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "DGX Spark和DGX Station可运行大型AI模型",
+          "title": "Warsh讲话提振加息预期",
+          "summary": "美联储主席聚焦通胀后收益率上升。",
           "keyInsights": [
-            "AI芯片性能持续突破"
+            "货币紧缩预期升温"
           ]
         },
         {
-          "title": "NVIDIA Blackwell Ultra深度解析",
-          "summary": "密集型NVFP4计算能力显著提升",
+          "title": "木材市场崩溃摧毁南方林业经济",
+          "summary": "历史性纸浆和造纸厂关闭潮冲击该地区。",
           "keyInsights": [
-            "为AI推理时代而生"
+            "传统工业面临结构性困境"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD持续迭代，梅赛德斯EV续航突破EPA评级。",
+      "keyPoints": [
+        "特斯拉FSD v14为L2最强系统但仍需驾驶员监控",
+        "梅赛德斯CLA 350打破EPA续航额定值",
+        "Rivian CFO离职，GE Vernova将支付1950万美元"
+      ],
+      "news": [
+        {
+          "title": "特斯拉FSD V14测试评价",
+          "summary": "FSD v14为目前消费级最令人印象深刻的L2系统。",
+          "keyInsights": [
+            "自动驾驶技术渐进式改进而非突破"
           ]
         },
         {
-          "title": "Anthropic挖来5位重磅人才",
-          "summary": "投资1亿美元���全球合作伙伴组织",
+          "title": "梅赛德斯CLA 350打破EPA续航",
+          "summary": "70mph续航测试接近400英里，超越EPA评级。",
           "keyInsights": [
-            "人才争夺战升温"
+            "电动车能效持续提升"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin芯片，SIA换帅。",
+      "keyPoints": [
+        "全球半导体Q2销售环比增长35.1%",
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+        "Michael Robbins接任SIA会长兼CEO"
+      ],
+      "news": [
+        {
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin",
+          "summary": "DGX Spark和Station将能运行Llama、DeepSeek等大模型。",
+          "keyInsights": [
+            "英伟达加速桌面端AI计算布局"
+          ]
+        },
+        {
+          "title": "SIA换帅及行业销售数据",
+          "summary": "Michael Robbins上任，全球半导体销售强劲增长。",
+          "keyInsights": [
+            "行业景气度持续攀升"
           ]
         }
       ],
@@ -72,32 +119,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发",
+      "categorySummary": "GLP-1减肥药市场持续扩张，FDA审批动态积极。",
       "keyPoints": [
-        "GLP-1市场预计2035年达1900亿美元",
-        "Retatrutide减重效果最显著",
-        "FDA审批延期影响股价"
+        "瑞他鲁肽减重效果最显著但副作用也最明显",
+        "减肥药市场以超预期速度扩张",
+        "Capricor因FDA审查预期股价飙升"
       ],
       "news": [
         {
-          "title": "GLP-1市场预计2035年增长至1900亿美元",
-          "summary": "减肥药市场以超预期速度扩张",
+          "title": "14种新型减肥药在研",
+          "summary": "瑞他鲁肽基于GLP-1减重效果领先但需关注安全性。",
           "keyInsights": [
-            "影响多个消费领域"
+            "减重药赛道竞争加剧"
           ]
         },
         {
-          "title": "14种新型减肥药物",
-          "summary": "Retatrutide减重效果最佳但副作用最多",
+          "title": "GLP-1热潮持续",
+          "summary": "摩根士丹利指减肥药市场超预期扩张。",
           "keyInsights": [
-            "疗效与安全性需平衡"
-          ]
-        },
-        {
-          "title": "Capricor因FDA审查延期股价飙升",
-          "summary": "FDA愿意与公司合作",
-          "keyInsights": [
-            "监管利好提振市场"
+            "消费领域差异化影响显现"
           ]
         }
       ],
@@ -105,60 +145,26 @@
       "icon": "🧬"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动车技术持续突破",
-      "keyPoints": [
-        "特斯拉FSD v14为最令人印象深刻的L2系统",
-        "Genesis GV90续航316英里",
-        "Rivian R1S现踪乌克兰"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14测试",
-          "summary": "量产车L2级系统最佳表现",
-          "keyInsights": [
-            "自动驾驶渐进式改进"
-          ]
-        },
-        {
-          "title": "Genesis GV90电动车发布",
-          "summary": "657马力 续航316英里",
-          "keyInsights": [
-            "豪华电动车续航提升"
-          ]
-        },
-        {
-          "title": "Rivian R1S在乌克兰现身",
-          "summary": "悬挂当地车牌",
-          "keyInsights": [
-            "电动车全球化布局"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
       "name": "智能手机",
-      "categorySummary": "iPhone 18设计曝光",
+      "categorySummary": "iPhone 18涨价和规格升级传闻升温，索尼Xperia涨价33%。",
       "keyPoints": [
-        "iPhone 18 Pro背板采用一体化设计",
-        "灵动岛缩小 RAM容量提升",
-        "新配色取消宇宙橙和深蓝"
+        "iPhone 18 Pro可能涨价200美元",
+        "iPhone 18将配可变光圈摄像头和A20芯片",
+        "索尼Xperia 10 VIII售价上涨33%"
       ],
       "news": [
         {
-          "title": "iPhone 18最新资讯",
-          "summary": "Pro背板玻璃一体化设计",
+          "title": "iPhone 18 Pro曝光",
+          "summary": "涨价200美元、配全新摄像头和更小灵动岛。",
           "keyInsights": [
-            "设计语言更新"
+            "苹果持续走高端化路线"
           ]
         },
         {
-          "title": "iPhone 18传言和泄露",
-          "summary": "灵动岛缩小 RAM容量提升",
+          "title": "Galaxy Z Fold8支持eSIM迁移",
+          "summary": "首款支持迁移密码和eSIM的三星折叠机。",
           "keyInsights": [
-            "硬件规格升级"
+            "折叠屏功能持续完善"
           ]
         }
       ],
@@ -167,32 +173,18 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临转型",
+      "categorySummary": "AAA游戏行业面临可持续性质疑，任天堂Switch修复重大问题。",
       "keyPoints": [
-        "AAA游戏行业崩溃",
-        "Xbox任天堂索尼更新游戏安全承诺",
-        "Nintendo修复Switch问题"
+        "玩家认为3A游戏陷入停滞",
+        "任天堂Switch更新修复长期问题",
+        "Xbox 8月更新新增六项功能"
       ],
       "news": [
         {
-          "title": "AAA游戏产业停滞",
-          "summary": "需向可持续发展模式转型",
+          "title": "AAA游戏行业崩溃论",
+          "summary": "前Nexon CEO及业界认为AAA模式不可持续。",
           "keyInsights": [
-            "行业寻求转型出路"
-          ]
-        },
-        {
-          "title": "Xbox任天堂索尼更新游戏安全承诺",
-          "summary": "三巨头联合推进游戏安全",
-          "keyInsights": [
-            "行业合作加强"
-          ]
-        },
-        {
-          "title": "Nintendo修复Switch问题",
-          "summary": "系统更新解决长期问题",
-          "keyInsights": [
-            "提升用户体验"
+            "游戏行业转型压力增大"
           ]
         }
       ],
@@ -201,32 +193,18 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源持续增长",
+      "categorySummary": "风光储清洁能源持续发展，长时储能技术突破。",
       "keyPoints": [
-        "全球太阳能发电增长31%",
-        "可再生能源超越煤炭",
-        "绿氢和电池储能技术发展"
+        "风能和太阳能引领清洁能源未来",
+        "美国清洁能源转型面临政策阻力",
+        "绿氢与电池储能改变电网"
       ],
       "news": [
         {
-          "title": "全球太阳能发电增长31%",
-          "summary": "可再生能源超越煤炭",
+          "title": "绿氢与电池改变电网",
+          "summary": "锂离子电池处储能前沿，绿氢提供长期储能方案。",
           "keyInsights": [
-            "清洁能源加速替代"
-          ]
-        },
-        {
-          "title": "绿氢和电池改变电网",
-          "summary": "绿氢��长期储能理想方案",
-          "keyInsights": [
-            "储能技术多元化"
-          ]
-        },
-        {
-          "title": "梅赛德斯-奔驰使用回收铝材造EV",
-          "summary": "可持续发展实践",
-          "keyInsights": [
-            "车企践行循环经济"
+            "多技术路线并行推进能源转型"
           ]
         }
       ],
