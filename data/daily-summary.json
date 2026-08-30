@@ -1,35 +1,42 @@
 {
-  "date": "2026-08-30",
-  "overallSummary": "AI行业持续深化企业应用与资本整合，Anthropic年化收入突破650亿美元；半导体市场Q2环比增长35.1%，英伟达推出Blackwell Ultra与Vera Rubin芯片；游戏产业面临AAA危机，三大主机厂商联合更新安全游戏承诺。",
+  "date": "2026年8月31日星期一",
+  "overallSummary": "AI行业头部企业加速整合成立开源联盟，减肥药市场规模预期突破1900亿美元，全球电动车市场竞争加剧。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI企业应用加速落地，Anthropic营收激增，巨头资本布局深化引发监管关注。",
+      "categorySummary": "科技巨头成立AI代理开源联盟，Anthropic营收激增，AI商业化加速落地。",
       "keyPoints": [
+        "微软、谷歌、OpenAI、Anthropic联合成立Agentic AI联盟",
         "Anthropic年化收入飙升至650亿美元",
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-        "HoneyBook推出Claude连接器赋能小型企业"
+        "摩根大通AI审阅贷款协议仅需数秒"
       ],
       "news": [
         {
-          "title": "Anthropic年化收入激增至650亿美元",
-          "summary": "AI独角兽Anthropic实现惊人增长，挑战OpenAI市场地位。",
+          "title": "四大AI公司成立Agentic AI联盟",
+          "summary": "Linux基金会支持的AI代理开源标准联盟正式成立",
           "keyInsights": [
-            "Claude系列竞争力强劲"
+            "微���、谷歌、OpenAI、Anthropic联手制定开源标准"
           ]
         },
         {
-          "title": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-          "summary": "AI领域最大合作建立在竞争恐惧之上，非共同愿景。",
+          "title": "Anthropic年化收入达650亿美元",
+          "summary": "Claude商业化驱动收入高速增长",
           "keyInsights": [
-            "科技巨头AI投资竞争白热化"
+            "AI助手市场进入爆发期"
           ]
         },
         {
-          "title": "沃伦就谷歌、微软与AI开发商合作关系展开调查",
-          "summary": "美国监管层关注云服务商通过少数股权获取AI人才和算力的模式。",
+          "title": "微软持有OpenAI 27%股份",
+          "summary": "修订协议增强AI平台合作可预测性",
           "keyInsights": [
-            "AI领域并购监管趋严"
+            "科技巨头AI投资版图持续深化"
+          ]
+        },
+        {
+          "title": "HoneyBook推出Claude连接器",
+          "summary": "AI代理简化小型企业运营流程",
+          "keyInsights": [
+            "垂直领域AI应用加速"
           ]
         }
       ],
@@ -37,26 +44,94 @@
       "icon": "🧠"
     },
     {
-      "name": "半导体芯片",
-      "categorySummary": "行业领导层更替，市场强劲反弹，新一代AI芯片密集发布。",
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场爆发，大额并购频发，制药巨头加速布局代谢赛道。",
       "keyPoints": [
-        "Michael Robbins接任SIA会长兼CEO",
-        "Q1-Q2全球半导体销售额环比增长35.1%",
-        "英伟达发布Blackwell Ultra与Vera Rubin AI芯片"
+        "GLP-1市场预计达1900亿美元规模",
+        "GSK以106亿美元收购Nuvalent",
+        "Retatrutide减重效果领先但副作用多"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "推出DGX Spark和DGX Station桌面AI系统，可运行Llama、DeepSeek等大模型��",
+          "title": "GLP-1市场五年内将翻番至1900亿美元",
+          "summary": "减肥药市场超预期扩张，重塑消费行业格局",
           "keyInsights": [
-            "端侧AI计算能力大幅提升"
+            "诺和诺德、礼来领跑万亿赛道"
           ]
         },
         {
-          "title": "2026年Q1-Q2全球半导体销售额环比增长35.1%",
-          "summary": "AI驱动芯片需求强劲复苏，行业进入新一轮增长周期。",
+          "title": "GSK收购Nuvalent布局肺癌药物",
+          "summary": "106亿美元加码肿瘤业务",
           "keyInsights": [
-            "AI算力需求持续爆发"
+            "小分子靶向药成并购热点"
+          ]
+        },
+        {
+          "title": "阿斯利康哮喘药物试验成功",
+          "summary": "与安进合作药物在晚期食管疾病取得进展",
+          "keyInsights": [
+            "呼吸系统疾病管线扩充"
+          ]
+        }
+      ],
+      "id": "biopharma",
+      "icon": "🧬"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "Rivian产能爬坡，特斯拉FSD向Robotaxi演进，奔驰电动车续航超预期。",
+      "keyPoints": [
+        "Rivian R2月产量接近10,000辆",
+        "特斯拉FSD v14演变为自动驾驶出租车",
+        "奔驰CLA 350实测续航超EPA评级"
+      ],
+      "news": [
+        {
+          "title": "特斯拉FSD v14向Robotaxi演进",
+          "summary": "FSD v14.3.3测试显示L2级系统持续进化",
+          "keyInsights": [
+            "FSD或成事实上的自动驾驶出租车"
+          ]
+        },
+        {
+          "title": "Rivian R2产能加速",
+          "summary": "月产量向万辆目标迈进",
+          "keyInsights": [
+            "经济型电动车市场扩张中"
+          ]
+        },
+        {
+          "title": "奔驰CLA 350实测续航超EPA评级",
+          "summary": "��款电动车测试接近400英里续航",
+          "keyInsights": [
+            "EPA评级标准面临挑战"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "半导体芯片",
+      "categorySummary": "Nvidia发布Blackwell Ultra和Vera Rubin新品，芯片行业进入新周期。",
+      "keyPoints": [
+        "Nvidia发布Blackwell Ultra和Vera Rubin",
+        "SIA新领导人Michael Robbins上任",
+        "18A制程和共封装光学取得突破"
+      ],
+      "news": [
+        {
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
+          "summary": "DGX Spark和DGX Station可运行大型AI模型",
+          "keyInsights": [
+            "端侧AI芯片成新战场"
+          ]
+        },
+        {
+          "title": "SIA任命Michael Robbins为新掌门",
+          "summary": "接替John Neuffer领导半导体行业协会",
+          "keyInsights": [
+            "行业政策协调进入新阶段"
           ]
         }
       ],
@@ -65,25 +140,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临生存危机，三大主机厂商联合强化玩家安全体系。",
+      "categorySummary": "AAA游戏行业面临转型压力，主机厂商更新安全游戏承诺。",
       "keyPoints": [
-        "前Nexon CEO称AAA游戏产业正在消亡",
-        "Epic CEO认为海啸正席卷AAA游戏行业",
-        "任天堂、索尼、微软Xbox联合更新安全游戏承诺"
+        "前Nexon CEO称AAA游戏行业正在消亡",
+        "Xbox 8月更新新增六项功能",
+        "索尼、任天堂、Xbox更新安全游戏承诺"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏产业正在消亡",
-          "summary": "2024-2025年大量AAA游戏令人失望，产业模式遭受根本性质疑。",
+          "title": "前Nexon CEO唱衰AAA游戏",
+          "summary": "小型工作室以创意游戏取得成功",
           "keyInsights": [
-            "高成本长周期模式难以为继"
+            "游戏行业格局正在重塑"
           ]
         },
         {
-          "title": "Xbox携手任天堂和索尼更新更安全游戏承诺",
-          "summary": "三大主机厂商强化跨平台玩家安全保护机制。",
+          "title": "Xbox 8月更新推送六项新功能",
+          "summary": "游戏主机功能持续迭代",
           "keyInsights": [
-            "行业自律标准持续提升"
+            "主机平台差异化竞争持续"
           ]
         }
       ],
@@ -91,93 +166,26 @@
       "icon": "🎮"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车充电网络快速扩张，特斯拉FSD持续迭代，氢燃料电池路线受关注。",
-      "keyPoints": [
-        "比亚迪超级闪充网络突破10,000座充电站",
-        "特斯拉FSD v14为最令人印象深刻的L2级系统",
-        "本田和丰田押注氢燃料电池未来"
-      ],
-      "news": [
-        {
-          "title": "比亚迪正以惊人速度建设超级闪充网络",
-          "summary": "闪充站突破10,000座，三分之一用户并非比亚迪车主。",
-          "keyInsights": [
-            "充电网络开放共享成趋势"
-          ]
-        },
-        {
-          "title": "特斯拉FSD v14测试：增量改进但仍是顶级L2",
-          "summary": "FSD v14为目前量产车中最令人印象深刻的L2级辅助系统。",
-          "keyInsights": [
-            "自动驾驶技术稳步推进"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药物市场持续扩张，新型减肥药竞争加剧。",
-      "keyPoints": [
-        "Retatrutide减重效果最强但副作用最多",
-        "GLP-1市场以超出预期的速度扩张",
-        "Medable AI代理可带来82倍投资回报率"
-      ],
-      "news": [
-        {
-          "title": "14种新型减肥药物",
-          "summary": "Retatrutide在GLP-1类药物中减重效果最显著，副作用也最多。",
-          "keyInsights": [
-            "疗效与安全性需平衡"
-          ]
-        },
-        {
-          "title": "什么推动着GLP-1的飙升",
-          "summary": "摩根士丹利分析减肥药物市场快速扩张对生物制药公司的提振效应。",
-          "keyInsights": [
-            "减重市场成为新增长极"
-          ]
-        }
-      ],
-      "id": "biopharma",
-      "icon": "🧬"
-    },
-    {
-      "name": "环保能源",
-      "categorySummary": "美国清洁能源转型面临政策阻力，但太阳能、风能发展势头依然强劲。",
-      "keyPoints": [
-        "超50吉瓦太阳能、风能和电池可接入PJM电网",
-        "抽水蓄能结合电池储能为最优长时储能方案",
-        "联邦新政策给清洁能源转型带来阻力"
-      ],
-      "news": [
-        {
-          "title": "PJM电网可接入超过50吉瓦清洁能源",
-          "summary": "大规模清洁能源并网有助降低成本，推动能源转型。",
-          "keyInsights": [
-            "电网基础设施升级关键"
-          ]
-        }
-      ],
-      "id": "clean_energy",
-      "icon": "🌿"
-    },
-    {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻密集，索尼新机涨价引发关注。",
+      "categorySummary": "iPhone 18新配色泄露，Android阵营中端机涨价，折叠屏功能持续迭代。",
       "keyPoints": [
-        "iPhone 17 Pro配色将停产，iPhone 18背板重新设计",
-        "索尼Xperia 10 VIII售价上涨33%但硬件几乎未变",
-        "Galaxy Z Fold8支持eSIM和密码迁移"
+        "iPhone 18 Pro配色方案调整",
+        "Sony Xperia 10 VIII涨价33%",
+        "Galaxy Z Fold8支持eSIM迁移"
       ],
       "news": [
         {
-          "title": "iPhone 18最新传闻：配色调整与硬件升级",
-          "summary": "苹果可能停产宇宙橙和深蓝色，背板设计趋向统一。",
+          "title": "iPhone 18 Pro将取消宇宙橙配色",
+          "summary": "采用统一磨砂陶瓷护盾背板设计",
           "keyInsights": [
-            "苹果持续优化产品线"
+            "灵动岛缩小传言持续"
+          ]
+        },
+        {
+          "title": "Sony Xperia 10 VIII大幅涨价",
+          "summary": "硬件配置基本不变价格上涨",
+          "keyInsights": [
+            "中端市场面临定价压力"
           ]
         }
       ],
@@ -185,19 +193,53 @@
       "icon": "📱"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "全球市场消息混杂，中国葡萄酒出口爆发式增长。",
+      "name": "环保能源",
+      "categorySummary": "全球太阳能发电增长31%，绿色氢能成为长期储能关键方案。",
       "keyPoints": [
-        "中国葡萄酒出口上半年达7500万美元，同比增长3倍",
-        "新兴市场股价承压下跌",
-        "6个月定期存单利率维持在0.63%"
+        "全球太阳能发电增长31%超越煤炭",
+        "绿色氢能定位为长期储能方案",
+        "电池储能为电网变革核心"
       ],
       "news": [
         {
-          "title": "中国葡萄酒出口爆发式增长",
-          "summary": "上半年出口7500万美元，是去年同期的三倍。",
+          "title": "可再生能源发电超越煤炭",
+          "summary": "太阳能增长31%驱动清洁能源扩张",
           "keyInsights": [
-            "中国葡萄酒国际竞争力提升"
+            "美国政策转向带来挑战"
+          ]
+        },
+        {
+          "title": "绿色氢能与电池重塑电网",
+          "summary": "锂离子电池处变革前沿",
+          "keyInsights": [
+            "混合储能方案成最优解"
+          ]
+        }
+      ],
+      "id": "clean_energy",
+      "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "加拿大中小企业面临美国新关税冲击，小企业营销创新应对消费变化。",
+      "keyPoints": [
+        "加拿大中小企业首当其冲承受50%新关税",
+        "小型网店退货政策推陈出新",
+        "美国MAGA主题汉堡连锁扩张"
+      ],
+      "news": [
+        {
+          "title": "美国新关税重创加拿大出口商",
+          "summary": "蜂蜜、化妆品等面临50%关税",
+          "keyInsights": [
+            "跨境贸易摩擦加剧"
+          ]
+        },
+        {
+          "title": "小型网店创新退货策略",
+          "summary": "允许穿用衣物后退货吸引��费者",
+          "keyInsights": [
+            "电商竞争聚焦消费者体验"
           ]
         }
       ],
