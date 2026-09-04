@@ -1,28 +1,42 @@
 {
-  "date": "2026年9月4日",
-  "overallSummary": "AI技术加速渗透企业运营，科技巨头间的竞争与合作关系持续深化；可再生能源渐成主流，生物医药领域GLP-1减肥药市场爆发式增长。",
+  "date": "2026-09-05",
+  "overallSummary": "AI领域合作与监管并行发展，科技巨头联手成立AI代理联盟同时面临反垄断调查；汽车行业电动化与监管压力并存，特斯拉FSD持续迭代但遭NHTSA调查。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI技术持续渗透企业运营，大厂间竞争与人才争夺加剧。",
+      "categorySummary": "AI行业呈现\"竞合\"态势：大厂联手成立代理联盟，但同时面临国会反垄断调查。微软持有OpenAI 27%股份，Google投资Anthropic引发担忧。",
       "keyPoints": [
-        "AI改变企业运营：摩根大通COiN平台数秒完成律师36万小时工作",
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
-        "Anthropic从竞争对手挖角5位重磅人才"
+        "微软、谷歌、OpenAI、Anthropic成立AI代理联盟",
+        "Warren、Wyden发起对科技巨头AI合作的反垄断调查",
+        "Google Veo 3视频AI工具广泛可用"
       ],
       "news": [
         {
-          "title": "沃伦、Wyden对谷歌微软与AI开发商合作展开调查",
-          "summary": "调查涉及少数股权及云服务��大量投资获取AI人才和算力",
+          "title": "微软、谷歌、OpenAI和Anthropic联手成立人工智能代理联盟",
+          "summary": "四大AI科技公司就共同面临的问题展开合作",
           "keyInsights": [
-            "监管层开始关注AI行业垂直整合"
+            "AI行业从竞争走向竞合"
           ]
         },
         {
-          "title": "谷歌Veo 3 AI视频创作工具广泛应用",
-          "summary": "AI生成视频工具在创意领域快速普及",
+          "title": "Warren、Wyden发起对Google、Microsoft的调查",
+          "summary": "国会担忧AI领域合作阻碍市场竞争",
           "keyInsights": [
-            "生成式AI向多模态视频领域扩展"
+            "监管机构开始关注AI垂直整合风险"
+          ]
+        },
+        {
+          "title": "Microsoft持有OpenAI 27%股份，Google投资Anthropic",
+          "summary": "AI领域最大合作建立在竞争恐惧而非共同愿景之上",
+          "keyInsights": [
+            "循环融资模式重塑AI投资格局"
+          ]
+        },
+        {
+          "title": "Google的Veo 3 AI视频创作工具现已广泛可用",
+          "summary": "AI视频生成能力进一步普及",
+          "keyInsights": [
+            "AI创作工具进入大众化阶段"
           ]
         }
       ],
@@ -30,39 +44,40 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "贸易政策影响显现，中国新能源战略持续推进。",
-      "keyPoints": [
-        "G20峰会为特朗普议程争取国际支持",
-        "加拿大关税可能引发新一轮日用品短缺",
-        "电动汽车帮助中国摆脱能源进口依赖"
-      ],
-      "news": [
-        {
-          "title": "《富爸爸穷爸爸》作者1.2亿美元交易",
-          "summary": "知名理财作家完成大额交易引发关注",
-          "keyInsights": [
-            "财经IP商业价值凸显"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "电动汽车行业竞争加剧，自动驾驶技术持续进化。",
+      "categorySummary": "电动汽车行业面临监管加强：NHTSA对特斯拉Cybercab和FSD展开调查，同时美国汽车制造商敦促国会限制中国汽车进口。",
       "keyPoints": [
-        "特斯拉股价大涨，赛博出租车项目推进",
-        "Polestar 4 SUV上市，续航391英里",
-        "特斯拉FSD v14成最先进L2级系统"
+        "NHTSA对特斯拉Cybercab部署计划展开调查",
+        "特斯拉FSD v14为当前最强L2系统",
+        "美国汽车���造商要求禁止中国汽车进入市场"
       ],
       "news": [
         {
-          "title": "Genesis GV90纯电SUV",
-          "summary": "657马力，续航316英里",
+          "title": "美国国家公路交通安全管理局对特斯拉Cybercab部署计划展开调查",
+          "summary": "监管机构审查新型自动驾驶出租车安全性",
           "keyInsights": [
-            "豪华电动车性能持续突破"
+            "自动驾驶商业化面临监管挑战"
+          ]
+        },
+        {
+          "title": "特斯拉股价暴跌，因NHTSA对近距离...展开调查",
+          "summary": "监管调查导致股价波动",
+          "keyInsights": [
+            "监管风险影响投资者信心"
+          ]
+        },
+        {
+          "title": "实测特斯拉FSD v14版",
+          "summary": "目前量产车型中最强L2级别系统",
+          "keyInsights": [
+            "FSD持续迭代但仍属辅助驾驶"
+          ]
+        },
+        {
+          "title": "\"不公平贸易\"：汽车制造商敦促国会禁止中国汽车",
+          "summary": "行业游说团体希望在进口车进入市场前阻止",
+          "keyInsights": [
+            "贸易保护主义抬头"
           ]
         }
       ],
@@ -71,18 +86,32 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI驱动GPU需求激增，行业资本配置策略调整。",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin新一代AI芯片，半导体行业加速垂直整合。",
       "keyPoints": [
-        "Nvidia Blackwell Ultra GPU革新AI计算",
-        "半导体行业垂直整合模式深化",
-        "SIA任命新负责人Michael Robbins"
+        "英伟达Blackwell Ultra提供10 petaFLOPS NVFP4性能",
+        "2026年半导体产业转向垂直整合模式",
+        "印度加码半导体布局"
       ],
       "news": [
         {
-          "title": "2026年全球半导体行业展望",
-          "summary": "科技巨头追求新型垂直整合模式",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "新款AI专用PC可运行Llama等大型模型",
           "keyInsights": [
-            "循环融资成为行业趋势"
+            "AI芯片进入新一代计算时代"
+          ]
+        },
+        {
+          "title": "深入解析NVIDIA Blackwell Ultra：驱动AI工厂时代",
+          "summary": "致密NVFP4计算能力显著提升",
+          "keyInsights": [
+            "AI基础设施性能持续突破"
+          ]
+        },
+        {
+          "title": "2026年全球半导体产业展望",
+          "summary": "科技巨头追求垂直整合\"循环融资\"模式",
+          "keyInsights": [
+            "半导体资本配置策略重构"
           ]
         }
       ],
@@ -91,18 +120,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场爆发，mRNA技术开拓癌症治疗新路径。",
+      "categorySummary": "GLP-1减肥药市场持续扩张，武田制药获FDA批准新药。减肥药市场以超出预期的速度增长，对消费行业产生广泛影响。",
       "keyPoints": [
-        "GLP-1市场2035年预计达1900亿美元",
-        "Moderna与默克mRNA癌症疫苗获关注",
-        "瑞他鲁肽减重效果最显著但不良反应多"
+        "武田制药和Protagonist首创药物获FDA批准",
+        "Retatrutide在GLP-1类药物中减重效果最显著",
+        "GLP-1市场持续超出预期扩张"
       ],
       "news": [
         {
-          "title": "中国药物重塑生物技术行业",
-          "summary": "跨境授权协议持续增加",
+          "title": "FDA批准���田制药首创药物用于罕见血液病",
+          "summary": "武田与Protagonist合作开发的新药获批",
           "keyInsights": [
-            "中国创新药企国际��加速"
+            "罕见病治疗有新突破"
+          ]
+        },
+        {
+          "title": "什么在推动GLP-1的激增 | 摩根士丹利",
+          "summary": "减肥药市场超预期扩张，影响各消费行业",
+          "keyInsights": [
+            "GLP-1重塑医药与消费格局"
+          ]
+        },
+        {
+          "title": "14种新型减肥药物",
+          "summary": "Retatrutide减重效果最显著但副作用最多",
+          "keyInsights": [
+            "减肥药疗效与安全性需平衡"
           ]
         }
       ],
@@ -111,18 +154,39 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "折叠屏手机面临定价考验，iPhone 18传闻升温。",
+      "categorySummary": "iPhone 18系列传闻曝光：灵动岛缩小、摄像头凸起更小。美国延长华为部分限制90天。三星折叠屏手机出现故障。",
       "keyPoints": [
-        "三星Galaxy折叠屏未来走向存疑",
-        "iPhone 18灵动岛可能缩小",
-        "iPhone 17 Pro配色将停产"
+        "iPhone 18灵动岛缩小，摄像头凸起更小",
+        "美国对华为限制实施90天暂缓期",
+        "三星2000美元折叠屏手机出现故障"
       ],
       "news": [
         {
-          "title": "iPhone 18传闻与发布日期",
-          "summary": "折叠屏iPhone有望率先推出",
+          "title": "iPhone 18传闻：灵动岛缩小，摄像头凸起更小",
+          "summary": "iPhone 18 Pro可能采用与17 Pro相同内存配置",
           "keyInsights": [
-            "苹果折叠屏产品渐近"
+            "苹果持续优化设计细节"
+          ]
+        },
+        {
+          "title": "美国允许对部分华为限制措施实施90天暂缓期",
+          "summary": "以保持网络运行",
+          "keyInsights": [
+            "地缘政治影响持续"
+          ]
+        },
+        {
+          "title": "三星新款2000美元折叠屏手机部分已出现故障",
+          "summary": "高端折叠屏可靠性存疑",
+          "keyInsights": [
+            "折叠屏技术成熟度待验证"
+          ]
+        },
+        {
+          "title": "TECNO无边框概念手机在IFA 2026首次亮相",
+          "summary": "实现0mm可见边框，行业首个实际演示",
+          "keyInsights": [
+            "无边框设计有新突破"
           ]
         }
       ],
@@ -131,18 +195,32 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临危机，主机厂商更新安全游戏承诺。",
+      "categorySummary": "AAA游戏行业被指面临危机，前Nexon CEO认为行业正在衰落。Epic CEO Sweeney称行业困境如海啸。任天堂、索尼、微软更新安全游戏承诺。",
       "keyPoints": [
-        "AAA游戏行业被比作海啸来袭",
-        "Epic CEO承认行业困境",
-        "索尼任天堂Xbox更新安全游戏承诺"
+        "AAA游戏行业被指面临系统性危机",
+        "Epic CEO Sweeney诊断行业困境如海啸",
+        "三大主机厂商更新安全游戏原则"
       ],
       "news": [
         {
-          "title": "使命召唤：黑色行动6",
-          "summary": "Xbox平台重点新作",
+          "title": "前Nexon CEO认为AAA游戏行业正在衰落",
+          "summary": "2024-2025年大量AAA游戏令人失望",
           "keyInsights": [
-            "3A大作仍是主机竞争关键"
+            "游戏行业面临品质危机"
+          ]
+        },
+        {
+          "title": "Epic CEO Tim Sweeney对行业困境进行诊断",
+          "summary": "\"海啸般席卷整个AAA游戏业务\"",
+          "keyInsights": [
+            "行业头部企业承认困境"
+          ]
+        },
+        {
+          "title": "Xbox与任天堂和索尼共同更新安全游戏承诺",
+          "summary": "游戏主机厂商加强安全游戏措施",
+          "keyInsights": [
+            "行业自律持续强化"
           ]
         }
       ],
@@ -151,23 +229,71 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源成为主流能源，长时储能技术突破。",
+      "categorySummary": "太阳能和风能已不再是\"替代能源\"，成为主流。绿色氢能储能技术持续发展，但美国清洁能源转型面临政策阻力。",
       "keyPoints": [
-        "太阳能和风能不再被视为替代能源",
-        "美国风能太阳能持续增长",
-        "绿色氢能与长时储能技术进展"
+        "太阳能和风能成为主流能源而非替代能源",
+        "绿色氢能储能项目持续推进",
+        "美国清洁能源转型面临联邦政策阻力"
       ],
       "news": [
         {
-          "title": "绿色氢能储能项目完成",
-          "summary": "氢能相关方面已达成里程碑",
+          "title": "为什么太阳能和风能已不再是替代能源",
+          "summary": "可再生能源普及率持续提升",
           "keyInsights": [
-            "氢储能商业化提速"
+            "能源转型进入新阶段"
+          ]
+        },
+        {
+          "title": "2025年美国太阳能和风能增长",
+          "summary": "清洁能源转型面临新联邦政策阻力",
+          "keyInsights": [
+            "政策不确定性影响能源转型"
+          ]
+        },
+        {
+          "title": "绿色氢能储能解决方案",
+          "summary": "多余光伏风电能源通过氢能储存",
+          "keyInsights": [
+            "长时间储能技术持续进步"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "商业财经",
+      "categorySummary": "G20财长会议举行，美国螺旋式债务危机引发关注。特斯拉Cybercab遭NHTSA调查，大额定期存单利率下降。",
+      "keyPoints": [
+        "G20财长和央行行长会议召开",
+        "美国螺旋式债务危机引发担忧",
+        "6个月大额定期存单利率降至0.63%"
+      ],
+      "news": [
+        {
+          "title": "G20财长会议召开",
+          "summary": "国际经济协调持续进行",
+          "keyInsights": [
+            "全球政策协调面临挑战"
+          ]
+        },
+        {
+          "title": "美国螺旋式债务危机",
+          "summary": "债务问题引发政策讨论",
+          "keyInsights": [
+            "财政可持续性成焦点"
+          ]
+        },
+        {
+          "title": "中国新兴市场股价下跌",
+          "summary": "新兴市场面临调整压力",
+          "keyInsights": [
+            "地缘经济影响市场情绪"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
     }
   ]
 }
