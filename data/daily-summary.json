@@ -1,76 +1,53 @@
 {
-  "date": "2026-09-06",
-  "overallSummary": "AI领域监管与合作关系深化，科技巨头成立Agentic联盟；电动车行业面临安全审查，特斯拉FSD持续迭代；可再生能源持续扩张，太阳能发电增长31%。",
+  "date": "2026-09-07",
+  "overallSummary": "AI领域监管趋严，美参议员对大型科技与AI开发商合作展开反垄断调查；Nvidia发布Blackwell Ultra推动AI芯片性能再升级；GLP-1减肥药市场持续爆发。",
   "categories": [
     {
-      "name": "AI行业动态",
-      "categorySummary": "AI安全与治理成为焦点，Anthropic研发放缓引发关注，科技巨头与AI开发商合作关系面临国会调查。",
+      "name": "AI行业",
+      "categorySummary": "AI安全监管与竞争格局成为焦点，大型科技与AI公司合作面临反垄断审查。",
       "keyPoints": [
-        "微软持有OpenAI 27%股份，谷歌投资Anthropic，合作关系基于竞争恐惧而非共同愿景",
-        "Warren、Wyden对谷歌微软与AI开发商合作展开调查，涉及云服务提供商持有少数股权",
-        "Anthropic研发放缓凸显加强AI智能体安全的重要性"
+        "美参议员对微软-OpenAI、谷歌-Anthropic合作展开反垄断调查",
+        "微软持有OpenAI 27%股份，AI合作本质为防御性布局",
+        "微软谷歌正挑战Anthropic在AI编码模型领域的主导地位"
       ],
       "news": [
         {
-          "title": "微软、谷歌、OpenAI和Anthropic联手成立Agentic联盟",
-          "summary": "世界最大的AI科技公司将就共同面临的问题展开合作。",
+          "title": "沃伦、怀登启动对谷歌、微软的调查",
+          "summary": "调查谷歌、微软与Anthropic、OpenAI合作关系，担心抑制AI行业竞争",
           "keyInsights": [
-            "行业从竞争转向合作治理"
+            "合作本质是防御性而非战略性"
           ]
         },
         {
-          "title": "马来西亚推出Ryt Bank，首家AI银行",
-          "summary": "金融AI应用实践深化。",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "DGX Spark和DGX Station可运行Llama、DeepSeek等大模型",
           "keyInsights": [
-            "AI银行服务加速落地"
+            "AI基础设施性能大幅提升"
           ]
         }
-      ],
-      "id": "ai_industry",
-      "icon": "🧠"
-    },
-    {
-      "name": "汽车出行",
-      "categorySummary": "特斯拉Robotaxi服务扩大至奥斯汀，FSD v14发布；行业面临监管与贸易双重压力。",
-      "keyPoints": [
-        "特斯拉Cybercabs登陆奥斯汀街道，Robotaxi服务扩大",
-        "Tesla股价暴跌，NHTSA启动近3000辆汽车审计",
-        "汽车制造商敦促国会禁止中国汽车进入美国",
-        "特斯拉FSD v14是渐进式改进，目前最令人印象深刻的L2级别系统"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD v14版测试",
-          "summary": "渐进式改进，L2级别系统最佳表现。",
-          "keyInsights": [
-            "自动驾驶技术稳步推进"
-          ]
-        },
-        {
-          "title": "现代摩比斯欧洲首厂量产",
-          "summary": "斯洛伐克工厂年产能28万台电动动力系统。",
-          "keyInsights": [
-            "供应链全球化布局加速"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
+      ]
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达Blackwell Ultra和Vera Rubin芯片发布，印度130亿美元半导体计划推进。",
+      "categorySummary": "全球半导体销售环比增长6.4%，印度140亿美元半导体计划推进。",
       "keyPoints": [
-        "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片，DGX Spark和DGX Station",
-        "Blackwell架构提供10 petaFLOPS NVFP4性能，支持FP4/FP6精度",
-        "印度推出130亿美元半导体2.0计划"
+        "全球半导体7月销售额环比增长6.4%",
+        "Nvidia Blackwell Ultra密度型计算能力显著提升",
+        "印度140亿美元半导体2.0计划持续推进"
       ],
       "news": [
         {
-          "title": "英伟达Blackwell Ultra芯片发布",
-          "summary": "驱动AI工厂时代的芯片，推理性能提升30倍。",
+          "title": "全球半导体销售额7月环比增长6.4%",
+          "summary": "SIA发布最新数据，行业持续复苏",
           "keyInsights": [
-            "AI算力竞争持续升级"
+            "行业景气度回升"
+          ]
+        },
+        {
+          "title": "Nvidia Blackwell Ultra内部揭秘",
+          "summary": "NVFP4计算能力达10 petaFLOPS，驱动AI工厂时代",
+          "keyInsights": [
+            "AI芯片进入新代际"
           ]
         }
       ],
@@ -79,18 +56,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场激增超预期，中国药企跨境许可交易活跃。",
+      "categorySummary": "GLP-1减肥药市场超预期扩张，多款新型药物进展积极。",
       "keyPoints": [
-        "retatrutide在GLP-1治疗中减重效果最显著，但副作用最多",
-        "摩根士丹利：GLP-1市场以超出预期速度扩张",
-        "中国药物正在重塑生物技术行业，先声药业已签署五项跨境许可协议"
+        "摩根士丹利指GLP-1热潮超出预期",
+        "Retatrutide在GLP-1类中减重效果最显著",
+        "FDA批准武田、Protagonist罕见血癌药物"
       ],
       "news": [
         {
-          "title": "14种新型减肥药物",
-          "summary": "retatrutide减重效果最佳但副作用最多。",
+          "title": "什么推动GLP-1热潮",
+          "summary": "减肥药市场快速扩张，影响多个消费领域",
           "keyInsights": [
-            "减肥药竞争格局演变"
+            "市场增速超预期"
+          ]
+        },
+        {
+          "title": "FDA批准武田罕见血癌药物",
+          "summary": "武田与Protagonist合作药物获批",
+          "keyInsights": [
+            "创新疗法加速获批"
           ]
         }
       ],
@@ -99,18 +83,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻聚焦设计改进，灵动岛缩小，摄像头凸起更小。",
+      "categorySummary": "iPhone 17蝉联全球销量冠军，iPhone 18传闻聚焦设计更新与摄像升级。",
       "keyPoints": [
-        "iPhone 18灵动岛明显缩小，采用药丸形状设计",
-        "摄像头凸起比前代更小",
-        "可能拥有与iPhone 17 Pro相同RAM配置"
+        "iPhone 17稳居全球销量第一",
+        "iPhone 18将采用全新设计语言",
+        "Pro系列或配4800万像素潜望长焦"
       ],
       "news": [
         {
-          "title": "iPhone 18：关于苹果下一代机型的所有已知信息",
-          "summary": "灵动岛缩小，摄像头凸起更小。",
+          "title": "iPhone 17再次蝉联全球销量冠军",
+          "summary": "三星S26 Ultra首次进入前四",
           "keyInsights": [
-            "设计优化而非颠覆性创新"
+            "苹果高端市场主导地位稳固"
+          ]
+        },
+        {
+          "title": "5条最大的iPhone 18传言",
+          "summary": "新设计、固态按钮、摄像头重大升级",
+          "keyInsights": [
+            "苹果延续渐进式改进策略"
           ]
         }
       ],
@@ -118,44 +109,85 @@
       "icon": "📱"
     },
     {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临质量危机，前Nexon CEO与Epic CEO均表示行业困境。",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD向自动驾驶出租车演进，捷豹路虎启动裁员。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏行业正在衰落，2024-2025年大量失望发布",
-        "Epic CEO Tim Sweeney称海啸正席卷AAA游戏行业",
-        "任天堂、索尼和Xbox更新安全游戏承诺"
+        "特斯拉FSD v14.3.3演变为自动驾驶出租车",
+        "捷豹路虎启动裁员计划",
+        "本田丰田押注氢燃料电池技术"
       ],
       "news": [
         {
-          "title": "AAA游戏行业衰落讨论",
-          "summary": "行业从品质象征沦为失望代名词。",
+          "title": "特斯拉FSD正在演变为自动驾驶出租车",
+          "summary": "测试显示FSD持续进化",
           "keyInsights": [
-            "游戏行业面临商业模式挑战"
+            "自动驾驶商业化加速"
+          ]
+        },
+        {
+          "title": "特斯拉Cybercab无刹车管路",
+          "summary": "采用全新制动系统设计",
+          "keyInsights": [
+            "颠覆传统车辆架构"
           ]
         }
       ],
-      "id": "entertainment",
-      "icon": "🎮"
+      "id": "auto_ev",
+      "icon": "🚗"
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源超越煤炭，太阳能发电增长31%，但美国政策转向化石燃料。",
+      "categorySummary": "全球太阳能发电增长31%，可再生能源增速超越煤炭。",
       "keyPoints": [
-        "全球太阳能发电增长31%，可再生能源超越煤炭",
-        "绿色氢能与电池储能系统项目推进",
-        "特朗普政府将联邦政策从可再生能源转向煤炭、石油和天然气"
+        "全球太阳能发电增长31%",
+        "可再生能源不再被视为替代能源",
+        "绿色氢能与电池储能项目推进"
       ],
       "news": [
         {
-          "title": "全球太阳能发电增长31% 可再生能源超越煤炭",
-          "summary": "可再生能源不再被视为替代能源。",
+          "title": "全球太阳能发电增长31%",
+          "summary": "可再生能源增速超过煤炭",
           "keyInsights": [
-            "能源转型不可逆转"
+            "能源转型加速"
+          ]
+        },
+        {
+          "title": "绿色氢能电池储能解决方案",
+          "summary": "解决光伏风能过剩问题",
+          "keyInsights": [
+            "长时储能技术突破"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
+    },
+    {
+      "name": "游戏娱乐",
+      "categorySummary": "AAA游戏主导地位削弱，56%PC游戏收入来自前20名以外。",
+      "keyPoints": [
+        "56%PC游戏收入来自前20名之外",
+        "AAA游戏面临定价过高问题",
+        "任天堂索尼Xbox更新安全游戏承诺"
+      ],
+      "news": [
+        {
+          "title": "AAA游戏主导地位正在削弱",
+          "summary": "独立游戏崛起冲击大厂",
+          "keyInsights": [
+            "行业格局分散化"
+          ]
+        },
+        {
+          "title": "任天堂Switch更新修复问题",
+          "summary": "改善用户体验",
+          "keyInsights": [
+            "平台持续优化"
+          ]
+        }
+      ],
+      "id": "entertainment",
+      "icon": "🎮"
     }
   ]
 }
