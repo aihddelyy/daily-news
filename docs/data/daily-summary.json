@@ -1,94 +1,62 @@
 {
-  "date": "2026年9月8日",
-  "overallSummary": "AI行业合作格局深度重塑，微软多元化布局挑战OpenAI主导地位；全球可再生能源增长超越煤炭，太阳能成能源转型核心驱动力。",
+  "date": "2026-09-09",
+  "overallSummary": "AI行业巨头间的合作与监管博弈持续深化，同时电动汽车续航技术升级、GLP-1药物市场快速扩张，全球太阳能发电增长强劲。",
   "categories": [
     {
-      "name": "AI行业",
-      "categorySummary": "AI行业整合加速，NVIDIA收购Hugging Face、微软与多AI公司建立合作，行业格局从单一联盟走向多元化生态。",
+      "name": "AI行业动态",
+      "categorySummary": "微软与OpenAI修订协议重塑竞争格局，美国参议员对科技巨头AI投资展开反垄断调查。",
       "keyPoints": [
-        "英伟达130亿美元收购Hugging Face，深化开源AI布局",
-        "微软与Anthropic、Google、OpenAI及xAI同时建立合作",
-        "Microsoft-OpenAI重新调整伙伴关系，云服务灵活性增强"
+        "微软与OpenAI重新修订合作协议，为Anthropic和Google打开大门",
+        "沃伦、怀登对谷歌、微软与Anthropic、OpenAI合作关系展开反垄断调查",
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic"
       ],
       "news": [
         {
-          "title": "英伟达收购Hugging Face",
-          "summary": "英伟达宣布约130亿美元收购AI开发者平台Hugging Face",
+          "title": "微软与OpenAI重新修订协议",
+          "summary": "协议调整重塑��能为打造更具分裂性的联盟铺平道路。",
           "keyInsights": [
-            "开源AI生态系统整合加速"
+            "为Anthropic和Google进入微软生态创造条件"
           ]
         },
         {
-          "title": "微软多元化AI合作",
-          "summary": "微软宣布与Anthropic、Google、OpenAI、xAI建立合作伙伴关系",
+          "title": "沃伦、怀登展开AI合作调查",
+          "summary": "担忧AI行业企业合作伙伴关系会抑制竞争。",
           "keyInsights": [
-            "打破单一AI供应商依赖"
+            "AI领域投资引发监管关注"
           ]
         },
         {
-          "title": "Microsoft-OpenAI重组",
-          "summary": "微软与OpenAI重新调整合作协议，为Anthropic和Google开放大门",
+          "title": "Okta通过MCP范围控制瞄准AI代理令牌成本",
+          "summary": "针对AI代理的令牌成本控制方案发布。",
           "keyInsights": [
-            "AI合作格局从集中走向分散"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "全球债券收益率上升推高借贷成本，美国石油储备降至44年低点，年轻人通过借贷收购公司担任CEO。",
-      "keyPoints": [
-        "全球债券收益率上升推高普通民众借贷成本",
-        "美国石油储备在地区局势紧张之际触及44年低点",
-        "年轻人借款收购成熟公司以担任CEO"
-      ],
-      "news": [
-        {
-          "title": "全球债券收益率上升影响",
-          "summary": "全球债券抛售推高借贷成本，影响个人与企业财务",
-          "keyInsights": [
-            "融资环境趋紧"
-          ]
-        },
-        {
-          "title": "美���石油储备创新低",
-          "summary": "美国石油储备在地区局势紧张之际降至44年低点",
-          "keyInsights": [
-            "能源安全风险上升"
+            "企业级AI成本优化成为新焦点"
           ]
         }
       ],
-      "id": "business_finance",
-      "icon": "📊"
+      "id": "ai_industry",
+      "icon": "🧠"
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动汽车运行成本比汽油车低33%，特斯拉FSD向Robotaxi演进，主流车企布局增程式电动车。",
+      "categorySummary": "特斯拉FSD向Robotaxi演进，雷诺电动车续航升级至642公里。",
       "keyPoints": [
-        "电动汽车运行成本比汽油车低33%",
-        "特斯拉FSD v14.3.3演变为事实上的Robotaxi",
-        "现代、福特、斯特兰蒂斯推出配汽油发电机的大型电动车"
+        "特斯拉FSD v14.3.3正在演变为事实上的Robotaxi",
+        "特斯拉Cybercab有望尽快进入欧洲市场",
+        "雷诺风景E-Tech续航升级至399英里（642公里）"
       ],
       "news": [
         {
-          "title": "特斯拉FSD演变为Robotaxi",
-          "summary": "特斯拉FSD正演变为事实上的自动驾驶出租车服务",
+          "title": "特斯拉FSD正在演变为Robotaxi",
+          "summary": "实测显示FSD v14.3.3功能已接近自动驾驶出租车水平。",
           "keyInsights": [
-            "L2级ADAS向Robotaxi演进"
+            "ADAS向完全自动驾驶过渡加速"
           ]
         },
         {
-          "title": "EV运行成本优势",
-          "summary": "电动汽车运行成本现在比汽油车低33%",
+          "title": "雷诺风景E-Tech���动版升级",
+          "summary": "新增89kWh NMC电池，WLTP续航399英里，搭载Google Gemini。",
           "keyInsights": [
-            "电动车经济性优势显著"
-          ]
-        },
-        {
-          "title": "车企推增程式电动车",
-          "summary": "现代、福特、斯特兰蒂斯推出配汽油发电机的增程式电动车",
-          "keyInsights": [
-            "缓解里程焦虑的过渡方案"
+            "欧洲电动车续航竞争升级"
           ]
         }
       ],
@@ -97,25 +65,18 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin芯片，印度130亿美元半导体计划推进，行业进入新一轮垂直整合。",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin新品，印度140亿美元半导体计划推进。",
       "keyPoints": [
         "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-        "印度推出130亿美元半导体2.0计划",
-        "科技巨头推进新型垂直整合模式"
+        "DGX Spark和DGX Station可运行Llama、DeepSeek等大模型",
+        "印度140亿美元半导体2.0计划稳步推进"
       ],
       "news": [
         {
-          "title": "NVIDIA Blackwell Ultra发布",
-          "summary": "英伟达发布Blackwell Ultra GPU，驱动AI工厂时代",
+          "title": "英伟达Blackwell Ultra和Vera Rubin发布",
+          "summary": "新型笔记本电脑和台式机搭载新芯片，专注AI计算。",
           "keyInsights": [
-            "AI算力密度持续提升"
-          ]
-        },
-        {
-          "title": "印度半导体计划2.0",
-          "summary": "印度130亿美元半导体计划进入第二阶段",
-          "keyInsights": [
-            "全球芯片制造格局多元化"
+            "AI芯片性能密度持续提升"
           ]
         }
       ],
@@ -124,25 +85,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场预计翻三倍至1567亿美元，中国药企跨境许可交易活跃，CAR T疗法拓展自身免疫病领域。",
+      "categorySummary": "GLP-1药物市场高速增长，阿斯利康哮喘药物试验成功，中国药企跨境授权活跃。",
       "keyPoints": [
-        "GLP-1受体市场预计从535亿增至1567亿美元，复合增长17%",
-        "中国药企签署多项跨境许可协议，重塑生物技术行业",
-        "CAR T细胞疗法用于自身免疫性疾病面临市场最大化挑战"
+        "GLP-1药物市场预计2035年达1327.9亿美元",
+        "阿斯利康Tezspire哮喘药物试验达到主要目标",
+        "中国药企已签署五项跨境授权协议"
       ],
       "news": [
         {
-          "title": "GLP-1市场激增",
-          "summary": "全球GLP-1市场预计从534亿增至1567亿美元",
+          "title": "GLP-1药物市场预测",
+          "summary": "从2025年529.5亿美元增长至2035年1327.9亿美元。",
           "keyInsights": [
-            "减肥药市场超预期扩张"
+            "复合年增长率9.63%，减重药赛道持续火热"
           ]
         },
         {
-          "title": "中国药企跨境许可",
-          "summary": "先声药业等中国药企签署多项跨境许可协议",
+          "title": "阿斯利康Tezspire试验成功",
+          "summary": "针对慢性食道炎症性疾病患者达到主要试验目标。",
           "keyInsights": [
-            "中国药物重塑全球生物技术格局"
+            "哮喘药物适应症扩展"
           ]
         }
       ],
@@ -151,25 +112,18 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 17领跑全球市场，iPhone 18灵动岛将缩小，折叠屏手机市场新玩家入局。",
+      "categorySummary": "iPhone 18灵动岛缩小设计曝光，索尼Xperia 1 VIII即将上市。",
       "keyPoints": [
-        "iPhone 17再次成为全球最畅销手机",
-        "iPhone 18灵动岛预计明显缩小",
-        "摩托罗拉宽幅折叠屏手机即将上市"
+        "iPhone 18灵动岛面积将明显缩小",
+        "索尼Xperia 1 VIII搭载Android 16",
+        "折叠屏iPhone可能率先发布"
       ],
       "news": [
         {
-          "title": "iPhone 17销量领先",
-          "summary": "iPhone 17再次成为全球最畅销手机",
+          "title": "iPhone 18传闻汇总",
+          "summary": "灵动岛缩小，摄像头凸起更小，Pro机型RAM配置升级。",
           "keyInsights": [
-            "苹果持续主导高端市场"
-          ]
-        },
-        {
-          "title": "iPhone 18传闻",
-          "summary": "iPhone 18灵动岛缩小，摄像头凸起可能更小",
-          "keyInsights": [
-            "全面屏设计持续优化"
+            "苹果持续优化全面屏设计"
           ]
         }
       ],
@@ -177,53 +131,19 @@
       "icon": "📱"
     },
     {
-      "name": "游戏娱乐",
-      "categorySummary": "AAA游戏行业面临生存危机，任天堂、索尼、微软联合更新安全游戏承诺，主机厂商强化玩家安全合作。",
-      "keyPoints": [
-        "前Nexon CEO和Epic CEO均认为AAA游戏行业正在消亡",
-        "任天堂、索尼、微软联合更新安全游戏承诺",
-        "Xbox更新添加六项新功能"
-      ],
-      "news": [
-        {
-          "title": "AAA游戏行业危机",
-          "summary": "前Nexon CEO和Epic CEO均认为AAA游戏行业面临生存危机",
-          "keyInsights": [
-            "高成本AAA模式不可持续"
-          ]
-        },
-        {
-          "title": "安全游戏承诺更新",
-          "summary": "Xbox携手任天堂和索尼更新安全游戏承诺",
-          "keyInsights": [
-            "行业协作强化玩家保护"
-          ]
-        }
-      ],
-      "id": "entertainment",
-      "icon": "🎮"
-    },
-    {
       "name": "环保能源",
-      "categorySummary": "全球太阳能发电增长31%超越煤炭，可再生能源不再被视为替代能源，绿色氢能储能成重点方向。",
+      "categorySummary": "全球太阳能发电增长31%超越煤炭，绿色氢能项目持续推进。",
       "keyPoints": [
-        "2024年全球太阳能发电增长31%，首次超越所有电源增速",
-        "可再生能源不再被视为替代能源",
-        "电网基础设施成制约可再生能源发展瓶颈"
+        "全球太阳能发电增长31%，可再生能源增速超过煤炭",
+        "绿色氢能与电池储能系��项目已完成",
+        "州级清洁能源政策推动可再生能源发展"
       ],
       "news": [
         {
-          "title": "太阳能超越煤炭",
-          "summary": "全球太阳能发电增长31%，可再生能源增速超越煤炭",
+          "title": "全球太阳能发电增长强劲",
+          "summary": "太阳能发电增长31%，可再生能源不再是\"替代能源\"。",
           "keyInsights": [
-            "全球能源转型关键里程碑"
-          ]
-        },
-        {
-          "title": "绿色氢能储能",
-          "summary": "绿色氢能与电池储能系统项目持续推进",
-          "keyInsights": [
-            "长时储能技术成发展重点"
+            "清洁能源转型进入主流阶段"
           ]
         }
       ],
