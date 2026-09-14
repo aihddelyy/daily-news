@@ -1,35 +1,28 @@
 {
-  "date": "2026-09-13",
-  "overallSummary": "AI行业竞争格局生变，微软与OpenAI重新调整合作可能重塑联盟格局；与此同时，半导体行业加速推出AI芯片，可再生能源发电量创历史新高。",
+  "date": "2026-09-15",
+  "overallSummary": "AI监管争议升温，特斯拉FSD加速全球布局，半导体代工格局重塑中。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI技术正加速渗透商业全链条，头部企业竞争格局出现新变数",
+      "categorySummary": "AI领域监管与资本合作成为焦点，沃伦等人启动反垄断调查。",
       "keyPoints": [
-        "微软与OpenAI重新调整合作，可能改变AI联盟格局",
-        "企业加速采用AI优化供应链、库存和物流",
-        "Anthropic积极招募头部科技公司人才扩展生态"
+        "微软持OpenAI 27%股份，谷歌投资Anthropic",
+        "沃伦、威登对大型科技AI合作启动反垄断调查",
+        "谷歌Veo 3 AI视频工具全面开放"
       ],
       "news": [
         {
-          "title": "微软、OpenAI重新调整合作关系",
-          "summary": "双方重新定位合作，可能为更开放的联盟���平道路",
+          "title": "AI银行Ryt Bank在马来西亚上线",
+          "summary": "马来西亚首家AI银行正式运营",
           "keyInsights": [
-            "为Anthropic和Google等竞争对手创造合作机会"
+            "金融AI应用加速落地"
           ]
         },
         {
-          "title": "人工智能如何改变商业",
-          "summary": "AI优化库存管理、配送路线规划、供应链风险预测",
+          "title": "谷歌微软与AI开发商��作遭调查",
+          "summary": "美议员担忧AI商业合作抑制竞争",
           "keyInsights": [
-            "企业正利用AI实现仓储运营自动化"
-          ]
-        },
-        {
-          "title": "Anthropic从多家科技巨头挖角",
-          "summary": "投资1亿美元扩展Claude合作伙伴网络和认证项目",
-          "keyInsights": [
-            "加速全球合作伙伴组织建设"
+            "AI领域反垄断监管趋严"
           ]
         }
       ],
@@ -37,26 +30,53 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "电动汽车行业快速发展，特斯拉FSD持续迭代升级",
+      "name": "商业财经",
+      "categorySummary": "全球债市承压，医疗旅游与制造业并购活跃。",
       "keyPoints": [
-        "特斯拉FSD v14推出，目前最先进民用2级系统",
-        "Lucid Gravity SUV预计2026年发布",
-        "充电基础设施持续扩展完善"
+        "美联储加息预期升温，全球债市动荡",
+        "Apollo洽谈200亿美元收购强生骨科业务",
+        "人形机器人成为未来战场焦点"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14最新体验",
-          "summary": "FSD v14是目前民用车辆中最先进的2级自动驾驶系统",
+          "title": "阿尔巴尼亚医疗旅游兴起",
+          "summary": "游客寻求实惠植发和牙科治疗",
           "keyInsights": [
-            "增量改进但仍为辅助驾驶级别"
+            "跨境医疗需求增长"
           ]
         },
         {
-          "title": "EVgo与The Boring Company扩展",
-          "summary": "充电网络持续扩张推动EV普���",
+          "title": "人形机器人布局未来战场",
+          "summary": "基金会押注战斗机器人技术",
           "keyInsights": [
-            "基础设施完善支撑行业发展"
+            "军事科技向自动化转型"
+          ]
+        }
+      ],
+      "id": "business_finance",
+      "icon": "📊"
+    },
+    {
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD加速全球部署，EV可持续制造成趋势。",
+      "keyPoints": [
+        "特斯拉FSD v13.2发布，计算能力提升10倍",
+        "FSD将于2026年前在日本推出",
+        "Rivian电池回收为工厂供电"
+      ],
+      "news": [
+        {
+          "title": "��斯拉FSD v13.2重大突破",
+          "summary": "特斯拉称其为发展里程碑时刻",
+          "keyInsights": [
+            "自动驾驶能力飞跃"
+          ]
+        },
+        {
+          "title": "特斯拉FSD日本获批",
+          "summary": "日本约4万辆特斯拉可安装",
+          "keyInsights": [
+            "FSD亚洲市场突破"
           ]
         }
       ],
@@ -65,25 +85,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI芯片需求激增，新一代产品加速推出",
+      "categorySummary": "代工格局重塑，Intel寻求与三星联盟对抗台积电。",
       "keyPoints": [
-        "Nvidia发布Blackwell Ultra和Vera Rubin芯片",
-        "7月全球半导体销售额环比增长6.4%",
-        "科技巨头推进垂直整合新模式"
+        "Intel寻求与三星建立代工联盟",
+        "英伟达Blackwell AI芯片发布",
+        "三星台积电英特尔三足鼎立"
       ],
       "news": [
         {
-          "title": "Nvidia发布Blackwell Ultra和Vera Rubin",
-          "summary": "DGX Spark和DGX Station可运行Llama等大型AI模型",
+          "title": "Intel与三星代工联盟传闻",
+          "summary": "报道称双方洽谈合作抗台积电",
           "keyInsights": [
-            "AI专用PC产品线扩展"
+            "代工市场格局生变"
           ]
         },
         {
-          "title": "2026年全球半导体行业展望",
-          "summary": "科技和芯片巨头推进新型垂直整合模式",
+          "title": "英伟达Blackwell芯片发布",
+          "summary": "AI芯片、机器人、AGI多重突破",
           "keyInsights": [
-            "循环融资成为资本配置新策略"
+            "AI算力竞争加剧"
           ]
         }
       ],
@@ -92,25 +112,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1减肥药研发竞争激烈，癌症疫苗有新进展",
+      "categorySummary": "CAR-T疗法遇挫，GLP-1减肥药市场高速增长。",
       "keyPoints": [
-        "GLP-1减肥药竞争加剧，retatrutide减重效果最显著",
-        "癌症疫苗研发借用COVID免疫记忆技术",
-        "Karyopharm面临债务谈判压力"
+        "诺华CAR-T试验三例死亡已暂停",
+        "GLP-1药物市场2035年预计达1327亿美元",
+        "Retatrutide减重效果最显著但副作用最多"
       ],
       "news": [
         {
-          "title": "新一代GLP-1减肥药物",
-          "summary": "诺和诺德Wegovy和礼来产品竞争激烈",
+          "title": "CAR-T疗法试验出现死亡",
+          "summary": "诺华和BMS项目均被暂停",
           "keyInsights": [
-            "retatrutide减重效果最显著但副作用最多"
+            "细胞疗法安全性挑战"
           ]
         },
         {
-          "title": "癌症疫苗新进展",
-          "summary": "借用COVID免疫记忆激活T细胞对抗肿瘤",
+          "title": "GLP-1药物市场预测",
+          "summary": "2035年规模将达1327.9亿美元",
           "keyInsights": [
-            "为每位患者肿瘤量身定制"
+            "代谢药物黄金赛道"
           ]
         }
       ],
@@ -119,25 +139,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18传闻持续，折叠屏手机全球化布局",
+      "categorySummary": "iPhone 18设计曝光，苹果延续渐进式迭代策略。",
       "keyPoints": [
-        "iPhone 18系列预计搭载更小摄像头凸起和灵动岛",
-        "vivo折叠屏手机等待全球上市",
-        "iPhone 18 Pro系列将率先发布"
+        "iPhone 18 Pro采用打孔屏设计",
+        "灵动岛缩小呈药丸形",
+        "A20芯片采用新制程工艺"
       ],
       "news": [
         {
-          "title": "iPhone 18发布预期",
-          "summary": "摄像头凸起更小，灵动岛将明显缩小",
+          "title": "iPhone 18最新传闻",
+          "summary": "灵动岛缩小，摄像头凸起减小",
           "keyInsights": [
-            "Pro机型功能领先标准版"
+            "苹果设计微调策略"
           ]
         },
         {
-          "title": "vivo折叠屏手机动态",
-          "summary": "X Fold6等待全球市场推出",
+          "title": "iPhone 18处理器信息",
+          "summary": "A20芯片采用晶圆级新工艺",
           "keyInsights": [
-            "折叠屏技术持续演进"
+            "制程工艺持续升级"
           ]
         }
       ],
@@ -146,25 +166,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏产业面临挑战，行业呼吁转型",
+      "categorySummary": "AAA游戏泡沫破裂，任天堂逆势拯救实体媒体。",
       "keyPoints": [
-        "AAA游戏行业��沫破裂，预算和方向问题凸显",
-        "三大厂商更新安全游戏承诺",
-        "任天堂发布Ocarina of Time重制版"
+        "AAA游戏行业面临严重玩家倦怠",
+        "任天堂《塞尔达》重制版引发关注",
+        "索尼Xbox更新安全游戏承诺"
       ],
       "news": [
         {
-          "title": "AAA游戏产业崩溃",
-          "summary": "对普通玩家可能是好消息，行业需向可持续模式转型",
+          "title": "AAA游戏泡沫破裂",
+          "summary": "业界将困境归咎于玩家",
           "keyInsights": [
-            "降低预算、简化方向成为呼声"
+            "游戏行业模式受质疑"
           ]
         },
         {
-          "title": "Xbox与任天堂、索尼更新安全游戏承诺",
-          "summary": "共同承诺改善玩家安全",
+          "title": "任天堂拯救实体媒体",
+          "summary": "《时之笛》重制版提振市场",
           "keyInsights": [
-            "三大家联合制定行业标准"
+            "Switch生态持续发力"
           ]
         }
       ],
@@ -173,57 +193,30 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "可再生能源发展强劲，绿色氢能前景广阔",
+      "categorySummary": "美国清洁能源持续扩张，绿色氢能储能将改变电网。",
       "keyPoints": [
-        "今年春季可再生能源发电量创历史新高",
-        "绿色氢能与电池储能将改变电网格局",
-        "新西兰SunScout寻求美国市场扩张"
+        "美国风电和太阳能进展惊人",
+        "绿色氢能成为长期储能方案",
+        "新西兰清洁技术公司拓展美国市场"
       ],
       "news": [
         {
-          "title": "可再生能源发电创新高",
-          "summary": "欧盟敦促减少化石燃料使用",
+          "title": "美国可再生能源增长",
+          "summary": "太阳能和风电扩张加速",
           "keyInsights": [
-            "清洁能源转型加速推进"
+            "清洁能源转型提速"
           ]
         },
         {
           "title": "绿色氢能与电池储能",
-          "summary": "绿色氢能适合长期储能，锂电池���转型前沿",
+          "summary": "大型储能项目已完成建设",
           "keyInsights": [
-            "两者结合将重塑电网"
+            "长时储能技术突破"
           ]
         }
       ],
       "id": "clean_energy",
       "icon": "🌿"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "香港吸引人才回流，IPO市场活跃",
-      "keyPoints": [
-        "香港扭转人才外流失局面",
-        "IPO市场蓬勃发展",
-        "阿尔巴尼亚医疗旅游兴起"
-      ],
-      "news": [
-        {
-          "title": "香港吸引专业人士回流",
-          "summary": "扭转2019年动荡和疫情引发的人才外流",
-          "keyInsights": [
-            "IPO市场繁荣带动复苏"
-          ]
-        },
-        {
-          "title": "阿尔巴尼亚医疗旅游",
-          "summary": "实惠的植发和牙科服务吸引游客",
-          "keyInsights": [
-            "性价比医疗成新趋势"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
     }
   ]
 }
