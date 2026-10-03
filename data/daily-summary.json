@@ -1,35 +1,21 @@
 {
-  "date": "2026-10-02",
-  "overallSummary": "AI产业监管升级与半导体持续高增长成为今日核心议题，科技巨头与AI初创企业合作引发国会调查，同时全球清洁能源转型面临新阻力。",
+  "date": "2026-10-03",
+  "overallSummary": "AI领域成立AGI评估标准委员会；电动汽车行业加速洗牌，特斯拉FSD v14与小鹏全国自动驾驶展开竞争；全球半导体销售额同比增长近94%。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI监管与商业化并行推进，科技巨头与AI初创企业的深度绑定引发立法者关注。",
+      "categorySummary": "AGI评估标准委员会正式成立，为通用人工智能建立统一评估框架。",
       "keyPoints": [
-        "国会对微软、谷歌与Anthropic/OpenAI合作关系展开调查",
-        "GitHub Copilot转向多元化AI模型支持",
-        "AI技术向天气预报等垂直领域加速渗透"
+        "AGI评估标准委员会成立",
+        "多维评估框架旨在提供客观标准",
+        "应对日益增强的通用人工智能能力"
       ],
       "news": [
         {
-          "title": "沃伦、怀登对谷歌、微软与AI开发者合作展开调查",
-          "summary": "涉及云服务提供商少数股权和重大投资交易",
+          "title": "AGI评估标准委员会今日成立",
+          "summary": "为通用人工智能提供客观的多维评估框架",
           "keyInsights": [
-            "AI初创企业与科技巨头的资本绑定模式受到监管审视"
-          ]
-        },
-        {
-          "title": "Anthropic为其与Amazon、Google合作关系辩护",
-          "summary": "反驳监管担忧，强调合作独立性",
-          "keyInsights": [
-            "AI安全与商业利益的平衡成焦点"
-          ]
-        },
-        {
-          "title": "微软GitHub Copilot向Anthropic和Google开放",
-          "summary": "Copilot摆脱单一OpenAI依赖",
-          "keyInsights": [
-            "AI开发平台多元化趋势加速"
+            "行业标准化进程启���"
           ]
         }
       ],
@@ -37,60 +23,33 @@
       "icon": "🧠"
     },
     {
-      "name": "商业财经",
-      "categorySummary": "传统零售寻求转型，消费品巨头加大产能投资。",
-      "keyPoints": [
-        "Nike销售持续下滑，计划精简公司规模",
-        "丹麦乳业巨头投资7100万美元扩产冰岛酸奶",
-        "Golden Corral利用数据分析优化自助餐运营"
-      ],
-      "news": [
-        {
-          "title": "Nike计划缩小公司规模，销售下滑加深",
-          "summary": "WSJ报道Nike面临严峻销售压力",
-          "keyInsights": [
-            "运动品牌面临库存与需求双重挑战"
-          ]
-        },
-        {
-          "title": "欧洲科技股上涨，Anthropic计划公开上市",
-          "summary": "AI公司上市乐观情绪盖过油价和债券收益率担忧",
-          "keyInsights": [
-            "AI投资情绪高涨，市场看好IPO前景"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "汽车出行",
-      "categorySummary": "电动车市场竞争加剧，自动驾驶技术持续迭代。",
+      "categorySummary": "特斯拉FSD v14发布，小鹏率先实现全国自动驾驶覆盖，Rivian股价跌至四个月低点。",
       "keyPoints": [
-        "丰田电动车销量占比超60%，转型成效显著",
-        "特斯拉FSD v14成为最强L2级系统",
-        "法拉第未来转向自动驾驶出租车领域"
+        "特斯拉FSD v14为L2级别渐进式改进",
+        "小鹏成为首家全国范围运营半自动驾驶的中国车企",
+        "法拉第未来转型Robotaxi"
       ],
       "news": [
         {
-          "title": "特斯拉FSD v14最新测试：令人惊叹的完全自动驾驶",
-          "summary": "量产车型上最令人印象深刻的L2级系统",
+          "title": "特斯拉推出FSD第14版：能否提振其自动驾驶野心？",
+          "summary": "FSD v14.1发布，标志自动驾驶重大一步",
           "keyInsights": [
-            "FSD持续迭代，渐进式改进仍是主流"
+            "L2级别最强系统"
           ]
         },
         {
-          "title": "Lucid在荷挪注册六款电动车",
-          "summary": "欧洲市场扩张步伐加快",
+          "title": "小鹏汽车扩大自动驾驶系统覆盖全国",
+          "summary": "首家中国大陆车企实现半自动驾驶全国运营",
           "keyInsights": [
-            "高端电动车品牌加速全球化布局"
+            "直面特斯拉FSD挑战"
           ]
         },
         {
-          "title": "Lemonade自动驾驶汽车保险扩展至田纳西州",
-          "summary": "特斯拉FSD用户可享50%折扣",
+          "title": "法拉第未来转型Robotaxi",
+          "summary": "计划机器人业务独立上市",
           "keyInsights": [
-            "自动驾驶数据开始影响保险定价"
+            "战略重心转移"
           ]
         }
       ],
@@ -99,25 +58,25 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "全球芯片销售额同比激增93.9%，英伟达持续领跑AI芯片赛道。",
+      "categorySummary": "全球半导体销售强劲增长，英伟达发布Blackwell Ultra和Vera Rubin新芯片。",
       "keyPoints": [
-        "2026年4月全球销售额1105亿美元，同比增93.9%",
-        "英伟达发布Blackwell Ultra和Vera Rubin芯片",
-        "循环融资模式重塑半导体资本配置"
+        "4月全球销售额1105亿美元，同比增93.9%",
+        "英伟达Blackwell Ultra和Vera Rubin AI芯片发布",
+        "DGX Spark和DGX Station可运行大型AI模型"
       ],
       "news": [
         {
-          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
-          "summary": "DGX Spark和DGX Station可运行Llama、DeepSeek等大模型",
+          "title": "Nvidia发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "DGX系列AI电脑将能运行Llama/DeepSeek模型",
           "keyInsights": [
-            "英伟达巩固AI芯片市场领导地位"
+            "AI计算能力持续突破"
           ]
         },
         {
-          "title": "2026年半导体行业展望：循环融资模式",
-          "summary": "科技巨头追求新型垂直整合",
+          "title": "2026年4月全球半导体销售额",
+          "summary": "1105亿美元，环比增11%，同比增93.9%",
           "keyInsights": [
-            "芯片行业资本策略正在深刻变革"
+            "行业维持高增长态势"
           ]
         }
       ],
@@ -126,25 +85,25 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "减肥药物持续火热，数字健康平台加入战局。",
+      "categorySummary": "减肥药赛道持续火热，诺和诺德、阿斯利康等巨头加码布局。",
       "keyPoints": [
-        "Retatrutide减重效果最显著但副作用最多",
-        "Noom将提供GLP-1药物复合版本",
-        "Kyverna向FDA首个自身免疫病CAR T疗法迈进"
+        "诺和诺德3亿美元预付款获恒瑞口服减肥药许可",
+        "阿斯利康20亿美元收购Summit押注癌症",
+        "Noom等数字健康平台入局GLP-1药物"
       ],
       "news": [
         {
-          "title": "Retatrutide：GLP-1类减重效果最佳但副作用最多",
-          "summary": "荟���分析证实最强减重效果与最多副作用并存",
+          "title": "诺和诺德将支付3亿美元预付款获得恒瑞每周口服减肥药的许可",
+          "summary": "3亿美元预付款获得口服减肥药许可",
           "keyInsights": [
-            "减肥药疗效与安全性平衡仍待优化"
+            "中国药企out-licensing加速"
           ]
         },
         {
-          "title": "Noom将提供GLP-1药物",
-          "summary": "数字健康公司推出复合版作为更便宜替代品",
+          "title": "阿斯利康以20亿美元收购Summit股份",
+          "summary": "20亿美元收购Summit股份押注癌症领域",
           "keyInsights": [
-            "减肥药市场竞争加剧，价格战开启"
+            "肿瘤赛道并购升温"
           ]
         }
       ],
@@ -153,25 +112,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果iPhone 17发布日期泄露，华为Mate 90系列携顶级配置亮相。",
+      "categorySummary": "三星折叠屏手机质量问题浮现，iPhone 18传闻聚焦2nm芯片和屏下技术。",
       "keyPoints": [
-        "iPhone 17系列或9月9日发布",
-        "华为Mate 90 Pro Max配备1英寸摄像头和12000尼特显示屏",
-        "iPhone 18将迎来重大技术升级"
+        "三星2000美元折叠屏手机部分出现故障",
+        "iPhone 18将采用A20芯片（2nm制程）",
+        "屏下摄像头技术成为升级重点"
       ],
       "news": [
         {
-          "title": "iPhone 17系列发布日期泄露",
-          "summary": "泄露文件显示苹果或于9月9日发布",
+          "title": "三星新款2000美元折叠屏手机部分已出现故障",
+          "summary": "高端折叠屏手机质量可靠性受质疑",
           "keyInsights": [
-            "苹果新机发布周期即将启动"
+            "折叠屏品类面临品质瓶颈"
           ]
         },
         {
-          "title": "华为Mate 90 Pro Max发布",
-          "summary": "搭载1英寸摄像头、12000尼特显示屏、6800mAh电池",
+          "title": "iPhone 18传言汇总",
+          "summary": "A20芯片2nm制程，屏下技术，相机创新",
           "keyInsights": [
-            "华为旗舰机在屏幕亮度上创纪录"
+            "下一代iPhone全面升级"
           ]
         }
       ],
@@ -180,25 +139,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏面临质量危机，多款重磅新作即将上市。",
+      "categorySummary": "AAA游戏行业面临严峻挑战，多家工作室关闭，Epic CEO形容为\"海啸\"。",
       "keyPoints": [
-        "玩家认为AAA游戏陷入停滞",
         "2024年超20家游戏工作室关闭",
-        "《巫师3》重置版和《EA SPORTS FC 27》即将发售"
+        "AAA游戏品质下滑严重",
+        "Xbox主机持续更新迭代"
       ],
       "news": [
         {
-          "title": "前Nexon CEO认为AAA游戏行业正在消亡",
-          "summary": "2024-2025年大量令人失望的AAA游戏发布",
+          "title": "AAA游戏的衰落",
+          "summary": "大量工作室关闭，行业持续低迷",
           "keyInsights": [
-            "大型游戏开发商面临创新瓶颈"
+            "行业面临结构性挑战"
           ]
         },
         {
-          "title": "巫师3重置版和EA SPORTS FC 27即将发售",
-          "summary": "任天堂官网显示多款重磅游戏9月底上市",
+          "title": "Epic公司CEO Tim Sweeney评析行业困境",
+          "summary": "形容行业困境如海啸席卷",
           "keyInsights": [
-            "经典游戏重制成行业趋势"
+            "高层对行业前景担忧"
           ]
         }
       ],
@@ -207,25 +166,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "美国清洁能源面临政策阻力，可再生能源与储能技术持续发展。",
+      "categorySummary": "美国风能太阳能持续增长，但联邦政策带来新阻力；绿氢储能技术取得进展。",
       "keyPoints": [
-        "美国清洁能源转型面临新联邦政策阻力",
-        "绿色氢能与电池储能系统成为技术焦点",
-        "抽水蓄能配合电池成为最平衡储能方案"
+        "州级行动持续推动可再生能源发展",
+        "联邦政策对清洁能源转型形成阻力",
+        "绿色氢能与电池储能成为研究热点"
       ],
       "news": [
         {
-          "title": "美国2025年风能和太阳能增长面临阻力",
-          "summary": "新联邦政策对清洁能源转型构成挑战",
+          "title": "美国风能和太阳能的惊人进展",
+          "summary": "尽管困难重重，可再生能源持续扩张",
           "keyInsights": [
-            "能源转型遭遇政策不确定性"
+            "州政府主导增长"
           ]
         },
         {
-          "title": "储能系统与绿色氢能系统的综合优化",
-          "summary": "抽水蓄能配合电池成为最平衡可行方案",
+          "title": "绿色氢能与电池储能系统",
+          "summary": "储能项目取得里程碑进展",
           "keyInsights": [
-            "混合储能方案成未来电网关键"
+            "混合储能方案兴起"
           ]
         }
       ],
