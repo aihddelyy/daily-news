@@ -1,35 +1,35 @@
 {
-  "date": "2026-10-13",
-  "overallSummary": "AI领域合作竞争加剧，Anthropic与科技巨头深度绑定；汽车自动驾驶竞争升温，小鹏全国扩展与特斯拉FSD14对峙；英伟达发布新一代AI芯片加速算力竞赛。",
+  "date": "2026年10月14日",
+  "overallSummary": "AI行业监管审查升温，国会调查微软谷歌与AI开发商合作关系；英伟达发布新一代AI芯片加速算力竞争；小鹏自动驾驶覆盖全中国挑战特斯拉FSD主导地位。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AI公司竞合关系重塑，Anthropic与亚马逊谷歌深度绑定，微软Copilot多元化。",
+      "categorySummary": "国会对微软、谷歌与AI开发商合作展开调查，涉及股权与投资关系审查。",
       "keyPoints": [
-        "Anthropic与亚马逊谷歌合作关系受关注",
-        "微软GitHub Copilot支持Anthropic和Google模型",
-        "四大AI公司成立前沿模型论坛"
+        "沃伦、威登就谷歌微软与Anthropic、OpenAI合作发起国会调查",
+        "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+        "Anthropic为与亚马逊、谷歌合作辩护，称基于独立运营原则"
       ],
       "news": [
         {
-          "title": "Anthropic为与亚马逊谷歌合作辩护",
-          "summary": "Anthropic回应与亚马逊谷歌合作关系的质疑，���调独立性",
+          "title": "沃伦、威登就谷歌、微软与AI开发商合作关系发��调查",
+          "summary": "CSP大量投资获取AI开发人才和计算能力，涉及少数股权",
           "keyInsights": [
-            "AI初创公司与大厂绑定成趋势"
+            "合作关系可能涉及少数股权及大量投资"
           ]
         },
         {
-          "title": "微软Copilot支持Anthropic和Google",
-          "summary": "微软GitHub Copilot不再局限于OpenAI，新增Anthropic和Google模型支持",
+          "title": "微软持有OpenAI 27%股份，谷歌投资Anthropic",
+          "summary": "AI领域最大合作建立在竞争恐惧而非共同愿景之上",
           "keyInsights": [
-            "AI模型供应商多元化趋势明显"
+            "AI竞争基于恐惧驱动投资"
           ]
         },
         {
-          "title": "前沿模型论坛成立",
-          "summary": "Anthropic、谷歌、微软、OpenAI联合成立行业机构，专注AI安全开发",
+          "title": "OpenAI竞争对手Anthropic为其与亚马逊、谷歌的合作关系辩护",
+          "summary": "Anthropic强调保持独立运营和使命",
           "keyInsights": [
-            "头部AI公司联合建立行业标准"
+            "AI初创企业强调独立性以获取信任"
           ]
         }
       ],
@@ -37,87 +37,26 @@
       "icon": "🧠"
     },
     {
-      "name": "汽车出行",
-      "categorySummary": "中美国自动驾驶竞争白热化，特斯拉FSD14与小鹏XNGP正面交锋。",
-      "keyPoints": [
-        "特斯拉FSD 14版本正式发布",
-        "小鹏成首家全国运营自动驾驶的中国车企",
-        "Lucid股价因PIF撤资暴跌"
-      ],
-      "news": [
-        {
-          "title": "特斯拉FSD 14版本发布",
-          "summary": "特斯拉推出FSD 14.1版本，CEO马斯克称其为重大飞跃",
-          "keyInsights": [
-            "特斯拉自动驾驶持续迭代"
-          ]
-        },
-        {
-          "title": "小鹏全国扩展自动驾驶",
-          "summary": "小鹏XNGP系统在中���全境运营，首家全国覆盖的中国车企",
-          "keyInsights": [
-            "中国自动驾驶技术实现里程碑突破"
-          ]
-        },
-        {
-          "title": "Lucid股价暴跌",
-          "summary": "因PIF撤资影响，Lucid股价大幅下跌，RBC下调评级",
-          "keyInsights": [
-            "电动车企融资环境趋紧"
-          ]
-        }
-      ],
-      "id": "auto_ev",
-      "icon": "🚗"
-    },
-    {
-      "name": "商业财经",
-      "categorySummary": "AI并购活跃，社交平台私有化浪潮，Bumble考虑退市。",
-      "keyPoints": [
-        "亚马逊70亿美元收购Decart",
-        "Bumble谈判10亿美元私有化",
-        "特朗普计划出售石油储备"
-      ],
-      "news": [
-        {
-          "title": "亚马逊收购Decart",
-          "summary": "亚马逊洽谈以约70亿美元收购AI初创公司Decart",
-          "keyInsights": [
-            "大厂加速AI基础设施布局"
-          ]
-        },
-        {
-          "title": "Bumble私有化谈判",
-          "summary": "约会应用Bumble深入谈判以10亿美元估值私有化",
-          "keyInsights": [
-            "社交平台面临增长瓶颈"
-          ]
-        }
-      ],
-      "id": "business_finance",
-      "icon": "📊"
-    },
-    {
       "name": "半导体芯片",
-      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin芯片，算力竞争升级。",
+      "categorySummary": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片，加速AI算力竞争。",
       "keyPoints": [
-        "英伟达发布Blackwell Ultra GPU",
-        "Vera Rubin AI芯片面世",
-        "DGX Spark和DGX Station个人AI电脑发布"
+        "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+        "DGX Spark和DGX Station两款AI专用PC发布",
+        "可运行Llama、DeepSeek等大型AI模型"
       ],
       "news": [
         {
-          "title": "英伟达发布新AI芯片",
-          "summary": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+          "title": "英伟达发布Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "两款AI专用PC可运行大型语言模型",
           "keyInsights": [
-            "AI芯片性能持续翻倍"
+            "AI芯片向消费级市���扩展"
           ]
         },
         {
-          "title": "英伟达AI个人电脑",
-          "summary": "DGX Spark和DGX Station可运行Llama和DeepSeek等大模型",
+          "title": "英伟达在GTC大会发布Blackwell AI芯片",
+          "summary": "相比H100 GPU推理性能提升30倍，能耗降低25倍",
           "keyInsights": [
-            "AI算力走向个人终端"
+            "芯片性能持续指数级提升"
           ]
         }
       ],
@@ -125,19 +64,60 @@
       "icon": "💻"
     },
     {
-      "name": "生物医药",
-      "categorySummary": "GLP-1减肥药市场持续扩张，数字健康公司入局。",
+      "name": "汽车出行",
+      "categorySummary": "特斯拉FSD 14发布，小鹏自动驾驶系统覆盖全中国，竞争加剧。",
       "keyPoints": [
-        "Noom推出GLP-1复合药物",
-        "GLP-1市场中东非洲增长",
-        "新型癌症免疫疗法即将裁决"
+        "特斯拉推出FSD 14版本，被指存在安全隐患",
+        "小鹏成为首家自动驾驶覆盖全中国的中国大陆车企",
+        "X NGP系统升级，全国范围运营"
       ],
       "news": [
         {
-          "title": "Noom提供GLP-1药物",
-          "summary": "数字健康公司Noom推出GLP-1复合版本作为廉价替代",
+          "title": "特斯拉推出FSD 14版本",
+          "summary": "重大技术飞跃，CEO埃隆马斯克认可",
           "keyInsights": [
-            "减肥药可及性提升"
+            "FSD持续迭代但安全性存疑"
+          ]
+        },
+        {
+          "title": "小鹏扩展自动驾驶系统覆盖全中国",
+          "summary": "成为首家全国范围运营半自动驾驶的中国车企",
+          "keyInsights": [
+            "中国车企挑战特斯拉自动驾驶主导地位"
+          ]
+        }
+      ],
+      "id": "auto_ev",
+      "icon": "🚗"
+    },
+    {
+      "name": "生物医药",
+      "categorySummary": "GLP-1减肥药市场快速增长，数字健康公司入局提供替代方案。",
+      "keyPoints": [
+        "GLP-1减肥药市场2026-2033预期快速增长",
+        "Noom推出复合版GLP-1药物作为更便宜替代品",
+        "盐野义收购IntraBio扩展罕见疾病业务"
+      ],
+      "news": [
+        {
+          "title": "GLP-1激动剂减肥药物市场快速增长",
+          "summary": "拉丁美洲市场快速发展，巴西领先",
+          "keyInsights": [
+            "减肥药市场需求持续旺盛"
+          ]
+        },
+        {
+          "title": "Noom将推出新减肥项目提供GLP-1药物",
+          "summary": "提供复合制剂版本作为消费者更便宜选择",
+          "keyInsights": [
+            "数字健康公司入局降低用药成本"
+          ]
+        },
+        {
+          "title": "盐野义收购IntraBio扩展罕见疾病业务",
+          "summary": "收购神经退行性疾病疗法开发公司",
+          "keyInsights": [
+            "药企加速布局罕见病领域"
           ]
         }
       ],
@@ -146,18 +126,25 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "iPhone 18 Pro传闻可变光圈和涨价，荣耀强化视频拍摄。",
+      "categorySummary": "iPhone 18传闻持续发酵，可变光圈摄像头和价格上涨成焦点。",
       "keyPoints": [
-        "iPhone 18 Pro或配备可变光圈",
-        "iPhone 18 Pro预计涨价200美元",
-        "荣耀强化旗舰视频能力"
+        "iPhone 18 Pro预计搭载可变光圈摄像头",
+        "可能上涨200美元，配备A20芯片",
+        "灵动岛缩小，电池续航改进"
       ],
       "news": [
         {
-          "title": "iPhone 18 Pro爆料",
-          "summary": "iPhone 18 Pro或涨价200美元，配备可变光圈和更小灵动岛",
+          "title": "iPhone 18传闻：可变光圈摄像头和价格上涨",
+          "summary": "可变光圈、200美元涨幅、A20芯片",
           "keyInsights": [
-            "苹果持续升级影像系统"
+            "iPhone 18 Pro或成史上最大升级"
+          ]
+        },
+        {
+          "title": "三星新款2000美元折叠手机部分出现故障",
+          "summary": "高端折叠屏手机质量问题引发关注",
+          "keyInsights": [
+            "折叠屏可靠性仍是行业挑战"
           ]
         }
       ],
@@ -166,25 +153,25 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA游戏质量争议持续，三大主机厂商更新安全游戏原则。",
+      "categorySummary": "玩家和行业人士认为AAA游戏停滞不前，质量问题引发担忧。",
       "keyPoints": [
-        "前Nexon CEO认为AAA游戏正在消亡",
-        "Rainbow Six Mobile七个月后停运",
-        "任天堂索尼Xbox更新安全游戏原则"
+        "玩家认为3A游戏停滞不前",
+        "前Nexon CEO认为AAA游戏行业正在消亡",
+        "2024-2025年大量AAA游戏令人失望"
       ],
       "news": [
         {
-          "title": "AAA游戏产业争议",
-          "summary": "前Nexon CEO表示AAA游戏正在消亡，2024-2025年多款游戏令人失望",
+          "title": "玩家认为3A游戏停滞不前",
+          "summary": "报告证明玩家对AAA游戏质量下滑的感受",
           "keyInsights": [
-            "游戏行业面临质量危机"
+            "游戏行业面临创新危机"
           ]
         },
         {
-          "title": "Rainbow Six Mobile停运",
-          "summary": "Ubisoft在Rainbow Six Mobile上线仅七个月后宣布停运",
+          "title": "前Nexon CEO认为AAA游戏行业正在消亡",
+          "summary": "AAA曾代表品质，如今大量令人失望作品涌现",
           "keyInsights": [
-            "手游生命周期管理成难题"
+            "高预算不等于高质量"
           ]
         }
       ],
@@ -193,18 +180,25 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "美国清洁能源面临政策阻力，绿色氢储能系统取得进展。",
+      "categorySummary": "美国风能太阳能持续增长，绿色氢能储能项目加速建设。",
       "keyPoints": [
-        "美国清洁能源转型面临阻力",
-        "Energy Vault建最大绿色氢储能",
-        "绿色氢与电池混合储能受关注"
+        "美国清洁能源投资创历史新高",
+        "Energy Vault建设美国最大绿色氢能长时储能系统",
+        "可再生能源渗透率提升推动储能需求"
       ],
       "news": [
         {
-          "title": "绿色氢储能系统开建",
-          "summary": "Energy Vault在美国建设最大绿色氢长时储能系统，可供电48小时",
+          "title": "美国风能和太阳能的惊人进展",
+          "summary": "州级行动持续推动可再生能源发展",
           "keyInsights": [
-            "长时储能技术获突破"
+            "清洁能源转型加速推进"
+          ]
+        },
+        {
+          "title": "Energy Vault建设美国最大绿色氢能储能系统",
+          "summary": "混合绿氢加电池储能可为2000户供电48小时",
+          "keyInsights": [
+            "长时储能技术突破支持电网稳定性"
           ]
         }
       ],
