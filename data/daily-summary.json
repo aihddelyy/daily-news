@@ -1,22 +1,35 @@
 {
-  "date": "2026年11月1日 星期日",
-  "overallSummary": "今日科技与产业动态集中在AI评估、汽车电池、先进制程及新能源装备等领域。宏观层面，美联储释放渐进降息信号。",
+  "date": "2026年11月2日",
+  "overallSummary": "AI算力合作与模型竞争持续升温，汽车、半导体及医药领域加快技术迭代。全球市场重点关注利率预期、监管政策与资本流动。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "AGI评估体系加速建立",
+      "categorySummary": "头部科技企业加速模型、芯片与资本合作。",
       "keyPoints": [
-        "AGI评估标准委员会成立",
-        "构建多维客观评估框架",
-        "推动通用人工智能规范化评测"
+        "英加签署AI算力合作协议",
+        "微软扩大多模型开放策略",
+        "Anthropic强化与云巨头合作"
       ],
       "news": [
         {
-          "title": "AGI 评估标准委员会今日成立",
-          "summary": "建立多维客观的AGI评估框架",
+          "title": "英国和加拿大签署人工智能算力协议",
+          "summary": "英加推进AI算力基础设施合作",
           "keyInsights": [
-            "统一AGI能力衡量尺度",
-            "提升模型评估客观性"
+            "算力合作正成为国际AI竞争核心"
+          ]
+        },
+        {
+          "title": "Microsoft GitHub Copilot超越OpenAI，并向Anthropic、Google开放",
+          "summary": "微软Copilot转向多模型开放",
+          "keyInsights": [
+            "微软由独家绑定转向平台化策略"
+          ]
+        },
+        {
+          "title": "Nvidia推出Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "英伟达更新AI算力芯片产品线",
+          "keyInsights": [
+            "芯片迭代继续支撑大模型扩张"
           ]
         }
       ],
@@ -25,19 +38,32 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "美联储释放渐进降息信号",
+      "categorySummary": "宏观数据符合预期，市场聚焦风险与政策。",
       "keyPoints": [
-        "多数官员支持逐步降息",
-        "政策路径指向中性利率",
-        "市场流动性预期改善"
+        "美国PCE涨幅符合市场预期",
+        "日本央行维持利率不变",
+        "加密资产赔付与监管受关注"
       ],
       "news": [
         {
-          "title": "美联储暗示下季度降息路径",
-          "summary": "多数官员支持逐步恢复中性利率",
+          "title": "个人消费支出指数上涨3.6%，符合预期",
+          "summary": "美国PCE涨幅符合市场预期",
           "keyInsights": [
-            "降息节奏趋向渐进",
-            "利率预期回归中性"
+            "消费韧性支撑经济需求判断"
+          ]
+        },
+        {
+          "title": "BOJ维持利率不变",
+          "summary": "日本央行维持现行利率",
+          "keyInsights": [
+            "日元资产与全球流动性受关注"
+          ]
+        },
+        {
+          "title": "Binance黑客事件损失已有90%获得赔付",
+          "summary": "币安称黑客损失九成获赔付",
+          "keyInsights": [
+            "平台安全与保险机制面临审视"
           ]
         }
       ],
@@ -46,19 +72,32 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "全固态电池进入公开路测",
+      "categorySummary": "特斯拉升级自动驾驶，行业面临安全争议。",
       "keyPoints": [
-        "头部车企启动公开路测",
-        "固态电池原型车完成5000公里运行",
-        "全固态电池商业化提速"
+        "特斯拉推出FSD 14.1版本",
+        "新版本安全表现引发质疑",
+        "大众电动化战略承压"
       ],
       "news": [
         {
-          "title": "全固态电池汽车开启公开路测",
-          "summary": "固态电池原型车完成5000公里路跑",
+          "title": "特斯拉推出FSD Version 14.1",
+          "summary": "特斯拉升级全自动驾驶软件",
           "keyInsights": [
-            "电池稳定性获初步验证",
-            "固态电池产业化提速"
+            "软件能力成为整车竞争关键"
+          ]
+        },
+        {
+          "title": "Tesla全新FSD v14实际上很危险",
+          "summary": "实测质疑FSD v14安全表现",
+          "keyInsights": [
+            "监管与用户信任面临压力"
+          ]
+        },
+        {
+          "title": "Volkswagen无法承...",
+          "summary": "大众电动化路线面临挑战",
+          "keyInsights": [
+            "传统车企转型成本持续攀升"
           ]
         }
       ],
@@ -67,19 +106,32 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "2nm制程正式迈入试产",
+      "categorySummary": "英伟达加速AI芯片迭代，垂直整合深化。",
       "keyPoints": [
-        "2nm节点进入试产���段",
-        "芯片良率突破预期",
-        "预计明年实现量产"
+        "Blackwell Ultra性能升级",
+        "Vera Rubin平台接棒",
+        "行业资本转向循环整合"
       ],
       "news": [
         {
-          "title": "2nm 工艺芯片正式进入试产阶段",
-          "summary": "2nm良率超预期，计划明年量产",
+          "title": "Nvidia宣布推出Blackwell Ultra和Vera Rubin AI芯片",
+          "summary": "英伟达发布新一代AI芯片",
           "keyInsights": [
-            "先进制程竞争加速",
-            "良率表现提升量产确定性"
+            "算力竞争进入平台迭代周期"
+          ]
+        },
+        {
+          "title": "Nvidia在GTC 2024上发布新一代Blackwell AI芯片",
+          "summary": "Blackwell强化推理能效优势",
+          "keyInsights": [
+            "能效成为大模型芯片核心指标"
+          ]
+        },
+        {
+          "title": "2026年半导体行业展望",
+          "summary": "垂直整合重塑芯片资本配置",
+          "keyInsights": [
+            "循环融资模式引发行业关注"
           ]
         }
       ],
@@ -88,19 +140,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "通用流感疫苗临床表现乐观",
+      "categorySummary": "GLP-1需求高增，临床与监管风险并存。",
       "keyPoints": [
-        "临床试验结果乐观",
-        "覆盖近十年主流变种",
-        "疫苗有效性显著提升"
+        "GLP-1减重市场持续扩张",
+        "Gilead CAR-T临床部分暂停",
+        "数字健康公司加速药物布局"
       ],
       "news": [
         {
-          "title": "通用型流感疫苗临床试验结果乐观",
-          "summary": "覆盖近十年主流变种，有效性提升",
+          "title": "GLP-1受体激动剂减重药物市场（2026—2033年）",
+          "summary": "GLP-1减重市场保持高增长",
           "keyInsights": [
-            "通用疫苗研发取得进展",
-            "有望降低季节性接种成本"
+            "肥胖率与药物可及性驱动需求"
+          ]
+        },
+        {
+          "title": "Gilead CAR-T处于部分临床暂停状态",
+          "summary": "Gilead CAR-T项目部分暂停",
+          "keyInsights": [
+            "细胞疗法安全性风险升温"
+          ]
+        },
+        {
+          "title": "Noom将通过全新减重计划提供GLP-1药物",
+          "summary": "Noom扩展GLP-1药物服务",
+          "keyInsights": [
+            "数字健康平台加速药械融合"
           ]
         }
       ],
@@ -109,19 +174,32 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "柔性屏技术改善折痕问题",
+      "categorySummary": "苹果折叠屏与相机升级成为新机看点。",
       "keyPoints": [
-        "创新铰链支撑结构",
-        "引入像素补偿方案",
-        "折叠屏寿命延长一倍"
+        "苹果折叠iPhone持续曝光",
+        "iPhone 18或升级可变光圈",
+        "OnePlus新品集中促销"
       ],
       "news": [
         {
-          "title": "新型柔性屏技���解决折叠痕迹难题",
-          "summary": "优化支撑与像素方案，寿命翻倍",
+          "title": "移动科技新闻聚焦即将推出的可折叠iPhone",
+          "summary": "苹果折叠屏细节逐渐曝光",
           "keyInsights": [
-            "折叠屏耐用性显著提升",
-            "折痕显示问题有望缓解"
+            "无折痕屏幕成为技术焦点"
+          ]
+        },
+        {
+          "title": "iPhone 18 Pro爆料：值得等待，还是买17 Pro？",
+          "summary": "iPhone 18 Pro升级传闻汇总",
+          "keyInsights": [
+            "相机、芯片与续航或同步提升"
+          ]
+        },
+        {
+          "title": "OnePlus 15等新品推出节日优惠",
+          "summary": "OnePlus多款新品参与促销",
+          "keyInsights": [
+            "安卓厂商加速清理库存"
           ]
         }
       ],
@@ -130,19 +208,32 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "3A大作刷新首日销售纪录",
+      "categorySummary": "AAA投入回报承压，精品化趋势增强。",
       "keyPoints": [
-        "首日销量突破千万",
-        "画面与沉浸感突出",
-        "刷新单机游戏销售纪录"
+        "AAA开发成本引发争议",
+        "行业泡沫与回报压力加剧",
+        "任天堂扩充新品阵容"
       ],
       "news": [
         {
-          "title": "某 3A 大作发售首日销量破千万",
-          "summary": "首日销量破千万，刷新单机纪录",
+          "title": "AAA游戏行业正在消亡，前Nexon首席执行官如此认为",
+          "summary": "前Nexon高管质疑AAA前景",
           "keyInsights": [
-            "顶级画质驱动市场表现",
-            "主机游戏消费需求强劲"
+            "高投入低回报压缩头部空间"
+          ]
+        },
+        {
+          "title": "“没有AAA大作我无法继续创作”",
+          "summary": "创意预算限制引发行业争议",
+          "keyInsights": [
+            "品质与成本矛盾进一步加剧"
+          ]
+        },
+        {
+          "title": "Monster Hunter Wilds将推大型扩展包",
+          "summary": "怪物猎人大型扩展公布",
+          "keyInsights": [
+            "精品游戏长线运营能力凸显"
           ]
         }
       ],
@@ -151,19 +242,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "海上风电迈入超大单机时代",
+      "categorySummary": "清洁能源扩张提速，长时储能成为焦点。",
       "keyPoints": [
-        "海上风机单机容量突破25MW",
-        "超大型设备顺利并网",
-        "清洁能源装备升级提速"
+        "美国风光发电保持增长",
+        "政策变化带来转型阻力",
+        "绿氢混合储能加速落地"
       ],
       "news": [
         {
-          "title": "海上风电单机容量突破 25MW",
-          "summary": "25MW级海上风机实现并网",
+          "title": "美国2025年太阳能与风电增长情况",
+          "summary": "美国风光增长遭遇政策阻力",
           "keyInsights": [
-            "海上风电成本有望下���",
-            "清洁能源装备能力升级"
+            "政策连续性影响项目投资"
+          ]
+        },
+        {
+          "title": "集成电池与氢能储能，提升电网节电效益和绿氢利用率",
+          "summary": "电池与绿氢融合改善储能效率",
+          "keyInsights": [
+            "混合储能拓宽新能源消纳路径"
+          ]
+        },
+        {
+          "title": "Energy Vault开始建设美国最大绿氢长时储能系统",
+          "summary": "绿氢储能项目为两千用户供电",
+          "keyInsights": [
+            "长时储能迈向商业化验证"
           ]
         }
       ],
