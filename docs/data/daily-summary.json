@@ -1,38 +1,35 @@
 {
-  "date": "2026年11月24日",
-  "overallSummary": "AI巨头加码模型投资与安全治理，企业应用扩张但落地率仍偏低。电动车、自动驾驶、芯片及生物医药持续推进，全球市场波动加剧。",
+  "date": "2026年11月25日",
+  "overallSummary": "前沿AI合作与上市提速，芯片、EV及清洁能源持续扩张。商业市场关注国债与利率变化，消费科技聚焦AI手机及自动驾驶升级。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "模型竞争升温，企业降本增效与安全治理同步推进。",
+      "categorySummary": "前沿模型合作提速，资本与生态竞争升温。",
       "keyPoints": [
-        "Token降价推动AI使用量快于支出增长",
-        "科技巨头加码大模型及前沿安全合作",
-        "制造业加速部署预测性维护"
+        "四大厂商成立前沿模型论坛",
+        "Anthropic推进大规模上市",
+        "AI重塑商业决策与领导力"
       ],
       "news": [
         {
-          "title": "企业人工智能应用正在发生的变化",
-          "summary": "Token降价推动AI用量快于支出增长",
+          "title": "Anthropic、Google、Microsoft 和 OpenAI 联合成立 Frontier Model Forum（前沿模型论坛）",
+          "summary": "四巨头联合推动前沿模型安全开发",
           "keyInsights": [
-            "企业议价能力��强",
-            "AI应用规模化速度加快"
+            "头部模型厂商���始协同制定安全规范"
           ]
         },
         {
-          "title": "Anthropic、Google、Microsoft和OpenAI联合发起Frontier Model Forum",
-          "summary": "四巨头成立论坛推动前沿模型安全治理",
+          "title": "OpenAI的竞争对手Anthropic为与Amazon、Google的合作辩护",
+          "summary": "Anthropic回应云厂商合作争议",
           "keyInsights": [
-            "头部模型厂商建立协作机制",
-            "安全与责任开发成为重点"
+            "模型厂商与云平台竞合关系深化"
           ]
         },
         {
-          "title": "人工智能商业 | 最新新闻与动态 | BBC News",
-          "summary": "制造商探索用AI预测设备故障",
+          "title": "Anthropic 合作：17 家合作伙伴",
+          "summary": "Anthropic扩大云服务与模型合作",
           "keyInsights": [
-            "预测性维护进入生产环节",
-            "降本需求推动工业AI落地"
+            "生态整合成为AI商业化关键路径"
           ]
         }
       ],
@@ -41,35 +38,32 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "市场恐慌情绪升温，监管与财政议题受到关注。",
+      "categorySummary": "金融条件趋松，美国国债供给引发关注。",
       "keyPoints": [
-        "全球市场波动或进一步加剧",
-        "巴西财政计划获国会批准",
-        "英伟达面临国会持续调查"
+        "美国拟发行1970亿美元国债",
+        "抵押贷款利率下降",
+        "工商银行利润上升"
       ],
       "news": [
         {
-          "title": "资深交易员称，投资者可能需要习惯全球市场更频繁的恐慌",
-          "summary": "分析人士警示市场波动仍将持续",
+          "title": "美国商业新闻 - 新闻、文章、人物简介、照片 - WSJ.com",
+          "summary": "美国国债发行与贷款利率成焦点",
           "keyInsights": [
-            "恐慌可能形成波动循环",
-            "风险资产承压加剧"
+            "财政融资与信贷环境同步变化"
           ]
         },
         {
-          "title": "Bloomberg - 商业新闻、股票市场、金融、突发新闻与世界新闻",
-          "summary": "巴西财政计划通过国会审议",
+          "title": "《华尔街日报》凸显 Epcon 独特的特许经营商机",
+          "summary": "Epcon特许经营社区规模扩��",
           "keyInsights": [
-            "财政稳定性预期改善",
-            "巴西货币市场仍承压"
+            "住宅特许经营保持增长韧性"
           ]
         },
         {
-          "title": "股票市场、商业新闻、金融信息、盈利报告——CNBC",
-          "summary": "英伟达持续面对国会调查",
+          "title": "商业 - WSJ.com",
+          "summary": "英伟达治理模式引发高管讨论",
           "keyInsights": [
-            "监管压力尚未消退",
-            "AI芯片龙头面临审视"
+            "科技领袖影响力与公司治理受审视"
           ]
         }
       ],
@@ -78,35 +72,32 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动车需求走强，自动驾驶与中国品牌出海提速。",
+      "categorySummary": "电动车竞争加剧，自动驾驶持续迭代。",
       "keyPoints": [
-        "全球电动车需求持续增长",
-        "特斯拉分阶段升级FSD",
-        "中国车企加速争夺欧洲市场"
+        "特斯拉推出FSD第14版",
+        "FSD第15版逐步推送",
+        "中国车企加速海外扩张"
       ],
       "news": [
         {
-          "title": "今日电动车新闻：最新电动汽车动态、趋势与行业发展",
-          "summary": "多地电动车需求走强",
+          "title": "Tesla 推出 FSD 第14版：能否助推其自动驾驶雄心？",
+          "summary": "特斯拉FSD v14强化驾驶体验",
           "keyInsights": [
-            "油价上涨促进消费转向",
-            "中国厂商竞争持续加剧"
+            "软件迭代成为特斯拉差异化优势"
           ]
         },
         {
-          "title": "特斯拉推出 FSD Version 14：为其自动驾驶宏图增添动力？",
-          "summary": "特斯拉升级FSD并扩大推送范围",
+          "title": "Tesla 在 Instagram 上发布：“FSD V15 现已开始逐步推出——升级端到端驾驶网络的每一个部分。安全：25……”",
+          "summary": "FSD V15提升识别与车速控制",
           "keyInsights": [
-            "端到端驾驶能力持续迭代",
-            "复杂场景识别能力增强"
+            "端到端网络覆盖更多驾驶场景"
           ]
         },
         {
-          "title": "EV — 电动汽车新闻：电动汽车、Tesla、Rivian、Lucid 与 BYD",
-          "summary": "小鹏拟三年内德国销量增至三倍",
+          "title": "EV——电动汽车新闻：电动汽车、Tesla、Rivian、Lucid 与 BYD",
+          "summary": "小鹏计划扩大德国电动车市场",
           "keyInsights": [
-            "中国车企加速欧洲布局",
-            "SUV产品成为出海重点"
+            "中国车企加速进入欧洲市场"
           ]
         }
       ],
@@ -115,35 +106,32 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "AI算力芯片升级，先进制程与功率半导体并行突破。",
+      "categorySummary": "先进制程扩张，功率半导体加速落地。",
       "keyPoints": [
-        "Blackwell平台强化大模型算力",
-        "碳化硅平台降低系统损耗",
-        "中国5纳米工艺与GaN创新推进"
+        "台积电拟投226亿美元建2nm园区",
+        "英伟达发布Blackwell平台",
+        "碳化硅与氮化镓持续创新"
       ],
       "news": [
         {
-          "title": "NVIDIA推出Blackwell GPU，助力AI实现突破",
-          "summary": "Blackwell支持十万亿参数模型",
+          "title": "DIGITIMES 半导体新闻",
+          "summary": "台积电加码美国2nm芯片产能",
           "keyInsights": [
-            "AI训练与推理需求攀升",
-            "芯片平台竞争持续加剧"
+            "先进制程本地化趋势进一步强化"
           ]
         },
         {
-          "title": "最新半导体新闻与技术动态 | Electropages",
-          "summary": "第四代碳化硅平台采用沟槽架构",
+          "title": "NVIDIA Blackwell 平台正式发布，开启计算新时代",
+          "summary": "Blackwell提升大模型推理效率",
           "keyInsights": [
-            "降低器件能耗与损耗",
-            "覆盖AI、汽车及能源应用"
+            "AI算力竞争转向性能与能耗并重"
           ]
         },
         {
-          "title": "半导体行业新闻——2025年1月更新 | Sourcengine",
-          "summary": "中国5纳米芯片或引入新制造工艺",
+          "title": "最新半导体新闻与技术更新 | Electropages",
+          "summary": "第四代碳化硅平台降低系统损耗",
           "keyInsights": [
-            "先进制程专利持续推进",
-            "制造工艺竞争进一步加剧"
+            "功率器件支撑AI、电动车及能源应用"
           ]
         }
       ],
@@ -152,35 +140,32 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "AI药物设计取得临床进展，GLP-1市场持续扩容。",
+      "categorySummary": "GLP-1需求高增，AI药物研发受关注。",
       "keyPoints": [
-        "AI设计多抗体ADC获准临床",
-        "肥胖症GLP-1处方量大幅增长",
-        "减重药市场突破百亿美元规模"
+        "GLP-1处方量五年增长近587%",
+        "美国肥胖人群规模庞大",
+        "AI耐药预测仍待验证"
       ],
       "news": [
         {
-          "title": "研发 | 专题 | BioPharm International",
-          "summary": "AI设计多抗体ADC获FDA临床批准",
+          "title": "GLP-1统计数据与趋势：使用情况、市场规模、价格与研究（2026）——Forbes Health",
+          "summary": "GLP-1处方量五年增长近587%",
           "keyInsights": [
-            "生成式AI进入药物临床阶段",
-            "多抗体设计取得突破"
+            "减重与糖尿病治疗需求同步扩大"
           ]
         },
         {
-          "title": "GLP-1 数据与趋势：使用情况、市场规模、定价及研究（2026）——Forbes Health",
-          "summary": "美国肥胖症GLP-1处方量增近六倍",
+          "title": "GLP-1 减重药物的兴起与消费者健康：PwC",
+          "summary": "司美格鲁肽年销售额达138亿美元",
           "keyInsights": [
-            "减重需求显著扩大",
-            "糖尿病患者渗透率持续提升"
+            "爆款药物正重塑肥胖医疗市场"
           ]
         },
         {
-          "title": "生物技术与制药行业新闻 | BioPharma Dive",
-          "summary": "药企并购与监管决定持续落地",
+          "title": "药物发现与开发 | Pharma and Biotech Insights",
+          "summary": "AI耐药预测模型亟需统一验证",
           "keyInsights": [
-            "创新药并购活动活跃",
-            "FDA审批标准仍是关键变量"
+            "标准化基准将影响临床转化"
           ]
         }
       ],
@@ -189,35 +174,32 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "苹果折叠屏与新机配置受关注，卫星通信合作升温。",
+      "categorySummary": "折叠屏与卫星通信升温，存储涨价施压。",
       "keyPoints": [
-        "苹果二代折叠机或引入Face ID",
-        "iPhone 18 Pro配置与售价曝光",
-        "Starlink联手高通建设5G网络"
+        "苹果iPhone 18新��预期升温",
+        "三星探索折叠屏发展路径",
+        "DRAM与NAND价格持续上涨"
       ],
       "news": [
         {
-          "title": "手机新闻 - GSMArena.com",
-          "summary": "苹果二代折叠机或加入Face ID",
+          "title": "下周 Apple 发布会：五大 iPhone 18 传闻可信度排行——你真正该期待什么 | TechRadar",
+          "summary": "iPhone 18或新增Ultra机型",
           "keyInsights": [
-            "折叠屏形态持续迭代",
-            "生物识别配置可能升级"
+            "产品线分化将进一步强化高端定位"
           ]
         },
         {
           "title": "iPhone 18 Pro 爆料：值得等待，还是购买 17 Pro？",
-          "summary": "iPhone 18 Pro或涨价并升级相机",
+          "summary": "iPhone 18 Pro或升级相机与芯片",
           "keyInsights": [
-            "可变光圈与A20芯片受期待",
-            "售价或上涨200美元"
+            "核心升级集中于影像与性能"
           ]
         },
         {
           "title": "手机新闻 | TechRadar",
-          "summary": "Starlink与高通合作建设5G网络",
+          "summary": "星链与高通推进移动5G网络",
           "keyInsights": [
-            "卫星通信与地面网络融合",
-            "频谱和基站建设仍是瓶颈"
+            "卫星通信商用仍受频谱与基站限制"
           ]
         }
       ],
@@ -226,35 +208,32 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA大作失利与工作室关停加剧，跨平台合作升温。",
+      "categorySummary": "AAA大作遇冷，主机平台强化安全规范。",
       "keyPoints": [
-        "AAA游戏口碑与销量承压",
-        "头部厂商更新玩家安全原则",
-        "主机平台扩大跨平台联机"
+        "AAA工作室持续关闭",
+        "大型游戏新品失败率上升",
+        "三大主机更新安全游戏准则"
       ],
       "news": [
         {
-          "title": "对游戏行业的反思：AAA 大作的衰落",
-          "summary": "工作室关停推动AAA行业重估",
+          "title": "“许多人感觉，一场海啸正席卷整个 AAA 游戏行业，”Epic CEO Tim Sweeney 在剖析行业困境时如此表示 | PC Gamer",
+          "summary": "EpicCEO称AAA大作市场遭遇海啸",
           "keyInsights": [
-            "传统大作开发模式承压",
-            "行业资源向少数产品集中"
+            "高成本开发模式面临结构性压力"
           ]
         },
         {
-          "title": "“许多人感觉一股浪潮正席卷 AAA 游戏行业”——Epic CEO Tim Sweeney 在诊断该行业困境时如此表示",
-          "summary": "Epic CEO称多款大型新作遭遇失败",
+          "title": "游戏行业之思：AAA 大作的衰落",
+          "summary": "工作室关闭与大作减少加剧",
           "keyInsights": [
-            "玩家需求向少数爆款集中",
-            "开发成本与市场风险上升"
+            "行业资源向少数成功作品集中"
           ]
         },
         {
-          "title": "索尼让步，允许《Fortnite》在 PlayStation 4 上与 Xbox One 和 Nintendo Switch 跨平台联机",
-          "summary": "索尼放宽《堡垒之夜》跨平台限制",
+          "title": "Nintendo、Sony 和 Xbox 更新“更安全游戏”原则｜Nintendo Life",
+          "summary": "三大主机平台升级安全游戏准则",
           "keyInsights": [
-            "平台封闭策略进一步松动",
-            "跨平台联机扩大用户规模"
+            "平台责任与未成年人保护趋严"
           ]
         }
       ],
@@ -263,35 +242,32 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "美国太阳能装机加速，储能与绿氢融合成为重点。",
+      "categorySummary": "风光电高速增长，储能与氢能融合提速。",
       "keyPoints": [
-        "太阳能超越风电成为最大清洁电源",
         "美国风光发电量创历史新高",
-        "混合储能优化电网韧性"
+        "中美印引领大型电站建设",
+        "电池储能改善绿氢经济性"
       ],
       "news": [
         {
-          "title": "太阳能在美国清洁电力占比中超越风电",
-          "summary": "美国公用事业太阳能装机超过风电",
-          "keyInsights": [
-            "光伏成为清洁能源主力",
-            "季度新增装机持续领先"
-          ]
-        },
-        {
-          "title": "2025年美国太阳能和风能发展 | Climate Central",
+          "title": "美国2025年太阳能和风电发展 | Climate Central",
           "summary": "美国风光发电量创历史新高",
           "keyInsights": [
-            "可再生能源供电规模扩大",
-            "居民用电替代效应增强"
+            "清洁电力供给加速增长"
           ]
         },
         {
-          "title": "面向韧性且可持续的未来电网的储能系统与绿色氢能系统一体化优化",
-          "summary": "电池抽蓄被列为均衡储能方案",
+          "title": "清洁能源革命：太阳能、风能与储能",
+          "summary": "中美印引领全球清洁能源建设",
           "keyInsights": [
-            "高比例可再生能源需要储能",
-            "电池与绿氢融合提升韧性"
+            "大型项目推动风光电规模化"
+          ]
+        },
+        {
+          "title": "面向韧性、可持续未来电网的储能系统与绿色氢能系统一体化优化",
+          "summary": "混合储能优化电网综合成本",
+          "keyInsights": [
+            "电池与绿氢互补提升系统韧性"
           ]
         }
       ],
