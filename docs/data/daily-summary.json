@@ -1,35 +1,30 @@
 {
-  "date": "2026年11月25日",
-  "overallSummary": "前沿AI合作与上市提速，芯片、EV及清洁能源持续扩张。商业市场关注国债与利率变化，消费科技聚焦AI手机及自动驾驶升级。",
+  "date": "2026年11月26日",
+  "overallSummary": "AI巨头资本合作与自动驾驶升级领衔科技动态，全球市场关注资产重估。芯片、制药及清洁能源领域同步取得进展。",
   "categories": [
     {
       "name": "AI行业动态",
-      "categorySummary": "前沿模型合作提速，资本与生态竞争升温。",
+      "categorySummary": "AI竞争转向资本、模型与生态 alliances。",
       "keyPoints": [
-        "四大厂商成立前沿模型论坛",
-        "Anthropic推进大规模上市",
-        "AI重塑商业决策与领导力"
+        "Google据报入股Anthropic",
+        "Anthropic据报完成超大规模IPO",
+        "OpenAI与微软持续深化合作"
       ],
       "news": [
         {
-          "title": "Anthropic、Google、Microsoft 和 OpenAI 联合成立 Frontier Model Forum（前沿模型论坛）",
-          "summary": "四巨头联合推动前沿模型安全开发",
+          "title": "Google力挺Anthropic，加入AI对决",
+          "summary": "Google据报以约10%股份入股Anthropic",
           "keyInsights": [
-            "头部模型厂商���始协同制定安全规范"
+            "AI竞争进一步资本化",
+            "谷歌与Anthropic生态绑定加深"
           ]
         },
         {
-          "title": "OpenAI的竞争对手Anthropic为与Amazon、Google的合作辩护",
-          "summary": "Anthropic回应云厂商合作争议",
+          "title": "Anthropic据报登陆纳斯达克",
+          "summary": "开盘价111.5美元，募资810亿美元",
           "keyInsights": [
-            "模型厂商与云平台竞合关系深化"
-          ]
-        },
-        {
-          "title": "Anthropic 合作：17 家合作伙伴",
-          "summary": "Anthropic扩大云服务与模型合作",
-          "keyInsights": [
-            "生态整合成为AI商业化关键路径"
+            "IPO规模刷新纪录",
+            "资本将加速模型商业化"
           ]
         }
       ],
@@ -38,32 +33,27 @@
     },
     {
       "name": "商业财经",
-      "categorySummary": "金融条件趋松，美国国债供给引发关注。",
+      "categorySummary": "全球市场重估权力、资本流向与企业价值。",
       "keyPoints": [
-        "美国拟发行1970亿美元国债",
-        "抵押贷款利率下降",
-        "工商银行利润上升"
+        "风险偏好回升压制黄金",
+        "美元或随避险降温走弱",
+        "企业拆分推动价值释放"
       ],
       "news": [
         {
-          "title": "美国商业新闻 - 新闻、文章、人物简介、照片 - WSJ.com",
-          "summary": "美国国债发行与贷款利率成焦点",
+          "title": "全球金融市场严阵以待重大变局",
+          "summary": "股市资金回流，金价与美元承压",
           "keyInsights": [
-            "财政融资与信贷环境同步变化"
+            "资产定价转向风险偏好",
+            "地缘局势仍是主要变量"
           ]
         },
         {
-          "title": "《华尔街日报》凸显 Epcon 独特的特许经营商机",
-          "summary": "Epcon特许经营社区规模扩��",
+          "title": "HPE分拆释放业务价值",
+          "summary": "投资者压力推动HPE拆分业务",
           "keyInsights": [
-            "住宅特许经营保持增长韧性"
-          ]
-        },
-        {
-          "title": "商业 - WSJ.com",
-          "summary": "英伟达治理模式引发高管讨论",
-          "keyInsights": [
-            "科技领袖影响力与公司治理受审视"
+            "拆分成为企业价值重估工具",
+            "资本更重视独立业务成长性"
           ]
         }
       ],
@@ -72,32 +62,27 @@
     },
     {
       "name": "汽车出行",
-      "categorySummary": "电动车竞争加剧，自动驾驶持续迭代。",
+      "categorySummary": "电动车需求分化，自动驾驶持续升级。",
       "keyPoints": [
-        "特斯拉推出FSD第14版",
-        "FSD第15版逐步推送",
-        "中国车企加速海外扩张"
+        "全球电动车需求仍具韧性",
+        "超快充网络加速扩张",
+        "Tesla升级FSD驾驶体验"
       ],
       "news": [
         {
-          "title": "Tesla 推出 FSD 第14版：能否助推其自动驾驶雄心？",
-          "summary": "特斯拉FSD v14强化驾驶体验",
+          "title": "Tesla推出FSD Version 14",
+          "summary": "新版提升变道平顺性与驾驶能力",
           "keyInsights": [
-            "软件迭代成为特斯拉差异化优势"
+            "软件迭代成为特斯拉核心卖点",
+            "自动驾驶竞争进一步加剧"
           ]
         },
         {
-          "title": "Tesla 在 Instagram 上发布：“FSD V15 现已开始逐步推出——升级端到端驾驶网络的每一个部分。安全：25……”",
-          "summary": "FSD V15提升识别与车速控制",
+          "title": "400kW超快充桩加速安装",
+          "summary": "约20分钟可补电至80%",
           "keyInsights": [
-            "端到端网络覆盖更多驾驶场景"
-          ]
-        },
-        {
-          "title": "EV——电动汽车新闻：电动汽车、Tesla、Rivian、Lucid 与 BYD",
-          "summary": "小鹏计划扩大德国电动车市场",
-          "keyInsights": [
-            "中国车企加速进入欧洲市场"
+            "补能效率成为竞争焦点",
+            "基础设施扩张支撑电动车增长"
           ]
         }
       ],
@@ -106,32 +91,27 @@
     },
     {
       "name": "半导体芯片",
-      "categorySummary": "先进制程扩张，功率半导体加速落地。",
+      "categorySummary": "先进制程、光互连与AI封装加速突破。",
       "keyPoints": [
-        "台积电拟投226亿美元建2nm园区",
-        "英伟达发布Blackwell平台",
-        "碳化硅与氮化镓持续创新"
+        "Intel披露18A-P外部客户",
+        "百GHz光子芯片取得突破",
+        "Nvidia扩大先进封装产能"
       ],
       "news": [
         {
-          "title": "DIGITIMES 半导体新闻",
-          "summary": "台积电加码美国2nm芯片产能",
+          "title": "百GHz光子芯片实现突破",
+          "summary": "高速光子芯片面向AI与6G应用",
           "keyInsights": [
-            "先进制程本地化趋势进一步强化"
+            "光互连成为算力扩展新路径",
+            "芯片竞争延伸至系统级架构"
           ]
         },
         {
-          "title": "NVIDIA Blackwell 平台正式发布，开启计算新时代",
-          "summary": "Blackwell提升大模型推理效率",
+          "title": "Nvidia持续扩大封装产能",
+          "summary": "先进封装成为AI芯片放量关键",
           "keyInsights": [
-            "AI算力竞争转向性能与能耗并重"
-          ]
-        },
-        {
-          "title": "最新半导体新闻与技术更新 | Electropages",
-          "summary": "第四代碳化硅平台降低系统损耗",
-          "keyInsights": [
-            "功率器件支撑AI、电动车及能源应用"
+            "封装产能约束趋于凸显",
+            "AI硬件竞争向全流程延伸"
           ]
         }
       ],
@@ -140,32 +120,27 @@
     },
     {
       "name": "生物医药",
-      "categorySummary": "GLP-1需求高增，AI药物研发受关注。",
+      "categorySummary": "审批、临床与GLP-1市场成为行业焦点。",
       "keyPoints": [
-        "GLP-1处方量五年增长近587%",
-        "美国肥胖人群规模庞大",
-        "AI耐药预测仍待验证"
+        "生物类似药简化审批获批",
+        "双抗与KIR-CAR疗法取得进展",
+        "美国GLP-1处方量创新高"
       ],
       "news": [
         {
-          "title": "GLP-1统计数据与趋势：使用情况、市场规模、价格与研究（2026）——Forbes Health",
-          "summary": "GLP-1处方量五年增长近587%",
+          "title": "美国GLP-1药物使用量创新高",
+          "summary": "肥胖症用药需求与市场规模持续增长",
           "keyInsights": [
-            "减重与糖尿病治疗需求同步扩大"
+            "减重需求重塑药物市场",
+            "口服制剂成为下一轮竞争焦点"
           ]
         },
         {
-          "title": "GLP-1 减重药物的兴起与消费者健康：PwC",
-          "summary": "司美格鲁肽年销售额达138亿美元",
+          "title": "生物医药审批与临床取得进展",
+          "summary": "简化审批及双抗疗法出现突破",
           "keyInsights": [
-            "爆款药物正重塑肥胖医疗市场"
-          ]
-        },
-        {
-          "title": "药物发现与开发 | Pharma and Biotech Insights",
-          "summary": "AI耐药预测模型亟需统一验证",
-          "keyInsights": [
-            "标准化基准将影响临床转化"
+            "监管路径逐步优化",
+            "差异化疗法加速进入临床"
           ]
         }
       ],
@@ -174,32 +149,19 @@
     },
     {
       "name": "智能手机",
-      "categorySummary": "折叠屏与卫星通信升温，存储涨价施压。",
+      "categorySummary": "柔性显示技术聚焦折叠屏耐用性。",
       "keyPoints": [
-        "苹果iPhone 18新��预期升温",
-        "三星探索折叠屏发展路径",
-        "DRAM与NAND价格持续上涨"
+        "铰链结构获得优化",
+        "像素补偿减轻折叠痕迹",
+        "屏幕寿命延长一倍"
       ],
       "news": [
         {
-          "title": "下周 Apple 发布会：五大 iPhone 18 传闻可信度排行——你真正该期待什么 | TechRadar",
-          "summary": "iPhone 18或新增Ultra机型",
+          "title": "新型柔性屏技术缓解折叠痕",
+          "summary": "优化支撑结构，屏幕寿命翻倍",
           "keyInsights": [
-            "产品线分化将进一步强化高端定位"
-          ]
-        },
-        {
-          "title": "iPhone 18 Pro 爆料：值得等待，还是购买 17 Pro？",
-          "summary": "iPhone 18 Pro或升级相机与芯片",
-          "keyInsights": [
-            "核心升级集中于影像与性能"
-          ]
-        },
-        {
-          "title": "手机新闻 | TechRadar",
-          "summary": "星链与高通推进移动5G网络",
-          "keyInsights": [
-            "卫星通信商用仍受频谱与基站限制"
+            "结构创新提升产品耐用性",
+            "折叠屏体验障碍逐步缩小"
           ]
         }
       ],
@@ -208,32 +170,19 @@
     },
     {
       "name": "游戏娱乐",
-      "categorySummary": "AAA大作遇冷，主机平台强化安全规范。",
+      "categorySummary": "头部3A游戏凭借品质与规模刷新纪录。",
       "keyPoints": [
-        "AAA工作室持续关闭",
-        "大型游戏新品失败率上升",
-        "三大主机更新安全游戏准则"
+        "大作首日销量突破千万",
+        "画面与沉浸感驱动购买",
+        "单机游戏销售纪录刷新"
       ],
       "news": [
         {
-          "title": "“许多人感觉，一场海啸正席卷整个 AAA 游戏行业，”Epic CEO Tim Sweeney 在剖析行业困境时如此表示 | PC Gamer",
-          "summary": "EpicCEO称AAA大作市场遭遇海啸",
+          "title": "某3A大作首日销量破千万",
+          "summary": "高画质与沉浸体验刷新销售纪录",
           "keyInsights": [
-            "高成本开发模式面临结构性压力"
-          ]
-        },
-        {
-          "title": "游戏行业之思：AAA 大作的衰落",
-          "summary": "工作室关闭与大作减少加剧",
-          "keyInsights": [
-            "行业资源向少数成功作品集中"
-          ]
-        },
-        {
-          "title": "Nintendo、Sony 和 Xbox 更新“更安全游戏”原则｜Nintendo Life",
-          "summary": "三大主机平台升级安全游戏准则",
-          "keyInsights": [
-            "平台责任与未成年人保护趋严"
+            "精品内容维持市场号召力",
+            "单机大作商业表现强劲"
           ]
         }
       ],
@@ -242,32 +191,19 @@
     },
     {
       "name": "环保能源",
-      "categorySummary": "风光电高速增长，储能与氢能融合提速。",
+      "categorySummary": "海上风电迈向超大型机组时代。",
       "keyPoints": [
-        "美国风光发电量创历史新高",
-        "中美印引领大型电站建设",
-        "电池储能改善绿氢经济性"
+        "海上风机单机容量超25MW",
+        "超大型机组顺利并网",
+        "清洁能源装备���速升级"
       ],
       "news": [
         {
-          "title": "美国2025年太阳能和风电发展 | Climate Central",
-          "summary": "美国风光发电量创历史新高",
+          "title": "海上风电单机容量突破25MW",
+          "summary": "25MW级以上风机实现并网",
           "keyInsights": [
-            "清洁电力供给加速增长"
-          ]
-        },
-        {
-          "title": "清洁能源革命：太阳能、风能与储能",
-          "summary": "中美印引领全球清洁能源建设",
-          "keyInsights": [
-            "大型项目推动风光电规模化"
-          ]
-        },
-        {
-          "title": "面向韧性、可持续未来电网的储能系统与绿色氢能系统一体化优化",
-          "summary": "混合储能优化电网综合成本",
-          "keyInsights": [
-            "电池与绿氢互补提升系统韧性"
+            "机组大型化趋势明确",
+            "海上风电成本优势有望扩大"
           ]
         }
       ],
