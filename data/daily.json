@@ -1,8 +1,8 @@
 {
   "date": {
-    "date": "2026-11-26",
-    "display": "2026年11月26日星期四",
-    "timestamp": "2026-11-26T03:20:21.310Z"
+    "date": "2026-11-27",
+    "display": "2026年11月27日星期五",
+    "timestamp": "2026-11-27T03:26:44.161Z"
   },
   "categories": [
     {
@@ -11,64 +11,13 @@
       "icon": "🧠",
       "items": [
         {
-          "title": "Reuters AI 新闻 2026：智能体AI、监管与商业 | AI、机器学习技术新闻",
-          "summary": "## Reuters 报道的最新人工智能趋势\n\nReuters 的报道显示，AI 行业正在同时向多个方向发展。各家公司正在开发能力不断增强的……",
-          "content": "",
-          "source": "Aimltechnews",
-          "url": "https://aimltechnews.com/news/artificial-intelligence/ai-in-2026-breakthroughs-regulation-and-the-evolving-business-landscape.html",
+          "title": "AGI 评估标准委员会今日成立",
+          "summary": "旨在为日益增强的通用人工智能提供客观的多维评估框架。",
+          "source": "AI行业资讯",
+          "url": "#",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "行业",
           "image": "https://picsum.photos/seed/brain0/400/250"
-        },
-        {
-          "title": "行业人工智能：最新新闻、视频及图片 | The Economic Times - 第1页",
-          "summary": "Anthropic 已成功在 Nasdaq 挂牌上市，股价开盘报 111.50 美元，远高于 83 美元的 IPO 价格。该公司募资 810 亿美元，创下了规模最大的首次公开募股（IPO）……",
-          "content": "",
-          "source": "M",
-          "url": "https://m.economictimes.com/topic/artificial-intelligence-in-industry",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/brain1/400/250"
-        },
-        {
-          "title": "今日 AI 新闻：人工智能为何正在重塑商业",
-          "summary": "人工智能新闻：为什么人工智能正在重塑 2026 年的商业\n\n人工智能已从一项新兴技术发展成为推动全球……的最强大力量之一",
-          "content": "",
-          "source": "Leaderspheres",
-          "url": "https://leaderspheres.com/ai-news-today-artificial-intelligence-business",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/brain2/400/250"
-        },
-        {
-          "title": "重磅：Google 力挺 Anthropic，加入 AI 对决",
-          "summary": "Microsoft此前已于2019年通过一项技术许可交易向OpenAI投资10亿美元，并在Bard发布前仅数周将ChatGPT整合进其Bing搜索引擎和Edge网络浏览器。",
-          "content": "",
-          "source": "Globalventuring",
-          "url": "https://globalventuring.com/corporate/information-technology/the-big-deal-anthropic-series-c",
-          "time": "今日",
-          "tag": "Google",
-          "image": "https://picsum.photos/seed/brain3/400/250"
-        },
-        {
-          "title": "Microsoft和OpenAI的ChatGPT，对决Google和Anthropic的Claude｜CRN",
-          "summary": "据多家报道，Google 正以约 10% 的股份入股 AI 安全与研究公司 Anthropic，交易金额为 3 亿美元；与此同时，据报道 Microsoft 正向……投资 100 亿美元。",
-          "content": "",
-          "source": "Crn",
-          "url": "https://www.crn.com/news/cloud/microsoft-and-openai-s-chatgpt-vs-google-and-anthropic-claude",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/brain4/400/250"
-        },
-        {
-          "title": "OpenAI的竞争对手Anthropic为与Amazon、Google的合作关系辩护",
-          "summary": "尤其是微软，已承诺向 OpenAI 投资 130 亿美元。这家科技巨头还将这家 AI 初创公司的技术整合到其业务的 virtually every corner（几乎每一个角落），并在……中发挥了关键作用……",
-          "content": "",
-          "source": "Finance",
-          "url": "https://finance.yahoo.com/news/openai-rival-anthropic-defends-partnerships-174020573.html",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/brain5/400/250"
         }
       ]
     },
@@ -78,64 +27,13 @@
       "icon": "📊",
       "items": [
         {
-          "title": "全球金融市场严阵以待重大变局 - STL.News",
-          "summary": "黄金：随着风险偏好回升、资金重新流向股市，金价可能下跌。\n\n美元：在地缘政治不确定性期间走强后，美元可能温和走弱，因为投资者……",
-          "content": "",
-          "source": "Stl",
-          "url": "https://www.stl.news/global-financial-markets-brace-for-major-shifts",
+          "title": "美联储暗示下季度降息路径",
+          "summary": "最新议息会议纪要显示，多数官员支持逐步恢复中性利率。",
+          "source": "华尔街日报",
+          "url": "#",
           "time": "今日",
-          "tag": "市场",
+          "tag": "宏调",
           "image": "https://picsum.photos/seed/biz0/400/250"
-        },
-        {
-          "title": "全球金融市场全景揭秘：权力格局变化、风险与新赢家 | PPTX",
-          "summary": "• 数字金融和替代金融的作用日益增强  \n• 金融已不再受地域限制  \n\n谁正在获得更大的影响力？  \n• 新兴经济体正在塑造资本流向  \n• 主权财富基金规模持续扩大……",
-          "content": "",
-          "source": "Fr",
-          "url": "https://fr.slideshare.net/slideshow/global-finance-market-uncovered-power-shifts-risks-and-new-winners/285853797",
-          "time": "今日",
-          "tag": "市场",
-          "image": "https://picsum.photos/seed/biz1/400/250"
-        },
-        {
-          "title": "国际商业、世界新闻与全球股票市场分析",
-          "summary": "[](\n\n立即观看\n\n日本已经加息并买入日元。为什么日元依然难以走强\n\n[](\n\n立即观看\n\n深入了解意大利银行业并购潮，以及华尔街为何密切关注\n\n[](\n\n……",
-          "content": "",
-          "source": "Cnbc",
-          "url": "https://www.cnbc.com",
-          "time": "今日",
-          "tag": "市场",
-          "image": "https://picsum.photos/seed/biz2/400/250"
-        },
-        {
-          "title": "商业",
-          "summary": "广告\n\n观看 WSJ 记者解读 Nvidia 罢免其 CEO 后的数日局势，以及随后又将其请回的全过程。\n\nWSJ 记者组\n\nMAHA 找到了一位有力的盟友——总统特朗普的幕僚长 Stephen Miller……",
-          "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/business?page=1",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/biz3/400/250"
-        },
-        {
-          "title": "商业交易、兼并与收购 - 最新新闻与分析 - WSJ.com",
-          "summary": "Hewlett Packard Enterprise 董事长 Pat Russo 回顾了投资者压力如何引发一场艰难但富有成效的争论，并最终促成公司拆分，为两块截然不同的业务释放了更多价值。图片：……",
-          "content": "",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/business/deals",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/biz4/400/250"
-        },
-        {
-          "title": "《华尔街日报》凸显Epcon独特的加盟商机",
-          "summary": "该公司自1995年开始开展特许经营以来所取得的成就令人瞩目。迄今为止，Epcon 加盟商已在28个州建成350多个社区，包含超过28,000套住宅，而我们目前正……",
-          "content": "",
-          "source": "Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-journal-highlights-epcons-180756291.html",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/biz5/400/250"
         }
       ]
     },
@@ -145,64 +43,13 @@
       "icon": "🚗",
       "items": [
         {
-          "title": "今日电动车新闻：最新电动汽车动态、趋势与行业发展 - bunnypuns.blog",
-          "summary": "- 多个国际市场对电动汽车的需求增强\n- 汽油价格上涨促使消费者考虑购买电动汽车\n- 中国制造商带来的竞争日益加剧\n- 欧洲推出新的生产战略，用于 af……",
-          "content": "",
-          "source": "Bunnypuns",
-          "url": "https://bunnypuns.blog/ev-news-today-latest-electric-vehicle-updates-trends-and-industry-developments",
+          "title": "全固态电池汽车开启公开路测",
+          "summary": "某头部车企宣布其固态电池原型车已完成 5000 公里无故障路跑。",
+          "source": "电车志",
+          "url": "#",
           "time": "今日",
-          "tag": "电动",
+          "tag": "电池",
           "image": "https://picsum.photos/seed/auto0/400/250"
-        },
-        {
-          "title": "今日汽车行业新闻：美国、欧洲、阿联酋、英国和印度",
-          "summary": "到2028年将新增充电点。新的400 kW超快充桩正在安装中，可在约20分钟内将车辆充至80%。\n\n二手市场增长：二手电动汽车挂牌量同比增长41%……",
-          "content": "",
-          "source": "Yatrierickshaw",
-          "url": "https://yatrierickshaw.com/automotive-news",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/auto1/400/250"
-        },
-        {
-          "title": "“Electric Vehicles Industry News”播客 – Apple Podcasts",
-          "summary": "电动汽车行业正进入重新调整阶段。全球市场仍在持续增长，但过去一周的增长势头已因地区不同而出现明显分化。全球电动汽车需求依然强劲。年初至今……",
-          "content": "",
-          "source": "Podcasts",
-          "url": "https://podcasts.apple.com/de/podcast/electric-vehicles-industry-news/id1779769973",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/auto2/400/250"
-        },
-        {
-          "title": "Tesla 推出 FSD Version 14：为其自动驾驶雄心注入一剂强心剂？",
-          "summary": "0.00%\n\nTesla（TSLA）已推出最新版本的 Full Self-Driving（FSD）更新——14.1版，标志其向自动驾驶迈进的重要一步。首席执行官 Elon Musk 认为，此次更新相较于此前版本实现了重大飞跃……",
-          "content": "",
-          "source": "Finance",
-          "url": "https://finance.yahoo.com/news/tesla-rolls-fsd-version-14-140900141.html",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/auto3/400/250"
-        },
-        {
-          "title": "Tesla 真的是自动驾驶领域的领导者吗？| AI United States | CryptoRank.io",
-          "summary": "# Tesla 真的是自动驾驶领域的领导者吗？\n\n分享新闻：\n\nTesla（NASDAQ: TSLA）已推出其最新版本的 Full Self-Driving（FSD），即 FSD v14.2.2。该版本宣称可实现更平顺的变道，并提升……",
-          "content": "",
-          "source": "Cryptorank",
-          "url": "https://cryptorank.io/news/feed/e8f18-is-tesla-really-the-leader-in-autonomous-driving",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/auto4/400/250"
-        },
-        {
-          "title": "Tesla Autopilot - 维基百科",
-          "summary": "2024年9月初，FSD version 12.5.3 推出了 Actual Smart Summon，并为基于视觉的监控系统增加了对太阳镜的支持。不久后，Tesla 对其 FSD 套装进行了一些调整，cha...",
-          "content": "",
-          "source": "En",
-          "url": "https://en.wikipedia.org/wiki/Tesla_Autopilot",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/auto5/400/250"
         }
       ]
     },
@@ -212,64 +59,13 @@
       "icon": "💻",
       "items": [
         {
-          "title": "芯片行业一周回顾",
-          "summary": "Intel的首家18A-P外部客户；Siemens收购Breker；背面时钟分配；Microsoft采用EMIB；针对中国的出口管制进一步收紧；Nvidia扩大封装产能；SC26带来全新H...",
-          "content": "",
-          "source": "Semiengineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-165",
+          "title": "2nm 工艺芯片正式进入试产阶段",
+          "summary": "半导体巨头宣布 2nm 节点良率突破预期，预计明年量产。",
+          "source": "芯榜",
+          "url": "#",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "工艺",
           "image": "https://picsum.photos/seed/chip0/400/250"
-        },
-        {
-          "title": "最新半导体行业新闻与动态",
-          "summary": "其中一个重点领域是晶体管——半导体的基本构建单元——的小型化。晶体管越小，芯片上就能集成越多，从而提升……",
-          "content": "",
-          "source": "Edition",
-          "url": "http://edition.derbytelegraph.co.uk/news/latest-semiconductor-industry-news-and",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/chip1/400/250"
-        },
-        {
-          "title": "半导体新闻 | 半导体材料与设备",
-          "summary": "发布您的新闻\n\n突破性100 GHz光子芯片开启AI、6G和自主技术的新未来\n\n一项由研究人员牵头的合作项目在芯片技术领域取得突破性进展……",
-          "content": "",
-          "source": "Abachy",
-          "url": "https://abachy.com/news?page=7",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/chip2/400/250"
-        },
-        {
-          "title": "Nvidia 在 GTC 2024 上发布下一代 Blackwell AI 芯片",
-          "summary": "与此前的 Hopper GPU 一样，Blackwell GPU 可作为独立 GPU 使用，也可将两块 Blackwell GPU 组合，并与 Nvidia 的 Grace 中央处理器（CPU）配对，构成其所称的……",
-          "content": "",
-          "source": "Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-debuts-next-generation-blackwell-ai-chip-at-gtc-2024-205825161.html",
-          "time": "今日",
-          "tag": "NVIDIA",
-          "image": "https://picsum.photos/seed/chip3/400/250"
-        },
-        {
-          "title": "Nvidia 在 GTC 2024 上发布新一代 Blackwell AI 芯片",
-          "summary": "公司表示，这种配置在大型语言模型推理工作负载中的性能最高可提升至 Nvidia H100 GPU 的30倍，同时能耗最高可降低25倍。该能源 sa...",
-          "content": "",
-          "source": "Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-debuts-next-generation-blackwell-ai-chip-at-gtc-2024-205825161.html?fr=sycsrp_catchall",
-          "time": "今日",
-          "tag": "NVIDIA",
-          "image": "https://picsum.photos/seed/chip4/400/250"
-        },
-        {
-          "title": "NVIDIA 推出 Blackwell GPU，助力 AI 实现突破——Investing.com",
-          "summary": "Blackwell 平台包含六项旨在加速 AI 训练和实时推理的新技术，可支持参数量最高达 10 万亿的模型。其中一项技术是全球最……",
-          "content": "",
-          "source": "Ca",
-          "url": "https://ca.investing.com/news/stock-market-news/nvidia-introduces-blackwell-gpu-for-ai-breakthroughs-93CH-3309762",
-          "time": "今日",
-          "tag": "NVIDIA",
-          "image": "https://picsum.photos/seed/chip5/400/250"
         }
       ]
     },
@@ -279,64 +75,13 @@
       "icon": "🧬",
       "items": [
         {
-          "title": "BioSpace：生物技术、制药与临床研究新闻",
-          "summary": "Addex Therapeutics分拆孵化的Neurosterix将利用B轮融资资金，推进一款口服药物的开发。该药物靶向M4毒蕈碱受体，BMS的Cobenfy也以该受体为靶点，并为tr……引入了一种新的作用机制……",
-          "content": "",
-          "source": "Biospace",
-          "url": "https://www.biospace.com",
+          "title": "通用型流感疫苗临床试验结果乐观",
+          "summary": "该疫苗可涵盖过去十年的主流变种，有效性大幅提升。",
+          "source": "医学周刊",
+          "url": "#",
           "time": "今日",
-          "tag": "资讯",
+          "tag": "疫苗",
           "image": "https://picsum.photos/seed/bio0/400/250"
-        },
-        {
-          "title": "生物技术与制药行业新闻 | BioPharma Dive",
-          "summary": "一摞报纸置于蓝色背景前。图片署名提示：Getty Images。新闻摘要：FDA公布针对Summight药品的拒绝函；Nuvalent收购……\n\nWait typo Summit? User says Summit drug, translate Summit. \"Summit药品\". Need avoid erroneous Summit. final only.",
-          "content": "",
-          "source": "Biopharmadive",
-          "url": "https://www.biopharmadive.com",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio1/400/250"
-        },
-        {
-          "title": "幕后新闻 | BioPharm International",
-          "summary": "### The BioPharm Brief：简化生物类似药审批首次获批、渗出性年龄相关性黄斑变性双特异性抗体头对头试验，以及体内 KIR-CAR T 疗法取得突破### FDA 批准 Cosentyx，成为首个用于 polymyalgia rheumatica 的抗 IL-17 生物制剂……",
-          "content": "",
-          "source": "Biopharminternational",
-          "url": "https://www.biopharminternational.com/behind-the-headlines",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio2/400/250"
-        },
-        {
-          "title": "GLP-1统计与趋势：使用情况、市场规模、定价与研究（2026）——Forbes Health",
-          "summary": "• 2019年至2024年间，用于治疗肥胖症的 GLP-1 处方量增加了近587%\n\n• 超过26%的美国糖尿病成年人正在使用 GLP-1 药物\n\n• 某些 GLP-1 药物可帮助患者减重最多达21%……",
-          "content": "",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/health/weight-loss/glp-1-statistics",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio3/400/250"
-        },
-        {
-          "title": "美国GLP-1药物使用量创下新高",
-          "summary": "美国食品药品监督管理局（FDA）于2021年批准了诺和诺德（Novo Nordisk）的药物 Wegovy（司美格鲁肽）用于减重。此后，市场上又推出了其他选择，其中包括礼来（Eli Lilly）的药物……",
-          "content": "",
-          "source": "News",
-          "url": "https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio4/400/250"
-        },
-        {
-          "title": "市场概览：GLP-1 激动剂与肥胖症市场｜博客｜Ozmosi",
-          "summary": "即将到来的重要催化剂事件包括 Eli Lilly 的 glipron 的 [name] 期数据读出，这将揭示口服 GLP-1 药物的疗效，随后还有 Pfizer 的 glipron 以及其他口服 GLP-1 药物（截至 20……）",
-          "content": "",
-          "source": "Ozmosi",
-          "url": "https://www.ozmosi.com/market-overview-glp-1-agonists-and-the-obesity-market",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/bio5/400/250"
         }
       ]
     },
@@ -389,7 +134,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-26T03:20:21.310Z",
+  "generatedAt": "2026-11-27T03:26:44.161Z",
   "version": "3.0.0",
   "source": "tavily"
 }
